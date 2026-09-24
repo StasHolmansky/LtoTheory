@@ -1,0 +1,49 @@
+{
+  "common": {
+    "back": "Back",
+    "close": "Close",
+    "continue": "Continue"
+  },
+  "nav": {
+    "questions": "LTO Theory",
+    "question": "Question {{id}}",
+    "settings": "Settings",
+    "feedback": "Feedback"
+  },
+  "onboarding": {
+    "title": "LTO Theory",
+    "body": "Questions stay in the original English from the reviewer. Pick your language and a question mark next to each line will show the translation.",
+    "englishNote": "English is the original text, so translations stay hidden.",
+    "choose": "Your language"
+  },
+  "list": {
+    "settingsA11y": "Settings",
+    "answer": "Answer {{letter}}",
+    "empty": "No questions"
+  },
+  "slide": {
+    "answer": "The correct answer is \"{{letter}}\"",
+    "translateA11y": "Show translation"
+  },
+  "settings": {
+    "appearance": "Appearance",
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark",
+    "systemHint": "System follows the device light or dark mode.",
+    "language": "Language",
+    "languageHint": "Translations appear next to the English text. English hides them.",
+    "support": "Support",
+    "feedback": "Feedback and suggestions",
+    "feedbackHint": "Share ideas, wishes, or issues with the developer."
+  },
+  "feedback": {
+    "title": "Feedback and suggestions",
+    "body": "If you have ideas, wishes, or noticed something that can be improved in {{appName}}, please write to the support email below.",
+    "emailLabel": "Contact email",
+    "emailSubject": "{{appName}} feedback",
+    "note": "Thank you for helping make the app better.",
+    "emailUnavailableTitle": "Email app not found",
+    "emailUnavailableMessage": "Please send your message manually to {{email}}."
+  }
+}

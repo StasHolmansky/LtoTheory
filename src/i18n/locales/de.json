@@ -1,0 +1,29 @@
+{
+  "common": { "back": "Zurück", "close": "Schließen", "continue": "Weiter" },
+  "nav": { "questions": "LTO Theory", "question": "Frage {{id}}", "settings": "Einstellungen", "feedback": "Feedback" },
+  "onboarding": {
+    "title": "LTO Theory",
+    "body": "Die Fragen bleiben im englischen Original. Wähle deine Sprache — das Fragezeichen neben jeder Zeile zeigt die Übersetzung.",
+    "englishNote": "Englisch ist der Originaltext, daher bleiben Übersetzungen ausgeblendet.",
+    "choose": "Deine Sprache"
+  },
+  "list": { "settingsA11y": "Einstellungen", "answer": "Antwort {{letter}}", "empty": "Keine Fragen" },
+  "slide": { "answer": "Die richtige Antwort ist „{{letter}}“", "translateA11y": "Übersetzung anzeigen" },
+  "settings": {
+    "appearance": "Darstellung", "system": "System", "light": "Hell", "dark": "Dunkel",
+    "systemHint": "System folgt dem hellen oder dunklen Modus des Geräts.",
+    "language": "Sprache",
+    "languageHint": "Die Übersetzung steht neben dem englischen Text. Bei Englisch bleibt sie verborgen.",
+    "support": "Support", "feedback": "Feedback und Vorschläge",
+    "feedbackHint": "Ideen, Wünsche oder Probleme an den Entwickler senden."
+  },
+  "feedback": {
+    "title": "Feedback und Vorschläge",
+    "body": "Wenn du Ideen hast oder etwas in {{appName}} verbessert werden kann, schreib an die Support-Adresse.",
+    "emailLabel": "Kontakt-E-Mail",
+    "emailSubject": "Feedback zu {{appName}}",
+    "note": "Danke, dass du die App besser machst.",
+    "emailUnavailableTitle": "E-Mail-App nicht gefunden",
+    "emailUnavailableMessage": "Bitte sende die Nachricht manuell an {{email}}."
+  }
+}

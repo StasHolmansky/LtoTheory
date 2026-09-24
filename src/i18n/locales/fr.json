@@ -1,0 +1,29 @@
+{
+  "common": { "back": "Retour", "close": "Fermer", "continue": "Continuer" },
+  "nav": { "questions": "LTO Theory", "question": "Question {{id}}", "settings": "Réglages", "feedback": "Avis" },
+  "onboarding": {
+    "title": "LTO Theory",
+    "body": "Les questions restent dans l’anglais d’origine. Choisissez votre langue : le point d’interrogation à côté de chaque ligne affiche la traduction.",
+    "englishNote": "L’anglais est le texte d’origine, les traductions restent donc masquées.",
+    "choose": "Votre langue"
+  },
+  "list": { "settingsA11y": "Réglages", "answer": "Réponse {{letter}}", "empty": "Aucune question" },
+  "slide": { "answer": "La bonne réponse est « {{letter}} »", "translateA11y": "Afficher la traduction" },
+  "settings": {
+    "appearance": "Apparence", "system": "Système", "light": "Clair", "dark": "Sombre",
+    "systemHint": "Système suit le mode clair ou sombre de l’appareil.",
+    "language": "Langue",
+    "languageHint": "La traduction apparaît à côté du texte anglais. En anglais, elle est masquée.",
+    "support": "Assistance", "feedback": "Avis et suggestions",
+    "feedbackHint": "Partagez idées, souhaits ou problèmes avec le développeur."
+  },
+  "feedback": {
+    "title": "Avis et suggestions",
+    "body": "Si vous avez des idées ou voyez quelque chose à améliorer dans {{appName}}, écrivez à l’adresse d’assistance.",
+    "emailLabel": "E-mail de contact",
+    "emailSubject": "Avis {{appName}}",
+    "note": "Merci d’aider à améliorer l’application.",
+    "emailUnavailableTitle": "Application e-mail introuvable",
+    "emailUnavailableMessage": "Envoyez votre message manuellement à {{email}}."
+  }
+}

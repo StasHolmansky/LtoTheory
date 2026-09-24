@@ -1,0 +1,584 @@
+{
+  "1": {
+    "q": "As três cores do semáforo são:",
+    "a": "vermelho, verde e amarelo",
+    "b": "vermelho, verde e azul",
+    "c": "amarelo, verde e azul"
+  },
+  "2": {
+    "q": "Que informação dão as placas triangulares amarelas?",
+    "a": "advertência",
+    "b": "hospital em frente",
+    "c": "limite de velocidade"
+  },
+  "3": {
+    "q": "Quais destas placas são azuis?",
+    "a": "placas de regulamentação",
+    "b": "placas de informação",
+    "c": "placas de perigo"
+  },
+  "4": {
+    "q": "Luz verde contínua significa",
+    "a": "você deve ceder a pedestres e motoristas que já estão no cruzamento",
+    "b": "siga, é seguro",
+    "c": "atravesse com cautela antes de ficar vermelho"
+  },
+  "5": {
+    "q": "Luz amarela piscando num cruzamento significa",
+    "a": "atenção: reduza e siga com cuidado",
+    "b": "pare e espere até parar de piscar",
+    "c": "espere o verde"
+  },
+  "6": {
+    "q": "Uma linha branca contínua na borda direita se inclina para a esquerda. Isso mostra que",
+    "a": "há um entroncamento à frente",
+    "b": "a pista vai estreitar",
+    "c": "você se aproxima de uma obra"
+  },
+  "7": {
+    "q": "Você está em zona de ultrapassagem proibida quando o centro da via é marcado por",
+    "a": "uma linha amarela tracejada",
+    "b": "uma linha branca tracejada",
+    "c": "duas linhas amarelas contínuas"
+  },
+  "8": {
+    "q": "Quando há setas pintadas no pavimento, os motoristas devem:",
+    "a": "seguir a direção das setas",
+    "b": "reduzir e se preparar para ceder a passagem",
+    "c": "não mudar de faixa"
+  },
+  "9": {
+    "q": "Você não pode cruzar linhas amarelas contínuas, exceto para:",
+    "a": "mudar de faixa",
+    "b": "virar à esquerda",
+    "c": "virar à direita"
+  },
+  "10": {
+    "q": "Linhas duplas amarelas contínuas",
+    "a": "não devem ser cruzadas, salvo com muito cuidado",
+    "b": "não devem ser cruzadas nunca",
+    "c": "não permitem mudar de faixa"
+  },
+  "11": {
+    "q": "Você não pode cruzar uma única linha tracejada branca ou amarela",
+    "a": "ao virar à esquerda para uma entrada",
+    "b": "ao ultrapassar pela direita numa via de mão única",
+    "c": "quando isso atrapalharia o tráfego"
+  },
+  "12": {
+    "q": "Você pode cruzar uma linha dupla para ultrapassar se a linha do seu lado for",
+    "a": "branca contínua",
+    "b": "tracejada",
+    "c": "amarela contínua"
+  },
+  "13": {
+    "q": "Ao se aproximar de um sinal vermelho piscando, você deve",
+    "a": "esperar o verde antes de seguir",
+    "b": "reduzir e seguir com cautela",
+    "c": "parar completamente e seguir quando for seguro"
+  },
+  "14": {
+    "q": "Qual sinal de mão o motorista deve dar para reduzir e parar?",
+    "a": "o esquerdo dobrado no cotovelo, mão para cima",
+    "b": "braço esquerdo estendido na horizontal",
+    "c": "braço esquerdo para baixo e mão apontando ao chão"
+  },
+  "15": {
+    "q": "O sinal de mão correto para virar à direita é:",
+    "a": "braço esquerdo dobrado no cotovelo, mão para cima",
+    "b": "braço esquerdo estendido na horizontal",
+    "c": "braço esquerdo para baixo e mão ao chão"
+  },
+  "16": {
+    "q": "Se o motorista à frente estende o braço esquerdo reto, provavelmente vai",
+    "a": "virar à esquerda no próximo cruzamento",
+    "b": "encostar e parar",
+    "c": "virar à direita no próximo cruzamento"
+  },
+  "17": {
+    "q": "Ao se aproximar de uma passagem de nível com aviso de trem, você deve",
+    "a": "parar a pelo menos 1,5 metro do trilho mais próximo",
+    "b": "reduzir e seguir com cautela",
+    "c": "encostar e parar"
+  },
+  "18": {
+    "q": "Em que situações você deve buzinar?",
+    "a": "como aviso de segurança",
+    "b": "em zonas escolares",
+    "c": "em zonas de hospital"
+  },
+  "19": {
+    "q": "O que a faixa exige ao se aproximar de um cruzamento com placa de parada?",
+    "a": "reduzir e seguir quando for seguro",
+    "b": "parar e seguir quando for seguro",
+    "c": "ceder a passagem, se preciso, a veículos da esquerda ou direita"
+  },
+  "20": {
+    "q": "Ao se aproximar de um cruzamento com placa de dê a preferência, você deve",
+    "a": "parar antes de entrar",
+    "b": "entrar imediatamente",
+    "c": "reduzir e entrar quando o caminho estiver livre"
+  },
+  "21": {
+    "q": "A placa «Não entre» é",
+    "a": "uma placa de regulamentação",
+    "b": "uma placa de orientação",
+    "c": "uma placa de advertência"
+  },
+  "22": {
+    "q": "A lei de preferência nos dá",
+    "a": "direitos básicos como motoristas",
+    "b": "regras de quando ceder a outros",
+    "c": "regras para virar à direita"
+  },
+  "23": {
+    "q": "Uma boa regra quando você tem certeza da preferência é",
+    "a": "nunca confiar nela",
+    "b": "buzinar para alertar os outros",
+    "c": "sempre exigi-la"
+  },
+  "24": {
+    "q": "Nas rotatórias, quem tem a preferência?",
+    "a": "os veículos que estão prestes a entrar",
+    "b": "os veículos que já estão na rotatória",
+    "c": "os veículos diante do sinal verde"
+  },
+  "25": {
+    "q": "Num cruzamento sem controle, dois carros chegam em ângulo reto. Quem deve ceder?",
+    "a": "quem chega primeiro",
+    "b": "quem reduz primeiro",
+    "c": "quem chega por último"
+  },
+  "26": {
+    "q": "Num cruzamento sem controle, dois carros vêm de frente ao mesmo tempo: um vira à esquerda e o outro à direita. Quem cede?",
+    "a": "quem vira à direita",
+    "b": "quem vira à esquerda",
+    "c": "quem chega primeiro"
+  },
+  "28": {
+    "q": "Num cruzamento sem pare nem dê a preferência, dois carros chegam juntos. Quem tem a preferência?",
+    "a": "o carro da direita",
+    "b": "o carro da esquerda",
+    "c": "quem reduz primeiro"
+  },
+  "29": {
+    "q": "Um carro espera no cruzamento para virar à esquerda e o sinal fica vermelho. Quem vai primeiro?",
+    "a": "o motorista preso no cruzamento esperando virar à esquerda",
+    "b": "quem vira à direita",
+    "c": "quem pegou o verde"
+  },
+  "30": {
+    "q": "Num cruzamento sem pare nem dê a preferência, dois carros vêm de ruas diferentes. Quem tem a preferência?",
+    "a": "o que já está no cruzamento",
+    "b": "o da esquerda",
+    "c": "quem reduz primeiro"
+  },
+  "31": {
+    "q": "O motorista numa rodovia deve ceder a",
+    "a": "qualquer carro saindo de uma entrada",
+    "b": "um pedestre",
+    "c": "carros que se aproximam de um cruzamento pela esquerda"
+  },
+  "32": {
+    "q": "Ao virar à esquerda, ceda a passagem aos que vêm em sentido contrário",
+    "a": "até passarem pelo menos dois carros",
+    "b": "que estejam perto o bastante para ser perigosos",
+    "c": "até passarem cinco carros"
+  },
+  "33": {
+    "q": "Se há pedestres na faixa escolar, você deve",
+    "a": "parar e ceder só a quem cruza pela sua direita",
+    "b": "parar só para crianças e ceder a elas",
+    "c": "parar e não seguir até todos saírem completamente da faixa"
+  },
+  "34": {
+    "q": "Um motorista que vira deve ceder a passagem aos pedestres?",
+    "a": "sim, ao virar à direita ou à esquerda deve ceder aos pedestres",
+    "b": "não, os pedestres devem ceder a todos os veículos",
+    "c": "sim, mas só se estiver virando à esquerda"
+  },
+  "35": {
+    "q": "Numa rua de mão dupla você ouve a sirene de um veículo de emergência. O que a lei exige?",
+    "a": "encostar à direita e parar",
+    "b": "acelerar para sair do caminho",
+    "c": "continuar em alta velocidade"
+  },
+  "36": {
+    "q": "Dois veículos se encontram numa subida onde nenhum consegue passar. Quem cede?",
+    "a": "o que está de frente para a descida",
+    "b": "o que está de frente para a subida",
+    "c": "o que buzinar primeiro"
+  },
+  "37": {
+    "q": "Antes de mudar de faixa, sinalize, olhe o retrovisor e",
+    "a": "vire a cabeça para ver os veículos ao lado",
+    "b": "buze",
+    "c": "pisque o farol"
+  },
+  "38": {
+    "q": "Mude de faixa só depois de",
+    "a": "sinalizar a intenção e checar o tráfego",
+    "b": "sinalizar a intenção",
+    "c": "checar o tráfego"
+  },
+  "39": {
+    "q": "Depois de ultrapassar, você pode voltar à faixa se",
+    "a": "o motorista ultrapassado buzinar",
+    "b": "você vir no retrovisor o carro ultrapassado",
+    "c": "você vir no espelho lateral o carro ultrapassado"
+  },
+  "40": {
+    "q": "Você pode ultrapassar pela direita um carro no mesmo sentido",
+    "a": "se a via estiver marcada com duas ou mais faixas no mesmo sentido",
+    "b": "numa via com uma faixa no sentido contrário",
+    "c": "saindo do pavimento"
+  },
+  "41": {
+    "q": "Se você está na faixa errada, o que fazer para virar ao entrar no cruzamento?",
+    "a": "virar o mais rápido possível",
+    "b": "frear ou pisar na embreagem durante a curva",
+    "c": "olhar para trás dos dois lados e ver se é seguro mudar de faixa"
+  },
+  "42": {
+    "q": "Você deve começar a sinalizar uma curva à direita ou à esquerda pelo menos",
+    "a": "30 metros antes",
+    "b": "60 metros antes",
+    "c": "15 metros antes"
+  },
+  "43": {
+    "q": "Normalmente você começa uma curva à direita na",
+    "a": "faixa mais perto do centro da via",
+    "b": "faixa mais perto do meio-fio direito",
+    "c": "mesma faixa usada para virar à esquerda"
+  },
+  "44": {
+    "q": "O carro atrás quer ultrapassar. Você deve",
+    "a": "buzinar para deixá-lo passar",
+    "b": "reduzir um pouco e ir para a direita",
+    "c": "ir para a direita e parar para ele passar"
+  },
+  "45": {
+    "q": "À noite na estrada, use farol baixo quando",
+    "a": "outro motorista baixar o farol",
+    "b": "você for ofuscado pelos faróis de quem vem em sentido contrário",
+    "c": "todas as anteriores"
+  },
+  "46": {
+    "q": "Se as luzes de freio de vários carros à frente acenderem, você deve",
+    "a": "soltar o acelerador e se preparar para frear",
+    "b": "frear o quanto antes",
+    "c": "aumentar a velocidade"
+  },
+  "47": {
+    "q": "Qual destes passos não é correto ao virar à direita?",
+    "a": "parar na faixa de pedestres",
+    "b": "sinalizar pelo menos 30 metros antes",
+    "c": "observar pedestres na rua em que você vai entrar"
+  },
+  "48": {
+    "q": "Não se deve ultrapassar no pé ou na aproximação de uma ponte porque",
+    "a": "não se vê os veículos que vêm do outro lado",
+    "b": "há pedestres atravessando",
+    "c": "você pode atrapalhar o fluxo"
+  },
+  "49": {
+    "q": "A melhor prática ao virar numa rodovia é",
+    "a": "sinalizar no momento da curva",
+    "b": "dar sinal elétrico e/ou manual pelo menos 30 metros antes",
+    "c": "não sinalizar se não houver tráfego à frente nem atrás"
+  },
+  "50": {
+    "q": "Usar o acostamento para passar pela direita de um carro à frente",
+    "a": "é permitido se você vai virar à direita",
+    "b": "é permitido se o carro da frente vai virar à esquerda",
+    "c": "é contra a lei"
+  },
+  "51": {
+    "q": "Qual não é um lugar seguro para ultrapassar?",
+    "a": "ao se aproximar de uma ponte ou numa curva",
+    "b": "num cruzamento",
+    "c": "ambas"
+  },
+  "52": {
+    "q": "Virar à esquerda é mais perigoso que à direita porque",
+    "a": "os carros da direita andam mais rápido",
+    "b": "você precisa observar veículos da esquerda e da direita",
+    "c": "ruas de quatro faixas são mais largas"
+  },
+  "53": {
+    "q": "Que luz usar quando o veículo está parado na estrada à noite?",
+    "a": "o farol",
+    "b": "luzes de estacionamento ou farol baixo",
+    "c": "as setas"
+  },
+  "54": {
+    "q": "As luzes de estacionamento podem ser usadas",
+    "a": "a qualquer momento",
+    "b": "ao estacionar e quando a visibilidade é ruim",
+    "c": "ao dirigir em ruas bem iluminadas"
+  },
+  "55": {
+    "q": "Consideramos um veículo estacionado quando",
+    "a": "ele parou no acostamento e fica parado por um tempo",
+    "b": "ele para para deixar ou pegar passageiros",
+    "c": "ele carrega ou descarrega pouco e sai sem demora"
+  },
+  "56": {
+    "q": "Ao estacionar ladeira abaixo, vire as rodas dianteiras",
+    "a": "para o meio-fio ou para a beira da via",
+    "b": "para longe do meio-fio",
+    "c": "em qualquer direção"
+  },
+  "57": {
+    "q": "Ao estacionar ladeira acima sem meio-fio, o melhor é",
+    "a": "chegar perto da borda e virar as rodas dianteiras para longe do meio-fio",
+    "b": "virar as rodas fortemente à esquerda",
+    "c": "virar as rodas fortemente à direita"
+  },
+  "59": {
+    "q": "Antes de sair de uma vaga, você deve",
+    "a": "checar o tráfego, sinalizar e sair quando for seguro",
+    "b": "sinalizar e sair do meio-fio",
+    "c": "buzinar e sair devagar"
+  },
+  "60": {
+    "q": "Você nunca pode estacionar",
+    "a": "numa faixa de pedestres",
+    "b": "numa rua de mão única",
+    "c": "a menos de 5 metros de um hidrante"
+  },
+  "61": {
+    "q": "Se você pretende andar mais rápido que os outros, use",
+    "a": "a faixa externa (direita)",
+    "b": "a faixa do meio",
+    "c": "a faixa interna (esquerda)"
+  },
+  "62": {
+    "q": "Ao embarcar ou desembarcar passageiros, normalmente paramos",
+    "a": "no lado direito, junto à calçada",
+    "b": "no meio da via",
+    "c": "no cruzamento"
+  },
+  "63": {
+    "q": "Qual é o limite máximo de velocidade na via expressa?",
+    "a": "60 km/h",
+    "b": "80 km/h",
+    "c": "100 km/h"
+  },
+  "64": {
+    "q": "Um motorista pode embarcar e desembarcar passageiros",
+    "a": "só em paradas designadas",
+    "b": "quando um passageiro pede para parar",
+    "c": "antes de um cruzamento"
+  },
+  "65": {
+    "q": "Ao deixar o carro sem vigilância, a lei manda desligar o motor e",
+    "a": "puxar bem o freio de mão",
+    "b": "colocar em ponto morto",
+    "c": "fechar as janelas"
+  },
+  "66": {
+    "q": "Pela lei básica de velocidade, a escolha da velocidade se baseia",
+    "a": "na velocidade do motorista",
+    "b": "no combustível do carro",
+    "c": "no tráfego e na condição da via"
+  },
+  "67": {
+    "q": "Se você pretende andar mais devagar que os outros, use",
+    "a": "a faixa externa (direita)",
+    "b": "a faixa do meio",
+    "c": "a faixa interna (esquerda)"
+  },
+  "68": {
+    "q": "O limite de velocidade na zona escolar em dias de aula é",
+    "a": "20 km/h",
+    "b": "25 km/h",
+    "c": "30 km/h"
+  },
+  "69": {
+    "q": "Pela lei básica de velocidade, nunca dirija mais rápido que",
+    "a": "o que for seguro",
+    "b": "o limite indicado",
+    "c": "o fluxo do tráfego"
+  },
+  "70": {
+    "q": "É mais perigoso dirigir no limite máximo à noite do que de dia porque",
+    "a": "sua reação é mais lenta à noite",
+    "b": "a pista tende a estar mais escorregadia à noite",
+    "c": "à noite você não vê longe"
+  },
+  "71": {
+    "q": "Uma velocidade segura em condições adversas",
+    "a": "depende da via e do tempo",
+    "b": "é o limite indicado",
+    "c": "depende da habilidade do motorista"
+  },
+  "72": {
+    "q": "Dirigir à noite é perigoso porque",
+    "a": "as luzes da rua embaçam a visão",
+    "b": "há mais veículos à noite",
+    "c": "a distância que vemos é menor"
+  },
+  "73": {
+    "q": "À noite, não dirija a uma velocidade que impeça parar dentro da distância",
+    "a": "que você vê com os faróis",
+    "b": "de quatro comprimentos de carro",
+    "c": "de 170 pés"
+  },
+  "74": {
+    "q": "As placas de limite na via devem ser vistas como",
+    "a": "a velocidade recomendada nas melhores condições",
+    "b": "a velocidade recomendada nas piores condições",
+    "c": "a velocidade recomendada em qualquer condição"
+  },
+  "75": {
+    "q": "Ao seguir outro carro, uma regra segura é deixar pelo menos",
+    "a": "espaço para um carro",
+    "b": "15 pés de distância de frenagem",
+    "c": "um comprimento de carro a cada 10 milhas de velocidade"
+  },
+  "76": {
+    "q": "O que fazer se você sentir sono ao dirigir?",
+    "a": "sair da via e descansar",
+    "b": "ir para a faixa da direita e continuar",
+    "c": "acelerar para se afastar dos outros"
+  },
+  "77": {
+    "q": "Ao se aproximar de uma curva fechada, você deve",
+    "a": "reduzir antes de entrar na curva",
+    "b": "acelerar enquanto faz a curva",
+    "c": "frear de leve durante a curva"
+  },
+  "78": {
+    "q": "Ignorar semáforos tarde da noite pode",
+    "a": "fazer de você um bom motorista",
+    "b": "envolver você num acidente fatal",
+    "c": "diminuir o consumo de combustível"
+  },
+  "79": {
+    "q": "Uma boa atitude de motorista é",
+    "a": "dirigir devagar",
+    "b": "dirigir defensivamente",
+    "c": "arriscar se for possível"
+  },
+  "80": {
+    "q": "Os motoristas obtêm a maior parte da informação com",
+    "a": "o carro",
+    "b": "os olhos",
+    "c": "as mãos"
+  },
+  "81": {
+    "q": "O que é mais recomendado contra o cansaço numa viagem longa?",
+    "a": "parar de vez em quando para descansar e se exercitar",
+    "b": "comer muito e beber um pouco de álcool",
+    "c": "tomar um comprimido para não dormir"
+  },
+  "82": {
+    "q": "Que hábito ajuda a evitar o olhar fixo e a distração?",
+    "a": "olhar para o chão",
+    "b": "mover os olhos regularmente, do perto ao longe",
+    "c": "a velocidade de outro carro"
+  },
+  "83": {
+    "q": "O que você pode ajustar para reduzir a chance de colisão?",
+    "a": "sua velocidade e sua posição na faixa",
+    "b": "a curva da estrada",
+    "c": "a velocidade de outro carro"
+  },
+  "84": {
+    "q": "Os motoristas precisam decidir",
+    "a": "só no trânsito pesado",
+    "b": "só até ficarem experientes",
+    "c": "o tempo todo enquanto dirigem"
+  },
+  "85": {
+    "q": "Ao interagir com ciclistas, você deve",
+    "a": "prestar mais atenção à condição da via",
+    "b": "ajustar a velocidade e aumentar a margem de espaço",
+    "c": "usar outra busca visual"
+  },
+  "86": {
+    "q": "Seus olhares para os espelhos laterais e o retrovisor devem ser",
+    "a": "o mais breves possível",
+    "b": "tão longos quanto quiser",
+    "c": "de pelo menos um segundo cada"
+  },
+  "87": {
+    "q": "À noite, se outro veículo ofuscar, o mais seguro é",
+    "a": "ligar o farol alto",
+    "b": "olhar um pouco para o lado direito da pista",
+    "c": "olhar o farol do veículo que vem"
+  },
+  "88": {
+    "q": "Se depois do cruzamento a via está bloqueada, você deve",
+    "a": "ficar o mais perto possível do carro da frente",
+    "b": "entrar devagar até o tráfego andar",
+    "c": "parar antes do cruzamento e esperar o tráfego andar"
+  },
+  "89": {
+    "q": "Jogar garrafas, latas ou qualquer coisa pela janela",
+    "a": "é proibido sempre",
+    "b": "é proibido só na província",
+    "c": "é proibido só nas cidades"
+  },
+  "90": {
+    "q": "A forma mais eficaz de lidar com quem cola atrás é",
+    "a": "ignorá-lo, mas não deixar que chegue perto demais",
+    "b": "reduzir e deixá-lo passar",
+    "c": "acelerar e frear de repente"
+  },
+  "91": {
+    "q": "Numa via de duas faixas o perigo é igual dos dois lados. Você deve",
+    "a": "se posicionar um pouco à direita",
+    "b": "se posicionar um pouco à esquerda",
+    "c": "ficar no centro entre os perigos"
+  },
+  "92": {
+    "q": "Se um pedestre anda numa via sem calçada, deve ficar",
+    "a": "no lado esquerdo, de frente para o tráfego",
+    "b": "no lado direito",
+    "c": "de qualquer lado"
+  },
+  "94": {
+    "q": "Se há feridos num acidente, o motorista ileso deve",
+    "a": "chamar um médico",
+    "b": "deixar a vítima deitada",
+    "c": "tentar descobrir quem teve culpa"
+  },
+  "95": {
+    "q": "Suspender a carteira de motorista significa",
+    "a": "revalidá-la no LTO",
+    "b": "o LTO retirá-la para sempre",
+    "c": "o LTO retirá-la temporariamente"
+  },
+  "96": {
+    "q": "A principal razão de exigir a inspeção do veículo é",
+    "a": "gerar receita para o governo",
+    "b": "dar ao inspetor a chance de ver seu carro",
+    "c": "tentar garantir que os carros cumpram normas de segurança"
+  },
+  "97": {
+    "q": "Um veículo de transporte público só pode ser dirigido por quem tem",
+    "a": "uma permissão de estudante",
+    "b": "uma carteira não profissional",
+    "c": "uma carteira profissional"
+  },
+  "98": {
+    "q": "Ter carteira de motorista é",
+    "a": "uma honra",
+    "b": "um direito",
+    "c": "um privilégio"
+  },
+  "99": {
+    "q": "Para evitar suspensão ou cassação, em quantos dias o motorista com a carteira apreendida deve resolver o caso no LTO?",
+    "a": "em 15 dias",
+    "b": "em 10 dias",
+    "c": "em 30 dias"
+  },
+  "100": {
+    "q": "Quando você pode emprestar sua carteira de motorista?",
+    "a": "em nenhuma circunstância",
+    "b": "a outra pessoa que está aprendendo a dirigir",
+    "c": "em emergências"
+  }
+}

@@ -1,0 +1,584 @@
+{
+  "1": {
+    "q": "Die drei Farben der Ampel sind:",
+    "a": "Rot, Grün und Gelb",
+    "b": "Rot, Grün und Blau",
+    "c": "Gelb, Grün und Blau"
+  },
+  "2": {
+    "q": "Welche Information geben gelbe dreieckige Schilder?",
+    "a": "Warnung",
+    "b": "Krankenhaus gegenüber",
+    "c": "Geschwindigkeitsbegrenzung"
+  },
+  "3": {
+    "q": "Welche dieser Verkehrszeichen sind blau?",
+    "a": "Vorschriftszeichen",
+    "b": "Hinweiszeichen",
+    "c": "Gefahrenzeichen"
+  },
+  "4": {
+    "q": "Dauergrün bedeutet",
+    "a": "Sie müssen Fußgängern und Fahrern im Kreuzungsbereich Vorfahrt gewähren",
+    "b": "fahren, es ist sicher",
+    "c": "vorsichtig durchfahren, bevor es rot wird"
+  },
+  "5": {
+    "q": "Gelb blinkend an einem Übergang bedeutet",
+    "a": "Vorsicht: langsamer fahren und vorsichtig weiterfahren",
+    "b": "anhalten, bis das Blinken aufhört",
+    "c": "auf Grün warten"
+  },
+  "6": {
+    "q": "Eine durchgezogene weiße Linie am rechten Rand läuft nach links. Das zeigt, dass",
+    "a": "vorne eine Kreuzung anschließt",
+    "b": "die Straße schmaler wird",
+    "c": "Sie sich einer Baustelle nähern"
+  },
+  "7": {
+    "q": "Überholverbot gilt, wenn die Mitte markiert ist durch",
+    "a": "eine unterbrochene gelbe Linie",
+    "b": "eine unterbrochene weiße Linie",
+    "c": "zwei durchgezogene gelbe Linien"
+  },
+  "8": {
+    "q": "Wenn Pfeile auf die Fahrbahn gemalt sind, müssen Fahrer:",
+    "a": "in Richtung der Pfeile fahren",
+    "b": "langsamer werden und Vorfahrt gewähren können",
+    "c": "nicht die Spur wechseln"
+  },
+  "9": {
+    "q": "Durchgezogene gelbe Linien dürfen Sie nur überqueren, um:",
+    "a": "die Spur zu wechseln",
+    "b": "links abzubiegen",
+    "c": "rechts abzubiegen"
+  },
+  "10": {
+    "q": "Doppelte durchgezogene gelbe Linien",
+    "a": "dürfen nur mit besonderer Vorsicht überquert werden",
+    "b": "dürfen nie überquert werden",
+    "c": "erlauben keinen Spurwechsel"
+  },
+  "11": {
+    "q": "Eine einzelne unterbrochene weiße oder gelbe Linie dürfen Sie nicht überqueren",
+    "a": "beim Linksabbiegen in eine Einfahrt",
+    "b": "beim Rechtsüberholen auf einer Einbahnstraße",
+    "c": "wenn das den Verkehr behindern würde"
+  },
+  "12": {
+    "q": "Eine Doppellinie dürfen Sie zum Überholen überqueren, wenn die Linie auf Ihrer Seite",
+    "a": "durchgezogen weiß",
+    "b": "unterbrochen",
+    "c": "durchgezogen gelb ist"
+  },
+  "13": {
+    "q": "Bei einem blinkenden Rotlicht sollen Sie",
+    "a": "auf Grün warten, bevor Sie weiterfahren",
+    "b": "langsamer werden und vorsichtig weiterfahren",
+    "c": "vollständig anhalten und weiterfahren, wenn es sicher ist"
+  },
+  "14": {
+    "q": "Welches Handzeichen gibt ein Fahrer zum Verlangsamen und Anhalten?",
+    "a": "links im Ellbogen gebeugt, Hand nach oben",
+    "b": "linker Arm waagerecht ausgestreckt",
+    "c": "linker Arm nach unten, Hand zum Boden"
+  },
+  "15": {
+    "q": "Das richtige Handzeichen für Rechtsabbiegen ist:",
+    "a": "linker Arm im Ellbogen gebeugt, Hand nach oben",
+    "b": "linker Arm waagerecht ausgestreckt",
+    "c": "linker Arm nach unten, Hand zum Boden"
+  },
+  "16": {
+    "q": "Wenn der Fahrer vor Ihnen den linken Arm gerade ausstreckt, wird er wahrscheinlich",
+    "a": "an der nächsten Kreuzung links abbiegen",
+    "b": "an den Rand fahren und anhalten",
+    "c": "an der nächsten Kreuzung rechts abbiegen"
+  },
+  "17": {
+    "q": "An einem Bahnübergang mit Zugwarnung müssen Sie",
+    "a": "mindestens 1,5 Meter vor der nächsten Schiene anhalten",
+    "b": "langsamer werden und vorsichtig weiterfahren",
+    "c": "an den Rand fahren und anhalten"
+  },
+  "18": {
+    "q": "Wann sollten Sie hupen?",
+    "a": "als Sicherheitswarnung",
+    "b": "in Schulzonen",
+    "c": "in Krankenhauszonen"
+  },
+  "19": {
+    "q": "Was verlangt die Spur an einer Kreuzung mit Stoppschild?",
+    "a": "langsamer werden und weiterfahren, wenn es sicher ist",
+    "b": "anhalten und weiterfahren, wenn es sicher ist",
+    "c": "nötigenfalls Fahrzeugen von links oder rechts Vorfahrt gewähren"
+  },
+  "20": {
+    "q": "An einer Kreuzung mit Vorfahrt-gewähren-Schild müssen Sie",
+    "a": "vor dem Einfahren anhalten",
+    "b": "sofort einfahren",
+    "c": "langsamer werden und einfahren, wenn der Weg frei ist"
+  },
+  "21": {
+    "q": "Das Schild „Einfahrt verboten“ ist",
+    "a": "ein Vorschriftszeichen",
+    "b": "ein Hinweiszeichen",
+    "c": "ein Warnzeichen"
+  },
+  "22": {
+    "q": "Das Vorfahrtsrecht gibt uns",
+    "a": "Grundrechte als Fahrer",
+    "b": "Regeln, wann man anderen Vorfahrt gewährt",
+    "c": "Regeln für das Rechtsabbiegen"
+  },
+  "23": {
+    "q": "Eine gute Regel, wenn Sie sicher Vorfahrt haben:",
+    "a": "sich nie darauf verlassen",
+    "b": "hupen, um andere zu warnen",
+    "c": "sie immer einfordern"
+  },
+  "24": {
+    "q": "Am Kreisverkehr hat Vorfahrt",
+    "a": "wer gerade einfährt",
+    "b": "wer schon im Kreis ist",
+    "c": "wer vor einer grünen Ampel steht"
+  },
+  "25": {
+    "q": "An einer Kreuzung ohne Regelung kommen zwei Autos im rechten Winkel. Wer muss warten?",
+    "a": "wer zuerst da ist",
+    "b": "wer zuerst langsamer wird",
+    "c": "wer zuletzt ankommt"
+  },
+  "26": {
+    "q": "Ohne Regelung kommen zwei Autos gleichzeitig entgegen: eines biegt links ab, das andere rechts. Wer muss warten?",
+    "a": "wer rechts abbiegt",
+    "b": "wer links abbiegt",
+    "c": "wer zuerst ankommt"
+  },
+  "28": {
+    "q": "Ohne Stopp- oder Vorfahrtsschild kommen zwei Autos gleichzeitig an. Wer hat Vorfahrt?",
+    "a": "das Auto rechts",
+    "b": "das Auto links",
+    "c": "wer zuerst langsamer wird"
+  },
+  "29": {
+    "q": "Ein Auto wartet in der Kreuzung aufs Linksabbiegen, und es wird rot. Wer fährt zuerst?",
+    "a": "der Fahrer, der in der Kreuzung aufs Linksabbiegen wartet",
+    "b": "wer rechts abbiegt",
+    "c": "wer Grün hat"
+  },
+  "30": {
+    "q": "Ohne Stopp- oder Vorfahrtsschild kommen zwei Autos von verschiedenen Straßen. Wer hat Vorfahrt?",
+    "a": "das Fahrzeug, das schon in der Kreuzung ist",
+    "b": "das von links",
+    "c": "das, das zuerst langsamer wird"
+  },
+  "31": {
+    "q": "Der Fahrer auf einer Straße muss Vorfahrt gewähren",
+    "a": "jedem Auto aus einer Einfahrt",
+    "b": "einem Fußgänger",
+    "c": "Autos, die von links an eine Kreuzung kommen"
+  },
+  "32": {
+    "q": "Vor dem Linksabbiegen gewähren Sie entgegenkommenden Autos Vorfahrt",
+    "a": "bis mindestens zwei vorbei sind",
+    "b": "die nah genug und gefährlich sind",
+    "c": "bis fünf Autos vorbei sind"
+  },
+  "33": {
+    "q": "Sind Fußgänger auf einem Schulübergang, müssen Sie",
+    "a": "nur anhalten für Personen von rechts",
+    "b": "nur für Kinder anhalten und sie durchlassen",
+    "c": "anhalten und erst weiterfahren, wenn alle den Übergang verlassen haben"
+  },
+  "34": {
+    "q": "Muss ein abbiegender Fahrer Fußgängern Vorfahrt gewähren?",
+    "a": "ja, beim Rechts- oder Linksabbiegen muss er Fußgängern Vorfahrt gewähren",
+    "b": "nein, Fußgänger müssen allen Fahrzeugen Vorfahrt gewähren",
+    "c": "ja, aber nur beim Linksabbiegen"
+  },
+  "35": {
+    "q": "Auf einer Gegenverkehrsstraße hören Sie ein Einsatzhorn. Was verlangt das Gesetz?",
+    "a": "nach rechts fahren und anhalten",
+    "b": "beschleunigen, um aus dem Weg zu kommen",
+    "c": "mit hoher Geschwindigkeit weiterfahren"
+  },
+  "36": {
+    "q": "Zwei Fahrzeuge treffen sich an einer Steigung, wo keines vorbeikommt. Wer muss weichen?",
+    "a": "das bergab schauende",
+    "b": "das bergauf schauende",
+    "c": "das, das zuerst hupt"
+  },
+  "37": {
+    "q": "Vor dem Spurwechsel immer blinken, in den Spiegel schauen und",
+    "a": "den Kopf drehen, um Fahrzeuge neben Ihnen zu sehen",
+    "b": "hupen",
+    "c": "aufblenden"
+  },
+  "38": {
+    "q": "Wechseln Sie die Spur erst, nachdem Sie",
+    "a": "die Absicht angezeigt und den Verkehr geprüft haben",
+    "b": "die Absicht angezeigt haben",
+    "c": "den Verkehr geprüft haben"
+  },
+  "39": {
+    "q": "Nach dem Überholen dürfen Sie zurück, wenn",
+    "a": "der Überholte hupt",
+    "b": "Sie das überholte Auto im Rückspiegel sehen",
+    "c": "Sie es im Seitenspiegel sehen"
+  },
+  "40": {
+    "q": "Sie dürfen rechts überholen, wenn das Auto in Ihre Richtung fährt",
+    "a": "wenn die Straße klar zwei oder mehr Spuren in dieselbe Richtung hat",
+    "b": "auf einer Straße mit einer Spur in Gegenrichtung",
+    "c": "indem Sie die Fahrbahn verlassen"
+  },
+  "41": {
+    "q": "Wenn Sie auf der falschen Spur sind: Was tun, um an der Kreuzung abzubiegen?",
+    "a": "so schnell wie möglich abbiegen",
+    "b": "während des Abbiegens bremsen oder kuppeln",
+    "c": "nach hinten auf beide Seiten schauen und nur wechseln, wenn es sicher ist"
+  },
+  "42": {
+    "q": "Blinken Sie für links oder rechts mindestens",
+    "a": "30 Meter vorher",
+    "b": "60 Meter vorher",
+    "c": "15 Meter vorher"
+  },
+  "43": {
+    "q": "Rechtsabbiegen beginnen Sie normalerweise auf",
+    "a": "der Spur näher zur Straßenmitte",
+    "b": "der Spur am rechten Bordstein",
+    "c": "derselben Spur wie beim Linksabbiegen"
+  },
+  "44": {
+    "q": "Das Auto hinter Ihnen will überholen. Sie sollten",
+    "a": "hupen, damit es vorbeifährt",
+    "b": "etwas langsamer werden und nach rechts ziehen",
+    "c": "nach rechts fahren und anhalten, damit es vorbeikann"
+  },
+  "45": {
+    "q": "Nachts auf der Straße Abblendlicht verwenden, wenn",
+    "a": "ein anderer Fahrer abblendet",
+    "b": "Sie vom Gegenverkehr geblendet werden",
+    "c": "alles davon"
+  },
+  "46": {
+    "q": "Wenn vor Ihnen bei mehreren Autos die Bremslichter aufleuchten, sollten Sie",
+    "a": "vom Gas gehen und bremsbereit sein",
+    "b": "sofort bremsen",
+    "c": "schneller werden"
+  },
+  "47": {
+    "q": "Welcher Schritt ist beim Rechtsabbiegen falsch?",
+    "a": "auf dem Fußgängerüberweg anhalten",
+    "b": "mindestens 30 Meter vorher blinken",
+    "c": "auf Fußgänger in der Straße achten, in die Sie einbiegen"
+  },
+  "48": {
+    "q": "Am Fuß oder vor einer Brücke darf man nicht überholen, weil",
+    "a": "man den Gegenverkehr von der anderen Seite nicht sieht",
+    "b": "Fußgänger überqueren",
+    "c": "man den Verkehr behindern könnte"
+  },
+  "49": {
+    "q": "Am besten biegen Sie auf der Straße ab, indem Sie",
+    "a": "erst beim Abbiegen blinken",
+    "b": "mindestens 30 Meter vorher Blinker und/oder Handzeichen geben",
+    "c": "nicht blinken, wenn niemand vor oder hinter Ihnen ist"
+  },
+  "50": {
+    "q": "Rechts über den Seitenstreifen an einem Auto vorbeizufahren ist",
+    "a": "erlaubt, wenn Sie rechts abbiegen",
+    "b": "erlaubt, wenn das Auto vor Ihnen links abbiegt",
+    "c": "gesetzlich verboten"
+  },
+  "51": {
+    "q": "Wo ist Überholen unsicher?",
+    "a": "vor einer Brücke oder in einer Kurve",
+    "b": "an einer Kreuzung",
+    "c": "beides"
+  },
+  "52": {
+    "q": "Linksabbiegen ist gefährlicher als Rechtsabbiegen, weil",
+    "a": "Autos von rechts schneller fahren",
+    "b": "Sie Fahrzeuge von links und rechts beachten müssen",
+    "c": "vierspurige Straßen breiter sind"
+  },
+  "53": {
+    "q": "Welches Licht, wenn ein Fahrzeug nachts auf der Straße parkt?",
+    "a": "Scheinwerfer",
+    "b": "Parklicht oder Abblendlicht",
+    "c": "Blinker"
+  },
+  "54": {
+    "q": "Parklichter darf man nutzen",
+    "a": "jederzeit",
+    "b": "beim Parken und bei schlechter Sicht",
+    "c": "beim Fahren auf gut beleuchteten Straßen"
+  },
+  "55": {
+    "q": "Ein Fahrzeug gilt als geparkt, wenn",
+    "a": "es am Rand steht und eine Zeit lang unbewegt bleibt",
+    "b": "es anhält, um Fahrgäste ein- oder aussteigen zu lassen",
+    "c": "es wenig lädt oder entlädt und ohne Verzögerung weiterfährt"
+  },
+  "56": {
+    "q": "Beim Parken bergab drehen Sie die Vorderräder",
+    "a": "zum Bordstein oder zum Straßenrand",
+    "b": "vom Bordstein weg",
+    "c": "in jede Richtung"
+  },
+  "57": {
+    "q": "Beim Parken bergauf ohne Bordstein ist am besten",
+    "a": "nah an den Rand zu fahren und die Vorderräder vom Bordstein weg zu drehen",
+    "b": "die Räder scharf nach links zu drehen",
+    "c": "die Räder scharf nach rechts zu drehen"
+  },
+  "59": {
+    "q": "Bevor Sie aus der Parklücke fahren, sollten Sie",
+    "a": "den Verkehr prüfen, blinken und losfahren, wenn es sicher ist",
+    "b": "blinken und vom Bordstein wegfahren",
+    "c": "hupen und langsam wegfahren"
+  },
+  "60": {
+    "q": "Sie dürfen nie parken",
+    "a": "auf einem Fußgängerüberweg",
+    "b": "in einer Einbahnstraße",
+    "c": "näher als 5 Meter an einem Hydranten"
+  },
+  "61": {
+    "q": "Wenn Sie schneller fahren wollen als die anderen, nutzen Sie",
+    "a": "die äußerste rechte Spur",
+    "b": "die mittlere Spur",
+    "c": "die innerste linke Spur"
+  },
+  "62": {
+    "q": "Beim Ein- und Aussteigen hält man gewöhnlich",
+    "a": "rechts, nah am Gehweg",
+    "b": "mitten auf der Straße",
+    "c": "an einer Kreuzung"
+  },
+  "63": {
+    "q": "Wie hoch ist die Höchstgeschwindigkeit auf der Schnellstraße?",
+    "a": "60 km/h",
+    "b": "80 km/h",
+    "c": "100 km/h"
+  },
+  "64": {
+    "q": "Ein Fahrer darf Fahrgäste ein- und aussteigen lassen",
+    "a": "nur an ausgewiesenen Haltestellen",
+    "b": "wann immer ein Fahrgast anhält",
+    "c": "vor einer Kreuzung"
+  },
+  "65": {
+    "q": "Lassen Sie das Auto unbeaufsichtigt, verlangt das Gesetz, den Motor abzustellen und",
+    "a": "die Handbremse fest anzuziehen",
+    "b": "in den Leerlauf zu schalten",
+    "c": "die Fenster zu schließen"
+  },
+  "66": {
+    "q": "Nach der Grundgeschwindigkeitsregel richtet sich die Geschwindigkeit nach",
+    "a": "der Geschwindigkeit des Fahrers",
+    "b": "dem Kraftstoff des Autos",
+    "c": "Verkehr und Straßenzustand"
+  },
+  "67": {
+    "q": "Wenn Sie langsamer fahren wollen als die anderen, nutzen Sie",
+    "a": "die äußerste rechte Spur",
+    "b": "die mittlere Spur",
+    "c": "die innerste linke Spur"
+  },
+  "68": {
+    "q": "Das Tempolimit in der Schulzone an Schultagen ist",
+    "a": "20 km/h",
+    "b": "25 km/h",
+    "c": "30 km/h"
+  },
+  "69": {
+    "q": "Nach der Grundregel dürfen Sie nie schneller fahren als",
+    "a": "was sicher ist",
+    "b": "die angegebene Grenze",
+    "c": "der Verkehrsfluss"
+  },
+  "70": {
+    "q": "Mit Höchsttempo nachts zu fahren ist gefährlicher als tags, weil",
+    "a": "die Reaktion nachts langsamer ist",
+    "b": "die Fahrbahn nachts eher rutschig ist",
+    "c": "man nachts nicht weit sieht"
+  },
+  "71": {
+    "q": "Eine sichere Geschwindigkeit bei schlechten Bedingungen",
+    "a": "hängt von Straße und Wetter ab",
+    "b": "ist das angegebene Limit",
+    "c": "hängt vom Können des Fahrers ab"
+  },
+  "72": {
+    "q": "Nachtfahren ist gefährlich, weil",
+    "a": "Straßenlaternen die Sicht verwischen",
+    "b": "nachts mehr Fahrzeuge unterwegs sind",
+    "c": "man weniger weit sieht"
+  },
+  "73": {
+    "q": "Nachts nie so schnell fahren, dass Sie nicht anhalten können innerhalb",
+    "a": "dessen, was die Scheinwerfer zeigen",
+    "b": "von vier Wagenlängen",
+    "c": "von 170 Fuß"
+  },
+  "74": {
+    "q": "Tempolimit-Schilder sollte man verstehen als",
+    "a": "empfohlene Geschwindigkeit bei besten Bedingungen",
+    "b": "empfohlene Geschwindigkeit bei schlechtesten Bedingungen",
+    "c": "empfohlene Geschwindigkeit unter allen Bedingungen"
+  },
+  "75": {
+    "q": "Hinter einem Auto gilt als sichere Regel mindestens",
+    "a": "Platz für ein Auto",
+    "b": "15 Fuß Bremsweg",
+    "c": "eine Wagenlänge je 10 Meilen Geschwindigkeit"
+  },
+  "76": {
+    "q": "Was tun, wenn Sie am Steuer müde werden?",
+    "a": "anhalten und ausruhen",
+    "b": "auf die rechte Spur wechseln und weiterfahren",
+    "c": "schneller werden, um anderen zu entkommen"
+  },
+  "77": {
+    "q": "Vor einer scharfen Kurve sollten Sie",
+    "a": "vor der Kurve langsamer werden",
+    "b": "in der Kurve beschleunigen",
+    "c": "in der Kurve leicht bremsen"
+  },
+  "78": {
+    "q": "Ampeln spät in der Nacht zu ignorieren könnte",
+    "a": "Sie zu einem guten Fahrer machen",
+    "b": "Sie in einen tödlichen Unfall bringen",
+    "c": "den Verbrauch senken"
+  },
+  "79": {
+    "q": "Eine gute Fahrhaltung ist",
+    "a": "langsam zu fahren",
+    "b": "defensiv zu fahren",
+    "c": "zu riskieren, wenn es geht"
+  },
+  "80": {
+    "q": "Fahrer nehmen die meisten Informationen auf mit",
+    "a": "dem Auto",
+    "b": "den Augen",
+    "c": "den Händen"
+  },
+  "81": {
+    "q": "Was hilft auf einer langen Fahrt am besten gegen Müdigkeit?",
+    "a": "regelmäßig anhalten, ausruhen und sich bewegen",
+    "b": "viel essen und etwas Alkohol trinken",
+    "c": "eine Wachmacher-Tablette nehmen"
+  },
+  "82": {
+    "q": "Welche Gewohnheit verhindert starren Blick und Ablenkung?",
+    "a": "auf den Boden schauen",
+    "b": "die Augen regelmäßig nah und fern bewegen",
+    "c": "die Geschwindigkeit eines anderen Autos"
+  },
+  "83": {
+    "q": "Was können Sie ändern, um die Unfallgefahr zu senken?",
+    "a": "Ihre Geschwindigkeit und Ihre Spurposition",
+    "b": "die Schärfe einer Kurve",
+    "c": "die Geschwindigkeit eines anderen Autos"
+  },
+  "84": {
+    "q": "Fahrer müssen Entscheidungen treffen",
+    "a": "nur im dichten Verkehr",
+    "b": "nur bis sie erfahren sind",
+    "c": "ständig während der Fahrt"
+  },
+  "85": {
+    "q": "Im Umgang mit Radfahrern müssen Sie",
+    "a": "mehr auf den Straßenzustand achten",
+    "b": "Tempo anpassen und mehr Abstand halten",
+    "c": "anders visuell suchen"
+  },
+  "86": {
+    "q": "Blicke in Seiten- und Rückspiegel sollten",
+    "a": "so kurz wie möglich sein",
+    "b": "so lang sein, wie Sie wollen",
+    "c": "jeweils mindestens eine Sekunde dauern"
+  },
+  "87": {
+    "q": "Nachts bei blendendem Gegenverkehr ist am sichersten",
+    "a": "das Fernlicht einzuschalten",
+    "b": "etwas auf die rechte Seite der Fahrbahn zu schauen",
+    "c": "in die Scheinwerfer des entgegenkommenden Fahrzeugs zu schauen"
+  },
+  "88": {
+    "q": "Ist hinter der Kreuzung Stau, sollten Sie",
+    "a": "so nah wie möglich am Auto vor Ihnen bleiben",
+    "b": "langsam einfahren, bis der Verkehr weiterrollt",
+    "c": "vor der Kreuzung anhalten und warten, bis der Verkehr weiterrollt"
+  },
+  "89": {
+    "q": "Flaschen, Dosen oder irgendetwas aus dem Fenster zu werfen ist",
+    "a": "jederzeit verboten",
+    "b": "nur in der Provinz verboten",
+    "c": "nur in Städten verboten"
+  },
+  "90": {
+    "q": "Am besten gegen einen Drängler hinter Ihnen",
+    "a": "ihn ignorieren, aber nicht zu nah heranlassen",
+    "b": "langsamer werden und ihn überholen lassen",
+    "c": "beschleunigen und stark bremsen"
+  },
+  "91": {
+    "q": "Auf einer zweispurigen Straße ist die Gefahr auf beiden Seiten gleich. Sie sollten",
+    "a": "sich etwas nach rechts setzen",
+    "b": "sich etwas nach links setzen",
+    "c": "sich mittig zwischen den Gefahren halten"
+  },
+  "92": {
+    "q": "Geht ein Fußgänger auf einer Straße ohne Gehweg, muss er bleiben",
+    "a": "auf der linken Seite, dem Verkehr entgegen",
+    "b": "auf der rechten Seite",
+    "c": "auf einer beliebigen Seite"
+  },
+  "94": {
+    "q": "Gibt es Verletzte, muss der unverletzte Fahrer",
+    "a": "einen Arzt rufen",
+    "b": "das Opfer liegen lassen",
+    "c": "versuchen herauszufinden, wer schuld ist"
+  },
+  "95": {
+    "q": "Einen Führerschein zu suspendieren heißt",
+    "a": "ihn beim LTO neu bestätigen zu lassen",
+    "b": "dass das LTO ihn dauerhaft entzieht",
+    "c": "dass das LTO ihn vorübergehend entzieht"
+  },
+  "96": {
+    "q": "Der Hauptgrund für die Fahrzeugprüfung ist",
+    "a": "Einnahmen für den Staat",
+    "b": "dem Prüfer die Chance zu geben, das Auto anzusehen",
+    "c": "sicherzustellen, dass Autos die Sicherheitsnormen erfüllen"
+  },
+  "97": {
+    "q": "Ein öffentliches Fahrzeug darf nur fahren, wer hat",
+    "a": "einen Lernführerschein",
+    "b": "einen nichtberuflichen Führerschein",
+    "c": "einen beruflichen Führerschein"
+  },
+  "98": {
+    "q": "Einen Führerschein zu haben ist",
+    "a": "eine Ehre",
+    "b": "ein Recht",
+    "c": "ein Privileg"
+  },
+  "99": {
+    "q": "Um Sperre oder Entzug zu vermeiden: In wie vielen Tagen muss ein Fahrer mit eingezogenem Schein die Sache beim LTO klären?",
+    "a": "innerhalb von 15 Tagen",
+    "b": "innerhalb von 10 Tagen",
+    "c": "innerhalb von 30 Tagen"
+  },
+  "100": {
+    "q": "Wann dürfen Sie Ihren Führerschein verleihen?",
+    "a": "unter keinen Umständen",
+    "b": "einer Person, die Fahren lernt",
+    "c": "in Notfällen"
+  }
+}

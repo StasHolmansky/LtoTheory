@@ -1,0 +1,29 @@
+{
+  "common": { "back": "Voltar", "close": "Fechar", "continue": "Continuar" },
+  "nav": { "questions": "LTO Theory", "question": "Pergunta {{id}}", "settings": "Ajustes", "feedback": "Feedback" },
+  "onboarding": {
+    "title": "LTO Theory",
+    "body": "As perguntas ficam no inglês original. Escolha seu idioma e o ponto de interrogação ao lado de cada linha mostra a tradução.",
+    "englishNote": "O inglês é o texto original, então as traduções ficam ocultas.",
+    "choose": "Seu idioma"
+  },
+  "list": { "settingsA11y": "Ajustes", "answer": "Resposta {{letter}}", "empty": "Nenhuma pergunta" },
+  "slide": { "answer": "A resposta correta é «{{letter}}»", "translateA11y": "Mostrar tradução" },
+  "settings": {
+    "appearance": "Aparência", "system": "Sistema", "light": "Claro", "dark": "Escuro",
+    "systemHint": "O sistema segue o modo claro ou escuro do aparelho.",
+    "language": "Idioma",
+    "languageHint": "A tradução aparece ao lado do texto em inglês. Em inglês ela fica oculta.",
+    "support": "Suporte", "feedback": "Feedback e sugestões",
+    "feedbackHint": "Envie ideias, pedidos ou problemas ao desenvolvedor."
+  },
+  "feedback": {
+    "title": "Feedback e sugestões",
+    "body": "Se tiver ideias ou notar algo a melhorar em {{appName}}, escreva para o e-mail de suporte.",
+    "emailLabel": "E-mail de contato",
+    "emailSubject": "Feedback do {{appName}}",
+    "note": "Obrigado por ajudar a melhorar o aplicativo.",
+    "emailUnavailableTitle": "App de e-mail não encontrado",
+    "emailUnavailableMessage": "Envie a mensagem manualmente para {{email}}."
+  }
+}
