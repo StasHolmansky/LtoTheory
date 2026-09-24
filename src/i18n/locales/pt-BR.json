@@ -1,14 +1,38 @@
 {
   "common": { "back": "Voltar", "close": "Fechar", "continue": "Continuar" },
-  "nav": { "questions": "LTO Theory", "question": "Pergunta {{id}}", "settings": "Ajustes", "feedback": "Feedback" },
+  "nav": { "home": "LTO Theory", "learn": "Estudo", "exam": "Exame", "result": "Resultado", "settings": "Ajustes", "feedback": "Feedback" },
   "onboarding": {
     "title": "LTO Theory",
     "body": "As perguntas ficam no inglês original. Escolha seu idioma e o ponto de interrogação ao lado de cada linha mostra a tradução.",
     "englishNote": "O inglês é o texto original, então as traduções ficam ocultas.",
     "choose": "Seu idioma"
   },
-  "list": { "settingsA11y": "Ajustes", "answer": "Resposta {{letter}}", "empty": "Nenhuma pergunta" },
-  "slide": { "answer": "A resposta correta é «{{letter}}»", "translateA11y": "Mostrar tradução" },
+  "home": {
+    "settingsA11y": "Ajustes",
+    "learnTitle": "Estudo",
+    "learnBody": "Todas as perguntas em ordem. Escolha uma resposta e depois veja se está certa.",
+    "examTitle": "Exame",
+    "examBody": "40 perguntas aleatórias. Certo ou errado só depois da sua resposta."
+  },
+  "quiz": {
+    "progress": "{{current}} de {{total}}",
+    "correct": "Correto",
+    "incorrect": "Incorreto",
+    "answer": "A resposta correta é «{{letter}}»",
+    "next": "Próxima",
+    "finish": "Concluir",
+    "missing": "Pergunta não encontrada"
+  },
+  "slide": { "translateA11y": "Mostrar tradução" },
+  "result": {
+    "score": "{{correct}} de {{total}}",
+    "passed": "Aprovado",
+    "failed": "Não aprovado",
+    "passHint": "O exame não profissional passa com {{need}} de {{total}}.",
+    "studyDone": "Você terminou o conjunto de estudo.",
+    "again": "De novo",
+    "home": "Início"
+  },
   "settings": {
     "appearance": "Aparência", "system": "Sistema", "light": "Claro", "dark": "Escuro",
     "systemHint": "O sistema segue o modo claro ou escuro do aparelho.",

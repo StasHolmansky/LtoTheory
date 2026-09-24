@@ -155,6 +155,12 @@
     "b": "el que gira a la izquierda",
     "c": "el que llega primero"
   },
+  "27": {
+    "q": "En un cruce sin control, dos autos vienen de direcciones opuestas. ¿Qué conductor debe ceder?",
+    "a": "el que sigue de frente",
+    "b": "el que gira a la izquierda",
+    "c": "el que gira a la derecha"
+  },
   "28": {
     "q": "En un cruce sin alto ni ceda el paso, dos autos llegan a la vez. ¿Quién tiene prioridad?",
     "a": "el auto de la derecha",
@@ -334,6 +340,12 @@
     "a": "acercarte al borde y girar las ruedas delanteras lejos del bordillo",
     "b": "girar las ruedas fuerte a la izquierda",
     "c": "girar las ruedas fuerte a la derecha"
+  },
+  "58": {
+    "q": "¿Qué debes hacer al estacionar cuesta arriba junto a un bordillo?",
+    "a": "girar las ruedas hacia el bordillo",
+    "b": "girar las ruedas traseras hacia el bordillo",
+    "c": "girar las ruedas delanteras fuerte a la izquierda, lejos del bordillo"
   },
   "59": {
     "q": "Antes de salir de un estacionamiento debes",
@@ -538,6 +550,12 @@
     "a": "por el lado izquierdo, de frente al tráfico",
     "b": "por el lado derecho",
     "c": "por cualquiera de los dos"
+  },
+  "93": {
+    "q": "En un accidente, el primer deber del conductor implicado es",
+    "a": "recoger al herido y llevarlo al hospital más cercano",
+    "b": "avisar del accidente al hospital",
+    "c": "avisar del accidente a la comisaría más cercana"
   },
   "94": {
     "q": "Si hay heridos en un accidente, el conductor ileso debe",

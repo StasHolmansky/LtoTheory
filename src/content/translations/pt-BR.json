@@ -155,6 +155,12 @@
     "b": "quem vira à esquerda",
     "c": "quem chega primeiro"
   },
+  "27": {
+    "q": "Num cruzamento sem controle, dois carros vêm de direções opostas. Qual motorista deve ceder?",
+    "a": "quem segue em frente",
+    "b": "quem vira à esquerda",
+    "c": "quem vira à direita"
+  },
   "28": {
     "q": "Num cruzamento sem pare nem dê a preferência, dois carros chegam juntos. Quem tem a preferência?",
     "a": "o carro da direita",
@@ -334,6 +340,12 @@
     "a": "chegar perto da borda e virar as rodas dianteiras para longe do meio-fio",
     "b": "virar as rodas fortemente à esquerda",
     "c": "virar as rodas fortemente à direita"
+  },
+  "58": {
+    "q": "O que fazer ao estacionar ladeira acima junto ao meio-fio?",
+    "a": "virar as rodas para o meio-fio",
+    "b": "virar as rodas traseiras para o meio-fio",
+    "c": "virar as rodas dianteiras fortemente à esquerda, longe do meio-fio"
   },
   "59": {
     "q": "Antes de sair de uma vaga, você deve",
@@ -538,6 +550,12 @@
     "a": "no lado esquerdo, de frente para o tráfego",
     "b": "no lado direito",
     "c": "de qualquer lado"
+  },
+  "93": {
+    "q": "Num acidente, o primeiro dever do motorista envolvido é",
+    "a": "pegar o ferido e levá-lo ao hospital mais próximo",
+    "b": "avisar o acidente ao hospital",
+    "c": "avisar o acidente à delegacia mais próxima"
   },
   "94": {
     "q": "Se há feridos num acidente, o motorista ileso deve",

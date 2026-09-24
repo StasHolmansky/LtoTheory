@@ -1,6 +1,6 @@
 # LTO Exam Reviewer 2026 — Non-Professional — English
 
-Text taken from the slides. Wording is as printed, including awkward phrases. Questions **27**, **58** and **93** are not in these four videos. The correct option is **bold**.
+Text taken from the slides. Wording is as printed, including awkward phrases. Questions **27**, **58** and **93** come from the written reviewer; their missing choices were filled from that set. The correct option is **bold**.
 
 ## 1. The three colors of the traffic lights are:
 
@@ -209,6 +209,14 @@ Text taken from the slides. Wording is as printed, including awkward phrases. Qu
 - c. the driver who gets there first
 
 **Answer: B**
+
+## 27. At an intersection with no control device, two cars approach from opposite directions. Which driver must yield?
+
+- a. the driver going straight
+- b. the driver turning left
+- c. **the driver turning right**
+
+**Answer: C**
 
 ## 28. At an intersection without stop or yield signs, two cars reach the intersection at the same time. Which car has the right-of-way?
 
@@ -449,6 +457,14 @@ Text taken from the slides. Wording is as printed, including awkward phrases. Qu
 - c. turn wheels sharply to the right
 
 **Answer: A**
+
+## 58. What should you do when parking uphill and there is a curb?
+
+- a. turn wheels to curb
+- b. turn back of wheels to curb
+- c. **turn your front wheels sharply to the left away from curb**
+
+**Answer: C**
 
 ## 59. Before moving your car from a parked position, you should
 
@@ -719,6 +735,14 @@ Text taken from the slides. Wording is as printed, including awkward phrases. Qu
 - a. **on the left side of the road facing traffic**
 - b. on the right side
 - c. either way will do
+
+**Answer: A**
+
+## 93. In case of an accident, the first duty of the driver involved is to
+
+- a. **pick-up the injured person and take him to the nearest hospital**
+- b. report the accident to the hospital
+- c. report the accident to the nearest police station
 
 **Answer: A**
 

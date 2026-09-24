@@ -155,6 +155,12 @@
     "b": "wer links abbiegt",
     "c": "wer zuerst ankommt"
   },
+  "27": {
+    "q": "Ohne Regelung kommen zwei Autos aus entgegengesetzten Richtungen. Wer muss warten?",
+    "a": "wer geradeaus fährt",
+    "b": "wer links abbiegt",
+    "c": "wer rechts abbiegt"
+  },
   "28": {
     "q": "Ohne Stopp- oder Vorfahrtsschild kommen zwei Autos gleichzeitig an. Wer hat Vorfahrt?",
     "a": "das Auto rechts",
@@ -334,6 +340,12 @@
     "a": "nah an den Rand zu fahren und die Vorderräder vom Bordstein weg zu drehen",
     "b": "die Räder scharf nach links zu drehen",
     "c": "die Räder scharf nach rechts zu drehen"
+  },
+  "58": {
+    "q": "Was tun Sie beim Parken bergauf am Bordstein?",
+    "a": "die Räder zum Bordstein drehen",
+    "b": "die Hinterräder zum Bordstein drehen",
+    "c": "die Vorderräder scharf nach links, vom Bordstein weg drehen"
   },
   "59": {
     "q": "Bevor Sie aus der Parklücke fahren, sollten Sie",
@@ -538,6 +550,12 @@
     "a": "auf der linken Seite, dem Verkehr entgegen",
     "b": "auf der rechten Seite",
     "c": "auf einer beliebigen Seite"
+  },
+  "93": {
+    "q": "Bei einem Unfall ist die erste Pflicht des beteiligten Fahrers,",
+    "a": "den Verletzten aufzunehmen und ins nächste Krankenhaus zu bringen",
+    "b": "den Unfall dem Krankenhaus zu melden",
+    "c": "den Unfall der nächsten Polizeiwache zu melden"
   },
   "94": {
     "q": "Gibt es Verletzte, muss der unverletzte Fahrer",

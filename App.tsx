@@ -7,18 +7,13 @@ import { useTranslation } from 'react-i18next';
 import './src/i18n';
 import { LanguageProvider, useLanguage } from './src/i18n/LanguageContext';
 import FeedbackScreen from './src/screens/FeedbackScreen';
+import HomeScreen from './src/screens/HomeScreen';
 import OnboardingScreen from './src/screens/OnboardingScreen';
-import QuestionListScreen from './src/screens/QuestionListScreen';
-import QuestionSlideScreen from './src/screens/QuestionSlideScreen';
+import QuizScreen from './src/screens/QuizScreen';
+import ResultScreen from './src/screens/ResultScreen';
 import SettingsScreen from './src/screens/SettingsScreen';
+import type { RootStackParamList } from './src/navigation/types';
 import { ThemeProvider, useAppTheme } from './src/theme';
-
-export type RootStackParamList = {
-  Questions: undefined;
-  Question: { id: number };
-  Settings: undefined;
-  Feedback: undefined;
-};
 
 const Stack = createStackNavigator<RootStackParamList>();
 
@@ -64,14 +59,16 @@ function AppNavigator() {
           cardStyle: { backgroundColor: colors.background },
         }}
       >
-        <Stack.Screen name="Questions" component={QuestionListScreen} options={{ title: t('nav.questions') }} />
+        <Stack.Screen name="Home" component={HomeScreen} options={{ title: t('nav.home') }} />
         <Stack.Screen
-          name="Question"
-          component={QuestionSlideScreen}
-          options={({ route }) => ({
-            title: t('nav.question', { id: route.params.id }),
-            headerLeft: HeaderBackButton,
-          })}
+          name="Quiz"
+          component={QuizScreen}
+          options={{ headerLeft: HeaderBackButton }}
+        />
+        <Stack.Screen
+          name="Result"
+          component={ResultScreen}
+          options={{ title: t('nav.result'), headerLeft: HeaderBackButton }}
         />
         <Stack.Screen
           name="Settings"

@@ -1,14 +1,38 @@
 {
   "common": { "back": "Zurück", "close": "Schließen", "continue": "Weiter" },
-  "nav": { "questions": "LTO Theory", "question": "Frage {{id}}", "settings": "Einstellungen", "feedback": "Feedback" },
+  "nav": { "home": "LTO Theory", "learn": "Lernen", "exam": "Prüfung", "result": "Ergebnis", "settings": "Einstellungen", "feedback": "Feedback" },
   "onboarding": {
     "title": "LTO Theory",
     "body": "Die Fragen bleiben im englischen Original. Wähle deine Sprache — das Fragezeichen neben jeder Zeile zeigt die Übersetzung.",
     "englishNote": "Englisch ist der Originaltext, daher bleiben Übersetzungen ausgeblendet.",
     "choose": "Deine Sprache"
   },
-  "list": { "settingsA11y": "Einstellungen", "answer": "Antwort {{letter}}", "empty": "Keine Fragen" },
-  "slide": { "answer": "Die richtige Antwort ist „{{letter}}“", "translateA11y": "Übersetzung anzeigen" },
+  "home": {
+    "settingsA11y": "Einstellungen",
+    "learnTitle": "Lernen",
+    "learnBody": "Alle Fragen der Reihe nach. Erst antworten, dann siehst du, ob es stimmt.",
+    "examTitle": "Prüfung",
+    "examBody": "40 zufällige Fragen. Richtig oder falsch erst nach deiner Antwort."
+  },
+  "quiz": {
+    "progress": "{{current}} von {{total}}",
+    "correct": "Richtig",
+    "incorrect": "Falsch",
+    "answer": "Die richtige Antwort ist „{{letter}}“",
+    "next": "Weiter",
+    "finish": "Fertig",
+    "missing": "Frage nicht gefunden"
+  },
+  "slide": { "translateA11y": "Übersetzung anzeigen" },
+  "result": {
+    "score": "{{correct}} von {{total}}",
+    "passed": "Bestanden",
+    "failed": "Nicht bestanden",
+    "passHint": "Die nichtberufliche Prüfung gilt ab {{need}} von {{total}} als bestanden.",
+    "studyDone": "Du hast den Lernsatz beendet.",
+    "again": "Nochmal",
+    "home": "Start"
+  },
   "settings": {
     "appearance": "Darstellung", "system": "System", "light": "Hell", "dark": "Dunkel",
     "systemHint": "System folgt dem hellen oder dunklen Modus des Geräts.",

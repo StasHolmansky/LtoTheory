@@ -155,6 +155,12 @@
     "b": "celui qui tourne à gauche",
     "c": "celui qui arrive le premier"
   },
+  "27": {
+    "q": "Sans signal, deux voitures arrivent de directions opposées. Quel conducteur doit céder ?",
+    "a": "celui qui va tout droit",
+    "b": "celui qui tourne à gauche",
+    "c": "celui qui tourne à droite"
+  },
   "28": {
     "q": "Sans stop ni cédez-le-passage, deux voitures arrivent en même temps. Qui a la priorité ?",
     "a": "la voiture de droite",
@@ -334,6 +340,12 @@
     "a": "de se rapprocher du bord et de tourner les roues avant à l'opposé",
     "b": "de braquer fortement à gauche",
     "c": "de braquer fortement à droite"
+  },
+  "58": {
+    "q": "Que faire en se garant en montée le long d'un trottoir ?",
+    "a": "tourner les roues vers le trottoir",
+    "b": "tourner les roues arrière vers le trottoir",
+    "c": "braquer les roues avant fortement à gauche, à l'opposé du trottoir"
   },
   "59": {
     "q": "Avant de quitter une place, vous devez",
@@ -538,6 +550,12 @@
     "a": "à gauche, face à la circulation",
     "b": "à droite",
     "c": "d'un côté ou de l'autre"
+  },
+  "93": {
+    "q": "En cas d'accident, le premier devoir du conducteur impliqué est de",
+    "a": "prendre le blessé et l'emmener à l'hôpital le plus proche",
+    "b": "signaler l'accident à l'hôpital",
+    "c": "signaler l'accident au poste de police le plus proche"
   },
   "94": {
     "q": "S'il y a des blessés, le conducteur indemne doit",

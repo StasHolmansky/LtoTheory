@@ -5,8 +5,10 @@
     "continue": "Continue"
   },
   "nav": {
-    "questions": "LTO Theory",
-    "question": "Question {{id}}",
+    "home": "LTO Theory",
+    "learn": "Study",
+    "exam": "Exam",
+    "result": "Result",
     "settings": "Settings",
     "feedback": "Feedback"
   },
@@ -16,14 +18,33 @@
     "englishNote": "English is the original text, so translations stay hidden.",
     "choose": "Your language"
   },
-  "list": {
+  "home": {
     "settingsA11y": "Settings",
-    "answer": "Answer {{letter}}",
-    "empty": "No questions"
+    "learnTitle": "Study",
+    "learnBody": "Go through every question in order. Pick an answer, then see whether it is right.",
+    "examTitle": "Exam",
+    "examBody": "40 random questions. You only see right or wrong after you answer."
+  },
+  "quiz": {
+    "progress": "{{current}} of {{total}}",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "answer": "The correct answer is \"{{letter}}\"",
+    "next": "Next",
+    "finish": "Finish",
+    "missing": "Question not found"
   },
   "slide": {
-    "answer": "The correct answer is \"{{letter}}\"",
     "translateA11y": "Show translation"
+  },
+  "result": {
+    "score": "{{correct}} of {{total}}",
+    "passed": "Passed",
+    "failed": "Not passed",
+    "passHint": "A non-professional exam passes at {{need}} of {{total}}.",
+    "studyDone": "You finished the study set.",
+    "again": "Try again",
+    "home": "Home"
   },
   "settings": {
     "appearance": "Appearance",

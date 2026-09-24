@@ -497,6 +497,25 @@
       "answer": "B"
     },
     {
+      "id": 27,
+      "question": "At an intersection with no control device, two cars approach from opposite directions. Which driver must yield?",
+      "options": [
+        {
+          "key": "a",
+          "text": "the driver going straight"
+        },
+        {
+          "key": "b",
+          "text": "the driver turning left"
+        },
+        {
+          "key": "c",
+          "text": "the driver turning right"
+        }
+      ],
+      "answer": "C"
+    },
+    {
       "id": 28,
       "question": "At an intersection without stop or yield signs, two cars reach the intersection at the same time. Which car has the right-of-way?",
       "options": [
@@ -1065,6 +1084,25 @@
         }
       ],
       "answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "What should you do when parking uphill and there is a curb?",
+      "options": [
+        {
+          "key": "a",
+          "text": "turn wheels to curb"
+        },
+        {
+          "key": "b",
+          "text": "turn back of wheels to curb"
+        },
+        {
+          "key": "c",
+          "text": "turn your front wheels sharply to the left away from curb"
+        }
+      ],
+      "answer": "C"
     },
     {
       "id": 59,
@@ -1708,6 +1746,25 @@
         {
           "key": "c",
           "text": "either way will do"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "In case of an accident, the first duty of the driver involved is to",
+      "options": [
+        {
+          "key": "a",
+          "text": "pick-up the injured person and take him to the nearest hospital"
+        },
+        {
+          "key": "b",
+          "text": "report the accident to the hospital"
+        },
+        {
+          "key": "c",
+          "text": "report the accident to the nearest police station"
         }
       ],
       "answer": "A"

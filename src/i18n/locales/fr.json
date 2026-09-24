@@ -1,14 +1,38 @@
 {
   "common": { "back": "Retour", "close": "Fermer", "continue": "Continuer" },
-  "nav": { "questions": "LTO Theory", "question": "Question {{id}}", "settings": "Réglages", "feedback": "Avis" },
+  "nav": { "home": "LTO Theory", "learn": "Révision", "exam": "Examen", "result": "Résultat", "settings": "Réglages", "feedback": "Avis" },
   "onboarding": {
     "title": "LTO Theory",
     "body": "Les questions restent dans l’anglais d’origine. Choisissez votre langue : le point d’interrogation à côté de chaque ligne affiche la traduction.",
     "englishNote": "L’anglais est le texte d’origine, les traductions restent donc masquées.",
     "choose": "Votre langue"
   },
-  "list": { "settingsA11y": "Réglages", "answer": "Réponse {{letter}}", "empty": "Aucune question" },
-  "slide": { "answer": "La bonne réponse est « {{letter}} »", "translateA11y": "Afficher la traduction" },
+  "home": {
+    "settingsA11y": "Réglages",
+    "learnTitle": "Révision",
+    "learnBody": "Toutes les questions dans l’ordre. Choisissez une réponse, puis voyez si elle est juste.",
+    "examTitle": "Examen",
+    "examBody": "40 questions au hasard. Juste ou faux seulement après votre réponse."
+  },
+  "quiz": {
+    "progress": "{{current}} sur {{total}}",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "answer": "La bonne réponse est « {{letter}} »",
+    "next": "Suivant",
+    "finish": "Terminer",
+    "missing": "Question introuvable"
+  },
+  "slide": { "translateA11y": "Afficher la traduction" },
+  "result": {
+    "score": "{{correct}} sur {{total}}",
+    "passed": "Réussi",
+    "failed": "Échoué",
+    "passHint": "L’examen non professionnel se réussit avec {{need}} sur {{total}}.",
+    "studyDone": "Vous avez terminé la série de révision.",
+    "again": "Recommencer",
+    "home": "Accueil"
+  },
   "settings": {
     "appearance": "Apparence", "system": "Système", "light": "Clair", "dark": "Sombre",
     "systemHint": "Système suit le mode clair ou sombre de l’appareil.",
