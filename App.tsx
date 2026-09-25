@@ -3,6 +3,7 @@ import { ActivityIndicator, Pressable, StyleSheet, Text, View } from 'react-nati
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { useTranslation } from 'react-i18next';
 import './src/i18n';
 import { LanguageProvider, useLanguage } from './src/i18n/LanguageContext';
@@ -93,11 +94,13 @@ const styles = StyleSheet.create({
 
 const App = () => (
   <GestureHandlerRootView style={{ flex: 1 }}>
-    <LanguageProvider>
-      <ThemeProvider>
-        <AppNavigator />
-      </ThemeProvider>
-    </LanguageProvider>
+    <SafeAreaProvider>
+      <LanguageProvider>
+        <ThemeProvider>
+          <AppNavigator />
+        </ThemeProvider>
+      </LanguageProvider>
+    </SafeAreaProvider>
   </GestureHandlerRootView>
 );
 

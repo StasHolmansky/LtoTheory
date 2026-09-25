@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { useTranslation } from 'react-i18next';
 import type { StackNavigationProp } from '@react-navigation/stack';
 import type { RouteProp } from '@react-navigation/native';
@@ -17,6 +18,7 @@ type Props = {
 
 const QuizScreen = ({ navigation, route }: Props) => {
   const colors = useAppColors();
+  const insets = useSafeAreaInsets();
   const { t } = useTranslation();
   const { language } = useLanguage();
   const { mode, ids } = route.params;
@@ -123,7 +125,10 @@ const QuizScreen = ({ navigation, route }: Props) => {
       {locked ? (
         <Pressable
           onPress={goNext}
-          style={[styles.next, { backgroundColor: colors.accent }]}
+          style={[
+            styles.next,
+            { backgroundColor: colors.accent, marginBottom: 16 + insets.bottom },
+          ]}
         >
           <Text style={[styles.nextText, { color: colors.onAccent }]}>
             {last ? t('quiz.finish') : t('quiz.next')}
