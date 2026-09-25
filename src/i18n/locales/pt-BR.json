@@ -11,6 +11,7 @@
     "settingsA11y": "Ajustes",
     "learnTitle": "Estudo",
     "learnBody": "Todas as perguntas em ordem. Escolha uma resposta e depois veja se está certa.",
+    "learnResume": "Continuar da pergunta {{id}}",
     "examTitle": "Exame",
     "examBody": "40 perguntas aleatórias. Certo ou errado só depois da sua resposta."
   },

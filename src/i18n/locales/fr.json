@@ -11,6 +11,7 @@
     "settingsA11y": "Réglages",
     "learnTitle": "Révision",
     "learnBody": "Toutes les questions dans l’ordre. Choisissez une réponse, puis voyez si elle est juste.",
+    "learnResume": "Reprendre à la question {{id}}",
     "examTitle": "Examen",
     "examBody": "40 questions au hasard. Juste ou faux seulement après votre réponse."
   },

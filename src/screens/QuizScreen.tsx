@@ -5,6 +5,7 @@ import { useTranslation } from 'react-i18next';
 import type { StackNavigationProp } from '@react-navigation/stack';
 import type { RouteProp } from '@react-navigation/native';
 import TranslatedLine from '../components/TranslatedLine';
+import { clearLearnQuestionId, saveLearnQuestionId } from '../content/learnProgress';
 import { questions } from '../content/questions';
 import { lineTranslation, type LineKey } from '../content/lookup';
 import { useLanguage } from '../i18n/LanguageContext';
@@ -21,8 +22,9 @@ const QuizScreen = ({ navigation, route }: Props) => {
   const insets = useSafeAreaInsets();
   const { t } = useTranslation();
   const { language } = useLanguage();
-  const { mode, ids } = route.params;
-  const [index, setIndex] = useState(0);
+  const { mode, ids, startId } = route.params;
+  const initialIndex = startId == null ? 0 : Math.max(0, ids.indexOf(startId));
+  const [index, setIndex] = useState(initialIndex);
   const [choice, setChoice] = useState<string | null>(null);
   const [correctCount, setCorrectCount] = useState(0);
 
@@ -37,6 +39,17 @@ const QuizScreen = ({ navigation, route }: Props) => {
       title: t(mode === 'exam' ? 'nav.exam' : 'nav.learn'),
     });
   }, [mode, navigation, t]);
+
+  React.useEffect(() => {
+    if (mode !== 'learn') {
+      return;
+    }
+    const id = ids[index];
+    if (id == null) {
+      return;
+    }
+    saveLearnQuestionId(id).catch(() => {});
+  }, [mode, ids, index]);
 
   const choose = (key: string) => {
     if (locked || !question) {
@@ -53,6 +66,9 @@ const QuizScreen = ({ navigation, route }: Props) => {
       return;
     }
     if (last) {
+      if (mode === 'learn') {
+        clearLearnQuestionId().catch(() => {});
+      }
       navigation.replace('Result', { mode, correct: correctCount, total: ids.length });
       return;
     }

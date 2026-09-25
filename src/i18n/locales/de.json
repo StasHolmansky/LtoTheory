@@ -11,6 +11,7 @@
     "settingsA11y": "Einstellungen",
     "learnTitle": "Lernen",
     "learnBody": "Alle Fragen der Reihe nach. Erst antworten, dann siehst du, ob es stimmt.",
+    "learnResume": "Weiter bei Frage {{id}}",
     "examTitle": "Prüfung",
     "examBody": "40 zufällige Fragen. Richtig oder falsch erst nach deiner Antwort."
   },

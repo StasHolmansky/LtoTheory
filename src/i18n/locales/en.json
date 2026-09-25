@@ -22,6 +22,7 @@
     "settingsA11y": "Settings",
     "learnTitle": "Study",
     "learnBody": "Go through every question in order. Pick an answer, then see whether it is right.",
+    "learnResume": "Continue from question {{id}}",
     "examTitle": "Exam",
     "examBody": "40 random questions. You only see right or wrong after you answer."
   },

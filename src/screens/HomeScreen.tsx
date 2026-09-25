@@ -1,7 +1,9 @@
-import React, { useCallback } from 'react';
+import React, { useCallback, useState } from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
+import { useFocusEffect } from '@react-navigation/native';
 import { useTranslation } from 'react-i18next';
 import type { StackNavigationProp } from '@react-navigation/stack';
+import { loadLearnQuestionId } from '../content/learnProgress';
 import { EXAM_QUESTION_COUNT, shuffledIds } from '../content/session';
 import { questions } from '../content/questions';
 import type { QuizMode, RootStackParamList } from '../navigation/types';
@@ -14,6 +16,30 @@ type Props = {
 const HomeScreen = ({ navigation }: Props) => {
   const colors = useAppColors();
   const { t } = useTranslation();
+  const [resumeId, setResumeId] = useState<number | null>(null);
+
+  useFocusEffect(
+    useCallback(() => {
+      let cancelled = false;
+      loadLearnQuestionId()
+        .then(id => {
+          if (cancelled) {
+            return;
+          }
+          const known = id != null && questions.some(item => item.id === id);
+          const firstId = questions[0]?.id;
+          setResumeId(known && id !== firstId ? id : null);
+        })
+        .catch(() => {
+          if (!cancelled) {
+            setResumeId(null);
+          }
+        });
+      return () => {
+        cancelled = true;
+      };
+    }, []),
+  );
 
   const renderHeaderRight = useCallback(
     () => (
@@ -35,9 +61,25 @@ const HomeScreen = ({ navigation }: Props) => {
 
   const start = (mode: QuizMode) => {
     const ids = questions.map(item => item.id);
-    const sessionIds =
-      mode === 'exam' ? shuffledIds(ids).slice(0, EXAM_QUESTION_COUNT) : ids;
-    navigation.navigate('Quiz', { mode, ids: sessionIds });
+    if (mode === 'exam') {
+      navigation.navigate('Quiz', {
+        mode,
+        ids: shuffledIds(ids).slice(0, EXAM_QUESTION_COUNT),
+      });
+      return;
+    }
+    loadLearnQuestionId()
+      .then(savedId => {
+        const known = savedId != null && ids.includes(savedId);
+        navigation.navigate('Quiz', {
+          mode,
+          ids,
+          startId: known ? savedId : undefined,
+        });
+      })
+      .catch(() => {
+        navigation.navigate('Quiz', { mode, ids });
+      });
   };
 
   return (
@@ -48,6 +90,11 @@ const HomeScreen = ({ navigation }: Props) => {
       >
         <Text style={[styles.title, { color: colors.textPrimary }]}>{t('home.learnTitle')}</Text>
         <Text style={[styles.body, { color: colors.textSecondary }]}>{t('home.learnBody')}</Text>
+        {resumeId != null ? (
+          <Text style={[styles.resume, { color: colors.accent }]}>
+            {t('home.learnResume', { id: resumeId })}
+          </Text>
+        ) : null}
       </Pressable>
       <Pressable
         onPress={() => start('exam')}
@@ -70,6 +117,7 @@ const styles = StyleSheet.create({
   },
   title: { fontSize: 22, fontWeight: '800' },
   body: { fontSize: 16, lineHeight: 22 },
+  resume: { fontSize: 15, fontWeight: '700' },
   headerButton: {
     marginRight: 12,
     width: 36,
