@@ -598,5 +598,317 @@
     "a": "en aucune circonstance",
     "b": "à une personne qui apprend à conduire",
     "c": "en cas d'urgence"
+  },
+  "101": {
+    "q": "Que devez-vous faire avant de quitter la place de stationnement ?",
+    "a": "partir directement",
+    "b": "klaxonner",
+    "c": "regarder autour d’abord et mettre le clignotant"
+  },
+  "102": {
+    "q": "Le stationnement est interdit",
+    "a": "dans un local commercial",
+    "b": "dans une intersection",
+    "c": "sur une route à sens unique"
+  },
+  "103": {
+    "q": "Chaque fois que vous vous garez, pensez à",
+    "a": "passer au point mort",
+    "b": "couper le moteur et serrer le frein à main",
+    "c": "fermer les vitres"
+  },
+  "104": {
+    "q": "Il est interdit de se garer",
+    "a": "à moins de 2 mètres d’une bouche d’incendie et à moins de 3 mètres de l’intersection",
+    "b": "à moins de 5 mètres d’une bouche d’incendie et à moins de 6 mètres de l’intersection",
+    "c": "à moins de 5 mètres d’une bouche d’incendie et à moins de 5 mètres de l’intersection"
+  },
+  "105": {
+    "q": "Qu’est-ce qui compte comme infraction de stationnement ?",
+    "a": "se garer dans une rue à sens unique",
+    "b": "se garer sans les feux de détresse",
+    "c": "se garer à moins de 5 mètres d’une intersection à feux"
+  },
+  "106": {
+    "q": "Si vous êtes garé au bord de la route la nuit, vous devez",
+    "a": "prévenir les autres avec les feux de détresse ou les feux de stationnement, si le véhicule en a",
+    "b": "rester éveillé et prêt à repartir",
+    "c": "prévenir les autres en allumant les phares"
+  },
+  "107": {
+    "q": "Ne vous arrêtez ni ne vous garez jamais près d’une bouche d’incendie. Vous ne pouvez vous garer qu’à une distance d’au moins",
+    "a": "3 mètres",
+    "b": "4 mètres",
+    "c": "5 mètres"
+  },
+  "108": {
+    "q": "Quand le stationnement en double file est-il permis ?",
+    "a": "jamais",
+    "b": "quand la rue ou la route est assez large",
+    "c": "quand vous n’avez pas d’autre choix"
+  },
+  "109": {
+    "q": "Un conducteur ne doit pas se garer ni s’arrêter près d’un stop ou d’un feu, car cela réduit la visibilité des autres conducteurs, surtout à moins de",
+    "a": "4 mètres",
+    "b": "5 mètres",
+    "c": "6 mètres"
+  },
+  "110": {
+    "q": "Si vous vous garez en montée sans trottoir, tournez les roues vers",
+    "a": "le bord de la rue",
+    "b": "l’autre côté de la rue",
+    "c": "le milieu de la rue"
+  },
+  "111": {
+    "q": "Un conducteur qui se gare ou s’arrête à moins de 6 mètres d’un passage piéton réduit la visibilité des piétons pour les autres conducteurs. Cela",
+    "a": "est permis",
+    "b": "est dangereux",
+    "c": "ne doit pas être fait"
+  },
+  "112": {
+    "q": "Le conducteur doit se garer le long du trottoir, en petite vitesse et avec le frein de stationnement serré, à une distance d’au moins",
+    "a": "40 cm",
+    "b": "35 cm",
+    "c": "30 cm"
+  },
+  "113": {
+    "q": "Le stationnement est une infraction lorsqu’un véhicule",
+    "a": "se gare à l’entrée et à la sortie des hôpitaux et des casernes de pompiers",
+    "b": "se gare à l’entrée et à la sortie d’un établissement industriel",
+    "c": "se gare à l’entrée et à la sortie d’un immeuble d’habitation"
+  },
+  "114": {
+    "q": "À quel endroit ne pouvez-vous pas garer votre véhicule ?",
+    "a": "sur une place de stationnement prévue",
+    "b": "là où les piétons traversent",
+    "c": "là où vous voulez aller"
+  },
+  "115": {
+    "q": "Quand un enfant peut-il être dispensé d’un dispositif de retenue ?",
+    "a": "s’il a un état médical, mental ou psychologique",
+    "b": "s’il ne veut pas être dans le dispositif",
+    "c": "si la famille va au centre commercial"
+  },
+  "116": {
+    "q": "L’immatriculation d’un véhicule peut être suspendue si",
+    "a": "le véhicule est conforme à la réglementation",
+    "b": "le véhicule est jugé d’aspect inacceptable",
+    "c": "le véhicule n’est pas immatriculé au nom du conducteur au moment du contrôle"
+  },
+  "117": {
+    "q": "Quelle est la règle de base dans une intersection ?",
+    "a": "ne pas bloquer l’intersection",
+    "b": "klaxonner si quelqu’un gêne le passage",
+    "c": "accélérer"
+  },
+  "118": {
+    "q": "Quand un conducteur peut-il dépasser sans danger par la droite dans un quartier d’affaires ou résidentiel ?",
+    "a": "si le feu est sur le point de passer au rouge",
+    "b": "si la route a deux voies ou plus dans le même sens",
+    "c": "le dépassement est permis sur une route très fréquentée"
+  },
+  "119": {
+    "q": "Dans quelle direction une lampe auxiliaire installée sur une moto doit-elle être orientée ?",
+    "a": "vers la gauche",
+    "b": "vers la droite",
+    "c": "vers le haut"
+  },
+  "120": {
+    "q": "Où pouvez-vous contester une infraction routière présumée ?",
+    "a": "au bureau d’adjudication routière compétent",
+    "b": "dans la rue, avant que l’agent parte",
+    "c": "dans n’importe quel bureau d’adjudication"
+  },
+  "121": {
+    "q": "Qui a le pouvoir de confisquer un permis lors d’une infraction routière ordinaire ?",
+    "a": "les agents du LTO ou les agents habilités par le LTO",
+    "b": "n’importe qui, tant que l’infraction est prévue par la loi",
+    "c": "n’importe qui, tant que l’agent est un fonctionnaire titulaire"
+  },
+  "122": {
+    "q": "Où devez-vous placer la plaque d’immatriculation ?",
+    "a": "une à l’avant et une à l’arrière du véhicule",
+    "b": "deux à l’avant",
+    "c": "une sur le pare-brise avant et une sur la lunette arrière"
+  },
+  "123": {
+    "q": "Pouvez-vous conduire une moto si votre permis porte le code DL B ?",
+    "a": "oui",
+    "b": "non, sauf autorisation d’un agent",
+    "c": "non"
+  },
+  "124": {
+    "q": "Ce panneau de réglementation signifie",
+    "a": "accès interdit aux véhicules dont la charge par essieu dépasse 2 tonnes",
+    "b": "accès interdit aux véhicules dont la charge par essieu est inférieure à 2 tonnes",
+    "c": "les véhicules dont la charge par essieu dépasse 2 tonnes sont autorisés"
+  },
+  "125": {
+    "q": "Où la plaque d’une moto doit-elle être placée ?",
+    "a": "sur le réservoir",
+    "b": "à l’arrière de la moto",
+    "c": "sur le cache-moteur"
+  },
+  "126": {
+    "q": "Quelle taille dispense un enfant du dispositif de retenue ?",
+    "a": "100 cm et plus",
+    "b": "150 cm et plus",
+    "c": "180 cm et plus"
+  },
+  "127": {
+    "q": "Quelle est la durée maximale du permis si le conducteur n’a pas d’infraction au moment du renouvellement ?",
+    "a": "5 ans",
+    "b": "10 ans",
+    "c": "15 ans"
+  },
+  "128": {
+    "q": "Est-il illégal d’utiliser un téléphone en conduisant ?",
+    "a": "oui, si le conducteur n’a pas déclaré le téléphone au LTO",
+    "b": "oui, si le conducteur utilise un appareil sans fil",
+    "c": "oui, si le conducteur n’utilise pas le téléphone en mode mains libres"
+  },
+  "129": {
+    "q": "À quelle hauteur maximale peut-on fixer le téléphone depuis la base du tableau de bord ?",
+    "a": "2 pouces",
+    "b": "4 pouces",
+    "c": "6 pouces"
+  },
+  "130": {
+    "q": "Un conducteur peut-il utiliser une photocopie du permis en conduisant ?",
+    "a": "non, sauf autorisation de l’agent",
+    "b": "oui, si la copie a exactement la taille et la couleur de l’original",
+    "c": "non"
+  },
+  "131": {
+    "q": "Selon la loi sur la sécurité des enfants à moto, un enfant de moins de 18 ans ne peut pas circuler sur une moto à deux roues sur la voie publique, sauf si",
+    "a": "ses pieds atteignent les repose-pieds d’origine, ses bras entourent la taille du conducteur et il porte un casque de protection réglementaire",
+    "b": "la circulation rapide est très dense ou la limite dépasse 60 km/h",
+    "c": "le conducteur peut tenir la taille de l’enfant assis devant et l’enfant porte un casque réglementaire"
+  },
+  "132": {
+    "q": "Un coffre fixé sur le côté de la moto, pas plus haut que la selle, considéré comme accessoire, est",
+    "a": "un top case",
+    "b": "un top case personnalisé",
+    "c": "une sacoche latérale"
+  },
+  "133": {
+    "q": "À quel âge peut-on demander un permis non professionnel ?",
+    "a": "16 ans",
+    "b": "17 ans",
+    "c": "20 ans"
+  },
+  "134": {
+    "q": "Où vont les sommes perçues au titre de la redevance d’usage des véhicules ?",
+    "a": "à l’amélioration ou à l’entretien des routes",
+    "b": "aux salaires des agents",
+    "c": "à la construction de digues et de barrages"
+  },
+  "135": {
+    "q": "Dans quelle zone le stationnement est-il interdit ?",
+    "a": "sur les aires de repos de la voie rapide",
+    "b": "sur le trottoir",
+    "c": "sur les parkings"
+  },
+  "136": {
+    "q": "Comment surmonter le stress ?",
+    "a": "s’arrêter, descendre, crier sur quiconque pose une question, puis se battre",
+    "b": "respirer profondément, s’asseoir confortablement, écouter une musique calme, laisser assez d’espace devant et prévoir plus de temps",
+    "c": "rouler trop vite, écouter de la musique forte, crier sur les passagers et provoquer les autres conducteurs"
+  },
+  "137": {
+    "q": "Quelle infraction s’applique si le conducteur réussit les trois tests de sobriété sur place ?",
+    "a": "non-respect d’un panneau",
+    "b": "conduite sous influence",
+    "c": "l’infraction initiale qui a motivé le contrôle"
+  },
+  "138": {
+    "q": "Laquelle de ces affirmations est exacte ?",
+    "a": "une autorisation pour boîte manuelle (MT) n’autorise pas la boîte automatique (AT)",
+    "b": "une autorisation seulement pour l’automatique (AT) permet de conduire une manuelle (MT)",
+    "c": "une autorisation pour boîte manuelle (MT) permet de conduire une automatique (AT)"
+  },
+  "139": {
+    "q": "L’immatriculation d’un véhicule peut être suspendue si",
+    "a": "le véhicule est trop léger pour les voies publiques",
+    "b": "le véhicule n’est pas une traction avant",
+    "c": "le véhicule peut endommager excessivement les voies publiques"
+  },
+  "140": {
+    "q": "Que se passe-t-il si le conducteur refuse le contrôle obligatoire en cas de suspicion d’alcool ?",
+    "a": "retrait de l’immatriculation du véhicule",
+    "b": "confiscation du permis, puis retrait automatique",
+    "c": "suspension du permis pendant 2 ans"
+  },
+  "141": {
+    "q": "Votre permis vient d’expirer. Pouvez-vous encore conduire jusqu’au LTO le plus proche pour le renouveler ?",
+    "a": "oui, tant que vous respectez le code",
+    "b": "non",
+    "c": "oui, tant que vous allez directement au bureau le plus proche sans autre arrêt"
+  },
+  "142": {
+    "q": "Selon la loi n° 11229, à partir de quel âge un enfant peut-il s’asseoir à l’avant ?",
+    "a": "plus de 12 ans",
+    "b": "16 ans et plus",
+    "c": "18 ans et plus"
+  },
+  "143": {
+    "q": "Quand un enfant peut-il être dispensé d’un dispositif de retenue ?",
+    "a": "s’il sera en retard à un rendez-vous médical",
+    "b": "s’il va à l’école",
+    "c": "s’il a besoin de soins médicaux immédiats"
+  },
+  "144": {
+    "q": "De quelle couleur doivent être les lampes auxiliaires installées à l’avant ?",
+    "a": "n’importe quelle couleur",
+    "b": "rouge",
+    "c": "blanc ou blanc jaunâtre"
+  },
+  "145": {
+    "q": "Le permis est suspendu 30 jours si",
+    "a": "l’infraction commise est grave",
+    "b": "le conducteur ne paie pas la sanction du contrôle dans les 15 jours",
+    "c": "le conducteur ne paie pas l’amende dans les 72 heures"
+  },
+  "146": {
+    "q": "Peut-on délivrer un permis valable 10 ans si le conducteur a une infraction ?",
+    "a": "non",
+    "b": "oui",
+    "c": "oui, si toutes les sanctions sont payées 15 jours avant le renouvellement"
+  },
+  "147": {
+    "q": "Quand un conducteur doit-il porter un casque à moto ?",
+    "a": "pour les trajets longs et courts",
+    "b": "pour un trajet long ou court, sur tout type de route",
+    "c": "seulement sur une route nationale"
+  },
+  "148": {
+    "q": "Quelle durée de permis peut-on obtenir s’il y a une infraction au moment du renouvellement ?",
+    "a": "10 ans",
+    "b": "5 ans",
+    "c": "3 ans"
+  },
+  "149": {
+    "q": "Quand un éthylotest (ABA) doit-il être utilisé ?",
+    "a": "quand l’agent insiste pour qu’il soit requis",
+    "b": "quand le conducteur échoue à au moins un test de sobriété sur place",
+    "c": "quand le conducteur réussit tous les tests de sobriété sur place"
+  },
+  "150": {
+    "q": "Un coffre fabriqué et fixé derrière la selle, considéré comme accessoire de moto, est",
+    "a": "un top case",
+    "b": "un top case personnalisé",
+    "c": "une sacoche latérale"
+  },
+  "151": {
+    "q": "Quelle est la catégorie initiale du permis pour un nouveau demandeur ?",
+    "a": "permis professionnel (PDL)",
+    "b": "permis non professionnel (NPDL)",
+    "c": "NPDL ou PDL"
+  },
+  "152": {
+    "q": "Peut-on conduire une moto sur la voie publique en attendant le certificat d’immatriculation ?",
+    "a": "non",
+    "b": "oui",
+    "c": "oui, si le concessionnaire délivre une autorisation de circuler"
   }
 }

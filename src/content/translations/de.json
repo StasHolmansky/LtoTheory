@@ -598,5 +598,317 @@
     "a": "unter keinen Umständen",
     "b": "einer Person, die Fahren lernt",
     "c": "in Notfällen"
+  },
+  "101": {
+    "q": "Was sollten Sie tun, bevor Sie die Parklücke verlassen?",
+    "a": "einfach losfahren",
+    "b": "hupen",
+    "c": "zuerst umschauen und blinken"
+  },
+  "102": {
+    "q": "Parken ist verboten",
+    "a": "auf einem Gewerbegrundstück",
+    "b": "in einer Kreuzung",
+    "c": "auf einer Einbahnstraße"
+  },
+  "103": {
+    "q": "Wenn Sie parken, denken Sie daran,",
+    "a": "den Leerlauf einzulegen",
+    "b": "den Motor auszuschalten und die Handbremse anzuziehen",
+    "c": "die Fenster zu schließen"
+  },
+  "104": {
+    "q": "Es ist verboten zu parken",
+    "a": "näher als 2 Meter an einem Hydranten und näher als 3 Meter an der Kreuzung",
+    "b": "näher als 5 Meter an einem Hydranten und näher als 6 Meter an der Kreuzung",
+    "c": "näher als 5 Meter an einem Hydranten und näher als 5 Meter an der Kreuzung"
+  },
+  "105": {
+    "q": "Was gilt als Parkverstoß?",
+    "a": "Parken in einer Einbahnstraße",
+    "b": "Parken ohne eingeschaltete Warnblinkanlage",
+    "c": "Parken näher als 5 Meter an einer Ampelkreuzung"
+  },
+  "106": {
+    "q": "Wenn Sie nachts am Straßenrand parken, müssen Sie",
+    "a": "andere mit Warnblinklicht oder Parklicht warnen, falls das Fahrzeug es hat",
+    "b": "wach bleiben und abfahrbereit sein",
+    "c": "andere durch Einschalten der Scheinwerfer warnen"
+  },
+  "107": {
+    "q": "Halten und Parken neben einem Hydranten ist verboten. Parken ist nur mit einem Abstand von mindestens erlaubt",
+    "a": "3 Meter",
+    "b": "4 Meter",
+    "c": "5 Meter"
+  },
+  "108": {
+    "q": "Wann ist doppeltes Parken erlaubt?",
+    "a": "nie",
+    "b": "wenn die Straße breit genug ist",
+    "c": "wenn es keine andere Möglichkeit gibt"
+  },
+  "109": {
+    "q": "Ein Fahrer darf nicht neben einem Stoppschild oder einer Ampel halten oder parken, weil das die Sicht anderer Fahrer einschränkt, besonders innerhalb von",
+    "a": "4 Metern",
+    "b": "5 Metern",
+    "c": "6 Metern"
+  },
+  "110": {
+    "q": "Wenn Sie bergauf ohne Bordstein parken, drehen Sie die Räder zum",
+    "a": "Fahrbahnrand",
+    "b": "anderen Straßenseite",
+    "c": "Straßenmitte"
+  },
+  "111": {
+    "q": "Wer innerhalb von 6 Metern vor einem Fußgängerüberweg parkt oder hält, nimmt anderen Fahrern die Sicht auf Fußgänger. Das",
+    "a": "ist erlaubt",
+    "b": "ist unsicher",
+    "c": "sollte man nicht tun"
+  },
+  "112": {
+    "q": "Der Fahrer muss am Bordstein parken, einen niedrigen Gang einlegen und die Feststellbremse anziehen, mit einem Abstand von mindestens",
+    "a": "40 cm",
+    "b": "35 cm",
+    "c": "30 cm"
+  },
+  "113": {
+    "q": "Parken gilt als Verstoß, wenn ein Fahrzeug",
+    "a": "an der Ein- und Ausfahrt von Krankenhäusern und Feuerwachen parkt",
+    "b": "an der Ein- und Ausfahrt eines Industriebetriebs parkt",
+    "c": "an der Ein- und Ausfahrt eines Wohnhauses parkt"
+  },
+  "114": {
+    "q": "Wo dürfen Sie Ihr Fahrzeug nicht parken?",
+    "a": "auf einem vorgesehenen Parkplatz",
+    "b": "dort, wo Fußgänger die Straße überqueren",
+    "c": "dort, wo Sie hinwollen"
+  },
+  "115": {
+    "q": "Wann darf ein Kind ohne Rückhaltesystem sitzen?",
+    "a": "wenn das Kind eine medizinische, geistige oder psychische Erkrankung hat",
+    "b": "wenn das Kind nicht im Rückhaltesystem sitzen will",
+    "c": "wenn die Familie ins Einkaufszentrum fährt"
+  },
+  "116": {
+    "q": "Die Zulassung eines Fahrzeugs kann ausgesetzt werden, wenn",
+    "a": "das Fahrzeug den Vorschriften entspricht",
+    "b": "das Fahrzeug als unansehnlich gilt",
+    "c": "das Fahrzeug bei der Kontrolle nicht auf den Fahrer zugelassen ist"
+  },
+  "117": {
+    "q": "Welche Grundregel gilt in der Kreuzung?",
+    "a": "die Kreuzung nicht blockieren",
+    "b": "hupen, wenn jemand den Weg versperrt",
+    "c": "beschleunigen"
+  },
+  "118": {
+    "q": "Wann darf man in einem Geschäfts- oder Wohngebiet rechts überholen?",
+    "a": "wenn die Ampel gleich rot wird",
+    "b": "wenn die Straße zwei oder mehr Fahrstreifen in einer Richtung hat",
+    "c": "Überholen ist auf einer belebten Straße erlaubt"
+  },
+  "119": {
+    "q": "Wohin muss eine am Motorrad angebrachte Zusatzleuchte gerichtet sein?",
+    "a": "nach links",
+    "b": "nach rechts",
+    "c": "nach oben"
+  },
+  "120": {
+    "q": "Wo können Sie einen angeblichen Verkehrsverstoß anfechten?",
+    "a": "bei der zuständigen Stelle für Verkehrsverfahren",
+    "b": "auf der Straße, bevor der Kontrolleur weg ist",
+    "c": "bei einer beliebigen Stelle für Verkehrsverfahren"
+  },
+  "121": {
+    "q": "Wer darf bei einem gewöhnlichen Verkehrsverstoß den Führerschein einziehen?",
+    "a": "Vollzugsbeamte des LTO oder vom LTO beauftragte Personen",
+    "b": "jeder, solange der Verstoß gesetzlich vorgesehen ist",
+    "c": "jeder, solange der Kontrolleur fest angestellter Beamter ist"
+  },
+  "122": {
+    "q": "Wo muss das Kennzeichen angebracht werden?",
+    "a": "eines vorn und eines hinten am Fahrzeug",
+    "b": "zwei vorn",
+    "c": "eines an der Frontscheibe und eines an der Heckscheibe"
+  },
+  "123": {
+    "q": "Dürfen Sie ein Motorrad fahren, wenn der Führerschein den Code DL B trägt?",
+    "a": "ja",
+    "b": "nein, außer ein Kontrolleur erlaubt es",
+    "c": "nein"
+  },
+  "124": {
+    "q": "Dieses Vorschriftszeichen bedeutet",
+    "a": "Einfahrt verboten für Fahrzeuge mit einer Achslast von mehr als 2 Tonnen",
+    "b": "Einfahrt verboten für Fahrzeuge mit einer Achslast von weniger als 2 Tonnen",
+    "c": "Fahrzeuge mit einer Achslast von mehr als 2 Tonnen sind erlaubt"
+  },
+  "125": {
+    "q": "Wo muss das Kennzeichen eines Motorrads angebracht sein?",
+    "a": "am Tank",
+    "b": "am Heck des Motorrads",
+    "c": "an der Motorabdeckung"
+  },
+  "126": {
+    "q": "Ab welcher Größe braucht ein Kind kein Rückhaltesystem?",
+    "a": "100 cm und mehr",
+    "b": "150 cm und mehr",
+    "c": "180 cm und mehr"
+  },
+  "127": {
+    "q": "Wie lange gilt ein Führerschein höchstens, wenn bei der Verlängerung kein Verkehrsverstoß vorliegt?",
+    "a": "5 Jahre",
+    "b": "10 Jahre",
+    "c": "15 Jahre"
+  },
+  "128": {
+    "q": "Ist die Handynutzung beim Fahren verboten?",
+    "a": "ja, wenn das Handy nicht beim LTO registriert ist",
+    "b": "ja, wenn der Fahrer ein drahtloses Gerät benutzt",
+    "c": "ja, wenn der Fahrer das Handy nicht freihändig benutzt"
+  },
+  "129": {
+    "q": "Wie hoch über der Armaturenbrettbasis darf das Handy höchstens angebracht werden?",
+    "a": "2 Zoll",
+    "b": "4 Zoll",
+    "c": "6 Zoll"
+  },
+  "130": {
+    "q": "Darf ein Fahrer beim Fahren eine Kopie des Führerscheins benutzen?",
+    "a": "nein, außer ein Kontrolleur erlaubt es",
+    "b": "ja, wenn die Kopie Größe und Farbe des Originals hat",
+    "c": "nein"
+  },
+  "131": {
+    "q": "Nach dem Gesetz zum Schutz von Kindern auf Motorrädern darf ein Kind unter 18 Jahren auf öffentlichen Straßen nicht auf einem Zweirad mitfahren, außer wenn",
+    "a": "es mit den Füßen die serienmäßigen Fußrasten erreicht, mit den Armen die Taille des Fahrers umfassen kann und einen vorgeschriebenen Schutzhelm trägt",
+    "b": "der Verkehr schnell und dicht ist oder ein Tempolimit über 60 km/h gilt",
+    "c": "der Fahrer die Taille des vor ihm sitzenden Kindes umfassen kann und das Kind einen vorgeschriebenen Helm trägt"
+  },
+  "132": {
+    "q": "Ein seitlich am Motorrad angebrachtes Staufach, nicht höher als die Sitzbank, gilt als Zubehör und heißt",
+    "a": "Topcase",
+    "b": "individuelles Topcase",
+    "c": "Satteltasche"
+  },
+  "133": {
+    "q": "Ab welchem Alter darf man einen nichtberuflichen Führerschein beantragen?",
+    "a": "16 Jahre",
+    "b": "17 Jahre",
+    "c": "20 Jahre"
+  },
+  "134": {
+    "q": "Wofür werden die erhobenen Straßenbenutzungsgebühren verwendet?",
+    "a": "für Ausbau oder Erhalt der Straßen",
+    "b": "für die Gehälter der Kontrolleure",
+    "c": "für den Bau von Deichen und Dämmen"
+  },
+  "135": {
+    "q": "Wo ist Parken nicht erlaubt?",
+    "a": "auf Rastplätzen an der Schnellstraße",
+    "b": "auf dem Gehweg",
+    "c": "auf Parkplätzen"
+  },
+  "136": {
+    "q": "Wie kann man Stress abbauen?",
+    "a": "anhalten, aussteigen, jeden anschreien, der fragt, und dann einen Streit anfangen",
+    "b": "tief durchatmen, bequem sitzen, ruhige Musik hören, genug Abstand nach vorn lassen und extra Fahrzeit einplanen",
+    "c": "schneller fahren als erlaubt, laute Musik hören, Fahrgäste anschreien und andere Fahrer zum Streit reizen"
+  },
+  "137": {
+    "q": "Welcher Verstoß gilt, wenn der Fahrer die drei Sobriety-Tests besteht?",
+    "a": "Missachten eines Verkehrszeichens",
+    "b": "Fahren unter Einfluss",
+    "c": "der ursprüngliche Verkehrsverstoß"
+  },
+  "138": {
+    "q": "Welche Aussage stimmt?",
+    "a": "wer Schaltgetriebe (MT) fahren darf, darf kein Automatikgetriebe (AT) fahren",
+    "b": "wer nur Automatik (AT) fahren darf, darf auch Schaltgetriebe (MT) fahren",
+    "c": "wer Schaltgetriebe (MT) fahren darf, darf auch Automatik (AT) fahren"
+  },
+  "139": {
+    "q": "Die Zulassung eines Fahrzeugs kann ausgesetzt werden, wenn",
+    "a": "das Fahrzeug zu leicht für öffentliche Straßen ist",
+    "b": "das Fahrzeug keinen Frontantrieb hat",
+    "c": "das Fahrzeug öffentliche Straßen übermäßig beschädigen kann"
+  },
+  "140": {
+    "q": "Was geschieht, wenn der Fahrer den Pflichttest bei Verdacht auf Alkohol am Steuer verweigert?",
+    "a": "Entzug der Fahrzeugzulassung",
+    "b": "Einzug des Führerscheins und anschließender automatischer Entzug",
+    "c": "Entzug des Führerscheins für 2 Jahre"
+  },
+  "141": {
+    "q": "Ihr Führerschein ist gerade abgelaufen. Dürfen Sie noch zum nächsten LTO fahren, um ihn zu verlängern?",
+    "a": "ja, solange Sie die Regeln einhalten",
+    "b": "nein",
+    "c": "ja, solange Sie direkt zur nächsten Stelle fahren und unterwegs nicht anhalten"
+  },
+  "142": {
+    "q": "Ab welchem Alter darf ein Kind nach Republic Act Nr. 11229 auf dem Beifahrersitz sitzen?",
+    "a": "älter als 12 Jahre",
+    "b": "16 Jahre und älter",
+    "c": "18 Jahre und älter"
+  },
+  "143": {
+    "q": "Wann darf ein Kind ohne Rückhaltesystem sitzen?",
+    "a": "wenn es zu spät zu einem Arzttermin käme",
+    "b": "wenn es zur Schule fährt",
+    "c": "wenn es sofort behandelt werden muss"
+  },
+  "144": {
+    "q": "Welche Farbe müssen Zusatzleuchten an der Fahrzeugfront haben?",
+    "a": "jede Farbe ist erlaubt",
+    "b": "rot",
+    "c": "weiß oder gelblich weiß"
+  },
+  "145": {
+    "q": "Der Führerschein wird 30 Tage entzogen, wenn",
+    "a": "der Verkehrsverstoß schwer ist",
+    "b": "der Fahrer die Strafe der Kontrolle nicht innerhalb von 15 Tagen zahlt",
+    "c": "der Fahrer das Bußgeld nicht innerhalb von 72 Stunden zahlt"
+  },
+  "146": {
+    "q": "Kann ein Führerschein für 10 Jahre ausgestellt werden, wenn ein Verkehrsverstoß vorliegt?",
+    "a": "nein",
+    "b": "ja",
+    "c": "ja, wenn alle Strafen 15 Tage vor der Verlängerung bezahlt sind"
+  },
+  "147": {
+    "q": "Wann muss ein Fahrer auf dem Motorrad einen Helm tragen?",
+    "a": "bei langen und kurzen Fahrten",
+    "b": "bei langen oder kurzen Fahrten und auf jeder Art von Straße",
+    "c": "nur auf einer Nationalstraße"
+  },
+  "148": {
+    "q": "Wie lange gilt der Führerschein, wenn bei der Verlängerung ein Verkehrsverstoß vorliegt?",
+    "a": "10 Jahre",
+    "b": "5 Jahre",
+    "c": "3 Jahre"
+  },
+  "149": {
+    "q": "Wann wird ein Atemalkoholmessgerät (ABA) eingesetzt?",
+    "a": "wenn der Kontrolleur darauf besteht",
+    "b": "wenn der Fahrer mindestens einen Sobriety-Test nicht besteht",
+    "c": "wenn der Fahrer alle Sobriety-Tests besteht"
+  },
+  "150": {
+    "q": "Ein hinter der Sitzbank angebrachtes angefertigtes Staufach, das als Motorradzubehör gilt, ist ein",
+    "a": "Topcase",
+    "b": "individuelles Topcase",
+    "c": "Satteltasche"
+  },
+  "151": {
+    "q": "Welche Führerscheinklasse erhält ein Erstantragsteller?",
+    "a": "beruflicher Führerschein (PDL)",
+    "b": "nichtberuflicher Führerschein (NPDL)",
+    "c": "entweder NPDL oder PDL"
+  },
+  "152": {
+    "q": "Darf man ein Motorrad auf einer öffentlichen Straße fahren, solange die Zulassungsbescheinigung noch nicht da ist?",
+    "a": "nein",
+    "b": "ja",
+    "c": "ja, wenn der Händler eine Fahrerlaubnis ausstellt"
   }
 }

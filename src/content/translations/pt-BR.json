@@ -598,5 +598,317 @@
     "a": "em nenhuma circunstância",
     "b": "a outra pessoa que está aprendendo a dirigir",
     "c": "em emergências"
+  },
+  "101": {
+    "q": "O que você deve fazer antes de sair da vaga?",
+    "a": "simplesmente sair",
+    "b": "buzinar",
+    "c": "olhar ao redor primeiro e usar o pisca"
+  },
+  "102": {
+    "q": "É proibido estacionar",
+    "a": "dentro de um estabelecimento comercial",
+    "b": "dentro de um cruzamento",
+    "c": "em uma via de mão única"
+  },
+  "103": {
+    "q": "Sempre que estacionar, lembre-se de",
+    "a": "deixar o câmbio em ponto morto",
+    "b": "desligar o motor e puxar o freio de mão",
+    "c": "fechar as janelas"
+  },
+  "104": {
+    "q": "É ilegal estacionar",
+    "a": "a menos de 2 metros de um hidrante e a menos de 3 metros do cruzamento",
+    "b": "a menos de 5 metros de um hidrante e a menos de 6 metros do cruzamento",
+    "c": "a menos de 5 metros de um hidrante e a menos de 5 metros do cruzamento"
+  },
+  "105": {
+    "q": "O que é considerado infração de estacionamento?",
+    "a": "estacionar em uma rua de mão única",
+    "b": "estacionar sem o pisca-alerta ligado",
+    "c": "estacionar a menos de 5 metros de um cruzamento semaforizado"
+  },
+  "106": {
+    "q": "Se você está parado à beira da via à noite, deve",
+    "a": "avisar os outros ligando o pisca-alerta ou as luzes de estacionamento, se o veículo tiver",
+    "b": "ficar acordado e pronto para sair",
+    "c": "avisar os outros ligando os faróis"
+  },
+  "107": {
+    "q": "Nunca estacione nem pare ao lado de um hidrante. Só pode estacionar a uma distância de pelo menos",
+    "a": "3 metros",
+    "b": "4 metros",
+    "c": "5 metros"
+  },
+  "108": {
+    "q": "Quando é permitido estacionar em fila dupla?",
+    "a": "nunca",
+    "b": "quando a rua ou a via é larga o bastante",
+    "c": "quando não há outra opção"
+  },
+  "109": {
+    "q": "O motorista não deve estacionar nem parar junto a uma placa de pare ou a um semáforo, porque isso reduz a visibilidade dos outros, sobretudo a menos de",
+    "a": "4 metros",
+    "b": "5 metros",
+    "c": "6 metros"
+  },
+  "110": {
+    "q": "Se você estaciona ladeira acima sem meio-fio, vire as rodas para",
+    "a": "a borda da rua",
+    "b": "o outro lado da rua",
+    "c": "o meio da rua"
+  },
+  "111": {
+    "q": "Um motorista que estaciona ou para a menos de 6 metros de uma faixa de pedestres reduz a visibilidade dos pedestres para os outros motoristas. Isso",
+    "a": "é permitido",
+    "b": "é inseguro",
+    "c": "não deve ser feito"
+  },
+  "112": {
+    "q": "O motorista deve estacionar junto ao meio-fio, em marcha baixa e com o freio de estacionamento acionado, a uma distância de pelo menos",
+    "a": "40 cm",
+    "b": "35 cm",
+    "c": "30 cm"
+  },
+  "113": {
+    "q": "O estacionamento é infração quando um veículo",
+    "a": "estaciona na entrada e na saída de hospitais e quartéis de bombeiros",
+    "b": "estaciona na entrada e na saída de um estabelecimento industrial",
+    "c": "estaciona na entrada e na saída de um prédio residencial"
+  },
+  "114": {
+    "q": "Em que lugar você não pode estacionar o veículo?",
+    "a": "em uma vaga destinada a estacionamento",
+    "b": "em um lugar onde os pedestres atravessam",
+    "c": "em um lugar para onde você quer ir"
+  },
+  "115": {
+    "q": "Quando uma criança pode ser dispensada do dispositivo de retenção infantil?",
+    "a": "se a criança tem uma condição médica, mental ou psicológica",
+    "b": "se a criança não quer ficar no dispositivo",
+    "c": "se a família vai a um shopping"
+  },
+  "116": {
+    "q": "O registro de um veículo pode ser suspenso se",
+    "a": "o veículo estiver em conformidade com as normas",
+    "b": "o veículo for considerado de aspecto inadequado",
+    "c": "o veículo não estiver registrado em nome do motorista no momento da abordagem"
+  },
+  "117": {
+    "q": "Qual é a regra básica dentro do cruzamento?",
+    "a": "não bloquear o cruzamento",
+    "b": "buzinar quando alguém obstruir o caminho",
+    "c": "acelerar"
+  },
+  "118": {
+    "q": "Quando um motorista pode ultrapassar com segurança pela direita em uma área comercial ou residencial?",
+    "a": "se o semáforo está prestes a ficar vermelho",
+    "b": "se a via tem duas ou mais faixas no mesmo sentido",
+    "c": "a ultrapassagem é permitida em uma via movimentada"
+  },
+  "119": {
+    "q": "Para onde deve apontar uma lâmpada auxiliar instalada em uma motocicleta?",
+    "a": "para a esquerda",
+    "b": "para a direita",
+    "c": "para cima"
+  },
+  "120": {
+    "q": "Onde você pode contestar uma suposta infração de trânsito?",
+    "a": "no órgão de julgamento de trânsito competente",
+    "b": "na rua, antes de o agente ir embora",
+    "c": "em qualquer órgão de julgamento"
+  },
+  "121": {
+    "q": "Quem tem autoridade para apreender a carteira numa infração comum de trânsito?",
+    "a": "agentes de fiscalização do LTO ou agentes credenciados pelo LTO",
+    "b": "qualquer pessoa, desde que a infração esteja prevista em lei",
+    "c": "qualquer pessoa, desde que o agente seja servidor público efetivo"
+  },
+  "122": {
+    "q": "Onde a placa deve ser colocada?",
+    "a": "uma na frente e uma na traseira do veículo",
+    "b": "duas na frente",
+    "c": "uma no para-brisa dianteiro e uma no traseiro"
+  },
+  "123": {
+    "q": "Você pode pilotar uma motocicleta se a carteira tiver o código DL B?",
+    "a": "sim",
+    "b": "não, a menos que um agente autorize",
+    "c": "não"
+  },
+  "124": {
+    "q": "Esta placa de regulamentação significa",
+    "a": "proibida a entrada de veículos com carga por eixo acima de 2 toneladas",
+    "b": "proibida a entrada de veículos com carga por eixo abaixo de 2 toneladas",
+    "c": "veículos com carga por eixo acima de 2 toneladas são permitidos"
+  },
+  "125": {
+    "q": "Onde a placa da motocicleta deve ficar?",
+    "a": "no tanque de combustível",
+    "b": "na traseira da motocicleta",
+    "c": "na tampa do motor"
+  },
+  "126": {
+    "q": "Qual altura dispensa a criança do dispositivo de retenção infantil?",
+    "a": "100 cm ou mais",
+    "b": "150 cm ou mais",
+    "c": "180 cm ou mais"
+  },
+  "127": {
+    "q": "Qual é a validade máxima da carteira se o motorista não tem infração na renovação?",
+    "a": "5 anos",
+    "b": "10 anos",
+    "c": "15 anos"
+  },
+  "128": {
+    "q": "É ilegal usar celular enquanto dirige?",
+    "a": "sim, se o motorista não registrou o celular no LTO",
+    "b": "sim, se o motorista usa um aparelho sem fio",
+    "c": "sim, se o motorista não usa o celular em modo viva-voz"
+  },
+  "129": {
+    "q": "Qual é a altura máxima para instalar o celular a partir da base do painel?",
+    "a": "2 polegadas",
+    "b": "4 polegadas",
+    "c": "6 polegadas"
+  },
+  "130": {
+    "q": "O motorista pode usar uma fotocópia da carteira enquanto dirige?",
+    "a": "não, a menos que um agente autorize",
+    "b": "sim, se a cópia tiver o tamanho e a cor exatos do original",
+    "c": "não"
+  },
+  "131": {
+    "q": "Pela lei de segurança de crianças em motocicletas, um menor de 18 anos não pode andar em moto de duas rodas em via pública, a menos que",
+    "a": "alcance com os pés as pedaleiras originais, abrace a cintura do condutor e use um capacete protetor padrão",
+    "b": "haja grande densidade de veículos rápidos ou um limite acima de 60 km/h",
+    "c": "o condutor segure a cintura da criança sentada à frente e a criança use um capacete padrão"
+  },
+  "132": {
+    "q": "Um compartimento preso na lateral da motocicleta, não mais alto que o banco, considerado acessório, é",
+    "a": "um baú traseiro",
+    "b": "um baú traseiro personalizado",
+    "c": "uma mala lateral"
+  },
+  "133": {
+    "q": "Qual é a idade permitida para pedir a carteira não profissional?",
+    "a": "16 anos",
+    "b": "17 anos",
+    "c": "20 anos"
+  },
+  "134": {
+    "q": "Para onde vão os pagamentos arrecadados da taxa de usuário de veículos?",
+    "a": "para melhorar ou manter as estradas",
+    "b": "para salários dos agentes de fiscalização",
+    "c": "para a construção de diques e barragens"
+  },
+  "135": {
+    "q": "Em qual área não é permitido estacionar?",
+    "a": "em áreas de descanso da via expressa",
+    "b": "na calçada",
+    "c": "em estacionamentos"
+  },
+  "136": {
+    "q": "Como superar o estresse?",
+    "a": "parar, sair do veículo, gritar com quem perguntar e começar uma briga",
+    "b": "respirar fundo, sentar-se confortavelmente, ouvir música calma, deixar espaço à frente e prever tempo extra de viagem",
+    "c": "dirigir acima do limite, ouvir música alta, gritar com os passageiros e provocar outros motoristas"
+  },
+  "137": {
+    "q": "Qual infração se aplica se o motorista passa nos três testes de sobriedade em campo?",
+    "a": "desrespeitar placa de trânsito",
+    "b": "dirigir sob influência",
+    "c": "a infração de trânsito inicial"
+  },
+  "138": {
+    "q": "Qual afirmação é verdadeira?",
+    "a": "quem está autorizado para câmbio manual (MT) não pode dirigir um automático (AT)",
+    "b": "quem está autorizado só para automático (AT) pode dirigir um manual (MT)",
+    "c": "quem está autorizado para câmbio manual (MT) pode dirigir um automático (AT)"
+  },
+  "139": {
+    "q": "O registro de um veículo pode ser suspenso se",
+    "a": "o veículo é leve demais para vias públicas",
+    "b": "o veículo não tem tração dianteira",
+    "c": "o veículo pode causar dano excessivo às vias públicas"
+  },
+  "140": {
+    "q": "O que acontece se o motorista recusar o teste obrigatório quando há suspeita de dirigir sob efeito de álcool?",
+    "a": "cassação do registro do veículo",
+    "b": "apreensão da carteira e cassação automática",
+    "c": "suspensão da carteira por 2 anos"
+  },
+  "141": {
+    "q": "Sua carteira acabou de vencer. Você ainda pode dirigir até o LTO mais próximo para renová-la?",
+    "a": "sim, desde que respeite as regras",
+    "b": "não",
+    "c": "sim, desde que vá direto ao posto mais próximo e não faça outras paradas"
+  },
+  "142": {
+    "q": "Pela Lei da República n.º 11229, com que idade a criança pode sentar no banco dianteiro?",
+    "a": "mais de 12 anos",
+    "b": "16 anos ou mais",
+    "c": "18 anos ou mais"
+  },
+  "143": {
+    "q": "Quando uma criança pode ser dispensada do dispositivo de retenção infantil?",
+    "a": "se vai se atrasar para uma consulta",
+    "b": "se está indo à escola",
+    "c": "se precisa de atendimento médico imediato"
+  },
+  "144": {
+    "q": "Qual deve ser a cor das lâmpadas auxiliares instaladas na frente do veículo?",
+    "a": "qualquer cor serve",
+    "b": "vermelha",
+    "c": "branca ou branco-amarelada"
+  },
+  "145": {
+    "q": "A carteira é suspensa por 30 dias se",
+    "a": "a infração cometida é grave",
+    "b": "o motorista não paga a penalidade da abordagem em 15 dias",
+    "c": "o motorista não paga a multa em 72 horas"
+  },
+  "146": {
+    "q": "O motorista pode receber carteira com validade de 10 anos se tem infração?",
+    "a": "não",
+    "b": "sim",
+    "c": "sim, se todas as penalidades forem pagas 15 dias antes da renovação"
+  },
+  "147": {
+    "q": "Quando o condutor precisa usar capacete na motocicleta?",
+    "a": "em viagens longas e curtas",
+    "b": "em viagens longas ou curtas e em qualquer tipo de via",
+    "c": "somente em rodovia nacional"
+  },
+  "148": {
+    "q": "Qual a validade da carteira se há infração no momento da renovação?",
+    "a": "10 anos",
+    "b": "5 anos",
+    "c": "3 anos"
+  },
+  "149": {
+    "q": "Quando o etilômetro (ABA) deve ser usado?",
+    "a": "quando o agente insiste que ele é necessário",
+    "b": "quando o motorista falha em pelo menos um teste de sobriedade em campo",
+    "c": "quando o motorista passa em todos os testes de sobriedade em campo"
+  },
+  "150": {
+    "q": "Um compartimento fabricado e instalado atrás do banco da motocicleta, considerado acessório, é",
+    "a": "um baú traseiro",
+    "b": "um baú traseiro personalizado",
+    "c": "uma mala lateral"
+  },
+  "151": {
+    "q": "Qual é a classificação inicial da carteira para quem pede uma nova?",
+    "a": "carteira profissional (PDL)",
+    "b": "carteira não profissional (NPDL)",
+    "c": "NPDL ou PDL"
+  },
+  "152": {
+    "q": "É permitido pilotar uma motocicleta em via pública enquanto o certificado de registro não sai?",
+    "a": "não",
+    "b": "sim",
+    "c": "sim, se a concessionária der autorização de viagem"
   }
 }

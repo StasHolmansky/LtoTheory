@@ -1,6 +1,6 @@
 {
-  "title": "LTO Exam Reviewer 2026 — Non-Professional — 100 Questions (English)",
-  "source": "Slides from the four-part YouTube reviewer. Wording kept as printed. Questions 27, 58 and 93 are not in these videos.",
+  "title": "LTO Exam Reviewer 2026 — Non-Professional, parking, and CDE (English)",
+  "source": "Questions 1–100 keep the non-professional reviewer order. Questions 101–114 are extra parking items, and questions 115–152 are extra CDE items, appended after the original 100. Wording kept as printed.",
   "questions": [
     {
       "id": 1,
@@ -1898,6 +1898,994 @@
         {
           "key": "c",
           "text": "in Emergencies"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 101,
+      "question": "What should you do before leaving the parking space?",
+      "options": [
+        {
+          "key": "a",
+          "text": "just go"
+        },
+        {
+          "key": "b",
+          "text": "sound your horn"
+        },
+        {
+          "key": "c",
+          "text": "look around first and use signal lights"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 102,
+      "question": "Parking is prohibited",
+      "options": [
+        {
+          "key": "a",
+          "text": "within a commercial premises"
+        },
+        {
+          "key": "b",
+          "text": "within an intersection"
+        },
+        {
+          "key": "c",
+          "text": "within a one-way road"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 103,
+      "question": "Whenever you park, remember to",
+      "options": [
+        {
+          "key": "a",
+          "text": "shift the gear to neutral"
+        },
+        {
+          "key": "b",
+          "text": "turn off the engine and engage the handbrake"
+        },
+        {
+          "key": "c",
+          "text": "close the windows"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 104,
+      "question": "It is illegal to park",
+      "options": [
+        {
+          "key": "a",
+          "text": "within 2 meters of a fire hydrant and within 3 meters from the intersection"
+        },
+        {
+          "key": "b",
+          "text": "within 5 meters of a fire hydrant and within 6 meters from the intersection"
+        },
+        {
+          "key": "c",
+          "text": "within 5 meters of a fire hydrant and within 5 meters from the intersection"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 105,
+      "question": "What is considered as a parking violation?",
+      "options": [
+        {
+          "key": "a",
+          "text": "parking in a one-way street"
+        },
+        {
+          "key": "b",
+          "text": "parking without hazard lights on"
+        },
+        {
+          "key": "c",
+          "text": "parking within 5 meters from a signalized intersection"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 106,
+      "question": "When you are parked at the side of the road at night, you must",
+      "options": [
+        {
+          "key": "a",
+          "text": "warn others by turning on your four-way emergency flashers or parking lights if your vehicle has some"
+        },
+        {
+          "key": "b",
+          "text": "be sure to stay awake and ready to move"
+        },
+        {
+          "key": "c",
+          "text": "warn others by turning on your headlights"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 107,
+      "question": "Never park or stop at the side of the road with a fire hydrant. You may only park with a distance of at least",
+      "options": [
+        {
+          "key": "a",
+          "text": "3 meters"
+        },
+        {
+          "key": "b",
+          "text": "4 meters"
+        },
+        {
+          "key": "c",
+          "text": "5 meters"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 108,
+      "question": "When are you permitted to double park?",
+      "options": [
+        {
+          "key": "a",
+          "text": "never"
+        },
+        {
+          "key": "b",
+          "text": "when the street or road is wide enough"
+        },
+        {
+          "key": "c",
+          "text": "when you have no other option"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 109,
+      "question": "A driver must not park or stop at the side of the road with a stop sign or a traffic control signal because it reduces visibility for other drivers, especially when it is within",
+      "options": [
+        {
+          "key": "a",
+          "text": "4 meters"
+        },
+        {
+          "key": "b",
+          "text": "5 meters"
+        },
+        {
+          "key": "c",
+          "text": "6 meters"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 110,
+      "question": "If you are parking uphill without a curb, turn the wheels towards the",
+      "options": [
+        {
+          "key": "a",
+          "text": "edge of the street"
+        },
+        {
+          "key": "b",
+          "text": "other side of the street"
+        },
+        {
+          "key": "c",
+          "text": "middle of the street"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 111,
+      "question": "A driver who parks or stops within 6 meters of a crosswalk reduces the visibility of pedestrians to other drivers. This",
+      "options": [
+        {
+          "key": "a",
+          "text": "is allowed"
+        },
+        {
+          "key": "b",
+          "text": "is unsafe"
+        },
+        {
+          "key": "c",
+          "text": "should not"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 112,
+      "question": "A driver must park within the curb by putting the car in low gear and setting the parking brake for at least",
+      "options": [
+        {
+          "key": "a",
+          "text": "40 cm"
+        },
+        {
+          "key": "b",
+          "text": "35 cm"
+        },
+        {
+          "key": "c",
+          "text": "30 cm"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 113,
+      "question": "Parking is considered as a violation when a motor vehicle",
+      "options": [
+        {
+          "key": "a",
+          "text": "parks at the entrance and exit of hospitals and fire stations"
+        },
+        {
+          "key": "b",
+          "text": "parks at the entrance and exit of an industrial establishment"
+        },
+        {
+          "key": "c",
+          "text": "parks at the entrance and exit of a residential establishment"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 114,
+      "question": "In which place can't you park your vehicle?",
+      "options": [
+        {
+          "key": "a",
+          "text": "in a given parking space"
+        },
+        {
+          "key": "b",
+          "text": "in a place where pedestrians cross"
+        },
+        {
+          "key": "c",
+          "text": "in a place where you want to go"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "When can a child be exempted from being seated in a child restraint system?",
+      "options": [
+        {
+          "key": "a",
+          "text": "if the child has a medical, mental, or psychological condition"
+        },
+        {
+          "key": "b",
+          "text": "if the child does not want to be in a child restraint system"
+        },
+        {
+          "key": "c",
+          "text": "if the family is going to a mall"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 116,
+      "question": "Registration of a motor vehicle may be suspended if",
+      "options": [
+        {
+          "key": "a",
+          "text": "the motor vehicle is found to be in conformity with regulations"
+        },
+        {
+          "key": "b",
+          "text": "the motor vehicle is found to be unsightly"
+        },
+        {
+          "key": "c",
+          "text": "the motor vehicle is not registered to the driver at the time of apprehension"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 117,
+      "question": "What is the basic rule within the intersection?",
+      "options": [
+        {
+          "key": "a",
+          "text": "do not block the intersection"
+        },
+        {
+          "key": "b",
+          "text": "blow the horn when somebody obstructs your way"
+        },
+        {
+          "key": "c",
+          "text": "speed up"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 118,
+      "question": "When can a driver safely overtake on the right of a vehicle within a business or residential district?",
+      "options": [
+        {
+          "key": "a",
+          "text": "if the traffic light is about to turn red"
+        },
+        {
+          "key": "b",
+          "text": "if the highway has two or more lanes going in one direction"
+        },
+        {
+          "key": "c",
+          "text": "overtaking is allowed on a busy road"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 119,
+      "question": "Where should an auxiliary lamp installed on a motorcycle be directed?",
+      "options": [
+        {
+          "key": "a",
+          "text": "pointed leftward"
+        },
+        {
+          "key": "b",
+          "text": "pointed rightward"
+        },
+        {
+          "key": "c",
+          "text": "pointed upward"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "Where can you contest an alleged traffic violation?",
+      "options": [
+        {
+          "key": "a",
+          "text": "at the traffic adjudication office concerned"
+        },
+        {
+          "key": "b",
+          "text": "on the street before the traffic enforcer leaves"
+        },
+        {
+          "key": "c",
+          "text": "at any adjudication office"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 121,
+      "question": "Who has the authority to confiscate a driver's license during a normal traffic violation?",
+      "options": [
+        {
+          "key": "a",
+          "text": "LTO law enforcement officers or LTO deputized agents"
+        },
+        {
+          "key": "b",
+          "text": "anybody for as long as the violation is within the provisions of law"
+        },
+        {
+          "key": "c",
+          "text": "anybody for as long as the traffic enforcer is a permanent employee of the government"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 122,
+      "question": "Where do you need to display your plate number?",
+      "options": [
+        {
+          "key": "a",
+          "text": "one in front and one at the rear of the vehicle"
+        },
+        {
+          "key": "b",
+          "text": "two in front"
+        },
+        {
+          "key": "c",
+          "text": "one in the front windshield and one at the back windshield"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 123,
+      "question": "Can you drive a motorcycle if your license bears DL code B?",
+      "options": [
+        {
+          "key": "a",
+          "text": "yes"
+        },
+        {
+          "key": "b",
+          "text": "no, unless authorized by a traffic enforcer"
+        },
+        {
+          "key": "c",
+          "text": "no"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 124,
+      "question": "This regulatory sign means",
+      "options": [
+        {
+          "key": "a",
+          "text": "no entry for vehicles with a gross axle load of more than 2 tons"
+        },
+        {
+          "key": "b",
+          "text": "no entry for vehicles with a gross axle load of less than 2 tons"
+        },
+        {
+          "key": "c",
+          "text": "vehicles with a gross axle load of more than 2 tons are allowed"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 125,
+      "question": "Where should the number plate of a motorcycle be displayed?",
+      "options": [
+        {
+          "key": "a",
+          "text": "at the fuel tank of the motorcycle"
+        },
+        {
+          "key": "b",
+          "text": "at the rear of the motorcycle"
+        },
+        {
+          "key": "c",
+          "text": "at the engine cover of the motorcycle"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 126,
+      "question": "What is the height requirement for a child to be exempted from using a child restraint system?",
+      "options": [
+        {
+          "key": "a",
+          "text": "100 cm and above"
+        },
+        {
+          "key": "b",
+          "text": "150 cm and above"
+        },
+        {
+          "key": "c",
+          "text": "180 cm and above"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 127,
+      "question": "What is the maximum validity of a license that a driver may have if he or she has no traffic violation at the time of renewal?",
+      "options": [
+        {
+          "key": "a",
+          "text": "5 years validity"
+        },
+        {
+          "key": "b",
+          "text": "10 years validity"
+        },
+        {
+          "key": "c",
+          "text": "15 years validity"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 128,
+      "question": "Is using a mobile phone illegal while driving?",
+      "options": [
+        {
+          "key": "a",
+          "text": "yes, if the driver failed to register the mobile phone with the LTO"
+        },
+        {
+          "key": "b",
+          "text": "yes, if the driver is using a wireless gadget"
+        },
+        {
+          "key": "c",
+          "text": "yes, if the driver is not using a hands-free mode for the mobile phone"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 129,
+      "question": "What is the maximum height that a driver can install his mobile phone from the base of the dashboard?",
+      "options": [
+        {
+          "key": "a",
+          "text": "2 inches"
+        },
+        {
+          "key": "b",
+          "text": "4 inches"
+        },
+        {
+          "key": "c",
+          "text": "6 inches"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 130,
+      "question": "Can a driver use a photocopy of a driver's license while driving?",
+      "options": [
+        {
+          "key": "a",
+          "text": "no, unless authorized by the traffic enforcer"
+        },
+        {
+          "key": "b",
+          "text": "yes, if the photocopy is the exact size and color of the original"
+        },
+        {
+          "key": "c",
+          "text": "no"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 131,
+      "question": "Under the Children's Safety on Motorcycles Act, a child below 18 years old cannot ride on a two-wheeled motorcycle on public roads unless",
+      "options": [
+        {
+          "key": "a",
+          "text": "the child can comfortably reach his or her feet on the standard foot peg of the motorcycle, his or her arms can reach around and grasp the waist of the motorcycle driver, and he or she is wearing a standard protective helmet"
+        },
+        {
+          "key": "b",
+          "text": "there is a high density of fast-moving vehicles or a speed limit of more than 60 kph is imposed"
+        },
+        {
+          "key": "c",
+          "text": "the driver can grasp the waist of the child sitting in front of the driver, and the child is wearing a standard protective helmet"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 132,
+      "question": "A storage compartment attached at the side of the motorcycle, not higher than the seat, that is considered a motorcycle accessory is a",
+      "options": [
+        {
+          "key": "a",
+          "text": "top box"
+        },
+        {
+          "key": "b",
+          "text": "customized top box"
+        },
+        {
+          "key": "c",
+          "text": "saddlebag box"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 133,
+      "question": "What is the allowed age to apply for a non-professional driver's license?",
+      "options": [
+        {
+          "key": "a",
+          "text": "16 years old"
+        },
+        {
+          "key": "b",
+          "text": "17 years old"
+        },
+        {
+          "key": "c",
+          "text": "20 years old"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 134,
+      "question": "Where do the collected payments for the motor vehicle user's charge go?",
+      "options": [
+        {
+          "key": "a",
+          "text": "the collected payments shall be used to upgrade or maintain the roads"
+        },
+        {
+          "key": "b",
+          "text": "the collected payments shall be used for salaries of law enforcers"
+        },
+        {
+          "key": "c",
+          "text": "the collected payments shall be used for the construction of dikes and dams"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 135,
+      "question": "In which area is parking not allowed?",
+      "options": [
+        {
+          "key": "a",
+          "text": "rest stops along the expressway"
+        },
+        {
+          "key": "b",
+          "text": "the sidewalk"
+        },
+        {
+          "key": "c",
+          "text": "parking lots"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 136,
+      "question": "How can you overcome stress?",
+      "options": [
+        {
+          "key": "a",
+          "text": "stopping, getting out of the vehicle, shouting at anybody who inquires, and then engaging in a fight"
+        },
+        {
+          "key": "b",
+          "text": "taking a deep breath, sitting comfortably, listening to soothing music, allowing enough space in front, and providing extra travel time"
+        },
+        {
+          "key": "c",
+          "text": "driving faster than allowed, listening to loud music, shouting at passengers, and provoking other motorists to a fight"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 137,
+      "question": "What violation may be applied if a driver passes the three field sobriety tests?",
+      "options": [
+        {
+          "key": "a",
+          "text": "disregarding traffic sign"
+        },
+        {
+          "key": "b",
+          "text": "driving under the influence"
+        },
+        {
+          "key": "c",
+          "text": "the initial traffic violation"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 138,
+      "question": "Which of the following statements is true?",
+      "options": [
+        {
+          "key": "a",
+          "text": "a driver authorized to drive manual transmission (MT) vehicles is not allowed to drive automatic transmission (AT) vehicles"
+        },
+        {
+          "key": "b",
+          "text": "a driver authorized to drive automatic transmission (AT) vehicles is allowed to drive manual transmission (MT) vehicles"
+        },
+        {
+          "key": "c",
+          "text": "a driver authorized to drive manual transmission (MT) vehicles is allowed to operate automatic transmission (AT) vehicles"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 139,
+      "question": "Registration of a motor vehicle may be suspended if",
+      "options": [
+        {
+          "key": "a",
+          "text": "the motor vehicle is too light to traverse the public roads"
+        },
+        {
+          "key": "b",
+          "text": "the motor vehicle is not a front-wheel drive"
+        },
+        {
+          "key": "c",
+          "text": "the motor vehicle is capable of causing excessive damage to public roads"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 140,
+      "question": "What will happen if the driver refuses to undergo mandatory testing when suspected of driving under the influence of liquor?",
+      "options": [
+        {
+          "key": "a",
+          "text": "revocation of vehicle registration"
+        },
+        {
+          "key": "b",
+          "text": "confiscation of the driver's license and consequent automatic revocation"
+        },
+        {
+          "key": "c",
+          "text": "suspension of the driver's license for 2 years"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 141,
+      "question": "Your license has just expired. Are you still allowed to drive to the nearest LTO to renew your driver's license?",
+      "options": [
+        {
+          "key": "a",
+          "text": "yes, so long as you abide by traffic rules"
+        },
+        {
+          "key": "b",
+          "text": "no"
+        },
+        {
+          "key": "c",
+          "text": "yes, so long as you head straight to the nearest licensing office and make no other stops along the way"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 142,
+      "question": "Under Republic Act No. 11229, what is the allowable age for a child to sit in the front passenger seat of a car?",
+      "options": [
+        {
+          "key": "a",
+          "text": "more than 12 years old"
+        },
+        {
+          "key": "b",
+          "text": "16 years old and above"
+        },
+        {
+          "key": "c",
+          "text": "18 years old and above"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 143,
+      "question": "When can a child be exempted from being seated in a child restraint system?",
+      "options": [
+        {
+          "key": "a",
+          "text": "if the child will be late for a medical appointment"
+        },
+        {
+          "key": "b",
+          "text": "if the child is going to school"
+        },
+        {
+          "key": "c",
+          "text": "if the child requires immediate medical treatment"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 144,
+      "question": "What shall be the color of auxiliary lamps installed at the front of a vehicle?",
+      "options": [
+        {
+          "key": "a",
+          "text": "any color may do"
+        },
+        {
+          "key": "b",
+          "text": "red"
+        },
+        {
+          "key": "c",
+          "text": "white or yellowish white"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 145,
+      "question": "A 30-day suspension of the driver's license shall be imposed if",
+      "options": [
+        {
+          "key": "a",
+          "text": "the traffic violation committed is grave"
+        },
+        {
+          "key": "b",
+          "text": "the driver fails to pay the corresponding penalty of the apprehension within 15 days"
+        },
+        {
+          "key": "c",
+          "text": "the driver fails to pay the fine within 72 hours"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 146,
+      "question": "Can a driver be given a 10-year validity license if he or she has a traffic violation?",
+      "options": [
+        {
+          "key": "a",
+          "text": "no"
+        },
+        {
+          "key": "b",
+          "text": "yes"
+        },
+        {
+          "key": "c",
+          "text": "yes, if all penalties are paid 15 days prior to renewal"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 147,
+      "question": "When does a driver need to wear a helmet when riding a motorcycle?",
+      "options": [
+        {
+          "key": "a",
+          "text": "for long and short drives"
+        },
+        {
+          "key": "b",
+          "text": "for long or short drives and on any type of road or highway"
+        },
+        {
+          "key": "c",
+          "text": "for a national road only"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "What shall be the validity of a license that a driver may have if he or she has a traffic violation at the time of renewal?",
+      "options": [
+        {
+          "key": "a",
+          "text": "10 years validity"
+        },
+        {
+          "key": "b",
+          "text": "5 years validity"
+        },
+        {
+          "key": "c",
+          "text": "3 years validity"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 149,
+      "question": "When shall an alcohol breath analyzer (ABA) be used?",
+      "options": [
+        {
+          "key": "a",
+          "text": "when the enforcement officer insists that an ABA is required"
+        },
+        {
+          "key": "b",
+          "text": "when the driver failed at least one of the field sobriety tests"
+        },
+        {
+          "key": "c",
+          "text": "when the driver passed all the field sobriety tests"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 150,
+      "question": "A fabricated storage compartment fitted behind the seat of a motorcycle that is considered a motorcycle accessory is a",
+      "options": [
+        {
+          "key": "a",
+          "text": "top box"
+        },
+        {
+          "key": "b",
+          "text": "customized top box"
+        },
+        {
+          "key": "c",
+          "text": "saddlebag box"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 151,
+      "question": "What is the initial driver's license classification for applicants of a new license?",
+      "options": [
+        {
+          "key": "a",
+          "text": "professional driver's license (PDL)"
+        },
+        {
+          "key": "b",
+          "text": "non-professional driver's license (NPDL)"
+        },
+        {
+          "key": "c",
+          "text": "either NPDL or PDL"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 152,
+      "question": "Is it allowed to drive a motorcycle on a public road pending release of the certificate of registration?",
+      "options": [
+        {
+          "key": "a",
+          "text": "no"
+        },
+        {
+          "key": "b",
+          "text": "yes"
+        },
+        {
+          "key": "c",
+          "text": "yes, if travel authority is given by the dealer"
         }
       ],
       "answer": "A"

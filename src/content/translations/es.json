@@ -598,5 +598,317 @@
     "a": "bajo ninguna circunstancia",
     "b": "a otra persona que está aprendiendo a conducir",
     "c": "en emergencias"
+  },
+  "101": {
+    "q": "¿Qué debes hacer antes de salir del lugar de estacionamiento?",
+    "a": "irte sin más",
+    "b": "tocar el claxon",
+    "c": "mirar alrededor primero y usar las luces direccionales"
+  },
+  "102": {
+    "q": "Está prohibido estacionar",
+    "a": "dentro de un local comercial",
+    "b": "dentro de una intersección",
+    "c": "en una vía de un solo sentido"
+  },
+  "103": {
+    "q": "Siempre que estaciones, recuerda",
+    "a": "poner el cambio en neutro",
+    "b": "apagar el motor y poner el freno de mano",
+    "c": "cerrar las ventanillas"
+  },
+  "104": {
+    "q": "Es ilegal estacionar",
+    "a": "a menos de 2 metros de un hidrante y a menos de 3 metros de la intersección",
+    "b": "a menos de 5 metros de un hidrante y a menos de 6 metros de la intersección",
+    "c": "a menos de 5 metros de un hidrante y a menos de 5 metros de la intersección"
+  },
+  "105": {
+    "q": "¿Qué se considera una infracción de estacionamiento?",
+    "a": "estacionar en una calle de un solo sentido",
+    "b": "estacionar sin las luces de emergencia",
+    "c": "estacionar a menos de 5 metros de una intersección con semáforo"
+  },
+  "106": {
+    "q": "Si estás estacionado al lado de la vía de noche, debes",
+    "a": "avisar a los demás encendiendo las luces de emergencia o las de estacionamiento, si el vehículo las tiene",
+    "b": "mantenerte despierto y listo para moverte",
+    "c": "avisar a los demás encendiendo los faros"
+  },
+  "107": {
+    "q": "Nunca estaciones ni te detengas junto a un hidrante. Solo puedes estacionar a una distancia de al menos",
+    "a": "3 metros",
+    "b": "4 metros",
+    "c": "5 metros"
+  },
+  "108": {
+    "q": "¿Cuándo se permite estacionar en doble fila?",
+    "a": "nunca",
+    "b": "cuando la calle o la vía es bastante ancha",
+    "c": "cuando no tienes otra opción"
+  },
+  "109": {
+    "q": "Un conductor no debe estacionar ni detenerse junto a una señal de alto o un semáforo, porque reduce la visibilidad de otros conductores, sobre todo a menos de",
+    "a": "4 metros",
+    "b": "5 metros",
+    "c": "6 metros"
+  },
+  "110": {
+    "q": "Si estacionas cuesta arriba sin bordillo, gira las ruedas hacia",
+    "a": "el borde de la calle",
+    "b": "el otro lado de la calle",
+    "c": "el centro de la calle"
+  },
+  "111": {
+    "q": "Un conductor que estaciona o se detiene a menos de 6 metros de un paso de peatones reduce la visibilidad de los peatones para otros conductores. Esto",
+    "a": "está permitido",
+    "b": "es inseguro",
+    "c": "no debe hacerse"
+  },
+  "112": {
+    "q": "El conductor debe estacionar junto al bordillo, en marcha baja y con el freno de estacionamiento puesto, a una distancia de al menos",
+    "a": "40 cm",
+    "b": "35 cm",
+    "c": "30 cm"
+  },
+  "113": {
+    "q": "El estacionamiento se considera una infracción cuando un vehículo",
+    "a": "se estaciona en la entrada y salida de hospitales y estaciones de bomberos",
+    "b": "se estaciona en la entrada y salida de un establecimiento industrial",
+    "c": "se estaciona en la entrada y salida de un edificio residencial"
+  },
+  "114": {
+    "q": "¿En qué lugar no puedes estacionar tu vehículo?",
+    "a": "en un espacio de estacionamiento asignado",
+    "b": "en un lugar donde cruzan los peatones",
+    "c": "en un lugar al que quieres ir"
+  },
+  "115": {
+    "q": "¿Cuándo puede un niño quedar exento de ir en un sistema de retención infantil?",
+    "a": "si el niño tiene una condición médica, mental o psicológica",
+    "b": "si el niño no quiere ir en el sistema de retención",
+    "c": "si la familia va a un centro comercial"
+  },
+  "116": {
+    "q": "El registro de un vehículo puede suspenderse si",
+    "a": "el vehículo cumple la normativa",
+    "b": "el vehículo se considera antiestético",
+    "c": "el vehículo no está registrado a nombre del conductor en el momento de la detención"
+  },
+  "117": {
+    "q": "¿Cuál es la regla básica dentro de la intersección?",
+    "a": "no bloquear la intersección",
+    "b": "tocar el claxon si alguien obstruye el paso",
+    "c": "acelerar"
+  },
+  "118": {
+    "q": "¿Cuándo puede un conductor adelantar con seguridad por la derecha dentro de una zona comercial o residencial?",
+    "a": "si el semáforo está a punto de ponerse en rojo",
+    "b": "si la vía tiene dos o más carriles en el mismo sentido",
+    "c": "el adelantamiento está permitido en una vía con mucho tráfico"
+  },
+  "119": {
+    "q": "¿Hacia dónde debe apuntar una lámpara auxiliar instalada en una motocicleta?",
+    "a": "hacia la izquierda",
+    "b": "hacia la derecha",
+    "c": "hacia arriba"
+  },
+  "120": {
+    "q": "¿Dónde puedes impugnar una supuesta infracción de tráfico?",
+    "a": "en la oficina de adjudicación de tráfico correspondiente",
+    "b": "en la calle, antes de que el agente se vaya",
+    "c": "en cualquier oficina de adjudicación"
+  },
+  "121": {
+    "q": "¿Quién tiene autoridad para confiscar una licencia durante una infracción de tráfico ordinaria?",
+    "a": "los agentes del LTO o los agentes acreditados por el LTO",
+    "b": "cualquiera, siempre que la infracción esté prevista en la ley",
+    "c": "cualquiera, siempre que el agente sea empleado permanente del gobierno"
+  },
+  "122": {
+    "q": "¿Dónde debes colocar la placa?",
+    "a": "una delante y una detrás del vehículo",
+    "b": "dos delante",
+    "c": "una en el parabrisas delantero y una en el trasero"
+  },
+  "123": {
+    "q": "¿Puedes conducir una motocicleta si tu licencia tiene el código DL B?",
+    "a": "sí",
+    "b": "no, salvo autorización de un agente de tráfico",
+    "c": "no"
+  },
+  "124": {
+    "q": "Esta señal reglamentaria significa",
+    "a": "prohibido el paso a vehículos con carga por eje superior a 2 toneladas",
+    "b": "prohibido el paso a vehículos con carga por eje inferior a 2 toneladas",
+    "c": "se permiten vehículos con carga por eje superior a 2 toneladas"
+  },
+  "125": {
+    "q": "¿Dónde debe colocarse la placa de una motocicleta?",
+    "a": "en el depósito de combustible",
+    "b": "en la parte trasera de la motocicleta",
+    "c": "en la tapa del motor"
+  },
+  "126": {
+    "q": "¿Qué estatura exime a un niño de usar un sistema de retención infantil?",
+    "a": "100 cm o más",
+    "b": "150 cm o más",
+    "c": "180 cm o más"
+  },
+  "127": {
+    "q": "¿Cuál es la vigencia máxima de una licencia si el conductor no tiene infracciones al renovarla?",
+    "a": "5 años",
+    "b": "10 años",
+    "c": "15 años"
+  },
+  "128": {
+    "q": "¿Es ilegal usar un teléfono móvil mientras se conduce?",
+    "a": "sí, si el conductor no registró el teléfono en el LTO",
+    "b": "sí, si el conductor usa un dispositivo inalámbrico",
+    "c": "sí, si el conductor no usa el teléfono en modo manos libres"
+  },
+  "129": {
+    "q": "¿Cuál es la altura máxima para instalar el teléfono desde la base del tablero?",
+    "a": "2 pulgadas",
+    "b": "4 pulgadas",
+    "c": "6 pulgadas"
+  },
+  "130": {
+    "q": "¿Puede un conductor usar una fotocopia de la licencia mientras conduce?",
+    "a": "no, salvo autorización del agente",
+    "b": "sí, si la fotocopia tiene el tamaño y el color exactos del original",
+    "c": "no"
+  },
+  "131": {
+    "q": "Según la ley de seguridad infantil en motocicletas, un menor de 18 años no puede ir en una moto de dos ruedas por vías públicas, salvo que",
+    "a": "llegue con los pies a los reposapiés de serie, pueda abrazar la cintura del conductor y lleve un casco protector de serie",
+    "b": "haya mucha densidad de vehículos rápidos o un límite superior a 60 km/h",
+    "c": "el conductor pueda sujetar la cintura del niño sentado delante y el niño lleve un casco protector de serie"
+  },
+  "132": {
+    "q": "Un compartimento de carga fijado al lado de la motocicleta, no más alto que el asiento, considerado accesorio, es",
+    "a": "un baúl superior",
+    "b": "un baúl superior personalizado",
+    "c": "una alforja"
+  },
+  "133": {
+    "q": "¿A qué edad se puede solicitar una licencia no profesional?",
+    "a": "16 años",
+    "b": "17 años",
+    "c": "20 años"
+  },
+  "134": {
+    "q": "¿A dónde van los pagos recaudados del cargo al usuario de vehículos?",
+    "a": "a mejorar o mantener las carreteras",
+    "b": "a los salarios de los agentes",
+    "c": "a la construcción de diques y presas"
+  },
+  "135": {
+    "q": "¿En qué zona no está permitido estacionar?",
+    "a": "en áreas de descanso de la autopista",
+    "b": "en la acera",
+    "c": "en estacionamientos"
+  },
+  "136": {
+    "q": "¿Cómo puedes superar el estrés?",
+    "a": "parar, bajarte, gritar a quien pregunte y luego pelear",
+    "b": "respirar hondo, sentarte cómodo, escuchar música suave, dejar espacio delante y darte más tiempo de viaje",
+    "c": "conducir más rápido de lo permitido, poner música alta, gritar a los pasajeros y provocar a otros conductores"
+  },
+  "137": {
+    "q": "¿Qué infracción se aplica si el conductor supera las tres pruebas de sobriedad en campo?",
+    "a": "desobedecer una señal de tráfico",
+    "b": "conducir bajo influencia",
+    "c": "la infracción de tráfico inicial"
+  },
+  "138": {
+    "q": "¿Cuál de estas afirmaciones es verdadera?",
+    "a": "quien está autorizado para transmisión manual (MT) no puede conducir un automático (AT)",
+    "b": "quien está autorizado solo para automático (AT) puede conducir un manual (MT)",
+    "c": "quien está autorizado para transmisión manual (MT) puede conducir un automático (AT)"
+  },
+  "139": {
+    "q": "El registro de un vehículo puede suspenderse si",
+    "a": "el vehículo es demasiado ligero para las vías públicas",
+    "b": "el vehículo no es de tracción delantera",
+    "c": "el vehículo puede causar un daño excesivo a las vías públicas"
+  },
+  "140": {
+    "q": "¿Qué ocurre si el conductor se niega a la prueba obligatoria cuando se sospecha que conduce bajo los efectos del alcohol?",
+    "a": "revocación del registro del vehículo",
+    "b": "confiscación de la licencia y su revocación automática",
+    "c": "suspensión de la licencia por 2 años"
+  },
+  "141": {
+    "q": "Tu licencia acaba de vencer. ¿Aún puedes conducir hasta el LTO más cercano para renovarla?",
+    "a": "sí, siempre que respetes las normas",
+    "b": "no",
+    "c": "sí, siempre que vayas directo a la oficina más cercana y no hagas otras paradas"
+  },
+  "142": {
+    "q": "Según la Ley de la República n.º 11229, ¿a qué edad puede un niño sentarse en el asiento delantero?",
+    "a": "más de 12 años",
+    "b": "16 años o más",
+    "c": "18 años o más"
+  },
+  "143": {
+    "q": "¿Cuándo puede un niño quedar exento de ir en un sistema de retención infantil?",
+    "a": "si llegará tarde a una cita médica",
+    "b": "si va a la escuela",
+    "c": "si necesita atención médica inmediata"
+  },
+  "144": {
+    "q": "¿De qué color deben ser las lámparas auxiliares instaladas delante del vehículo?",
+    "a": "cualquier color sirve",
+    "b": "rojo",
+    "c": "blanco o blanco amarillento"
+  },
+  "145": {
+    "q": "Se impone una suspensión de 30 días de la licencia si",
+    "a": "la infracción cometida es grave",
+    "b": "el conductor no paga la sanción de la detención en 15 días",
+    "c": "el conductor no paga la multa en 72 horas"
+  },
+  "146": {
+    "q": "¿Se puede dar una licencia de 10 años si el conductor tiene una infracción?",
+    "a": "no",
+    "b": "sí",
+    "c": "sí, si todas las sanciones se pagan 15 días antes de la renovación"
+  },
+  "147": {
+    "q": "¿Cuándo debe el conductor usar casco en motocicleta?",
+    "a": "en viajes largos y cortos",
+    "b": "en viajes largos o cortos y en cualquier tipo de vía",
+    "c": "solo en una carretera nacional"
+  },
+  "148": {
+    "q": "¿Qué vigencia puede tener la licencia si hay una infracción al renovarla?",
+    "a": "10 años",
+    "b": "5 años",
+    "c": "3 años"
+  },
+  "149": {
+    "q": "¿Cuándo se debe usar un alcoholímetro (ABA)?",
+    "a": "cuando el agente insiste en que es necesario",
+    "b": "cuando el conductor no supera al menos una prueba de sobriedad en campo",
+    "c": "cuando el conductor supera todas las pruebas de sobriedad en campo"
+  },
+  "150": {
+    "q": "Un compartimento fabricado e instalado detrás del asiento de la motocicleta, considerado accesorio, es",
+    "a": "un baúl superior",
+    "b": "un baúl superior personalizado",
+    "c": "una alforja"
+  },
+  "151": {
+    "q": "¿Cuál es la clasificación inicial de la licencia para quien la solicita por primera vez?",
+    "a": "licencia profesional (PDL)",
+    "b": "licencia no profesional (NPDL)",
+    "c": "NPDL o PDL"
+  },
+  "152": {
+    "q": "¿Se puede conducir una motocicleta en vía pública mientras no se ha emitido el certificado de registro?",
+    "a": "no",
+    "b": "sí",
+    "c": "sí, si el concesionario da una autorización de viaje"
   }
 }
