@@ -1,6 +1,6 @@
 {
   "common": { "back": "Retour", "close": "Fermer", "continue": "Continuer" },
-  "nav": { "home": "LTO Theory", "learn": "Révision", "exam": "Examen", "result": "Résultat", "settings": "Réglages", "feedback": "Avis" },
+  "nav": { "home": "LTO Theory", "learn": "Révision", "exam": "Examen", "result": "Résultat", "settings": "Réglages", "feedback": "Avis", "signs": "Panneaux", "mistakes": "Erreurs" },
   "onboarding": {
     "title": "LTO Theory",
     "body": "Les questions restent dans l’anglais d’origine. Choisissez votre langue : le point d’interrogation à côté de chaque ligne affiche la traduction.",
@@ -13,7 +13,17 @@
     "learnBody": "Toutes les questions dans l’ordre. Choisissez une réponse, puis voyez si elle est juste.",
     "learnResume": "Reprendre à la question {{id}}",
     "examTitle": "Examen",
-    "examBody": "40 questions au hasard. Juste ou faux seulement après votre réponse."
+    "examBody": "40 questions au hasard. Juste ou faux seulement après votre réponse.",
+    "signsTitle": "Panneaux routiers",
+    "signsBody": "Apprenez les panneaux du corrigé par catégorie, puis lisez ce que chacun signifie.",
+    "mistakesTitle": "Revoir les erreurs",
+    "mistakesBody": "Répondez aux questions ratées pendant la révision.",
+    "mistakesCount": "Il en reste {{count}}"
+  },
+  "signs": {
+    "intro": "Les panneaux sont groupés comme dans le corrigé. Ouvrez une catégorie, puis lisez chaque panneau. Le point d’interrogation affiche la traduction.",
+    "count": "{{count}} panneaux",
+    "missing": "Cette catégorie est introuvable."
   },
   "quiz": {
     "progress": "{{current}} sur {{total}}",
@@ -31,6 +41,9 @@
     "failed": "Échoué",
     "passHint": "L’examen non professionnel se réussit avec {{need}} sur {{total}}.",
     "studyDone": "Vous avez terminé la série de révision.",
+    "reviewMistakes": "Répondre aux questions ratées ({{count}})",
+    "mistakesLeft": "Ces questions sont encore fausses.",
+    "mistakesClear": "Il ne reste plus d'erreur.",
     "again": "Recommencer",
     "home": "Accueil"
   },

@@ -7,9 +7,10 @@ type Props = {
   text: string;
   translation: string | null;
   emphasize?: boolean;
+  strong?: boolean;
 };
 
-const TranslatedLine = ({ text, translation, emphasize }: Props) => {
+const TranslatedLine = ({ text, translation, emphasize, strong }: Props) => {
   const colors = useAppColors();
   const { t } = useTranslation();
   const [open, setOpen] = useState(false);
@@ -22,7 +23,7 @@ const TranslatedLine = ({ text, translation, emphasize }: Props) => {
           styles.text,
           {
             color: emphasize ? colors.danger : colors.textPrimary,
-            fontWeight: emphasize ? '700' : '500',
+            fontWeight: emphasize || strong ? '700' : '500',
           },
         ]}
       >

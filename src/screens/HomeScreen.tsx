@@ -1,9 +1,9 @@
 import React, { useCallback, useState } from 'react';
-import { Pressable, StyleSheet, Text, View } from 'react-native';
+import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { useFocusEffect } from '@react-navigation/native';
 import { useTranslation } from 'react-i18next';
 import type { StackNavigationProp } from '@react-navigation/stack';
-import { loadLearnQuestionId } from '../content/learnProgress';
+import { loadLearnQuestionId, loadMistakeIds } from '../content/learnProgress';
 import { EXAM_QUESTION_COUNT, shuffledIds } from '../content/session';
 import { questions } from '../content/questions';
 import type { QuizMode, RootStackParamList } from '../navigation/types';
@@ -17,22 +17,35 @@ const HomeScreen = ({ navigation }: Props) => {
   const colors = useAppColors();
   const { t } = useTranslation();
   const [resumeId, setResumeId] = useState<number | null>(null);
+  const [mistakeIds, setMistakeIds] = useState<number[]>([]);
 
   useFocusEffect(
     useCallback(() => {
       let cancelled = false;
+      const knownIds = new Set(questions.map(item => item.id));
       loadLearnQuestionId()
         .then(id => {
           if (cancelled) {
             return;
           }
-          const known = id != null && questions.some(item => item.id === id);
+          const known = id != null && knownIds.has(id);
           const firstId = questions[0]?.id;
           setResumeId(known && id !== firstId ? id : null);
         })
         .catch(() => {
           if (!cancelled) {
             setResumeId(null);
+          }
+        });
+      loadMistakeIds()
+        .then(ids => {
+          if (!cancelled) {
+            setMistakeIds(ids.filter(id => knownIds.has(id)));
+          }
+        })
+        .catch(() => {
+          if (!cancelled) {
+            setMistakeIds([]);
           }
         });
       return () => {
@@ -83,7 +96,10 @@ const HomeScreen = ({ navigation }: Props) => {
   };
 
   return (
-    <View style={[styles.screen, { backgroundColor: colors.background }]}>
+    <ScrollView
+      style={[styles.screen, { backgroundColor: colors.background }]}
+      contentContainerStyle={styles.content}
+    >
       <Pressable
         onPress={() => start('learn')}
         style={[styles.card, { backgroundColor: colors.card, borderColor: colors.border }]}
@@ -96,6 +112,29 @@ const HomeScreen = ({ navigation }: Props) => {
           </Text>
         ) : null}
       </Pressable>
+      {mistakeIds.length > 0 ? (
+        <Pressable
+          onPress={() => navigation.navigate('Quiz', { mode: 'mistakes', ids: mistakeIds })}
+          style={[styles.card, { backgroundColor: colors.card, borderColor: colors.border }]}
+        >
+          <Text style={[styles.title, { color: colors.textPrimary }]}>
+            {t('home.mistakesTitle')}
+          </Text>
+          <Text style={[styles.body, { color: colors.textSecondary }]}>
+            {t('home.mistakesBody')}
+          </Text>
+          <Text style={[styles.resume, { color: colors.accent }]}>
+            {t('home.mistakesCount', { count: mistakeIds.length })}
+          </Text>
+        </Pressable>
+      ) : null}
+      <Pressable
+        onPress={() => navigation.navigate('SignCategories')}
+        style={[styles.card, { backgroundColor: colors.card, borderColor: colors.border }]}
+      >
+        <Text style={[styles.title, { color: colors.textPrimary }]}>{t('home.signsTitle')}</Text>
+        <Text style={[styles.body, { color: colors.textSecondary }]}>{t('home.signsBody')}</Text>
+      </Pressable>
       <Pressable
         onPress={() => start('exam')}
         style={[styles.card, { backgroundColor: colors.card, borderColor: colors.border }]}
@@ -103,12 +142,13 @@ const HomeScreen = ({ navigation }: Props) => {
         <Text style={[styles.title, { color: colors.textPrimary }]}>{t('home.examTitle')}</Text>
         <Text style={[styles.body, { color: colors.textSecondary }]}>{t('home.examBody')}</Text>
       </Pressable>
-    </View>
+    </ScrollView>
   );
 };
 
 const styles = StyleSheet.create({
-  screen: { flex: 1, padding: 16, gap: 12 },
+  screen: { flex: 1 },
+  content: { padding: 16, gap: 12 },
   card: {
     borderWidth: StyleSheet.hairlineWidth,
     borderRadius: 14,

@@ -1,6 +1,6 @@
 {
   "common": { "back": "Atrás", "close": "Cerrar", "continue": "Continuar" },
-  "nav": { "home": "LTO Theory", "learn": "Estudio", "exam": "Examen", "result": "Resultado", "settings": "Ajustes", "feedback": "Comentarios" },
+  "nav": { "home": "LTO Theory", "learn": "Estudio", "exam": "Examen", "result": "Resultado", "settings": "Ajustes", "feedback": "Comentarios", "signs": "Señales", "mistakes": "Errores" },
   "onboarding": {
     "title": "LTO Theory",
     "body": "Las preguntas quedan en el inglés original. Elige tu idioma y el signo de interrogación junto a cada línea mostrará la traducción.",
@@ -13,7 +13,17 @@
     "learnBody": "Todas las preguntas en orden. Elige una respuesta y luego ves si es correcta.",
     "learnResume": "Continuar desde la pregunta {{id}}",
     "examTitle": "Examen",
-    "examBody": "40 preguntas al azar. Acierto o error solo después de responder."
+    "examBody": "40 preguntas al azar. Acierto o error solo después de responder.",
+    "signsTitle": "Señales de tráfico",
+    "signsBody": "Aprende las señales del repaso por categorías y lee qué significa cada una.",
+    "mistakesTitle": "Repasar errores",
+    "mistakesBody": "Responde las preguntas que fallaste en el estudio.",
+    "mistakesCount": "Quedan {{count}}"
+  },
+  "signs": {
+    "intro": "Las señales están agrupadas como en el repaso. Abre una categoría y lee cada señal. El signo de interrogación muestra la traducción.",
+    "count": "{{count}} señales",
+    "missing": "No se encontró esta categoría."
   },
   "quiz": {
     "progress": "{{current}} de {{total}}",
@@ -31,6 +41,9 @@
     "failed": "No aprobado",
     "passHint": "El examen no profesional se aprueba con {{need}} de {{total}}.",
     "studyDone": "Terminaste el conjunto de estudio.",
+    "reviewMistakes": "Responder las falladas ({{count}})",
+    "mistakesLeft": "Estas preguntas siguen mal.",
+    "mistakesClear": "No quedan preguntas falladas.",
     "again": "Otra vez",
     "home": "Inicio"
   },

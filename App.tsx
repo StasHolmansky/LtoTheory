@@ -13,6 +13,8 @@ import OnboardingScreen from './src/screens/OnboardingScreen';
 import QuizScreen from './src/screens/QuizScreen';
 import ResultScreen from './src/screens/ResultScreen';
 import SettingsScreen from './src/screens/SettingsScreen';
+import SignCategoriesScreen from './src/screens/SignCategoriesScreen';
+import SignListScreen from './src/screens/SignListScreen';
 import type { RootStackParamList } from './src/navigation/types';
 import { ThemeProvider, useAppTheme } from './src/theme';
 
@@ -80,6 +82,16 @@ function AppNavigator() {
           name="Feedback"
           component={FeedbackScreen}
           options={{ title: t('nav.feedback'), headerLeft: HeaderBackButton }}
+        />
+        <Stack.Screen
+          name="SignCategories"
+          component={SignCategoriesScreen}
+          options={{ title: t('nav.signs'), headerLeft: HeaderBackButton }}
+        />
+        <Stack.Screen
+          name="SignList"
+          component={SignListScreen}
+          options={{ headerLeft: HeaderBackButton }}
         />
       </Stack.Navigator>
     </NavigationContainer>

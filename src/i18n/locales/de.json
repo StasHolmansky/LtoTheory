@@ -1,6 +1,6 @@
 {
   "common": { "back": "Zurück", "close": "Schließen", "continue": "Weiter" },
-  "nav": { "home": "LTO Theory", "learn": "Lernen", "exam": "Prüfung", "result": "Ergebnis", "settings": "Einstellungen", "feedback": "Feedback" },
+  "nav": { "home": "LTO Theory", "learn": "Lernen", "exam": "Prüfung", "result": "Ergebnis", "settings": "Einstellungen", "feedback": "Feedback", "signs": "Schilder", "mistakes": "Fehler" },
   "onboarding": {
     "title": "LTO Theory",
     "body": "Die Fragen bleiben im englischen Original. Wähle deine Sprache — das Fragezeichen neben jeder Zeile zeigt die Übersetzung.",
@@ -13,7 +13,17 @@
     "learnBody": "Alle Fragen der Reihe nach. Erst antworten, dann siehst du, ob es stimmt.",
     "learnResume": "Weiter bei Frage {{id}}",
     "examTitle": "Prüfung",
-    "examBody": "40 zufällige Fragen. Richtig oder falsch erst nach deiner Antwort."
+    "examBody": "40 zufällige Fragen. Richtig oder falsch erst nach deiner Antwort.",
+    "signsTitle": "Verkehrszeichen",
+    "signsBody": "Lerne die Schilder aus dem Reviewer nach Kategorie und lies, was jedes bedeutet.",
+    "mistakesTitle": "Fehler üben",
+    "mistakesBody": "Beantworte die Fragen, die du beim Lernen falsch hattest.",
+    "mistakesCount": "Noch {{count}}"
+  },
+  "signs": {
+    "intro": "Die Schilder sind wie im Reviewer gruppiert. Öffne eine Kategorie und lies jedes Schild. Das Fragezeichen zeigt die Übersetzung.",
+    "count": "{{count}} Schilder",
+    "missing": "Diese Kategorie wurde nicht gefunden."
   },
   "quiz": {
     "progress": "{{current}} von {{total}}",
@@ -31,6 +41,9 @@
     "failed": "Nicht bestanden",
     "passHint": "Die nichtberufliche Prüfung gilt ab {{need}} von {{total}} als bestanden.",
     "studyDone": "Du hast den Lernsatz beendet.",
+    "reviewMistakes": "Falsche Fragen beantworten ({{count}})",
+    "mistakesLeft": "Diese Fragen sind noch falsch.",
+    "mistakesClear": "Keine Fehler mehr.",
     "again": "Nochmal",
     "home": "Start"
   },

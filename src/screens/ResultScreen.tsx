@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { useCallback, useState } from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { useTranslation } from 'react-i18next';
 import type { StackNavigationProp } from '@react-navigation/stack';
-import type { RouteProp } from '@react-navigation/native';
+import { useFocusEffect, type RouteProp } from '@react-navigation/native';
 import { EXAM_PASS_COUNT, EXAM_QUESTION_COUNT, shuffledIds } from '../content/session';
+import { loadMistakeIds } from '../content/learnProgress';
 import { questions } from '../content/questions';
 import type { RootStackParamList } from '../navigation/types';
 import { useAppColors } from '../theme';
@@ -18,6 +19,31 @@ const ResultScreen = ({ navigation, route }: Props) => {
   const { t } = useTranslation();
   const { mode, correct, total } = route.params;
   const passed = mode === 'exam' && correct >= EXAM_PASS_COUNT;
+  const [mistakeIds, setMistakeIds] = useState<number[]>([]);
+
+  useFocusEffect(
+    useCallback(() => {
+      if (mode === 'exam') {
+        return undefined;
+      }
+      let cancelled = false;
+      const known = new Set(questions.map(item => item.id));
+      loadMistakeIds()
+        .then(ids => {
+          if (!cancelled) {
+            setMistakeIds(ids.filter(id => known.has(id)));
+          }
+        })
+        .catch(() => {
+          if (!cancelled) {
+            setMistakeIds([]);
+          }
+        });
+      return () => {
+        cancelled = true;
+      };
+    }, [mode]),
+  );
 
   const again = () => {
     const ids = questions.map(item => item.id);
@@ -26,6 +52,19 @@ const ResultScreen = ({ navigation, route }: Props) => {
     navigation.reset({
       index: 1,
       routes: [{ name: 'Home' }, { name: 'Quiz', params: { mode, ids: sessionIds } }],
+    });
+  };
+
+  const reviewMistakes = () => {
+    if (mistakeIds.length === 0) {
+      return;
+    }
+    navigation.reset({
+      index: 1,
+      routes: [
+        { name: 'Home' },
+        { name: 'Quiz', params: { mode: 'mistakes', ids: mistakeIds } },
+      ],
     });
   };
 
@@ -45,12 +84,51 @@ const ResultScreen = ({ navigation, route }: Props) => {
             </Text>
           </>
         ) : (
-          <Text style={[styles.hint, { color: colors.textSecondary }]}>{t('result.studyDone')}</Text>
+          <Text style={[styles.hint, { color: colors.textSecondary }]}>
+            {mode === 'mistakes'
+              ? mistakeIds.length > 0
+                ? t('result.mistakesLeft')
+                : t('result.mistakesClear')
+              : t('result.studyDone')}
+          </Text>
         )}
       </View>
-      <Pressable onPress={again} style={[styles.button, { backgroundColor: colors.accent }]}>
-        <Text style={[styles.buttonText, { color: colors.onAccent }]}>{t('result.again')}</Text>
-      </Pressable>
+      {mode !== 'exam' && mistakeIds.length > 0 ? (
+        <Pressable
+          onPress={reviewMistakes}
+          style={[styles.button, { backgroundColor: colors.accent }]}
+        >
+          <Text style={[styles.buttonText, { color: colors.onAccent }]}>
+            {t('result.reviewMistakes', { count: mistakeIds.length })}
+          </Text>
+        </Pressable>
+      ) : null}
+      {mode !== 'mistakes' ? (
+        <Pressable
+          onPress={again}
+          style={[
+            styles.button,
+            {
+              backgroundColor:
+                mode !== 'exam' && mistakeIds.length > 0 ? colors.chipInactiveBg : colors.accent,
+            },
+          ]}
+        >
+          <Text
+            style={[
+              styles.buttonText,
+              {
+                color:
+                  mode !== 'exam' && mistakeIds.length > 0
+                    ? colors.chipInactiveText
+                    : colors.onAccent,
+              },
+            ]}
+          >
+            {t('result.again')}
+          </Text>
+        </Pressable>
+      ) : null}
       <Pressable
         onPress={() => navigation.popToTop()}
         style={[styles.button, { backgroundColor: colors.chipInactiveBg }]}

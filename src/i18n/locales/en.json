@@ -10,7 +10,9 @@
     "exam": "Exam",
     "result": "Result",
     "settings": "Settings",
-    "feedback": "Feedback"
+    "feedback": "Feedback",
+    "signs": "Road signs",
+    "mistakes": "Mistakes"
   },
   "onboarding": {
     "title": "LTO Theory",
@@ -24,7 +26,17 @@
     "learnBody": "Go through every question in order. Pick an answer, then see whether it is right.",
     "learnResume": "Continue from question {{id}}",
     "examTitle": "Exam",
-    "examBody": "40 random questions. You only see right or wrong after you answer."
+    "examBody": "40 random questions. You only see right or wrong after you answer.",
+    "signsTitle": "Road signs",
+    "signsBody": "Learn the signs from the reviewer by category, then read what each one means.",
+    "mistakesTitle": "Review mistakes",
+    "mistakesBody": "Answer the questions you got wrong while studying.",
+    "mistakesCount": "{{count}} left"
+  },
+  "signs": {
+    "intro": "The signs are grouped the way the reviewer presents them. Open a category, then read each sign. The question mark shows the translation.",
+    "count": "{{count}} signs",
+    "missing": "This category was not found."
   },
   "quiz": {
     "progress": "{{current}} of {{total}}",
@@ -44,6 +56,9 @@
     "failed": "Not passed",
     "passHint": "A non-professional exam passes at {{need}} of {{total}}.",
     "studyDone": "You finished the study set.",
+    "reviewMistakes": "Answer the missed questions ({{count}})",
+    "mistakesLeft": "These questions are still wrong.",
+    "mistakesClear": "No missed questions left.",
     "again": "Try again",
     "home": "Home"
   },

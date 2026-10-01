@@ -1,11 +1,15 @@
-import React, { useState } from 'react';
+import React, { useRef, useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { useTranslation } from 'react-i18next';
 import type { StackNavigationProp } from '@react-navigation/stack';
 import type { RouteProp } from '@react-navigation/native';
 import TranslatedLine from '../components/TranslatedLine';
-import { clearLearnQuestionId, saveLearnQuestionId } from '../content/learnProgress';
+import {
+  clearLearnQuestionId,
+  recordLearnResult,
+  saveLearnQuestionId,
+} from '../content/learnProgress';
 import { questions } from '../content/questions';
 import { lineTranslation, type LineKey } from '../content/lookup';
 import { useLanguage } from '../i18n/LanguageContext';
@@ -27,6 +31,8 @@ const QuizScreen = ({ navigation, route }: Props) => {
   const [index, setIndex] = useState(initialIndex);
   const [choice, setChoice] = useState<string | null>(null);
   const [correctCount, setCorrectCount] = useState(0);
+  const pendingSave = useRef<Promise<void>>(Promise.resolve());
+  const revealsAnswer = mode !== 'exam';
 
   const question = questions.find(item => item.id === ids[index]);
   const locked = choice !== null;
@@ -35,9 +41,9 @@ const QuizScreen = ({ navigation, route }: Props) => {
   const last = index >= ids.length - 1;
 
   React.useEffect(() => {
-    navigation.setOptions({
-      title: t(mode === 'exam' ? 'nav.exam' : 'nav.learn'),
-    });
+    const title =
+      mode === 'exam' ? 'nav.exam' : mode === 'mistakes' ? 'nav.mistakes' : 'nav.learn';
+    navigation.setOptions({ title: t(title) });
   }, [mode, navigation, t]);
 
   React.useEffect(() => {
@@ -56,8 +62,14 @@ const QuizScreen = ({ navigation, route }: Props) => {
       return;
     }
     setChoice(key);
-    if (key.toUpperCase() === question.answer.toUpperCase()) {
+    const correct = key.toUpperCase() === question.answer.toUpperCase();
+    if (correct) {
       setCorrectCount(count => count + 1);
+    }
+    if (mode === 'learn' || mode === 'mistakes') {
+      pendingSave.current = pendingSave.current
+        .catch(() => {})
+        .then(() => recordLearnResult(question.id, correct));
     }
   };
 
@@ -66,10 +78,14 @@ const QuizScreen = ({ navigation, route }: Props) => {
       return;
     }
     if (last) {
-      if (mode === 'learn') {
-        clearLearnQuestionId().catch(() => {});
-      }
-      navigation.replace('Result', { mode, correct: correctCount, total: ids.length });
+      pendingSave.current
+        .catch(() => {})
+        .then(() => {
+          if (mode === 'learn') {
+            clearLearnQuestionId().catch(() => {});
+          }
+          navigation.replace('Result', { mode, correct: correctCount, total: ids.length });
+        });
       return;
     }
     setIndex(current => current + 1);
@@ -100,7 +116,7 @@ const QuizScreen = ({ navigation, route }: Props) => {
               const key = option.key.toLowerCase() as LineKey;
               const selected = choice?.toUpperCase() === option.key.toUpperCase();
               const isAnswer = option.key.toUpperCase() === question.answer.toUpperCase();
-              const showAsCorrect = locked && (mode === 'learn' ? isAnswer : selected && isCorrect);
+              const showAsCorrect = locked && (revealsAnswer ? isAnswer : selected && isCorrect);
               const showAsWrong = locked && selected && !isCorrect;
               const borderColor = showAsCorrect
                 ? colors.success
@@ -131,7 +147,7 @@ const QuizScreen = ({ navigation, route }: Props) => {
             >
               {isCorrect
                 ? t('quiz.correct')
-                : mode === 'learn'
+                : revealsAnswer
                   ? t('quiz.answer', { letter: question.answer })
                   : t('quiz.incorrect')}
             </Text>
