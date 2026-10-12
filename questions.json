@@ -1,94 +1,2526 @@
 {
-  "title": "LTO Exam Reviewer 2026 — Non-Professional, parking, and CDE (English)",
-  "source": "Questions 1–100 keep the non-professional reviewer order. Questions 101–114 are extra parking items, and questions 115–152 are extra CDE items, appended after the original 100. Wording kept as printed.",
+  "title": "LTO Exam Reviewer 2026",
+  "source": "227 questions from https://lto-practice-test.com/reviewer (New Updates 2025). Original English kept. Images saved locally.",
   "questions": [
     {
       "id": 1,
-      "question": "The three colors of the traffic lights are:",
+      "question": "You are at a junction controlled by traffic lights. When should you not proceed on green?",
       "options": [
         {
           "key": "a",
-          "text": "red, green and yellow"
+          "text": "When you intend to turn right"
         },
         {
           "key": "b",
-          "text": "red, green and blue"
+          "text": "When your exit from the junction is blocked"
         },
         {
           "key": "c",
-          "text": "yellow, green and blue"
+          "text": "When pedestrians are waiting to cross"
         }
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "id": 2,
-      "question": "Yellow triangular signs provide what kind of information",
+      "question": "A 60 year old senior citizen files an application for a driver's license. Is this allowed?",
       "options": [
         {
           "key": "a",
-          "text": "warning"
+          "text": "It depends if the applicant will pass the medical, theoritical and practical examination"
         },
         {
           "key": "b",
-          "text": "hospital across"
+          "text": "Yes"
         },
         {
           "key": "c",
-          "text": "speed limit"
+          "text": "No"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "To warn of road works ahead"
+        },
+        {
+          "key": "b",
+          "text": "To warn you of a low bridge"
+        },
+        {
+          "key": "c",
+          "text": "To warn of the end of the expressway"
+        }
+      ],
+      "answer": "A",
+      "image": "q3.png"
+    },
+    {
+      "id": 4,
+      "question": "You are driving on an expressway. You may stop only",
+      "options": [
+        {
+          "key": "a",
+          "text": "On the lay-by to attend or call for an emergency"
+        },
+        {
+          "key": "b",
+          "text": "To load or unload goods or passenger"
+        },
+        {
+          "key": "c",
+          "text": "To ask for directions"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 3,
-      "question": "Which of the following traffic signs are blue?",
-      "options": [
-        {
-          "key": "a",
-          "text": "regulatory signs"
-        },
-        {
-          "key": "b",
-          "text": "information signs"
-        },
-        {
-          "key": "c",
-          "text": "danger warning signs"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 4,
-      "question": "Steady green light means",
-      "options": [
-        {
-          "key": "a",
-          "text": "you must yield to all pedestrians and other motorists using the intersection"
-        },
-        {
-          "key": "b",
-          "text": "go, it is safe to do so"
-        },
-        {
-          "key": "c",
-          "text": "proceed cautiously through the intersection before the light changes to red."
-        }
-      ],
-      "answer": "B"
-    },
-    {
       "id": 5,
-      "question": "A flashing yellow light at a road crossing signifies",
+      "question": "What advice should you give to a driver who has had a few alcoholic drinks at a party?",
       "options": [
         {
           "key": "a",
-          "text": "Caution — slow down and proceed with caution"
+          "text": "Drink a cup of coffee and then drive home"
         },
         {
           "key": "b",
-          "text": "Stop and stay until light stops flashing"
+          "text": "Drive home carefully and slowly"
+        },
+        {
+          "key": "c",
+          "text": "Take a rest and do not drive"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "What should you do if you see these signs while driving?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stop at the sign"
+        },
+        {
+          "key": "b",
+          "text": "Stop and look for open farm gates"
+        },
+        {
+          "key": "c",
+          "text": "Slow, there is a curve ahead"
+        }
+      ],
+      "answer": "C",
+      "image": "q6.png"
+    },
+    {
+      "id": 7,
+      "question": "What are the effects of alcohol or drugs?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Less control, false sense of confidence and poor judgment of speed"
+        },
+        {
+          "key": "b",
+          "text": "Greater awareness of danger"
+        },
+        {
+          "key": "c",
+          "text": "Faster reaction"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "What is the violation if a driver is operating a vehicle with blinking brake light?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Obstruction"
+        },
+        {
+          "key": "b",
+          "text": "Illegal modification"
+        },
+        {
+          "key": "c",
+          "text": "Unsafe driving"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is true about seat belts?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Seat belts are proven to save lives"
+        },
+        {
+          "key": "b",
+          "text": "Only the front seat passengers should wear seat belts"
+        },
+        {
+          "key": "c",
+          "text": "Only the driver must wear a seatbelt"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "The proper hand signal for a right turn is",
+      "options": [
+        {
+          "key": "a",
+          "text": "Left arm held down, hand pointing at ground"
+        },
+        {
+          "key": "b",
+          "text": "Left arm held straight horizontally"
+        },
+        {
+          "key": "c",
+          "text": "Left arm bent at elbow, hand pointing up"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Slippery road ahead"
+        },
+        {
+          "key": "b",
+          "text": "Road narrows ahead"
+        },
+        {
+          "key": "c",
+          "text": "Road widens ahead"
+        }
+      ],
+      "answer": "B",
+      "image": "q11.jpg"
+    },
+    {
+      "id": 12,
+      "question": "You notice that your vehicle keeps bouncing when you step on the brake. What does this mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Worn out shock absorbers"
+        },
+        {
+          "key": "b",
+          "text": "Steering wheel is not located centrally"
+        },
+        {
+          "key": "c",
+          "text": "Worn out tires"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "What type of insurance is compulsory for motor vehicles?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Comprehensive"
+        },
+        {
+          "key": "b",
+          "text": "Third party"
+        },
+        {
+          "key": "c",
+          "text": "All of the above"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "What does this traffic sign means?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Approach to intersection merging traffic"
+        },
+        {
+          "key": "b",
+          "text": "Approach highway intersection"
+        },
+        {
+          "key": "c",
+          "text": "Approach to intersection side road"
+        }
+      ],
+      "answer": "A",
+      "image": "q14.png"
+    },
+    {
+      "id": 15,
+      "question": "Who has the right of way between 2 vehicles coming from opposite directions on a narrow, steep road?",
+      "options": [
+        {
+          "key": "a",
+          "text": "The faster vehicle"
+        },
+        {
+          "key": "b",
+          "text": "The vehicle going uphill"
+        },
+        {
+          "key": "c",
+          "text": "The first to blink headlight"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "How do you service your brake, accelerator, and clutch cable?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Soak the cable with gasoline regularly"
+        },
+        {
+          "key": "b",
+          "text": "Wash the cable with soap and water regularly"
+        },
+        {
+          "key": "c",
+          "text": "Soak the cable with engine oil regularly"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "When motorists flash their headlights at you, it means",
+      "options": [
+        {
+          "key": "a",
+          "text": "That they are warning you of their presence"
+        },
+        {
+          "key": "b",
+          "text": "That there is a radar speed trap ahead"
+        },
+        {
+          "key": "c",
+          "text": "That they are giving way to you"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "No traffic from the right"
+        },
+        {
+          "key": "b",
+          "text": "No right turn"
+        },
+        {
+          "key": "c",
+          "text": "Bend to the right"
+        }
+      ],
+      "answer": "B",
+      "image": "q18.png"
+    },
+    {
+      "id": 19,
+      "question": "DL is for driver's license, while VIN is for",
+      "options": [
+        {
+          "key": "a",
+          "text": "Very Important Nonpro Drivers"
+        },
+        {
+          "key": "b",
+          "text": "Vehicle Identification Number"
+        },
+        {
+          "key": "c",
+          "text": "Vehicle Information Number"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "You can overtake in a highway if it has 2 lanes with",
+      "options": [
+        {
+          "key": "a",
+          "text": "Continous white line"
+        },
+        {
+          "key": "b",
+          "text": "Continous yellow line"
+        },
+        {
+          "key": "c",
+          "text": "Broken white lines"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "No overtaking"
+        },
+        {
+          "key": "b",
+          "text": "No motor vehicles"
+        },
+        {
+          "key": "c",
+          "text": "Clearway (No stopping)"
+        }
+      ],
+      "answer": "B",
+      "image": "q21.png"
+    },
+    {
+      "id": 22,
+      "question": "At an intersection with a traffic light, make a left turn only when",
+      "options": [
+        {
+          "key": "a",
+          "text": "The red is on or where the red arrow is on"
+        },
+        {
+          "key": "b",
+          "text": "The left arrow green light is on"
+        },
+        {
+          "key": "c",
+          "text": "The vehicles going straight have passed"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "When may you sound the horn of your vehicle?",
+      "options": [
+        {
+          "key": "a",
+          "text": "To give you the right of way"
+        },
+        {
+          "key": "b",
+          "text": "To attract a friend’s attention"
+        },
+        {
+          "key": "c",
+          "text": "To warn others of your presence"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Do not overtake"
+        },
+        {
+          "key": "b",
+          "text": "Form two lanes"
+        },
+        {
+          "key": "c",
+          "text": "Keep in one lane"
+        }
+      ],
+      "answer": "A",
+      "image": "q24.png"
+    },
+    {
+      "id": 25,
+      "question": "This signal warns the driver of hazard ahead",
+      "options": [
+        {
+          "key": "a",
+          "text": "Blinking red light"
+        },
+        {
+          "key": "b",
+          "text": "Blinking green light"
+        },
+        {
+          "key": "c",
+          "text": "Blinking yellow / amber light"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Which traffic sign means give way?",
+      "options": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "q26a.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "q26b.png"
+        },
+        {
+          "key": "c",
+          "text": "",
+          "image": "q26c.png"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "What can make you lose your concentration while driving?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Listening to loud music"
+        },
+        {
+          "key": "b",
+          "text": "Using the wiper wash"
+        },
+        {
+          "key": "c",
+          "text": "Glancing at the side mirror"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "If the driver of the vehicle in front of you is stretching his left arm out and gives you a hand signal pointing to the left, he will",
+      "options": [
+        {
+          "key": "a",
+          "text": "Turn right"
+        },
+        {
+          "key": "b",
+          "text": "Stop"
+        },
+        {
+          "key": "c",
+          "text": "Turn left"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "Premium gasoline provides more power, but may result to",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sliding clutch"
+        },
+        {
+          "key": "b",
+          "text": "Overheating"
+        },
+        {
+          "key": "c",
+          "text": "Too much oil consumption"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "At an intersection with no traffic lights, 2 cars approach at right angles to each other. Which driver must yield?",
+      "options": [
+        {
+          "key": "a",
+          "text": "The driver of the vehicle who arrived there first"
+        },
+        {
+          "key": "b",
+          "text": "The driver of the vehicle who arrived there last"
+        },
+        {
+          "key": "c",
+          "text": "The driver of the vehicle who slowed down first"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dangerous right double bend"
+        },
+        {
+          "key": "b",
+          "text": "Dangerous left double bend"
+        },
+        {
+          "key": "c",
+          "text": "Dangerous curve"
+        }
+      ],
+      "answer": "B",
+      "image": "q31.png"
+    },
+    {
+      "id": 32,
+      "question": "You are leaving your vehicle parked on a road. When may you leave the engine running?",
+      "options": [
+        {
+          "key": "a",
+          "text": "When in a 40 kph zone"
+        },
+        {
+          "key": "b",
+          "text": "If you will be parked for less than five minutes"
+        },
+        {
+          "key": "c",
+          "text": "Not on any occasion"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "If you approach an intersection where there is no policeman on duty and no signal, you should yield right of way to",
+      "options": [
+        {
+          "key": "a",
+          "text": "Traffic coming from your right"
+        },
+        {
+          "key": "b",
+          "text": "Traffic directly opposite direction"
+        },
+        {
+          "key": "c",
+          "text": "Traffic coming from your left"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "What does a flashing yellow amber light mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stop,then proceed with caution"
+        },
+        {
+          "key": "b",
+          "text": "Slow down and proceed with caution"
+        },
+        {
+          "key": "c",
+          "text": "Pedestrian crossing"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "The rightmost lane of a three lane expressway should be used for",
+      "options": [
+        {
+          "key": "a",
+          "text": "Normal driving"
+        },
+        {
+          "key": "b",
+          "text": "Slow vehicles only"
+        },
+        {
+          "key": "c",
+          "text": "Break downs and emergencies only"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "You see an amber traffic light ahead. Which lights will come on next?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Red at the middle"
+        },
+        {
+          "key": "b",
+          "text": "Red at the top"
+        },
+        {
+          "key": "c",
+          "text": "Red at the bottom"
+        }
+      ],
+      "answer": "B",
+      "image": "q36.png"
+    },
+    {
+      "id": 37,
+      "question": "When can you use your mobile phone?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Whn stopping on the safe side of the road"
+        },
+        {
+          "key": "b",
+          "text": "When the vehicle is in motion"
+        },
+        {
+          "key": "c",
+          "text": "At the red stop light"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "What should you not do when passing a hospital zone?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Switch hazard warning light"
+        },
+        {
+          "key": "b",
+          "text": "Blow horn"
+        },
+        {
+          "key": "c",
+          "text": "Switch headlight on"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "What should you do when an oncoming vehicle deliberately crosses the center line to pass another vehicle?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Switch on the headlights"
+        },
+        {
+          "key": "b",
+          "text": "Be alert and be ready to slow down or stop if necessary"
+        },
+        {
+          "key": "c",
+          "text": "Blow horn and maintain speed"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dangerous right bend"
+        },
+        {
+          "key": "b",
+          "text": "Dangerous left bend"
+        },
+        {
+          "key": "c",
+          "text": "No U-turn"
+        }
+      ],
+      "answer": "C",
+      "image": "q40.jpg"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following is a violation of disregarding traffic signals?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Illegal parking"
+        },
+        {
+          "key": "b",
+          "text": "Beating the red light"
+        },
+        {
+          "key": "c",
+          "text": "Loading and unloading"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Where may you overtake on a one-way street?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Either on the right or left"
+        },
+        {
+          "key": "b",
+          "text": "Only on the left-hand side"
+        },
+        {
+          "key": "c",
+          "text": "Overtaking is not allowed"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Road rage among motorists arises when",
+      "options": [
+        {
+          "key": "a",
+          "text": "Neither of the party knows traffic rules and regulations"
+        },
+        {
+          "key": "b",
+          "text": "Either of the party starts to provoke the other"
+        },
+        {
+          "key": "c",
+          "text": "Neither of the party starts to provoke the other"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "How should you give an arm signal to turn right?",
+      "options": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "q44a.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "q44b.png"
+        },
+        {
+          "key": "c",
+          "text": "",
+          "image": "q44c.png"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Approach to intersection"
+        },
+        {
+          "key": "b",
+          "text": "Highway ahead"
+        },
+        {
+          "key": "c",
+          "text": "Merging traffic ahead"
+        }
+      ],
+      "answer": "A",
+      "image": "q45.png"
+    },
+    {
+      "id": 46,
+      "question": "You are not sure if your cough medicine will affect you. What should you do?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ask your doctor and check the medicine label"
+        },
+        {
+          "key": "b",
+          "text": "Ask a friend or relative for advice"
+        },
+        {
+          "key": "c",
+          "text": "Drive if you feel good"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "If you park on the roadway side of a parked vehicle, then",
+      "options": [
+        {
+          "key": "a",
+          "text": "You are supposed to pay twice the parking fee of the parked vehicle"
+        },
+        {
+          "key": "b",
+          "text": "You are obliged to pay thrice the parking fee"
+        },
+        {
+          "key": "c",
+          "text": "You are obstructing the free flow of traffic"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "You are on an expressway. There are red flashing lights above in every land. You must",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pull on to the lay-by"
+        },
+        {
+          "key": "b",
+          "text": "Leave the next exit"
+        },
+        {
+          "key": "c",
+          "text": "Stop and wait"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 49,
+      "question": "If you are parking uphill on a street without a curb, turn the wheels toward the",
+      "options": [
+        {
+          "key": "a",
+          "text": "Edge of the street"
+        },
+        {
+          "key": "b",
+          "text": "End of the street"
+        },
+        {
+          "key": "c",
+          "text": "Center of the street"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "When looking for a parking space, you need to consider",
+      "options": [
+        {
+          "key": "a",
+          "text": "Space that is large enough for your vehicle on the other side of the road"
+        },
+        {
+          "key": "b",
+          "text": "Appropriate space for your vehicle at a designated parking area"
+        },
+        {
+          "key": "c",
+          "text": "Space nearest to your destination"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 51,
+      "question": "At a stop line before a crosswalk, a driver is always expected to",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stop"
+        },
+        {
+          "key": "b",
+          "text": "Go"
+        },
+        {
+          "key": "c",
+          "text": "Step on the brake"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "In a roundabout, which has the first priority?",
+      "options": [
+        {
+          "key": "a",
+          "text": "The vehicles approaching the round about"
+        },
+        {
+          "key": "b",
+          "text": "The vehicles within the roundabout"
+        },
+        {
+          "key": "c",
+          "text": "The vehicles facing the green light"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 53,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Downhill course"
+        },
+        {
+          "key": "b",
+          "text": "Humps ahead"
+        },
+        {
+          "key": "c",
+          "text": "Uphill course"
+        }
+      ],
+      "answer": "A",
+      "image": "q53.png"
+    },
+    {
+      "id": 54,
+      "question": "If you see a ball coming from behind a parked vehicle on a city street, chances are a kid is following it. What will you do?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Increase your speed"
+        },
+        {
+          "key": "b",
+          "text": "Blow your horn and maintain your speed"
+        },
+        {
+          "key": "c",
+          "text": "Slow down"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 55,
+      "question": "The most effective way to deal with a tailgater is to",
+      "options": [
+        {
+          "key": "a",
+          "text": "Increase your speed and be alert on your brakes"
+        },
+        {
+          "key": "b",
+          "text": "Slow down and let him pass"
+        },
+        {
+          "key": "c",
+          "text": "Ignore him but not allow him to get away"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 56,
+      "question": "Is it true that student drivers are exempted from traffic violations?",
+      "options": [
+        {
+          "key": "a",
+          "text": "False, violation tickets can only be issued to professional drivers"
+        },
+        {
+          "key": "b",
+          "text": "False, violation tickets maybe issued against student-driver"
+        },
+        {
+          "key": "c",
+          "text": "True, violations tickets will be issued against instructors"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "Which traffic signs signify regulations and prohibitions?",
+      "options": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "q57a.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "q57b.png"
+        },
+        {
+          "key": "c",
+          "text": "",
+          "image": "q57c.png"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "What should you do when preparing for a turn?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Not change lane"
+        },
+        {
+          "key": "b",
+          "text": "Reduce speed"
+        },
+        {
+          "key": "c",
+          "text": "Fully stop six meters from the corner"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 59,
+      "question": "What is the color of the pavement marking that separates a multiple lane highway?",
+      "options": [
+        {
+          "key": "a",
+          "text": "White"
+        },
+        {
+          "key": "b",
+          "text": "Orange"
+        },
+        {
+          "key": "c",
+          "text": "Red"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "You feel drowsy when driving. You should",
+      "options": [
+        {
+          "key": "a",
+          "text": "Close the car windows to help you concentrate"
+        },
+        {
+          "key": "b",
+          "text": "Turn the air-condition to keep you cool and comfortable"
+        },
+        {
+          "key": "c",
+          "text": "Stop and rest as soon as possible and make sure you have a good supply or air"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 61,
+      "question": "What flag color is required to be attached on projecting loads of vehicles?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Red"
+        },
+        {
+          "key": "b",
+          "text": "Green"
+        },
+        {
+          "key": "c",
+          "text": "Yellow"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "On an expressway, this sign means",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leave the express way at the exit"
+        },
+        {
+          "key": "b",
+          "text": "Move over onto the hard shoulder"
+        },
+        {
+          "key": "c",
+          "text": "Move to the lane on your left"
+        }
+      ],
+      "answer": "C",
+      "image": "q62.png"
+    },
+    {
+      "id": 63,
+      "question": "Under the law, what other factor can seriously affect your driving condition other than alcoholic drinks?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dangerouse illegal drugs"
+        },
+        {
+          "key": "b",
+          "text": "Listening to loud music"
+        },
+        {
+          "key": "c",
+          "text": "Eating while driving"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dangerous curve ahead"
+        },
+        {
+          "key": "b",
+          "text": "No swerving"
+        },
+        {
+          "key": "c",
+          "text": "Change lane"
+        }
+      ],
+      "answer": "A",
+      "image": "q64.png"
+    },
+    {
+      "id": 65,
+      "question": "What should you do when another vehicle is following you too close?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Slow down gradually and give him the signal to overtake"
+        },
+        {
+          "key": "b",
+          "text": "Slam on your brakes"
+        },
+        {
+          "key": "c",
+          "text": "Speed up to start a road race"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "What is the minimum safe following distance under normal conditions?",
+      "options": [
+        {
+          "key": "a",
+          "text": "A minimum of 6 seconds is the recommended following distance under most condition"
+        },
+        {
+          "key": "b",
+          "text": "A minimum of 4 seconds is the recommended following distance under most condition"
+        },
+        {
+          "key": "c",
+          "text": "A minimum of 2 seconds is the recommended following distance under most condition"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 67,
+      "question": "You are approaching this cyclist. You should",
+      "options": [
+        {
+          "key": "a",
+          "text": "Flash your headlight at the cyclist"
+        },
+        {
+          "key": "b",
+          "text": "slow down and allow the cyclist to turn"
+        },
+        {
+          "key": "c",
+          "text": "Overtake the cyclist on the left hand-side"
+        }
+      ],
+      "answer": "B",
+      "image": "q67.png"
+    },
+    {
+      "id": 68,
+      "question": "When parking downhill, you must",
+      "options": [
+        {
+          "key": "a",
+          "text": "Turn your wheels parallel to the curb"
+        },
+        {
+          "key": "b",
+          "text": "Turn your wheels away from the curb"
+        },
+        {
+          "key": "c",
+          "text": "Turn your wheels toward the curb"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "What should you do if several vehicles pass you on the left?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Maintain or slightly reduce speed  and keep to the right"
+        },
+        {
+          "key": "b",
+          "text": "Reduce speed and change lane"
+        },
+        {
+          "key": "c",
+          "text": "Stop and wait for the vehicles to pass"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Drinking any amount of alcohol is likely to",
+      "options": [
+        {
+          "key": "a",
+          "text": "Slow down your reactions to hazards, worsen your judgement of speed and give a false sense of confidence"
+        },
+        {
+          "key": "b",
+          "text": "Improve your awareness of danger"
+        },
+        {
+          "key": "c",
+          "text": "Increase the speed of your reaction"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 71,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dangerous left curve"
+        },
+        {
+          "key": "b",
+          "text": "Dangerous curve"
+        },
+        {
+          "key": "c",
+          "text": "Dangerous right curve"
+        }
+      ],
+      "answer": "C",
+      "image": "q71.png"
+    },
+    {
+      "id": 72,
+      "question": "What should be the color of a brake light?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Green"
+        },
+        {
+          "key": "b",
+          "text": "Red"
+        },
+        {
+          "key": "c",
+          "text": "Yellow"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "Which area is overtaking prohibited?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Two-way intersection"
+        },
+        {
+          "key": "b",
+          "text": "On a bridge"
+        },
+        {
+          "key": "c",
+          "text": "Expressway zone"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 74,
+      "question": "A single solid yellow line means",
+      "options": [
+        {
+          "key": "a",
+          "text": "Crossing is not allowed"
+        },
+        {
+          "key": "b",
+          "text": "Passing/overtaking is allowed"
+        },
+        {
+          "key": "c",
+          "text": "Passing/overtaking is not allowed"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 75,
+      "question": "Overtaking upon a crest approaching a bridge is prohibited unless",
+      "options": [
+        {
+          "key": "a",
+          "text": "The driver’s view can be clearly seen at a minimum distance of 100 meters"
+        },
+        {
+          "key": "b",
+          "text": "The driver’s view can be clearly seen at a minimum distance of 75 meters"
+        },
+        {
+          "key": "c",
+          "text": "The driver’s view can be clearly seen at a minimum distance of 150 meters"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 76,
+      "question": "When can you use the first lane of a three-lane expressway?",
+      "options": [
+        {
+          "key": "a",
+          "text": "When driving above the speed limit"
+        },
+        {
+          "key": "b",
+          "text": "When overtaking"
+        },
+        {
+          "key": "c",
+          "text": "When driving below the speed limit and with no other vehicles around"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "What is the effect of replacing the bulb of the originally installed headlights with bulbs not specified by the vehicle manufacturer? For example, LED light, higher wattage",
+      "options": [
+        {
+          "key": "a",
+          "text": "Distracts passengers"
+        },
+        {
+          "key": "b",
+          "text": "Better vision specially at night"
+        },
+        {
+          "key": "c",
+          "text": "Distracts motorists coming from opposite direction and it’s against traffic law"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 78,
+      "question": "Before changing lanes on a highway, ideally you must give a signal for",
+      "options": [
+        {
+          "key": "a",
+          "text": "Five meters before turning"
+        },
+        {
+          "key": "b",
+          "text": "Fifty meters before turning"
+        },
+        {
+          "key": "c",
+          "text": "Thirty meters before turning"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 79,
+      "question": "Where do you see this traffic sign?",
+      "options": [
+        {
+          "key": "a",
+          "text": "At an intersection"
+        },
+        {
+          "key": "b",
+          "text": "Before entering expressway"
+        },
+        {
+          "key": "c",
+          "text": "Before driving at a narrow street"
+        }
+      ],
+      "answer": "A",
+      "image": "q79.jpg"
+    },
+    {
+      "id": 80,
+      "question": "In R.A. 8750, how much is the penalty for the first offense for allowing a child 6 years and below to be seated on front passenger seat?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Php1,500.00"
+        },
+        {
+          "key": "b",
+          "text": "Php2,000.00"
+        },
+        {
+          "key": "c",
+          "text": "Php1,000.00"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 81,
+      "question": "Any amount of this drink will affect your driving ability to the worst",
+      "options": [
+        {
+          "key": "a",
+          "text": "Water"
+        },
+        {
+          "key": "b",
+          "text": "Pineapple Juice"
+        },
+        {
+          "key": "c",
+          "text": "Alcohol"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 82,
+      "question": "When the vehicle you are driving runs off the road or hits an electric post or a parked car, the most probable reason is",
+      "options": [
+        {
+          "key": "a",
+          "text": "You lost your brake"
+        },
+        {
+          "key": "b",
+          "text": "You are driving too fast and you lost control of your vehicle"
+        },
+        {
+          "key": "c",
+          "text": "You are trying to overtake"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Before changing lanes in traffic, especially at night and when it is raining, aside from giving a signal and checking your side and rear view mirrors, what else do you need to do?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Blink your headlights"
+        },
+        {
+          "key": "b",
+          "text": "Sound your horn"
+        },
+        {
+          "key": "c",
+          "text": "Slightly turn your head to check other vehicles beside you"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 84,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Narrow bridge"
+        },
+        {
+          "key": "b",
+          "text": "Broken bridge"
+        },
+        {
+          "key": "c",
+          "text": "Swing bridge"
+        }
+      ],
+      "answer": "B",
+      "image": "q84.png"
+    },
+    {
+      "id": 85,
+      "question": "Most school service transport related deaths and injuries occur when",
+      "options": [
+        {
+          "key": "a",
+          "text": "Chidren are being discharge from the school service within the school campus"
+        },
+        {
+          "key": "b",
+          "text": "Children are being loaded into the school service within the school campus"
+        },
+        {
+          "key": "c",
+          "text": "Childreen cross the street after being discharge from the school service"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 86,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Straight road ahead"
+        },
+        {
+          "key": "b",
+          "text": "No entry for all types of vehicles"
+        },
+        {
+          "key": "c",
+          "text": "One-way road"
+        }
+      ],
+      "answer": "B",
+      "image": "q86.jpg"
+    },
+    {
+      "id": 87,
+      "question": "Who has the priority right of way?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Big buses"
+        },
+        {
+          "key": "b",
+          "text": "Ariculated trucks"
+        },
+        {
+          "key": "c",
+          "text": "Fire truck with flashing light and siren responding to an emergency"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 88,
+      "question": "On toll gates, a red X light or sign means that",
+      "options": [
+        {
+          "key": "a",
+          "text": "You must move out of this lane"
+        },
+        {
+          "key": "b",
+          "text": "You may drive in this lane"
+        },
+        {
+          "key": "c",
+          "text": "You cannot drive on this lane"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 89,
+      "question": "What else can seriously affect your concentration other than alcohol drinks?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Drugs, tiredness and loud music, billboards, tinted windows"
+        },
+        {
+          "key": "b",
+          "text": "Traffic lights, comfortable seats, good road sign"
+        },
+        {
+          "key": "c",
+          "text": "Soothing music, properly lit street, pavement markings"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 90,
+      "question": "You see a school bus parked with its hazard warning lights flashing on the other side of the highway. Are you required to stop?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yes, you need to stop until the hazards light stop flashing and there are no children on the road"
+        },
+        {
+          "key": "b",
+          "text": "Yes, you must stop, but you can then proceed when you deem it to be safe"
+        },
+        {
+          "key": "c",
+          "text": "No, but you need to slow down"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 91,
+      "question": "Flashing yellow traffic light means,",
+      "options": [
+        {
+          "key": "a",
+          "text": "Vehicles will crossing from the other side"
+        },
+        {
+          "key": "b",
+          "text": "You have the right-of-way over a flashing red light"
+        },
+        {
+          "key": "c",
+          "text": "Slow down and proceed with caution"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 92,
+      "question": "Upon approaching an intersection, what should you do if you found out that the roadway beyond is blocked with traffic?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Keep as close as possible to the car ahead"
+        },
+        {
+          "key": "b",
+          "text": "Proceed slowly to the intersection until the traffic ahead moves on"
+        },
+        {
+          "key": "c",
+          "text": "Stop before the intesection and wait until the traffic ahead moves"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 93,
+      "question": "What is the meaning of this blue traffic sign?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Two way traffic"
+        },
+        {
+          "key": "b",
+          "text": "End of two-way road"
+        },
+        {
+          "key": "c",
+          "text": "Give priority to vehicles coming towards you"
+        }
+      ],
+      "answer": "A",
+      "image": "q93.png"
+    },
+    {
+      "id": 94,
+      "question": "This is an important safety accessory of a vehicle when you are leaving your vehicle",
+      "options": [
+        {
+          "key": "a",
+          "text": "Parking brake"
+        },
+        {
+          "key": "b",
+          "text": "Headlight switch"
+        },
+        {
+          "key": "c",
+          "text": "Horn"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 95,
+      "question": "To drive on the road, one must have these documents ready",
+      "options": [
+        {
+          "key": "a",
+          "text": "Valid DL and Updated Registration and Insurance Policy"
+        },
+        {
+          "key": "b",
+          "text": "DL and Registration and Insurance Policy"
+        },
+        {
+          "key": "c",
+          "text": "CPC and Fare Matrix"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 96,
+      "question": "When you see a traffic light change from yellow, what color light should you expect next?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Blue"
+        },
+        {
+          "key": "b",
+          "text": "Red"
+        },
+        {
+          "key": "c",
+          "text": "Amber"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "Which sign means no entry?",
+      "options": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "q97a.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "q97b.png"
+        },
+        {
+          "key": "c",
+          "text": "",
+          "image": "q97c.png"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "Which place you should not overtake without a clear vision of at least two hundred feet ahead?",
+      "options": [
+        {
+          "key": "a",
+          "text": "All of the above"
+        },
+        {
+          "key": "b",
+          "text": "In an intesection"
+        },
+        {
+          "key": "c",
+          "text": "At the foot of the bridge"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 99,
+      "question": "You are in the lane of an expressway and you see signs that is closed ahead. You should",
+      "options": [
+        {
+          "key": "a",
+          "text": "Move to the right with care"
+        },
+        {
+          "key": "b",
+          "text": "Stay on your lane"
+        },
+        {
+          "key": "c",
+          "text": "Wait and see which lane is moving faster"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 100,
+      "question": "Which of the following accessory is mandatory to keep in good condition?",
+      "options": [
+        {
+          "key": "a",
+          "text": "All of the above"
+        },
+        {
+          "key": "b",
+          "text": "Headlights"
+        },
+        {
+          "key": "c",
+          "text": "Seat belts"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 101,
+      "question": "Among the list, who are exempted from speed limits?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Drivers of the high ranking officials of the government"
+        },
+        {
+          "key": "b",
+          "text": "Drivers evading apprehension"
+        },
+        {
+          "key": "c",
+          "text": "Doctors and their drivers going to an emergency"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 102,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Slippery road"
+        },
+        {
+          "key": "b",
+          "text": "Curve road"
+        },
+        {
+          "key": "c",
+          "text": "Winding road"
+        }
+      ],
+      "answer": "A",
+      "image": "q102.jpg"
+    },
+    {
+      "id": 103,
+      "question": "Are you allowed to turn right at red signal?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yes, this is a protected turn, so you will have the right-of-way"
+        },
+        {
+          "key": "b",
+          "text": "Yes, you can but only after coming to a stop and yeilding to traffic"
+        },
+        {
+          "key": "c",
+          "text": "Yes, you can but only if a sign permits you to do so."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 104,
+      "question": "Which of these, if neglected, could cause a road crash?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Radiator water level"
+        },
+        {
+          "key": "b",
+          "text": "Brake fluid level"
+        },
+        {
+          "key": "c",
+          "text": "Air conditioning freon level"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 105,
+      "question": "Is it true that you can park beside a fire hydrant anytime?",
+      "options": [
+        {
+          "key": "a",
+          "text": "False, only emergency vehicles are allowed to park beside the fire hydrant"
+        },
+        {
+          "key": "b",
+          "text": "False, a fire hydrant is an emergency facilty, no one is allowed to park beside it"
+        },
+        {
+          "key": "c",
+          "text": "False, a fire hydrant is for ambulance only"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 106,
+      "question": "What is the use of these pavement rumble strips?",
+      "options": [
+        {
+          "key": "a",
+          "text": "To shake the vehicle and ensure its road worthiness"
+        },
+        {
+          "key": "b",
+          "text": "To remind the driver to reduce speed"
+        },
+        {
+          "key": "c",
+          "text": "To keep the driver awake"
+        }
+      ],
+      "answer": "B",
+      "image": "q106.png"
+    },
+    {
+      "id": 107,
+      "question": "Under RA 4136, which of the following is the maximum allowable speed on Open National Highway?",
+      "options": [
+        {
+          "key": "a",
+          "text": "100 KPH"
+        },
+        {
+          "key": "b",
+          "text": "60 KPH"
+        },
+        {
+          "key": "c",
+          "text": "80 KPH"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 108,
+      "question": "You have parked facing down a steep hill. If you drive in automatic, you should leave your car in park. What gear should you use with a manual?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leave the car in reverse"
+        },
+        {
+          "key": "b",
+          "text": "Leave the car in first gear"
+        },
+        {
+          "key": "c",
+          "text": "Leave the car in neutral"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 109,
+      "question": "What should you do if you are in an intersection and you hear a siren behind you?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stop and do not move until the emergency vehicle has passed"
+        },
+        {
+          "key": "b",
+          "text": "Back up and pull over to the right side of the road and stop"
+        },
+        {
+          "key": "c",
+          "text": "Continue through the intersection, then pull over  and allow the emergency vehicle to pass"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 110,
+      "question": "Which of the following is in violation of disregarding pavement markings?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Blowing of horn"
+        },
+        {
+          "key": "b",
+          "text": "Stopping and unloading passengers on pedestrian lane"
+        },
+        {
+          "key": "c",
+          "text": "Abrupt slowing on green light"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 111,
+      "question": "What does this sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Turn off at the next available junction"
+        },
+        {
+          "key": "b",
+          "text": "Give way on oncoming vehicle"
+        },
+        {
+          "key": "c",
+          "text": "Pass either side going to the same direction"
+        }
+      ],
+      "answer": "C",
+      "image": "q111.png"
+    },
+    {
+      "id": 112,
+      "question": "Would you maintain your speed if an emergency vehicle is approaching from behind with a siren and flashing lights even if there is another lane open?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yes, to avoid incovenience to yourself"
+        },
+        {
+          "key": "b",
+          "text": "No, you must slow down"
+        },
+        {
+          "key": "c",
+          "text": "Depending on the ability of the driver"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 113,
+      "question": "Which of the following will improve fuel consumption?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Driving in lower gears"
+        },
+        {
+          "key": "b",
+          "text": "Short journeys with a cold engine"
+        },
+        {
+          "key": "c",
+          "text": "Reducing your speed, proper braking & planning well ahead"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 114,
+      "question": "Immediately upon entering an expressway you should normally",
+      "options": [
+        {
+          "key": "a",
+          "text": "Readjust your mirrors"
+        },
+        {
+          "key": "b",
+          "text": "Keep in the right lane"
+        },
+        {
+          "key": "c",
+          "text": "Position your vehicle in the center lane"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "What should you do when passing a school zone?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Blow horn"
+        },
+        {
+          "key": "b",
+          "text": "Switch headlight on"
+        },
+        {
+          "key": "c",
+          "text": "Slow down"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 116,
+      "question": "This picture shows",
+      "options": [
+        {
+          "key": "a",
+          "text": "The area is hazardous and you must not overtake"
+        },
+        {
+          "key": "b",
+          "text": "The area is national speed limit zone"
+        },
+        {
+          "key": "c",
+          "text": "Passing to the left or right is allowed provided the way is clear"
+        }
+      ],
+      "answer": "C",
+      "image": "q116.png"
+    },
+    {
+      "id": 117,
+      "question": "While driving, how should you look at your side and rear view mirrors?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stare longer at your mirrors"
+        },
+        {
+          "key": "b",
+          "text": "A quick glance"
+        },
+        {
+          "key": "c",
+          "text": "Not less than once per minute"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 118,
+      "question": "What sign will constitute an offense if it will be disregarded?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Warning sign"
+        },
+        {
+          "key": "b",
+          "text": "Informative sign"
+        },
+        {
+          "key": "c",
+          "text": "Regulatory sign"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 119,
+      "question": "A flashing green light means",
+      "options": [
+        {
+          "key": "a",
+          "text": "Proceed with caution"
+        },
+        {
+          "key": "b",
+          "text": "Slow down and be ready to stop where a pedestrian cross the streen"
+        },
+        {
+          "key": "c",
+          "text": "Full stop"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 120,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pedestrian crossing"
+        },
+        {
+          "key": "b",
+          "text": "Starting point for crossing"
+        },
+        {
+          "key": "c",
+          "text": "Traffic lights signal ahead"
+        }
+      ],
+      "answer": "C",
+      "image": "q120.png"
+    },
+    {
+      "id": 121,
+      "question": "A pedestrian runs across the street when you're about to move off from a red light. What should you do?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Blow horn once and allow the pedestrian to cross"
+        },
+        {
+          "key": "b",
+          "text": "Wait until the pedestrian crossed"
+        },
+        {
+          "key": "c",
+          "text": "Expect the pedestrian to walk back"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 122,
+      "question": "A driver while on a highway shall yield the right of way to",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pedestrian crossing at an intersection where the movement of traffic is being regulated by a traffic officer"
+        },
+        {
+          "key": "b",
+          "text": "Vehicles about to enter the highway"
+        },
+        {
+          "key": "c",
+          "text": "Pedestrian crossing within a crosswalk"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 123,
+      "question": "When do you need to switch on your turn signal?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Before turning"
+        },
+        {
+          "key": "b",
+          "text": "While turning"
+        },
+        {
+          "key": "c",
+          "text": "After turning"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 124,
+      "question": "What is the maximum penalty for driving under the influence of liquor or prohibited drugs?",
+      "options": [
+        {
+          "key": "a",
+          "text": "6 months suspension"
+        },
+        {
+          "key": "b",
+          "text": "1 year suspension"
+        },
+        {
+          "key": "c",
+          "text": "Perpetual revocation of license"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 125,
+      "question": "If the brake light of the vehicle in front of you lights up, you should",
+      "options": [
+        {
+          "key": "a",
+          "text": "Prepare to brake"
+        },
+        {
+          "key": "b",
+          "text": "Press the horn"
+        },
+        {
+          "key": "c",
+          "text": "Turn right or left"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 126,
+      "question": "The primary objective of looking ahead while driving is",
+      "options": [
+        {
+          "key": "a",
+          "text": "To check the presence of traffic enforcers"
+        },
+        {
+          "key": "b",
+          "text": "To check the traffic ahead and changes of road condition"
+        },
+        {
+          "key": "c",
+          "text": "To check for road crash"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 127,
+      "question": "What is the meaning of this traffic light?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stop if necessary"
+        },
+        {
+          "key": "b",
+          "text": "Stop if the red light comes"
+        },
+        {
+          "key": "c",
+          "text": "Prepare to stop"
+        }
+      ],
+      "answer": "C",
+      "image": "q127.png"
+    },
+    {
+      "id": 128,
+      "question": "You are planning a long trip. Do you need to plan rest stops?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yes, regular stops help avoid mental and physical fatigue"
+        },
+        {
+          "key": "b",
+          "text": "No, you will arrive to your destination faster"
+        },
+        {
+          "key": "c",
+          "text": "No, only fuel stops will be needed"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 129,
+      "question": "During period of illness, your ability to drive may be impaired. You must",
+      "options": [
+        {
+          "key": "a",
+          "text": "Be physically and mentally fit and do not drive after taking medicine"
+        },
+        {
+          "key": "b",
+          "text": "Only take smaller doses of any medicine at all times to ensure safety"
+        },
+        {
+          "key": "c",
+          "text": "See your doctor each time before you drive, especially for long trips"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 130,
+      "question": "Under RA106666, also known as Children's Safety on Motorcycle Act, the child must grasp the rider's waist, can step and rest his or her feet comfortably on the foot peg, and",
+      "options": [
+        {
+          "key": "a",
+          "text": "He/she must be atleast five (5) feet in height"
+        },
+        {
+          "key": "b",
+          "text": "He/she must wear standard protective helmet"
+        },
+        {
+          "key": "c",
+          "text": "He/she must have parent’s consent"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 131,
+      "question": "A blinking yellow traffic light means?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Slow down and proceed if there is no danger"
+        },
+        {
+          "key": "b",
+          "text": "Stop and wait for the traffic light to change"
         },
         {
           "key": "c",
@@ -98,293 +2530,658 @@
       "answer": "A"
     },
     {
-      "id": 6,
-      "question": "A solid white line on the right edge of the highway slopes in towards your left. This shows that",
+      "id": 132,
+      "question": "When do you need to check your engine oil level?",
       "options": [
         {
           "key": "a",
-          "text": "there is an intersection joint ahead"
+          "text": "When the engine is cold"
         },
         {
           "key": "b",
-          "text": "the road will get narrower"
+          "text": "When the engine is running"
         },
         {
           "key": "c",
-          "text": "you are approaching a construction area"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 7,
-      "question": "You are in a No-Passing zone when the center of the road is marked by",
-      "options": [
-        {
-          "key": "a",
-          "text": "a broken yellow line"
-        },
-        {
-          "key": "b",
-          "text": "a broken white line"
-        },
-        {
-          "key": "c",
-          "text": "two solid yellow lines"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 8,
-      "question": "When arrows are painted on the pavement, drivers must:",
-      "options": [
-        {
-          "key": "a",
-          "text": "must go in the direction of the arrows"
-        },
-        {
-          "key": "b",
-          "text": "slow down and prepare to yield right of way"
-        },
-        {
-          "key": "c",
-          "text": "are not allowed to change lanes"
+          "text": "When the engine is hot"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 9,
-      "question": "You may not drive across solid yellow lines except to:",
+      "id": 133,
+      "question": "Yellow box pavement marking is painted within intersections where no vehicle is allowed to",
       "options": [
         {
           "key": "a",
-          "text": "change lanes"
+          "text": "Stop"
         },
         {
           "key": "b",
-          "text": "turn left"
+          "text": "Pass"
         },
         {
           "key": "c",
-          "text": "turn right"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 10,
-      "question": "Double solid yellow lane lines",
-      "options": [
-        {
-          "key": "a",
-          "text": "should not be crossed except with due care"
-        },
-        {
-          "key": "b",
-          "text": "should not be crossed anytime"
-        },
-        {
-          "key": "c",
-          "text": "does not allow lane changing"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 11,
-      "question": "You may not cross a single broken white or yellow line",
-      "options": [
-        {
-          "key": "a",
-          "text": "when turning left into a driveway"
-        },
-        {
-          "key": "b",
-          "text": "when passing to the right on a one-way street"
-        },
-        {
-          "key": "c",
-          "text": "when to do so would interfere with traffic"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 12,
-      "question": "You may cross over a double line on the road to overtake another car if the line on your side is:",
-      "options": [
-        {
-          "key": "a",
-          "text": "solid white"
-        },
-        {
-          "key": "b",
-          "text": "broken"
-        },
-        {
-          "key": "c",
-          "text": "solid yellow"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 13,
-      "question": "When you approach a flashing red signal light, you should:",
-      "options": [
-        {
-          "key": "a",
-          "text": "wait for the green light before proceeding"
-        },
-        {
-          "key": "b",
-          "text": "slow down and proceed with caution"
-        },
-        {
-          "key": "c",
-          "text": "come to a full stop and proceed when it is safe to do so"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 14,
-      "question": "Which of the following hand signals must a driver give when he wants to slow down and stop?",
-      "options": [
-        {
-          "key": "a",
-          "text": "left is bent at elbow, hand pointing up"
-        },
-        {
-          "key": "b",
-          "text": "left arm held straight in horizontal position"
-        },
-        {
-          "key": "c",
-          "text": "left arm held down and hand pointing at ground"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 15,
-      "question": "The proper hand signal for right turn is:",
-      "options": [
-        {
-          "key": "a",
-          "text": "left arm bent at elbow, hand pointing up"
-        },
-        {
-          "key": "b",
-          "text": "left arm held straight in horizontal position"
-        },
-        {
-          "key": "c",
-          "text": "left arm held down and hand pointing at ground"
+          "text": "Blow horrn"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 16,
-      "question": "If the driver ahead of your extends his left arm straight out, you are fairly sure that he is going to:",
+      "id": 134,
+      "question": "What should the driver do if he or she is already within the intersection when the yellow traffic light comes?",
       "options": [
         {
           "key": "a",
-          "text": "turn left at the next intersection"
+          "text": "Slow down to allow other vehicles to cross"
         },
         {
           "key": "b",
-          "text": "pull off to the side of the road to stop"
+          "text": "The driver may continue driving with caution"
         },
         {
           "key": "c",
-          "text": "turn right at the next intersection"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "question": "When approaching a railway crossing with a signal device warning the approach of a train, you must:",
-      "options": [
-        {
-          "key": "a",
-          "text": "stop not less than 1.5 meters from the nearest rail"
-        },
-        {
-          "key": "b",
-          "text": "slow down and proceed with caution"
-        },
-        {
-          "key": "c",
-          "text": "pull off to the side of the road to stop"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 18,
-      "question": "Under what circumstances should you sound your \"horn\"?",
-      "options": [
-        {
-          "key": "a",
-          "text": "as a safety warning"
-        },
-        {
-          "key": "b",
-          "text": "at school zones"
-        },
-        {
-          "key": "c",
-          "text": "at hospital zones"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "What does the lane require you to do upon approaching an intersection with a stop sign?",
-      "options": [
-        {
-          "key": "a",
-          "text": "slow down and proceed when it is safe to do so"
-        },
-        {
-          "key": "b",
-          "text": "stop and proceed when it is safe to do so"
-        },
-        {
-          "key": "c",
-          "text": "yield the right-of-way if necessary to vehicles approaching from left or right"
+          "text": "Stop automatically on the road"
         }
       ],
       "answer": "B"
     },
     {
-      "id": 20,
-      "question": "Upon approaching an intersection marked with a YIELD SIGN, you are required to:",
+      "id": 135,
+      "question": "Why are rumble strips installed across the road?",
       "options": [
         {
           "key": "a",
-          "text": "stop before entering the intersection"
+          "text": "To make you alert and aware of your speed"
         },
         {
           "key": "b",
-          "text": "enter the intersection immediately"
+          "text": "To help you choose the correct lane"
         },
         {
           "key": "c",
-          "text": "slow down then enter the intersection when the way is clear"
+          "text": "To help you keep the correct separation distance"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 136,
+      "question": "Which one is a mandate of LTO?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Register roadworthy and emission compliant motor vehicles"
+        },
+        {
+          "key": "b",
+          "text": "Issue certificate of public convenience"
+        },
+        {
+          "key": "c",
+          "text": "Issue certificate of emission and compliance"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 137,
+      "question": "When a driver sees the yellow light signal changes to red, a vehicle is already in the intersection to turn left or right may",
+      "options": [
+        {
+          "key": "a",
+          "text": "Continue to proceed through the intersection even if the light on the signal to the left / right is red"
+        },
+        {
+          "key": "b",
+          "text": "Stop automatically on the road"
+        },
+        {
+          "key": "c",
+          "text": "Slow down to allow other vehicles to proceed"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 138,
+      "question": "Motorcycle riders must exercise safety and care at all times. To do so, they are required to wear",
+      "options": [
+        {
+          "key": "a",
+          "text": "A policeman cap or gloves"
+        },
+        {
+          "key": "b",
+          "text": "Standard protected helmets"
+        },
+        {
+          "key": "c",
+          "text": "Helmets intended for construction works"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 139,
+      "question": "Where would you see this sign?",
+      "options": [
+        {
+          "key": "a",
+          "text": "School pedestrian crossing"
+        },
+        {
+          "key": "b",
+          "text": "At the side of the road"
+        },
+        {
+          "key": "c",
+          "text": "At playground areas"
+        }
+      ],
+      "answer": "A",
+      "image": "q139.png"
+    },
+    {
+      "id": 140,
+      "question": "How can you avoid wasting fuel?",
+      "options": [
+        {
+          "key": "a",
+          "text": "By having your vehicle properly serviced and maintained"
+        },
+        {
+          "key": "b",
+          "text": "By servicing your vehicles less regularly"
+        },
+        {
+          "key": "c",
+          "text": "By filling up the saddle and top box"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 141,
+      "question": "What does this traffic sign means?",
+      "options": [
+        {
+          "key": "a",
+          "text": "No entry for all types of vehicles"
+        },
+        {
+          "key": "b",
+          "text": "Stop"
+        },
+        {
+          "key": "c",
+          "text": "Do not enter"
+        }
+      ],
+      "answer": "B",
+      "image": "q141.png"
+    },
+    {
+      "id": 142,
+      "question": "In case a road crash involving physical injury, the first duty of the involved driver is",
+      "options": [
+        {
+          "key": "a",
+          "text": "Report the incident to the nearest police station"
+        },
+        {
+          "key": "b",
+          "text": "Report the incident to the hospital"
+        },
+        {
+          "key": "c",
+          "text": "Attend to the injured person and call for help"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 21,
-      "question": "The road sign \"Do Not Enter\" is a:",
+      "id": 143,
+      "question": "You service your own vehicle. How should you get rid of the old engine oil?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Put it into your dust bin"
+        },
+        {
+          "key": "b",
+          "text": "Tip it into a hole in the  ground"
+        },
+        {
+          "key": "c",
+          "text": "Dispose it properly"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 144,
+      "question": "What is the maximum and allowable width of the saddle box or bag?",
+      "options": [
+        {
+          "key": "a",
+          "text": "18 inches from both sides"
+        },
+        {
+          "key": "b",
+          "text": "16 inches from both sides"
+        },
+        {
+          "key": "c",
+          "text": "14 inches from both sides"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 145,
+      "question": "When more than one driver arrived at a four-way stop, who has the right of way?",
+      "options": [
+        {
+          "key": "a",
+          "text": "The driver who arrived first should be the first to go"
+        },
+        {
+          "key": "b",
+          "text": "The driver of the larger vehicle should be the first to go"
+        },
+        {
+          "key": "c",
+          "text": "The last driver to arrive should be the first to go"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 146,
+      "question": "How much is the imposed fine and penalty for the first offense if you violate the RA1066 on safety of children aboard motorcycle?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Php5,000.00"
+        },
+        {
+          "key": "b",
+          "text": "Php1,500.00"
+        },
+        {
+          "key": "c",
+          "text": "Php3,000.00"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 147,
+      "question": "How does alcohol affect you?",
+      "options": [
+        {
+          "key": "a",
+          "text": "It reduces your concetration"
+        },
+        {
+          "key": "b",
+          "text": "It speeds up your reaction"
+        },
+        {
+          "key": "c",
+          "text": "It improves your coordination"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 148,
+      "question": "What is the meaning of beating the red light?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Driving faster upons seeing a yellow/amber light"
+        },
+        {
+          "key": "b",
+          "text": "Stopping suddenly"
+        },
+        {
+          "key": "c",
+          "text": "Stopping on the green light"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 149,
+      "question": "Under RA10666, which of the following prohibits the rider to convey a child?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Where the speed limit of more than 50 kph is imposed"
+        },
+        {
+          "key": "b",
+          "text": "Where the speed limit of more than 40 kph is imposed"
+        },
+        {
+          "key": "c",
+          "text": "Where the speed limit of more than 60 kph is imposed"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 150,
+      "question": "What should you do whenever you're driving on a highway with a lot of potholes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Always change lance"
+        },
+        {
+          "key": "b",
+          "text": "Increase speed"
+        },
+        {
+          "key": "c",
+          "text": "Decrease speed"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 151,
+      "question": "Using a backbone motorcycle, which stand do you need to use when parking overnight?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Side stand"
+        },
+        {
+          "key": "b",
+          "text": "Center stand"
+        },
+        {
+          "key": "c",
+          "text": "Cross stand"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 152,
+      "question": "Ahead of you is a vehicle with a flashing yellow light. This means it is",
+      "options": [
+        {
+          "key": "a",
+          "text": "Broken down vehicle"
+        },
+        {
+          "key": "b",
+          "text": "Slow moving"
+        },
+        {
+          "key": "c",
+          "text": "A doctor’s car"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 153,
+      "question": "What should you do if the road is wet?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Increase your speed"
+        },
+        {
+          "key": "b",
+          "text": "Keep on swerving"
+        },
+        {
+          "key": "c",
+          "text": "Slow down"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 154,
+      "question": "What comes next after this traffic light?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Green"
+        },
+        {
+          "key": "b",
+          "text": "Blue"
+        },
+        {
+          "key": "c",
+          "text": "Red"
+        }
+      ],
+      "answer": "C",
+      "image": "q154.png"
+    },
+    {
+      "id": 155,
+      "question": "Which of the traffic lights requires you to prepare for a stop?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Red"
+        },
+        {
+          "key": "b",
+          "text": "Green"
+        },
+        {
+          "key": "c",
+          "text": "Yellow/Amber"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 156,
+      "question": "A blue traffic light means?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stop"
+        },
+        {
+          "key": "b",
+          "text": "Go"
+        },
+        {
+          "key": "c",
+          "text": "None, there are no blue traffic lights"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 157,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "No cars"
+        },
+        {
+          "key": "b",
+          "text": "Cars only"
+        },
+        {
+          "key": "c",
+          "text": "No motorcycles"
+        }
+      ],
+      "answer": "C",
+      "image": "q157.png"
+    },
+    {
+      "id": 158,
+      "question": "You are entering an area of road works where there is a temporary no overtaking sign. You must",
+      "options": [
+        {
+          "key": "a",
+          "text": "Obey the sign only during rush hour"
+        },
+        {
+          "key": "b",
+          "text": "Follow the sign as advised"
+        },
+        {
+          "key": "c",
+          "text": "Obey only when a traffic enforcer is on duty"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 159,
+      "question": "How much is the penalty for the second offenses of RA10666 Children's Safety on Motorcycle Act of 2015?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Php5,000.00"
+        },
+        {
+          "key": "b",
+          "text": "Php7,000.00"
+        },
+        {
+          "key": "c",
+          "text": "Php1,000.00"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 160,
+      "question": "What should you do when you approach a road work with a temporary maximum speed limit sign?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Comply with the sign when the lane is narrow"
+        },
+        {
+          "key": "b",
+          "text": "Comply with the sign during the day"
+        },
+        {
+          "key": "c",
+          "text": "Comply with the sign at all times"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 161,
+      "question": "A no parking sign means",
+      "options": [
+        {
+          "key": "a",
+          "text": "A motorist can make a temporary stop, within a reasonable time to load or unload but must not obstruct other vehicle"
+        },
+        {
+          "key": "b",
+          "text": "A motorist can park provided that he/she is driving a private vehicle"
+        },
+        {
+          "key": "c",
+          "text": "A motorist cannot do a temporary stop otherwise he/she will be apprehended for disregarding traffic sign"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 162,
+      "question": "You approach an intersection with malfunctioning traffic signals. What should you do?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Slow down and wait for a traffic enforcer"
+        },
+        {
+          "key": "b",
+          "text": "Treat the intersection as if there Stop signs in all directions"
+        },
+        {
+          "key": "c",
+          "text": "Increase your speed because the intersection is clear"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 163,
+      "question": "If you encounter emergency vehicles such as an ambulance, a fire truck, and police cars on the road with sirens on, what should you do?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Obstruct their passage and never allow them to pass through"
+        },
+        {
+          "key": "b",
+          "text": "Ignore them since you have no business interfering with their jobs"
+        },
+        {
+          "key": "c",
+          "text": "Give way by pulling in to the left or right side of the road depending on the circumstances"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 164,
+      "question": "It is the car's turn and brake signals have failed, so the driver is using hand gestures to signal instead. What is the driver's intention?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Turn left"
+        },
+        {
+          "key": "b",
+          "text": "Turn right"
+        },
+        {
+          "key": "c",
+          "text": "Increase speed"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 165,
+      "question": "What is the authority granted by LTO to a person who desires to learn to operate a motor vehicle valid for a period of one year?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Student Driver’s Permit"
+        },
+        {
+          "key": "b",
+          "text": "Professional Driver’s License"
+        },
+        {
+          "key": "c",
+          "text": "Non-Professional Driver’s License"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 166,
+      "question": "Signs that are round inverted triangle or octagonal and with red colored border are called",
       "options": [
         {
           "key": "a",
@@ -392,1633 +3189,363 @@
         },
         {
           "key": "b",
-          "text": "Guide sign"
-        },
-        {
-          "key": "c",
           "text": "Warning sign"
+        },
+        {
+          "key": "c",
+          "text": "Informative sign"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 22,
-      "question": "The Right-of-Way law provides us with:",
+      "id": 167,
+      "question": "You arrive at a crossroad. You want to turn left, and you have a green arrow light. Can you proceed?",
       "options": [
         {
           "key": "a",
-          "text": "basic rights as drivers"
+          "text": "No, you cannot turn left unless you have the green left pointing arrow"
         },
         {
           "key": "b",
-          "text": "rules for when to yield to others"
+          "text": "Yes, you can turn left, however you may still need to yield to pedestrians and incoming traffic"
         },
         {
           "key": "c",
-          "text": "rules for turning right"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 23,
-      "question": "A good safety rule when you are sure you have the legal right-of-way is:",
-      "options": [
-        {
-          "key": "a",
-          "text": "never believe on it"
-        },
-        {
-          "key": "b",
-          "text": "sound your horn to alert others"
-        },
-        {
-          "key": "c",
-          "text": "always demand"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "question": "At rotundas, which of the following vehicles have the right-of-way?",
-      "options": [
-        {
-          "key": "a",
-          "text": "vehicles which are just about to enter"
-        },
-        {
-          "key": "b",
-          "text": "vehicles within the rotunda"
-        },
-        {
-          "key": "c",
-          "text": "vehicles facing the green light"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 25,
-      "question": "At an intersection with no control device, two cars approach at right angles to each other. Which driver must yield?",
-      "options": [
-        {
-          "key": "a",
-          "text": "the driver who gets there first"
-        },
-        {
-          "key": "b",
-          "text": "the driver who slows down first"
-        },
-        {
-          "key": "c",
-          "text": "the driver who gets there last"
+          "text": "Yes, you can turn left, as this is a protected turn where no other cars are allowed to enter the intersection"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 26,
-      "question": "At an intersection without a control device, two cars are approaching from opposite directions at the same time, one is turning left and the other turning right. Which driver must yield?",
+      "id": 168,
+      "question": "What should be done first before changing lanes?",
       "options": [
         {
           "key": "a",
-          "text": "the driver turning right"
+          "text": "Make signal"
         },
         {
           "key": "b",
-          "text": "the driver turning left"
+          "text": "Check the traffic ahead"
         },
         {
           "key": "c",
-          "text": "the driver who gets there first"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 27,
-      "question": "At an intersection with no control device, two cars approach from opposite directions. Which driver must yield?",
-      "options": [
-        {
-          "key": "a",
-          "text": "the driver going straight"
-        },
-        {
-          "key": "b",
-          "text": "the driver turning left"
-        },
-        {
-          "key": "c",
-          "text": "the driver turning right"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 28,
-      "question": "At an intersection without stop or yield signs, two cars reach the intersection at the same time. Which car has the right-of-way?",
-      "options": [
-        {
-          "key": "a",
-          "text": "the car on the right"
-        },
-        {
-          "key": "b",
-          "text": "the car on the left"
-        },
-        {
-          "key": "c",
-          "text": "the car that slows down first"
+          "text": "Check mirrors for traffic behind"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 29,
-      "question": "A car is positioned in an intersection waiting to turn left when the traffic signal light turns red. Who should go first?",
+      "id": 169,
+      "question": "When is it legal to use the shoulder of a road when overtaking another vehicle?",
       "options": [
         {
           "key": "a",
-          "text": "the driver caught in the intersection waiting to turn left"
+          "text": "When the vehicle in front of you is making a right turn"
         },
         {
           "key": "b",
-          "text": "the driver making the right turn"
+          "text": "When the vehicle in front of you is visibly signaling to make a left turn"
         },
         {
           "key": "c",
-          "text": "the driver caught with the green light"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 30,
-      "question": "At an intersection without stop or yield signs, two cars approach from different streets. Which car has the right-of-way?",
-      "options": [
-        {
-          "key": "a",
-          "text": "the vehicle already in the intersection"
-        },
-        {
-          "key": "b",
-          "text": "the vehicle on the left"
-        },
-        {
-          "key": "c",
-          "text": "the vehicle that slows down first"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 31,
-      "question": "The driver of a car traveling on a highway is required to yield to",
-      "options": [
-        {
-          "key": "a",
-          "text": "any car coming out of a driveway"
-        },
-        {
-          "key": "b",
-          "text": "pedestrian"
-        },
-        {
-          "key": "c",
-          "text": "cars approaching an intersection from the left"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 32,
-      "question": "When about to make a left run, you should give the right-of-way to cars coming from the opposite direction",
-      "options": [
-        {
-          "key": "a",
-          "text": "until at least two cars have passed"
-        },
-        {
-          "key": "b",
-          "text": "which are close enough to be dangerous"
-        },
-        {
-          "key": "c",
-          "text": "until five cars have passed"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 33,
-      "question": "If there are pedestrians on a school crossing, you are required to:",
-      "options": [
-        {
-          "key": "a",
-          "text": "stop and give way only to persons crossing from your right"
-        },
-        {
-          "key": "b",
-          "text": "stop only for children and give way to them"
-        },
-        {
-          "key": "c",
-          "text": "stop and do not proceed until all persons are completely clear off the crossing"
+          "text": "During normal circumstances, you are not legally allowed to pass using the shoulder of a road"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 34,
-      "question": "Should a driver turning at an intersection give way to pedestrians?",
+      "id": 170,
+      "question": "This action can cause you to skid and lose control when you make an abrupt move, especially on a wet and possibly slippery road",
       "options": [
         {
           "key": "a",
-          "text": "Yes, a driver turning right or left must give way to pedestrians"
+          "text": "Accelerating too slow"
         },
         {
           "key": "b",
-          "text": "No, pedestrians must give way to all vehicles"
+          "text": "Turning too slow"
         },
         {
           "key": "c",
-          "text": "Yes, but only if the driver is turning left"
+          "text": "Improper braking"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 171,
+      "question": "To help reduce air pollution using your brake, what should you do?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Brake frequently"
+        },
+        {
+          "key": "b",
+          "text": "Brake suddenly"
+        },
+        {
+          "key": "c",
+          "text": "Brake properly"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 172,
+      "question": "You should not use a mobile phone while riding a motorcycle because",
+      "options": [
+        {
+          "key": "a",
+          "text": "It is prohibited by law and it distracts your attention while driving"
+        },
+        {
+          "key": "b",
+          "text": "Reception is poor when the engine is running"
+        },
+        {
+          "key": "c",
+          "text": "It will affect your vehicles electronic system"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 35,
-      "question": "When on a street designed for two-way traffic, you hear the siren of an emergency vehicle. What does the law require you to do?",
+      "id": 173,
+      "question": "After turning right from an intersection into a one-way street, which lane should you choose?",
       "options": [
         {
           "key": "a",
-          "text": "pull to the right and stop"
+          "text": "Stay on the rightmost lane"
         },
         {
           "key": "b",
-          "text": "speed up to get out of the way"
+          "text": "Stay on the center of the road"
         },
         {
           "key": "c",
-          "text": "continue at high speed"
+          "text": "Stay on the innermost lane"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 36,
-      "question": "When two vehicles meet on an upgrade road where neither cars pass, which of the two must yield?",
+      "id": 174,
+      "question": "A person with disability can possess a driver's license if",
       "options": [
         {
           "key": "a",
-          "text": "the vehicle facing downhill"
+          "text": "The driving conditions are indicated on the DL"
         },
         {
           "key": "b",
-          "text": "the vehicle facing uphills"
+          "text": "It is expressly written on the student permit"
         },
         {
           "key": "c",
-          "text": "the vehicle that blow its horn first"
+          "text": "He/she is accompanied by a qualified instructor"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 37,
-      "question": "Before changing lanes in traffic, you should always give a signal, check your rear-view mirror and",
+      "id": 175,
+      "question": "What is the meaning of this traffic sign?",
       "options": [
         {
           "key": "a",
-          "text": "turn your head to check other vehicles beside your car"
+          "text": "Speed limit on this area must not be less than 60kph"
         },
         {
           "key": "b",
-          "text": "sound your horn"
+          "text": "This zone is 60 km long"
         },
         {
           "key": "c",
-          "text": "blink your headlight"
+          "text": "Speed limit on this area is 60 kph"
         }
       ],
-      "answer": "A"
+      "answer": "C",
+      "image": "q175.png"
     },
     {
-      "id": 38,
-      "question": "You should change lanes only after you have",
+      "id": 176,
+      "question": "The mandate of LTO is to register roadworthy and emission-compliant motor vehicles. Put order on the roads and to",
       "options": [
         {
           "key": "a",
-          "text": "signaled your intention and checked traffic"
+          "text": "Observe cleanliness on the road"
         },
         {
           "key": "b",
-          "text": "signaled your intention"
+          "text": "License quality drivers"
         },
         {
           "key": "c",
-          "text": "checked traffic"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 39,
-      "question": "After passing or overtaking a car, you can safely move back into the lane you left if:",
-      "options": [
-        {
-          "key": "a",
-          "text": "the driver you have passed honks his horn"
-        },
-        {
-          "key": "b",
-          "text": "you can see in your rear-view mirror the car you have passed"
-        },
-        {
-          "key": "c",
-          "text": "you can see in your side-view mirror the car you have passed"
+          "text": "Formulate franchising guidelines of PUVs"
         }
       ],
       "answer": "B"
     },
     {
-      "id": 40,
-      "question": "You may pass to the right of a car traveling in your direction",
+      "id": 177,
+      "question": "What is the maximum penalty for a habitual violator of RA10666, also known as Children's Safety on Motorcycle Act?",
       "options": [
         {
           "key": "a",
-          "text": "if the highway is clearly marked for two or more lanes moving towards the same direction"
+          "text": "Revocation of driver’s license"
         },
         {
           "key": "b",
-          "text": "on a road having one lane in opposite direction"
+          "text": "Imprisonment of six years"
         },
         {
           "key": "c",
-          "text": "by driving off the paved roadway"
+          "text": "Fine of Php50,000"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 41,
-      "question": "If you are traveling in the wrong lane, what must you do to make a turn as you enter an intersection?",
+      "id": 178,
+      "question": "What does this sign mean?",
       "options": [
         {
           "key": "a",
-          "text": "make the turn as quickly as possible"
+          "text": "No entry"
         },
         {
           "key": "b",
-          "text": "brake or clutch while actually turning"
+          "text": "No parking"
         },
         {
           "key": "c",
-          "text": "look behind on both sides and see if it is safe before you change lane"
+          "text": "No through road"
         }
       ],
-      "answer": "C"
+      "answer": "A",
+      "image": "q178.png"
     },
     {
-      "id": 42,
-      "question": "You should begin signaling for a right or left turn before reaching the turning point by at least",
+      "id": 179,
+      "question": "Changing lanes at an intersection is",
       "options": [
         {
           "key": "a",
-          "text": "30 meters"
+          "text": "Very safe"
         },
         {
           "key": "b",
-          "text": "60 meters"
+          "text": "Unsafe"
         },
         {
           "key": "c",
-          "text": "15 meters"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 43,
-      "question": "You should normally begin a right turn on",
-      "options": [
-        {
-          "key": "a",
-          "text": "the lane nearest to the road center"
-        },
-        {
-          "key": "b",
-          "text": "the lane nearest the right curb"
-        },
-        {
-          "key": "c",
-          "text": "the same lane as for a left turn"
+          "text": "Safe"
         }
       ],
       "answer": "B"
     },
     {
-      "id": 44,
-      "question": "The car behind you wants to pass. You should",
+      "id": 180,
+      "question": "Parking is allowed if the vehicle is",
       "options": [
         {
           "key": "a",
-          "text": "blow you horn to allow him to pass"
+          "text": "Beyond 4 meters of a fire hydrant"
         },
         {
           "key": "b",
-          "text": "slow down slightly and pull to the right"
+          "text": "Within 3 meters of the intersection curve lines"
         },
         {
           "key": "c",
-          "text": "pull to the right and stop as he can pass"
+          "text": "Within an intersection"
         }
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
-      "id": 45,
-      "question": "When driving on the highway at night, you should use low beam headlights (dim lights) when",
+      "id": 181,
+      "question": "Under which of these circumstances it is permissible to use a mobile phone while driving a motor vehicle?",
       "options": [
         {
           "key": "a",
-          "text": "another driver dims his lights"
+          "text": "If the traffic is light"
         },
         {
           "key": "b",
-          "text": "blinded by the headlights of an approaching vehicle"
+          "text": "If it is an important call"
         },
         {
           "key": "c",
-          "text": "all of the above"
+          "text": "None of the above"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 46,
-      "question": "If the brake lights of several cars ahead of you flash on, you should",
+      "id": 182,
+      "question": "What should you do if a traffic police officer directed you to drive through a red light or stop sign?",
       "options": [
         {
           "key": "a",
-          "text": "release accelerator and prepare to brake"
+          "text": "You must obey"
         },
         {
           "key": "b",
-          "text": "apply your brakes as soon as possible"
+          "text": "You must ignore the police and wait for the green light. This is in accordance with the traffic enforcer’s implementing rules and regulation"
         },
         {
           "key": "c",
-          "text": "increase your speed"
+          "text": "You must not obey or you will be apprehended"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 47,
-      "question": "Which of these steps is not correct when making a right turn?",
+      "id": 183,
+      "question": "What is the meaning of this traffic light?",
       "options": [
         {
           "key": "a",
-          "text": "stop in the crosswalk"
+          "text": "Continue driving if there is no obstruction"
         },
         {
           "key": "b",
-          "text": "signal at least 30 meters ahead of your turn"
+          "text": "Stop before the stop line"
         },
         {
           "key": "c",
-          "text": "watch for pedestrians on the street you are about to enter"
+          "text": "Stop as directed by the traffic enforcer"
         }
       ],
-      "answer": "A"
+      "answer": "B",
+      "image": "q183.png"
     },
     {
-      "id": 48,
-      "question": "The driver must not overtake at the foot or approach of a bridge because",
+      "id": 184,
+      "question": "It is more dangerous to turn left than to turn right because",
       "options": [
         {
           "key": "a",
-          "text": "he cannot see oncoming vehicles form the other side of the bridge"
+          "text": "There are more vendors on the right side of the road"
         },
         {
           "key": "b",
-          "text": "there are pedestrians crossing"
+          "text": "The road has lanes"
         },
         {
           "key": "c",
-          "text": "he might obstruct the flow of traffic"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 49,
-      "question": "The best practice when turning left or right while traveling on a highway is",
-      "options": [
-        {
-          "key": "a",
-          "text": "to signal your intention as you make the turn"
-        },
-        {
-          "key": "b",
-          "text": "to give the electrical and/or hand signal at least 30 meters before you make the turn"
-        },
-        {
-          "key": "c",
-          "text": "to disregard signaling if there is no traffic ahead or behind you."
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 50,
-      "question": "Using the shoulder of the road pass to the right of a car ahead of you is",
-      "options": [
-        {
-          "key": "a",
-          "text": "allowed if you are turning right"
-        },
-        {
-          "key": "b",
-          "text": "allowed if the car ahead is turning left"
-        },
-        {
-          "key": "c",
-          "text": "against the law"
+          "text": "Vehicles coming from opposite direction are faster"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 51,
-      "question": "Which of the following is not a safe place to overtake?",
-      "options": [
-        {
-          "key": "a",
-          "text": "when approaching a bridge or upon a curve"
-        },
-        {
-          "key": "b",
-          "text": "at an intersection"
-        },
-        {
-          "key": "c",
-          "text": "both of the above"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 52,
-      "question": "A left turn is more dangerous than a right turn because",
-      "options": [
-        {
-          "key": "a",
-          "text": "cars from the right are moving faster"
-        },
-        {
-          "key": "b",
-          "text": "you have to be alert for vehicles coming from both left and right"
-        },
-        {
-          "key": "c",
-          "text": "four-lane streets are wider than two-lane streets"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 53,
-      "question": "What light shall be used when vehicles are parked on the highway at night?",
-      "options": [
-        {
-          "key": "a",
-          "text": "headlight"
-        },
-        {
-          "key": "b",
-          "text": "parking lights or lower-beam headlights"
-        },
-        {
-          "key": "c",
-          "text": "signal lights"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 54,
-      "question": "Parking lights may used",
-      "options": [
-        {
-          "key": "a",
-          "text": "at anytime"
-        },
-        {
-          "key": "b",
-          "text": "for parking and when visibility is poor"
-        },
-        {
-          "key": "c",
-          "text": "when driving on a well-lighted streets"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 55,
-      "question": "We consider a vehicle parked when",
-      "options": [
-        {
-          "key": "a",
-          "text": "it has brought to stop on the shoulder of a highway and remains inactive in a place for a period of time"
-        },
-        {
-          "key": "b",
-          "text": "it stops to discharge/take in waiting passengers"
-        },
-        {
-          "key": "c",
-          "text": "it loads/unloads small quantity or freight with reasonable dispatch and moves away without delay"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 56,
-      "question": "When parking downhill, you should turn your front wheels",
-      "options": [
-        {
-          "key": "a",
-          "text": "into the curb or toward the side of the road"
-        },
-        {
-          "key": "b",
-          "text": "away from the curb"
-        },
-        {
-          "key": "c",
-          "text": "any direction will do"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 57,
-      "question": "When parking a card on an upgrade without a curb, the best practice is to",
-      "options": [
-        {
-          "key": "a",
-          "text": "get close to the curb and turn the front wheels away from curb"
-        },
-        {
-          "key": "b",
-          "text": "turn wheels sharply to the left"
-        },
-        {
-          "key": "c",
-          "text": "turn wheels sharply to the right"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 58,
-      "question": "What should you do when parking uphill and there is a curb?",
-      "options": [
-        {
-          "key": "a",
-          "text": "turn wheels to curb"
-        },
-        {
-          "key": "b",
-          "text": "turn back of wheels to curb"
-        },
-        {
-          "key": "c",
-          "text": "turn your front wheels sharply to the left away from curb"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 59,
-      "question": "Before moving your car from a parked position, you should",
-      "options": [
-        {
-          "key": "a",
-          "text": "check other traffic, signal and pull from curb when it is safe to do so"
-        },
-        {
-          "key": "b",
-          "text": "signal and pull from curb"
-        },
-        {
-          "key": "c",
-          "text": "sound your horn and pull from curb slowly"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 60,
-      "question": "You may never park",
-      "options": [
-        {
-          "key": "a",
-          "text": "on a crosswalk"
-        },
-        {
-          "key": "b",
-          "text": "on a one-way street"
-        },
-        {
-          "key": "c",
-          "text": "within 5 meters of a fire hydrant"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 61,
-      "question": "When you intend to drive faster than the other vehicles, you should use the",
-      "options": [
-        {
-          "key": "a",
-          "text": "outermost (right) lane"
-        },
-        {
-          "key": "b",
-          "text": "center lane"
-        },
-        {
-          "key": "c",
-          "text": "innermost (left) lane"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 62,
-      "question": "When loading or unloading passengers, we usually stop at the",
-      "options": [
-        {
-          "key": "a",
-          "text": "right side of the road nearest the sidewalk"
-        },
-        {
-          "key": "b",
-          "text": "middle side of the road"
-        },
-        {
-          "key": "c",
-          "text": "intersection"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 63,
-      "question": "Which of the following is the maximum speed limit on the expressway?",
-      "options": [
-        {
-          "key": "a",
-          "text": "60 kph"
-        },
-        {
-          "key": "b",
-          "text": "80 kph"
-        },
-        {
-          "key": "c",
-          "text": "100 kph"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 64,
-      "question": "A driver may load and unload passengers",
-      "options": [
-        {
-          "key": "a",
-          "text": "only at designated stops"
-        },
-        {
-          "key": "b",
-          "text": "whenever a passenger signals for a stop"
-        },
-        {
-          "key": "c",
-          "text": "before an intersection"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 65,
-      "question": "Whenever you leave the car unattended, the law says that you stop the engine and",
-      "options": [
-        {
-          "key": "a",
-          "text": "notch effectively the hand brake"
-        },
-        {
-          "key": "b",
-          "text": "shift the gear to neutral"
-        },
-        {
-          "key": "c",
-          "text": "close the windows"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 66,
-      "question": "When using the basic speed law as a guide, the choice of speed will be based",
-      "options": [
-        {
-          "key": "a",
-          "text": "speed of the driver"
-        },
-        {
-          "key": "b",
-          "text": "fuel of car being driven"
-        },
-        {
-          "key": "c",
-          "text": "traffic and road condition"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 67,
-      "question": "When you intend to drive slower than the other vehicles, you should use the",
-      "options": [
-        {
-          "key": "a",
-          "text": "outermost (right) lane"
-        },
-        {
-          "key": "b",
-          "text": "center lane"
-        },
-        {
-          "key": "c",
-          "text": "innermost (left) lane"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 68,
-      "question": "The speed limit within a school zone during school days is",
-      "options": [
-        {
-          "key": "a",
-          "text": "20 kph"
-        },
-        {
-          "key": "b",
-          "text": "25 kph"
-        },
-        {
-          "key": "c",
-          "text": "30 kph"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 69,
-      "question": "Under the basic speed law, you may never drive faster than",
-      "options": [
-        {
-          "key": "a",
-          "text": "that which is safe"
-        },
-        {
-          "key": "b",
-          "text": "the posted limit"
-        },
-        {
-          "key": "c",
-          "text": "the flow of traffic"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 70,
-      "question": "It is more dangerous to drive at the maximum speed limit at night than during daytime because",
-      "options": [
-        {
-          "key": "a",
-          "text": "your reaction time is slower at night"
-        },
-        {
-          "key": "b",
-          "text": "the roadways are more apt to be slippery at night"
-        },
-        {
-          "key": "c",
-          "text": "you cannot see too far ahead at night"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 71,
-      "question": "A safe speed to drive your car under adverse condition",
-      "options": [
-        {
-          "key": "a",
-          "text": "depends on the road and weather condition"
-        },
-        {
-          "key": "b",
-          "text": "is the posted speed limit"
-        },
-        {
-          "key": "c",
-          "text": "depends on the mechanical skill of the driver"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 72,
-      "question": "Night driving is dangerous because",
-      "options": [
-        {
-          "key": "a",
-          "text": "street lights tend to blur your vision"
-        },
-        {
-          "key": "b",
-          "text": "more vehicles are on the road at night"
-        },
-        {
-          "key": "c",
-          "text": "the distance we can see ahead is reduced"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 73,
-      "question": "At night, you should never drive at a speed which would prevent you from stopping within the distance",
-      "options": [
-        {
-          "key": "a",
-          "text": "you can't see in your headlights"
-        },
-        {
-          "key": "b",
-          "text": "of a 4 car-lengths"
-        },
-        {
-          "key": "c",
-          "text": "of 170 feet"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 74,
-      "question": "The speed limit signs along the roadways should be thought of as",
-      "options": [
-        {
-          "key": "a",
-          "text": "the recommended speed under the best condition"
-        },
-        {
-          "key": "b",
-          "text": "the recommended speed under the worst condition"
-        },
-        {
-          "key": "c",
-          "text": "the recommended speed under any condition"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 75,
-      "question": "When following behind another car, it is considered a safe rule to allow at least",
-      "options": [
-        {
-          "key": "a",
-          "text": "space for one car"
-        },
-        {
-          "key": "b",
-          "text": "15 feet of stopping distance"
-        },
-        {
-          "key": "c",
-          "text": "one-car length per 10 miles of speed"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 76,
-      "question": "Which of the following should you do if you feel drowsy while driving?",
-      "options": [
-        {
-          "key": "a",
-          "text": "pull off the road and rest"
-        },
-        {
-          "key": "b",
-          "text": "move over to the right lane and continue driving"
-        },
-        {
-          "key": "c",
-          "text": "increase your speed to get away from other vehicles"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 77,
-      "question": "When approaching sharp curve on the highway, you should",
-      "options": [
-        {
-          "key": "a",
-          "text": "decrease speed before entering the curve"
-        },
-        {
-          "key": "b",
-          "text": "increase speed while negotiating the curve"
-        },
-        {
-          "key": "c",
-          "text": "apply your brake lightly while taking the curve"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 78,
-      "question": "Ignoring traffic lights during late hours of the night could",
-      "options": [
-        {
-          "key": "a",
-          "text": "make you a good driver"
-        },
-        {
-          "key": "b",
-          "text": "involve you in fatal accident"
-        },
-        {
-          "key": "c",
-          "text": "decrease your fuel consumption"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 79,
-      "question": "A good driving attitude of a driver is",
-      "options": [
-        {
-          "key": "a",
-          "text": "drive slowly"
-        },
-        {
-          "key": "b",
-          "text": "drive defensively"
-        },
-        {
-          "key": "c",
-          "text": "take chances if possible"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 80,
-      "question": "Drivers gather most information with their",
-      "options": [
-        {
-          "key": "a",
-          "text": "cars"
-        },
-        {
-          "key": "b",
-          "text": "eyes"
-        },
-        {
-          "key": "c",
-          "text": "hands"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 81,
-      "question": "Which of the following is most recommended in a way of dealing with fatigue on a long trip?",
-      "options": [
-        {
-          "key": "a",
-          "text": "stop periodically for rest and exercise"
-        },
-        {
-          "key": "b",
-          "text": "eat much and drink a little alcoholic beverages"
-        },
-        {
-          "key": "c",
-          "text": "take an over-the-counter \"keep awake\" pill"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 82,
-      "question": "What habit will help you prevent a fixed stare and resist distraction?",
-      "options": [
-        {
-          "key": "a",
-          "text": "ground viewing"
-        },
-        {
-          "key": "b",
-          "text": "moving your eyes regularly by looking near and far"
-        },
-        {
-          "key": "c",
-          "text": "another car's speed"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 83,
-      "question": "Which of the following can you adjust in order to reduce the chance of collision?",
-      "options": [
-        {
-          "key": "a",
-          "text": "your speed and lane position"
-        },
-        {
-          "key": "b",
-          "text": "the sharpness of a curve"
-        },
-        {
-          "key": "c",
-          "text": "another car's speed"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 84,
-      "question": "Drivers have to make decisions",
-      "options": [
-        {
-          "key": "a",
-          "text": "only in heavy traffic"
-        },
-        {
-          "key": "b",
-          "text": "only until they become experienced"
-        },
-        {
-          "key": "c",
-          "text": "continuously as they drive"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 85,
-      "question": "When interacting with bicyclists, you must",
-      "options": [
-        {
-          "key": "a",
-          "text": "be more aware of the road condition"
-        },
-        {
-          "key": "b",
-          "text": "adjust speed and increase your space margin"
-        },
-        {
-          "key": "c",
-          "text": "use different visual-search"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 86,
-      "question": "As you drive, your glances to the side and rear view mirrors should be",
-      "options": [
-        {
-          "key": "a",
-          "text": "as brief as possible"
-        },
-        {
-          "key": "b",
-          "text": "as long as you like"
-        },
-        {
-          "key": "c",
-          "text": "at least one second each"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 87,
-      "question": "At night when you meet another vehicle with blinding bright lights, the safest thing to do is",
-      "options": [
-        {
-          "key": "a",
-          "text": "turn your lights on high beam"
-        },
-        {
-          "key": "b",
-          "text": "look slightly to the right side of the roadway"
-        },
-        {
-          "key": "c",
-          "text": "look at the headlight of the approaching vehicle"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 88,
-      "question": "When approaching an intersection and the roadway beyond is blocked with traffic, you should",
-      "options": [
-        {
-          "key": "a",
-          "text": "keep as close as possible to the car ahead"
-        },
-        {
-          "key": "b",
-          "text": "proceed slowly into the intersection until the traffic ahead moves on"
-        },
-        {
-          "key": "c",
-          "text": "stop before the intersection and wait until traffic ahead moves on"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 89,
-      "question": "Throwing bottles, cans or anything from your vehicle windows is",
-      "options": [
-        {
-          "key": "a",
-          "text": "forbidden at all times"
-        },
-        {
-          "key": "b",
-          "text": "forbidden only in the province"
-        },
-        {
-          "key": "c",
-          "text": "forbidden only in the cities"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 90,
-      "question": "The most effective way to deal with a \"tailgater\" is to",
-      "options": [
-        {
-          "key": "a",
-          "text": "ignore him but don't allow him to get very close to you"
-        },
-        {
-          "key": "b",
-          "text": "slow down and let him pass"
-        },
-        {
-          "key": "c",
-          "text": "increase your speed and slam on your brakes"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 91,
-      "question": "If you are traveling on a two-lane road and see the chances for trouble are equal on both sides, you should",
-      "options": [
-        {
-          "key": "a",
-          "text": "position your car slightly to the right"
-        },
-        {
-          "key": "b",
-          "text": "position your car slightly to the left"
-        },
-        {
-          "key": "c",
-          "text": "center your car between the hazards"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 92,
-      "question": "When walking on a roadway where there is no sidewalk, the pedestrians must always stay",
-      "options": [
-        {
-          "key": "a",
-          "text": "on the left side of the road facing traffic"
-        },
-        {
-          "key": "b",
-          "text": "on the right side"
-        },
-        {
-          "key": "c",
-          "text": "either way will do"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 93,
-      "question": "In case of an accident, the first duty of the driver involved is to",
-      "options": [
-        {
-          "key": "a",
-          "text": "pick-up the injured person and take him to the nearest hospital"
-        },
-        {
-          "key": "b",
-          "text": "report the accident to the hospital"
-        },
-        {
-          "key": "c",
-          "text": "report the accident to the nearest police station"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 94,
-      "question": "In case of injuries involved in an accident, the duty of the uninjured driver is to",
-      "options": [
-        {
-          "key": "a",
-          "text": "call a physician"
-        },
-        {
-          "key": "b",
-          "text": "keep the victim lying down"
-        },
-        {
-          "key": "c",
-          "text": "try to determine who is at fault"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 95,
-      "question": "To have one's driver's license suspended means to",
-      "options": [
-        {
-          "key": "a",
-          "text": "have it revalidated by the LTO"
-        },
-        {
-          "key": "b",
-          "text": "have it taken away permanently by the LTO"
-        },
-        {
-          "key": "c",
-          "text": "have it taken temporarily by the LTO"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 96,
-      "question": "The main reasons for requiring motor vehicle inspection is to",
-      "options": [
-        {
-          "key": "a",
-          "text": "earn revenue for the government"
-        },
-        {
-          "key": "b",
-          "text": "give the inspector a chance to look at your car"
-        },
-        {
-          "key": "c",
-          "text": "try and make sure that cars meet the safety standards"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 97,
-      "question": "A public utility vehicle can only be driven by holder of a",
-      "options": [
-        {
-          "key": "a",
-          "text": "student permit"
-        },
-        {
-          "key": "b",
-          "text": "non-professional license"
-        },
-        {
-          "key": "c",
-          "text": "professional license"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 98,
-      "question": "To own a driver's license is",
-      "options": [
-        {
-          "key": "a",
-          "text": "an honor"
-        },
-        {
-          "key": "b",
-          "text": "a right"
-        },
-        {
-          "key": "c",
-          "text": "a privilege"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 99,
-      "question": "To avoid suspension or revocation, how many days must a driver with an apprehended license settle his case with LTO?",
-      "options": [
-        {
-          "key": "a",
-          "text": "within 15 days"
-        },
-        {
-          "key": "b",
-          "text": "within 10 days"
-        },
-        {
-          "key": "c",
-          "text": "within 30 days"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 100,
-      "question": "When may you lend your driver's license?",
-      "options": [
-        {
-          "key": "a",
-          "text": "under no circumstance"
-        },
-        {
-          "key": "b",
-          "text": "to another person who is learning to drive"
-        },
-        {
-          "key": "c",
-          "text": "in Emergencies"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 101,
-      "question": "What should you do before leaving the parking space?",
-      "options": [
-        {
-          "key": "a",
-          "text": "just go"
-        },
-        {
-          "key": "b",
-          "text": "sound your horn"
-        },
-        {
-          "key": "c",
-          "text": "look around first and use signal lights"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 102,
-      "question": "Parking is prohibited",
-      "options": [
-        {
-          "key": "a",
-          "text": "within a commercial premises"
-        },
-        {
-          "key": "b",
-          "text": "within an intersection"
-        },
-        {
-          "key": "c",
-          "text": "within a one-way road"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 103,
-      "question": "Whenever you park, remember to",
-      "options": [
-        {
-          "key": "a",
-          "text": "shift the gear to neutral"
-        },
-        {
-          "key": "b",
-          "text": "turn off the engine and engage the handbrake"
-        },
-        {
-          "key": "c",
-          "text": "close the windows"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 104,
-      "question": "It is illegal to park",
-      "options": [
-        {
-          "key": "a",
-          "text": "within 2 meters of a fire hydrant and within 3 meters from the intersection"
-        },
-        {
-          "key": "b",
-          "text": "within 5 meters of a fire hydrant and within 6 meters from the intersection"
-        },
-        {
-          "key": "c",
-          "text": "within 5 meters of a fire hydrant and within 5 meters from the intersection"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 105,
-      "question": "What is considered as a parking violation?",
-      "options": [
-        {
-          "key": "a",
-          "text": "parking in a one-way street"
-        },
-        {
-          "key": "b",
-          "text": "parking without hazard lights on"
-        },
-        {
-          "key": "c",
-          "text": "parking within 5 meters from a signalized intersection"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 106,
-      "question": "When you are parked at the side of the road at night, you must",
-      "options": [
-        {
-          "key": "a",
-          "text": "warn others by turning on your four-way emergency flashers or parking lights if your vehicle has some"
-        },
-        {
-          "key": "b",
-          "text": "be sure to stay awake and ready to move"
-        },
-        {
-          "key": "c",
-          "text": "warn others by turning on your headlights"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 107,
-      "question": "Never park or stop at the side of the road with a fire hydrant. You may only park with a distance of at least",
+      "id": 185,
+      "question": "A driver must not park or stop at the side of the road of a stop sign when it is within",
       "options": [
         {
           "key": "a",
@@ -2026,869 +3553,824 @@
         },
         {
           "key": "b",
-          "text": "4 meters"
-        },
-        {
-          "key": "c",
-          "text": "5 meters"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 108,
-      "question": "When are you permitted to double park?",
-      "options": [
-        {
-          "key": "a",
-          "text": "never"
-        },
-        {
-          "key": "b",
-          "text": "when the street or road is wide enough"
-        },
-        {
-          "key": "c",
-          "text": "when you have no other option"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 109,
-      "question": "A driver must not park or stop at the side of the road with a stop sign or a traffic control signal because it reduces visibility for other drivers, especially when it is within",
-      "options": [
-        {
-          "key": "a",
-          "text": "4 meters"
-        },
-        {
-          "key": "b",
-          "text": "5 meters"
-        },
-        {
-          "key": "c",
           "text": "6 meters"
+        },
+        {
+          "key": "c",
+          "text": "5 meters"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 186,
+      "question": "What does this sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "No parking at all from Monday to Friday"
+        },
+        {
+          "key": "b",
+          "text": "No parking anytime"
+        },
+        {
+          "key": "c",
+          "text": "You can park on the days shown"
+        }
+      ],
+      "answer": "A",
+      "image": "q186.png"
+    },
+    {
+      "id": 187,
+      "question": "Double broken white lines on the road means",
+      "options": [
+        {
+          "key": "a",
+          "text": "It is prohibited to overtake on the right side"
+        },
+        {
+          "key": "b",
+          "text": "It is prohibited to overtake on the left side"
+        },
+        {
+          "key": "c",
+          "text": "You are allowed to overtake on the left or right if there is no danger"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 110,
-      "question": "If you are parking uphill without a curb, turn the wheels towards the",
+      "id": 188,
+      "question": "Who is responsible for not overloading vehicle?",
       "options": [
         {
           "key": "a",
-          "text": "edge of the street"
+          "text": "The person who loaded the vehicle"
         },
         {
           "key": "b",
-          "text": "other side of the street"
+          "text": "The owner of the vehicle"
         },
         {
           "key": "c",
-          "text": "middle of the street"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 111,
-      "question": "A driver who parks or stops within 6 meters of a crosswalk reduces the visibility of pedestrians to other drivers. This",
-      "options": [
-        {
-          "key": "a",
-          "text": "is allowed"
-        },
-        {
-          "key": "b",
-          "text": "is unsafe"
-        },
-        {
-          "key": "c",
-          "text": "should not"
+          "text": "The driver or rider of the vehicle"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 112,
-      "question": "A driver must park within the curb by putting the car in low gear and setting the parking brake for at least",
+      "id": 189,
+      "question": "What does this traffic sign mean?",
       "options": [
         {
           "key": "a",
-          "text": "40 cm"
+          "text": "Approach highway intersection"
         },
         {
           "key": "b",
-          "text": "35 cm"
+          "text": "Approach to intersection side road"
         },
         {
           "key": "c",
-          "text": "30 cm"
+          "text": "Approach to intersection merging traffic"
+        }
+      ],
+      "answer": "B",
+      "image": "q189.png"
+    },
+    {
+      "id": 190,
+      "question": "What is the appropriate action if you feel sleepy while driving?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Drive faster"
+        },
+        {
+          "key": "b",
+          "text": "Turn on the radio very loudly"
+        },
+        {
+          "key": "c",
+          "text": "Park at a rest stop and rest"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 113,
-      "question": "Parking is considered as a violation when a motor vehicle",
+      "id": 191,
+      "question": "What does this traffic sign mean?",
       "options": [
         {
           "key": "a",
-          "text": "parks at the entrance and exit of hospitals and fire stations"
+          "text": "Minimum speed 30 kph"
         },
         {
           "key": "b",
-          "text": "parks at the entrance and exit of an industrial establishment"
+          "text": "End of minimum speed"
         },
         {
           "key": "c",
-          "text": "parks at the entrance and exit of a residential establishment"
+          "text": "End of maximum speed"
         }
       ],
-      "answer": "A"
+      "answer": "B",
+      "image": "q191.png"
     },
     {
-      "id": 114,
-      "question": "In which place can't you park your vehicle?",
+      "id": 192,
+      "question": "The temporary operator's permit authorizes the apprehended driver to operate motor vehicle for a period not exceeding",
       "options": [
         {
           "key": "a",
-          "text": "in a given parking space"
+          "text": "1 week"
         },
         {
           "key": "b",
-          "text": "in a place where pedestrians cross"
+          "text": "72 hours"
         },
         {
           "key": "c",
-          "text": "in a place where you want to go"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 115,
-      "question": "When can a child be exempted from being seated in a child restraint system?",
-      "options": [
-        {
-          "key": "a",
-          "text": "if the child has a medical, mental, or psychological condition"
-        },
-        {
-          "key": "b",
-          "text": "if the child does not want to be in a child restraint system"
-        },
-        {
-          "key": "c",
-          "text": "if the family is going to a mall"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 116,
-      "question": "Registration of a motor vehicle may be suspended if",
-      "options": [
-        {
-          "key": "a",
-          "text": "the motor vehicle is found to be in conformity with regulations"
-        },
-        {
-          "key": "b",
-          "text": "the motor vehicle is found to be unsightly"
-        },
-        {
-          "key": "c",
-          "text": "the motor vehicle is not registered to the driver at the time of apprehension"
+          "text": "15 days"
         }
       ],
       "answer": "B"
     },
     {
-      "id": 117,
-      "question": "What is the basic rule within the intersection?",
+      "id": 193,
+      "question": "Road rage is violent anger caused by the stress and frustration involved in driving a motor vehicle in difficult conditions, especially when the driver is experiencing",
       "options": [
         {
           "key": "a",
-          "text": "do not block the intersection"
+          "text": "Heavy traffic of gridlock"
         },
         {
           "key": "b",
-          "text": "blow the horn when somebody obstructs your way"
+          "text": "Light traffic along a busy road"
         },
         {
           "key": "c",
-          "text": "speed up"
+          "text": "Happiness and wellness"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 118,
-      "question": "When can a driver safely overtake on the right of a vehicle within a business or residential district?",
+      "id": 194,
+      "question": "What does this traffic sign means?",
       "options": [
         {
           "key": "a",
-          "text": "if the traffic light is about to turn red"
+          "text": "Humps ahead"
         },
         {
           "key": "b",
-          "text": "if the highway has two or more lanes going in one direction"
+          "text": "Downhill course"
         },
         {
           "key": "c",
-          "text": "overtaking is allowed on a busy road"
+          "text": "Uphill course"
         }
       ],
-      "answer": "B"
+      "answer": "C",
+      "image": "q194.png"
     },
     {
-      "id": 119,
-      "question": "Where should an auxiliary lamp installed on a motorcycle be directed?",
+      "id": 195,
+      "question": "You may drive over a pathway",
       "options": [
         {
           "key": "a",
-          "text": "pointed leftward"
+          "text": "To get into a property"
         },
         {
           "key": "b",
-          "text": "pointed rightward"
+          "text": "To overtake slow moving traffic"
         },
         {
           "key": "c",
-          "text": "pointed upward"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 120,
-      "question": "Where can you contest an alleged traffic violation?",
-      "options": [
-        {
-          "key": "a",
-          "text": "at the traffic adjudication office concerned"
-        },
-        {
-          "key": "b",
-          "text": "on the street before the traffic enforcer leaves"
-        },
-        {
-          "key": "c",
-          "text": "at any adjudication office"
+          "text": "If no pedestrian are near"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 121,
-      "question": "Who has the authority to confiscate a driver's license during a normal traffic violation?",
+      "id": 196,
+      "question": "What does the law require you to do upon approaching an intersection with a stop sign?",
       "options": [
         {
           "key": "a",
-          "text": "LTO law enforcement officers or LTO deputized agents"
+          "text": "Yield right-of-way if necessary to vehicles approaching from left to right"
         },
         {
           "key": "b",
-          "text": "anybody for as long as the violation is within the provisions of law"
+          "text": "Slow down and proceed when it is safe to do so"
         },
         {
           "key": "c",
-          "text": "anybody for as long as the traffic enforcer is a permanent employee of the government"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 122,
-      "question": "Where do you need to display your plate number?",
-      "options": [
-        {
-          "key": "a",
-          "text": "one in front and one at the rear of the vehicle"
-        },
-        {
-          "key": "b",
-          "text": "two in front"
-        },
-        {
-          "key": "c",
-          "text": "one in the front windshield and one at the back windshield"
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "id": 123,
-      "question": "Can you drive a motorcycle if your license bears DL code B?",
-      "options": [
-        {
-          "key": "a",
-          "text": "yes"
-        },
-        {
-          "key": "b",
-          "text": "no, unless authorized by a traffic enforcer"
-        },
-        {
-          "key": "c",
-          "text": "no"
+          "text": "Stop and proceed when it is safe to do so"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 124,
-      "question": "This regulatory sign means",
+      "id": 197,
+      "question": "A blue traffic sign says, 60 kph. What should you do?",
       "options": [
         {
           "key": "a",
-          "text": "no entry for vehicles with a gross axle load of more than 2 tons"
+          "text": "Drive at a maximum of 60 kph"
         },
         {
           "key": "b",
-          "text": "no entry for vehicles with a gross axle load of less than 2 tons"
+          "text": "Drive at 60 minutes per kilometer"
         },
         {
           "key": "c",
-          "text": "vehicles with a gross axle load of more than 2 tons are allowed"
+          "text": "Drive at a minimum of 60 kph"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 198,
+      "question": "What should you do when the brake lights of the vehicle in front of you activates?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Prepare to brake"
+        },
+        {
+          "key": "b",
+          "text": "Press the horn"
+        },
+        {
+          "key": "c",
+          "text": "Turn right or left"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 125,
-      "question": "Where should the number plate of a motorcycle be displayed?",
+      "id": 199,
+      "question": "Where should you position your vehicle when you are planning to turn left into a minor road?",
       "options": [
         {
           "key": "a",
-          "text": "at the fuel tank of the motorcycle"
+          "text": "On the rightmost part of the road"
         },
         {
           "key": "b",
-          "text": "at the rear of the motorcycle"
+          "text": "On the leftmost part of the road"
         },
         {
           "key": "c",
-          "text": "at the engine cover of the motorcycle"
+          "text": "In the middle of the road"
         }
       ],
       "answer": "B"
     },
     {
-      "id": 126,
-      "question": "What is the height requirement for a child to be exempted from using a child restraint system?",
+      "id": 200,
+      "question": "What do you mean by double white line line?",
       "options": [
         {
           "key": "a",
-          "text": "100 cm and above"
+          "text": "To pass a vehicle that is towing a trailer"
         },
         {
           "key": "b",
-          "text": "150 cm and above"
+          "text": "Separating lanes of traffic moving from opposite direction"
         },
         {
           "key": "c",
-          "text": "180 cm and above"
+          "text": "To pass traffic is queuing back at junction"
         }
       ],
       "answer": "B"
     },
     {
-      "id": 127,
-      "question": "What is the maximum validity of a license that a driver may have if he or she has no traffic violation at the time of renewal?",
+      "id": 201,
+      "question": "Where should you install your saddlebag or box?",
       "options": [
         {
           "key": "a",
-          "text": "5 years validity"
+          "text": "Higher than the rider’s set"
         },
         {
           "key": "b",
-          "text": "10 years validity"
+          "text": "Not more than 10 cm higher than the rider’s set"
         },
         {
           "key": "c",
-          "text": "15 years validity"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 128,
-      "question": "Is using a mobile phone illegal while driving?",
-      "options": [
-        {
-          "key": "a",
-          "text": "yes, if the driver failed to register the mobile phone with the LTO"
-        },
-        {
-          "key": "b",
-          "text": "yes, if the driver is using a wireless gadget"
-        },
-        {
-          "key": "c",
-          "text": "yes, if the driver is not using a hands-free mode for the mobile phone"
+          "text": "Not higher than the rider’s set"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 129,
-      "question": "What is the maximum height that a driver can install his mobile phone from the base of the dashboard?",
+      "id": 202,
+      "question": "The vehicle is parked if",
       "options": [
         {
           "key": "a",
-          "text": "2 inches"
+          "text": "It is not moving while loading passengers"
         },
         {
           "key": "b",
-          "text": "4 inches"
+          "text": "It is at stand and the engine is off"
         },
         {
           "key": "c",
-          "text": "6 inches"
+          "text": "It is not moving while unloading passengers"
         }
       ],
       "answer": "B"
     },
     {
-      "id": 130,
-      "question": "Can a driver use a photocopy of a driver's license while driving?",
+      "id": 203,
+      "question": "The proper hand signal for a left turn is",
       "options": [
         {
           "key": "a",
-          "text": "no, unless authorized by the traffic enforcer"
+          "text": "Left arm straight in horizontal position"
         },
         {
           "key": "b",
-          "text": "yes, if the photocopy is the exact size and color of the original"
+          "text": "Left arm at elbow hand pointing up"
         },
         {
           "key": "c",
-          "text": "no"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 131,
-      "question": "Under the Children's Safety on Motorcycles Act, a child below 18 years old cannot ride on a two-wheeled motorcycle on public roads unless",
-      "options": [
-        {
-          "key": "a",
-          "text": "the child can comfortably reach his or her feet on the standard foot peg of the motorcycle, his or her arms can reach around and grasp the waist of the motorcycle driver, and he or she is wearing a standard protective helmet"
-        },
-        {
-          "key": "b",
-          "text": "there is a high density of fast-moving vehicles or a speed limit of more than 60 kph is imposed"
-        },
-        {
-          "key": "c",
-          "text": "the driver can grasp the waist of the child sitting in front of the driver, and the child is wearing a standard protective helmet"
+          "text": "Left hand down and hang pointing to the ground"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 132,
-      "question": "A storage compartment attached at the side of the motorcycle, not higher than the seat, that is considered a motorcycle accessory is a",
+      "id": 204,
+      "question": "Single white broken line on a 2way lane road means",
       "options": [
         {
           "key": "a",
-          "text": "top box"
+          "text": "Absolutely no overtaking"
         },
         {
           "key": "b",
-          "text": "customized top box"
+          "text": "Passing or overtaking can be made anytime"
         },
         {
           "key": "c",
-          "text": "saddlebag box"
+          "text": "It separates traffic moving in opposite directions"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 133,
-      "question": "What is the allowed age to apply for a non-professional driver's license?",
+      "id": 205,
+      "question": "What is the meaning of this traffic sign?",
       "options": [
         {
           "key": "a",
-          "text": "16 years old"
+          "text": "No entry for vehicles with 30 years age"
         },
         {
           "key": "b",
-          "text": "17 years old"
+          "text": "Minimum speed limit"
         },
         {
           "key": "c",
-          "text": "20 years old"
+          "text": "End of maximum speed limit"
+        }
+      ],
+      "answer": "C",
+      "image": "q205.png"
+    },
+    {
+      "id": 206,
+      "question": "What should be done first before changing lanes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Blow your horn then carefully change lane"
+        },
+        {
+          "key": "b",
+          "text": "Make a quick change of lane"
+        },
+        {
+          "key": "c",
+          "text": "Check the traffic ahead and make signal"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 207,
+      "question": "A no stopping sign means you",
+      "options": [
+        {
+          "key": "a",
+          "text": "Cannot stop unless receiving a call"
+        },
+        {
+          "key": "b",
+          "text": "Can stop quickly if you are loading or unloading passengers"
+        },
+        {
+          "key": "c",
+          "text": "Cannot stop unless directed by a traffic officer"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 208,
+      "question": "What does this traffic sign means?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Uneven light signals ahead"
+        },
+        {
+          "key": "b",
+          "text": "Slippery road"
+        },
+        {
+          "key": "c",
+          "text": "Road works"
+        }
+      ],
+      "answer": "C",
+      "image": "q208.png"
+    },
+    {
+      "id": 209,
+      "question": "This traffic sign means yield the right of way",
+      "options": [
+        {
+          "key": "a",
+          "text": "Vertical triangle"
+        },
+        {
+          "key": "b",
+          "text": "Inverted triangle"
+        },
+        {
+          "key": "c",
+          "text": "Horizontal triangle"
         }
       ],
       "answer": "B"
     },
     {
-      "id": 134,
-      "question": "Where do the collected payments for the motor vehicle user's charge go?",
+      "id": 210,
+      "question": "The choice of the speed may depend on the",
       "options": [
         {
           "key": "a",
-          "text": "the collected payments shall be used to upgrade or maintain the roads"
+          "text": "Roadworthiness of the motor vehicle being driven"
         },
         {
           "key": "b",
-          "text": "the collected payments shall be used for salaries of law enforcers"
+          "text": "All of the above"
         },
         {
           "key": "c",
-          "text": "the collected payments shall be used for the construction of dikes and dams"
+          "text": "Skills of the driver"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 211,
+      "question": "What does this traffic sign mean?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dangerous curve"
+        },
+        {
+          "key": "b",
+          "text": "Dangerous left double curve"
+        },
+        {
+          "key": "c",
+          "text": "Dangerous right double curve"
+        }
+      ],
+      "answer": "C",
+      "image": "q211.png"
+    },
+    {
+      "id": 212,
+      "question": "What is the primary purpose of using the vehicle's horn?",
+      "options": [
+        {
+          "key": "a",
+          "text": "To make beautiful sounds for all motorist to hear"
+        },
+        {
+          "key": "b",
+          "text": "To create noise and avoid distractions"
+        },
+        {
+          "key": "c",
+          "text": "To give warning to avoid road crash"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 213,
+      "question": "You were invited to a dinner party. You know that you will have to drive afterwards. What is your best course of action?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Avoid mixing your alcohol drinks"
+        },
+        {
+          "key": "b",
+          "text": "Not drink alcohol at all"
+        },
+        {
+          "key": "c",
+          "text": "Eat a hot meal with your alcohol drink"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 214,
+      "question": "You approach a junction. The traffic lights are not working. A traffic enforcer gives this signal. You should",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stop level with the officer’s arm"
+        },
+        {
+          "key": "b",
+          "text": "Stop at the line"
+        },
+        {
+          "key": "c",
+          "text": "Turn left only"
+        }
+      ],
+      "answer": "B",
+      "image": "q214.png"
+    },
+    {
+      "id": 215,
+      "question": "While driving on a one-way direction, you intend to turn left into a minor road. On the approach, you should",
+      "options": [
+        {
+          "key": "a",
+          "text": "Keep well to the left of the road"
+        },
+        {
+          "key": "b",
+          "text": "Swing out wide just before turning"
+        },
+        {
+          "key": "c",
+          "text": "Keep in the middle of the road"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 135,
-      "question": "In which area is parking not allowed?",
+      "id": 216,
+      "question": "What should you do if a railroad crossing has no warning devices?",
       "options": [
         {
           "key": "a",
-          "text": "rest stops along the expressway"
+          "text": "Increase you speed and cross the tracks quickly but do not forget to wear helmets"
         },
         {
           "key": "b",
-          "text": "the sidewalk"
+          "text": "Slow down, check left and right of the railroad, and then proceed with caution if clear"
         },
         {
           "key": "c",
-          "text": "parking lots"
+          "text": "Stop within 15 feet of the railroad crossing, get out of the vehicle, walk through the railroad and check if its clear"
         }
       ],
       "answer": "B"
     },
     {
-      "id": 136,
-      "question": "How can you overcome stress?",
+      "id": 217,
+      "question": "What does this traffic sign means?",
       "options": [
         {
           "key": "a",
-          "text": "stopping, getting out of the vehicle, shouting at anybody who inquires, and then engaging in a fight"
+          "text": "Dangerous right"
         },
         {
           "key": "b",
-          "text": "taking a deep breath, sitting comfortably, listening to soothing music, allowing enough space in front, and providing extra travel time"
+          "text": "Steep left curve"
         },
         {
           "key": "c",
-          "text": "driving faster than allowed, listening to loud music, shouting at passengers, and provoking other motorists to a fight"
+          "text": "No left turn"
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "image": "q217.png"
     },
     {
-      "id": 137,
-      "question": "What violation may be applied if a driver passes the three field sobriety tests?",
+      "id": 218,
+      "question": "A vehicle that enters a roadway from a driveway, alley, or a private road",
       "options": [
         {
           "key": "a",
-          "text": "disregarding traffic sign"
+          "text": "Has the right-of-way to traffic especially from the left side of the street"
         },
         {
           "key": "b",
-          "text": "driving under the influence"
+          "text": "Has the right-of-way to traffic on all directions"
         },
         {
           "key": "c",
-          "text": "the initial traffic violation"
+          "text": "Must stop and yield right-of-way to traffic on the roadway and pedestrians"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 138,
-      "question": "Which of the following statements is true?",
+      "id": 219,
+      "question": "When being overtaken by a car, what should you do?",
       "options": [
         {
           "key": "a",
-          "text": "a driver authorized to drive manual transmission (MT) vehicles is not allowed to drive automatic transmission (AT) vehicles"
+          "text": "Increase speed to avoid being overtaken"
         },
         {
           "key": "b",
-          "text": "a driver authorized to drive automatic transmission (AT) vehicles is allowed to drive manual transmission (MT) vehicles"
+          "text": "Stay with the current speed"
         },
         {
           "key": "c",
-          "text": "a driver authorized to drive manual transmission (MT) vehicles is allowed to operate automatic transmission (AT) vehicles"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 139,
-      "question": "Registration of a motor vehicle may be suspended if",
-      "options": [
-        {
-          "key": "a",
-          "text": "the motor vehicle is too light to traverse the public roads"
-        },
-        {
-          "key": "b",
-          "text": "the motor vehicle is not a front-wheel drive"
-        },
-        {
-          "key": "c",
-          "text": "the motor vehicle is capable of causing excessive damage to public roads"
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 140,
-      "question": "What will happen if the driver refuses to undergo mandatory testing when suspected of driving under the influence of liquor?",
-      "options": [
-        {
-          "key": "a",
-          "text": "revocation of vehicle registration"
-        },
-        {
-          "key": "b",
-          "text": "confiscation of the driver's license and consequent automatic revocation"
-        },
-        {
-          "key": "c",
-          "text": "suspension of the driver's license for 2 years"
+          "text": "Press on the brake and allow the overtaking vehicle to pass"
         }
       ],
       "answer": "B"
     },
     {
-      "id": 141,
-      "question": "Your license has just expired. Are you still allowed to drive to the nearest LTO to renew your driver's license?",
+      "id": 220,
+      "question": "What should you do when you see this traffic light?",
       "options": [
         {
           "key": "a",
-          "text": "yes, so long as you abide by traffic rules"
+          "text": "Go if there is no obstruction on the other side"
         },
         {
           "key": "b",
-          "text": "no"
+          "text": "Wait for the red signal"
         },
         {
           "key": "c",
-          "text": "yes, so long as you head straight to the nearest licensing office and make no other stops along the way"
+          "text": "Go ahead"
         }
       ],
-      "answer": "B"
+      "answer": "C",
+      "image": "q220.png"
     },
     {
-      "id": 142,
-      "question": "Under Republic Act No. 11229, what is the allowable age for a child to sit in the front passenger seat of a car?",
+      "id": 221,
+      "question": "A traffic light changes from green to yellow as you approach an intersection. What should you do?",
       "options": [
         {
           "key": "a",
-          "text": "more than 12 years old"
+          "text": "Stop before the intersection or the stop line"
         },
         {
           "key": "b",
-          "text": "16 years old and above"
+          "text": "Keep going at your current speed"
         },
         {
           "key": "c",
-          "text": "18 years old and above"
+          "text": "Stop, even if in the intersection"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 143,
-      "question": "When can a child be exempted from being seated in a child restraint system?",
+      "id": 222,
+      "question": "What must you do at a flashing yellow traffic signal?",
       "options": [
         {
           "key": "a",
-          "text": "if the child will be late for a medical appointment"
+          "text": "This signal tells you that you cannot turn in this intersection, so continue on straight"
         },
         {
           "key": "b",
-          "text": "if the child is going to school"
+          "text": "Stop, yield and proceed when safe"
         },
         {
           "key": "c",
-          "text": "if the child requires immediate medical treatment"
+          "text": "Drive with caution, consider it as a Give Way sign"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 144,
-      "question": "What shall be the color of auxiliary lamps installed at the front of a vehicle?",
+      "id": 223,
+      "question": "Consider it as a give way sign. What does this traffic sign mean?",
       "options": [
         {
           "key": "a",
-          "text": "any color may do"
+          "text": "Road wide ahead"
         },
         {
           "key": "b",
-          "text": "red"
+          "text": "One way ahead"
         },
         {
           "key": "c",
-          "text": "white or yellowish white"
+          "text": "Narrow bridge ahead"
+        }
+      ],
+      "answer": "B",
+      "image": "q223.png"
+    },
+    {
+      "id": 224,
+      "question": "Drinking alcohol before driving is one of the major causes of vehicular road crash because when a driver is drunk, he or she is",
+      "options": [
+        {
+          "key": "a",
+          "text": "Arrogant, talkative, with poor judgement and reflexes to perform thing safely"
+        },
+        {
+          "key": "b",
+          "text": "Calm, relaxed, and perform things accordingly"
+        },
+        {
+          "key": "c",
+          "text": "Able to talk intelligently and coherent and give every appearance of sobriety"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 225,
+      "question": "You must not blow the horn of your vehicle unless",
+      "options": [
+        {
+          "key": "a",
+          "text": "You want to signal your arrival"
+        },
+        {
+          "key": "b",
+          "text": "You want to call the attention of a traffic enforcer"
+        },
+        {
+          "key": "c",
+          "text": "A moving vehicle may cause you danger"
         }
       ],
       "answer": "C"
     },
     {
-      "id": 145,
-      "question": "A 30-day suspension of the driver's license shall be imposed if",
+      "id": 226,
+      "question": "Someone is waiting to cross at pedestrian crossing. They are standing on the pavement. You should normally",
       "options": [
         {
           "key": "a",
-          "text": "the traffic violation committed is grave"
+          "text": "Stop, let them cross, wait patiently"
         },
         {
           "key": "b",
-          "text": "the driver fails to pay the corresponding penalty of the apprehension within 15 days"
+          "text": "Go on quickly before they step on the crossing"
         },
         {
           "key": "c",
-          "text": "the driver fails to pay the fine within 72 hours"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 146,
-      "question": "Can a driver be given a 10-year validity license if he or she has a traffic violation?",
-      "options": [
-        {
-          "key": "a",
-          "text": "no"
-        },
-        {
-          "key": "b",
-          "text": "yes"
-        },
-        {
-          "key": "c",
-          "text": "yes, if all penalties are paid 15 days prior to renewal"
+          "text": "Ignore them as they are still in the pavements"
         }
       ],
       "answer": "A"
     },
     {
-      "id": 147,
-      "question": "When does a driver need to wear a helmet when riding a motorcycle?",
+      "id": 227,
+      "question": "What is the meaning of this traffic sign?",
       "options": [
         {
           "key": "a",
-          "text": "for long and short drives"
+          "text": "Local speed limit applies"
         },
         {
           "key": "b",
-          "text": "for long or short drives and on any type of road or highway"
+          "text": "Speed limit applies / Speed derestriction"
         },
         {
           "key": "c",
-          "text": "for a national road only"
+          "text": "No waiting"
         }
       ],
-      "answer": "B"
-    },
-    {
-      "id": 148,
-      "question": "What shall be the validity of a license that a driver may have if he or she has a traffic violation at the time of renewal?",
-      "options": [
-        {
-          "key": "a",
-          "text": "10 years validity"
-        },
-        {
-          "key": "b",
-          "text": "5 years validity"
-        },
-        {
-          "key": "c",
-          "text": "3 years validity"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 149,
-      "question": "When shall an alcohol breath analyzer (ABA) be used?",
-      "options": [
-        {
-          "key": "a",
-          "text": "when the enforcement officer insists that an ABA is required"
-        },
-        {
-          "key": "b",
-          "text": "when the driver failed at least one of the field sobriety tests"
-        },
-        {
-          "key": "c",
-          "text": "when the driver passed all the field sobriety tests"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 150,
-      "question": "A fabricated storage compartment fitted behind the seat of a motorcycle that is considered a motorcycle accessory is a",
-      "options": [
-        {
-          "key": "a",
-          "text": "top box"
-        },
-        {
-          "key": "b",
-          "text": "customized top box"
-        },
-        {
-          "key": "c",
-          "text": "saddlebag box"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 151,
-      "question": "What is the initial driver's license classification for applicants of a new license?",
-      "options": [
-        {
-          "key": "a",
-          "text": "professional driver's license (PDL)"
-        },
-        {
-          "key": "b",
-          "text": "non-professional driver's license (NPDL)"
-        },
-        {
-          "key": "c",
-          "text": "either NPDL or PDL"
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 152,
-      "question": "Is it allowed to drive a motorcycle on a public road pending release of the certificate of registration?",
-      "options": [
-        {
-          "key": "a",
-          "text": "no"
-        },
-        {
-          "key": "b",
-          "text": "yes"
-        },
-        {
-          "key": "c",
-          "text": "yes, if travel authority is given by the dealer"
-        }
-      ],
-      "answer": "A"
+      "answer": "B",
+      "image": "q227.png"
     }
   ]
 }

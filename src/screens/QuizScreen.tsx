@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react';
-import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Image, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { useTranslation } from 'react-i18next';
 import type { StackNavigationProp } from '@react-navigation/stack';
@@ -10,6 +10,7 @@ import {
   recordLearnResult,
   saveLearnQuestionId,
 } from '../content/learnProgress';
+import { questionImages } from '../content/images';
 import { questions } from '../content/questions';
 import { lineTranslation, type LineKey } from '../content/lookup';
 import { useLanguage } from '../i18n/LanguageContext';
@@ -107,6 +108,14 @@ const QuizScreen = ({ navigation, route }: Props) => {
           {t('quiz.progress', { current: index + 1, total: ids.length })}
         </Text>
         <View style={[styles.card, { backgroundColor: colors.card, borderColor: colors.border }]}>
+          {question.image ? (
+            <Image
+              source={questionImages[question.image]}
+              style={[styles.sign, { backgroundColor: colors.background }]}
+              resizeMode="contain"
+              accessibilityIgnoresInvertColors
+            />
+          ) : null}
           <TranslatedLine
             text={question.question}
             translation={lineTranslation(language, question.id, 'q')}
@@ -130,10 +139,22 @@ const QuizScreen = ({ navigation, route }: Props) => {
                   onPress={() => choose(option.key)}
                   style={[styles.option, { borderColor, backgroundColor: colors.background }]}
                 >
-                  <TranslatedLine
-                    text={`${option.key}. ${option.text}`}
-                    translation={lineTranslation(language, question.id, key)}
-                  />
+                  {option.image ? (
+                    <Image
+                      source={questionImages[option.image]}
+                      style={[styles.choiceImage, { backgroundColor: colors.card }]}
+                      resizeMode="contain"
+                      accessibilityIgnoresInvertColors
+                    />
+                  ) : null}
+                  {option.text ? (
+                    <TranslatedLine
+                      text={`${option.key}. ${option.text}`}
+                      translation={lineTranslation(language, question.id, key)}
+                    />
+                  ) : (
+                    <Text style={[styles.letterOnly, { color: colors.textPrimary }]}>{option.key.toUpperCase()}</Text>
+                  )}
                 </Pressable>
               );
             })}
@@ -182,6 +203,18 @@ const styles = StyleSheet.create({
     padding: 16,
     gap: 16,
   },
+  sign: {
+    width: '100%',
+    height: 180,
+    borderRadius: 12,
+  },
+  choiceImage: {
+    width: '100%',
+    height: 88,
+    borderRadius: 8,
+    marginBottom: 8,
+  },
+  letterOnly: { fontSize: 17, fontWeight: '700' },
   options: { gap: 10 },
   option: {
     borderWidth: 2,

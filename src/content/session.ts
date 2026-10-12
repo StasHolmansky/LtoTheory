@@ -1,5 +1,5 @@
-export const EXAM_QUESTION_COUNT = 40;
-export const EXAM_PASS_COUNT = 30;
+export const EXAM_QUESTION_COUNT = 60;
+export const EXAM_PASS_COUNT = 48;
 
 export function shuffledIds(ids: number[]): number[] {
   const copy = [...ids];
