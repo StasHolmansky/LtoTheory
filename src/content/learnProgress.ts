@@ -1,6 +1,6 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-const LEARN_QUESTION_KEY = 'learnQuestionId2026combined';
+const LEARN_QUESTION_KEY = 'learnQuestionId2026newFirst';
 
 export async function loadLearnQuestionId(): Promise<number | null> {
   const raw = await AsyncStorage.getItem(LEARN_QUESTION_KEY);
@@ -16,7 +16,7 @@ export async function clearLearnQuestionId(): Promise<void> {
   await AsyncStorage.removeItem(LEARN_QUESTION_KEY);
 }
 
-const MISTAKES_KEY = 'learnMistakeIds2026combined';
+const MISTAKES_KEY = 'learnMistakeIds2026newFirst';
 
 export async function loadMistakeIds(): Promise<number[]> {
   const raw = await AsyncStorage.getItem(MISTAKES_KEY);

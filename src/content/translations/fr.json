@@ -1,2264 +1,2264 @@
 {
   "1": {
-    "q": "Les trois couleurs du feu sont :",
-    "a": "rouge, vert et jaune",
-    "b": "rouge, vert et bleu",
-    "c": "jaune, vert et bleu"
-  },
-  "2": {
-    "q": "Quelle information donnent les panneaux triangulaires jaunes ?",
-    "a": "avertissement",
-    "b": "hôpital en face",
-    "c": "limitation de vitesse"
-  },
-  "3": {
-    "q": "Lesquels de ces panneaux sont bleus ?",
-    "a": "panneaux de réglementation",
-    "b": "panneaux d'information",
-    "c": "panneaux de danger"
-  },
-  "4": {
-    "q": "Un feu vert fixe signifie",
-    "a": "vous devez céder aux piétons et conducteurs déjà dans le carrefour",
-    "b": "avancez, c'est sûr",
-    "c": "traversez prudemment avant le rouge"
-  },
-  "5": {
-    "q": "Un feu jaune clignotant à un passage signifie",
-    "a": "prudence : ralentissez et avancez avec précaution",
-    "b": "arrêtez-vous jusqu'à la fin du clignotement",
-    "c": "attendez le vert"
-  },
-  "6": {
-    "q": "Une ligne blanche continue au bord droit se rapproche vers la gauche. Cela montre que",
-    "a": "il y a un carrefour devant",
-    "b": "la route va se rétrécir",
-    "c": "vous approchez d'un chantier"
-  },
-  "7": {
-    "q": "Vous êtes en zone d'interdiction de dépasser si le centre est marqué par",
-    "a": "une ligne jaune discontinue",
-    "b": "une ligne blanche discontinue",
-    "c": "deux lignes jaunes continues"
-  },
-  "8": {
-    "q": "Quand des flèches sont peintes au sol, les conducteurs doivent :",
-    "a": "aller dans le sens des flèches",
-    "b": "ralentir et se préparer à céder le passage",
-    "c": "ne pas changer de voie"
-  },
-  "9": {
-    "q": "Vous ne pouvez franchir des lignes jaunes continues que pour :",
-    "a": "changer de voie",
-    "b": "tourner à gauche",
-    "c": "tourner à droite"
-  },
-  "10": {
-    "q": "Les doubles lignes jaunes continues",
-    "a": "ne doivent pas être franchies sauf grande prudence",
-    "b": "ne doivent jamais être franchies",
-    "c": "interdisent le changement de voie"
-  },
-  "11": {
-    "q": "Vous ne pouvez pas franchir une seule ligne discontinue blanche ou jaune",
-    "a": "en tournant à gauche vers une allée",
-    "b": "en dépassant par la droite dans une rue à sens unique",
-    "c": "si cela gênerait la circulation"
-  },
-  "12": {
-    "q": "Vous pouvez franchir une double ligne pour dépasser si la ligne de votre côté est",
-    "a": "blanche continue",
-    "b": "discontinue",
-    "c": "jaune continue"
-  },
-  "13": {
-    "q": "À un feu rouge clignotant, vous devez",
-    "a": "attendre le vert avant de repartir",
-    "b": "ralentir et avancer avec prudence",
-    "c": "vous arrêter complètement et repartir quand c'est sûr"
-  },
-  "14": {
-    "q": "Quel geste doit faire un conducteur pour ralentir et s'arrêter ?",
-    "a": "le gauche plié au coude, main vers le haut",
-    "b": "bras gauche tendu à l'horizontale",
-    "c": "bras gauche vers le bas, main vers le sol"
-  },
-  "15": {
-    "q": "Le geste correct pour tourner à droite est :",
-    "a": "bras gauche plié au coude, main vers le haut",
-    "b": "bras gauche tendu à l'horizontale",
-    "c": "bras gauche vers le bas, main vers le sol"
-  },
-  "16": {
-    "q": "Si le conducteur devant tend le bras gauche tout droit, il va probablement",
-    "a": "tourner à gauche au prochain carrefour",
-    "b": "se ranger et s'arrêter",
-    "c": "tourner à droite au prochain carrefour"
-  },
-  "17": {
-    "q": "À un passage à niveau signalant un train, vous devez",
-    "a": "vous arrêter à au moins 1,5 mètre du rail le plus proche",
-    "b": "ralentir et avancer avec prudence",
-    "c": "vous ranger et vous arrêter"
-  },
-  "18": {
-    "q": "Dans quelles circonstances klaxonner ?",
-    "a": "comme avertissement de sécurité",
-    "b": "dans les zones scolaires",
-    "c": "dans les zones d'hôpital"
-  },
-  "19": {
-    "q": "Que vous impose la voie à un carrefour avec un stop ?",
-    "a": "ralentir et passer quand c'est sûr",
-    "b": "s'arrêter et passer quand c'est sûr",
-    "c": "céder si nécessaire aux véhicules de gauche ou de droite"
-  },
-  "20": {
-    "q": "À un carrefour avec un cédez-le-passage, vous devez",
-    "a": "vous arrêter avant d'entrer",
-    "b": "entrer immédiatement",
-    "c": "ralentir puis entrer quand la voie est libre"
-  },
-  "21": {
-    "q": "Le panneau « Entrée interdite » est",
-    "a": "un panneau de réglementation",
-    "b": "un panneau de guidage",
-    "c": "un panneau d'avertissement"
-  },
-  "22": {
-    "q": "La loi de priorité nous donne",
-    "a": "des droits de base comme conducteurs",
-    "b": "des règles sur quand céder le passage",
-    "c": "des règles pour tourner à droite"
-  },
-  "23": {
-    "q": "Une bonne règle quand vous êtes sûr d'avoir la priorité :",
-    "a": "ne jamais vous y fier",
-    "b": "klaxonner pour alerter les autres",
-    "c": "l'exiger toujours"
-  },
-  "24": {
-    "q": "Sur un rond-point, qui a la priorité ?",
-    "a": "les véhicules qui vont entrer",
-    "b": "les véhicules déjà dans le rond-point",
-    "c": "les véhicules face au feu vert"
-  },
-  "25": {
-    "q": "À un carrefour sans signal, deux voitures arrivent à angle droit. Qui doit céder ?",
-    "a": "celui qui arrive le premier",
-    "b": "celui qui ralentit le premier",
-    "c": "celui qui arrive le dernier"
-  },
-  "26": {
-    "q": "Sans signal, deux voitures arrivent en face en même temps : l'une tourne à gauche, l'autre à droite. Qui cède ?",
-    "a": "celui qui tourne à droite",
-    "b": "celui qui tourne à gauche",
-    "c": "celui qui arrive le premier"
-  },
-  "27": {
-    "q": "Sans signal, deux voitures arrivent de directions opposées. Quel conducteur doit céder ?",
-    "a": "celui qui va tout droit",
-    "b": "celui qui tourne à gauche",
-    "c": "celui qui tourne à droite"
-  },
-  "28": {
-    "q": "Sans stop ni cédez-le-passage, deux voitures arrivent en même temps. Qui a la priorité ?",
-    "a": "la voiture de droite",
-    "b": "la voiture de gauche",
-    "c": "celle qui ralentit la première"
-  },
-  "29": {
-    "q": "Une voiture attend dans le carrefour pour tourner à gauche et le feu passe au rouge. Qui passe en premier ?",
-    "a": "le conducteur bloqué dans le carrefour",
-    "b": "celui qui tourne à droite",
-    "c": "celui qui a le feu vert"
-  },
-  "30": {
-    "q": "Sans stop ni cédez-le-passage, deux voitures arrivent de rues différentes. Qui a la priorité ?",
-    "a": "celle déjà dans le carrefour",
-    "b": "celle de gauche",
-    "c": "celle qui ralentit la première"
-  },
-  "31": {
-    "q": "Le conducteur sur une route doit céder le passage",
-    "a": "à toute voiture sortant d'une allée",
-    "b": "à un piéton",
-    "c": "aux voitures arrivant d'un carrefour par la gauche"
-  },
-  "32": {
-    "q": "Avant de tourner à gauche, cédez aux voitures d'en face",
-    "a": "jusqu'à ce qu'au moins deux soient passées",
-    "b": "assez proches pour être dangereuses",
-    "c": "jusqu'à ce que cinq soient passées"
-  },
-  "33": {
-    "q": "S'il y a des piétons sur un passage scolaire, vous devez",
-    "a": "vous arrêter seulement pour ceux qui viennent de votre droite",
-    "b": "vous arrêter seulement pour les enfants",
-    "c": "vous arrêter et ne pas repartir tant que tous n'ont pas quitté le passage"
-  },
-  "34": {
-    "q": "Un conducteur qui tourne doit-il céder aux piétons ?",
-    "a": "oui, en tournant à droite ou à gauche il doit céder aux piétons",
-    "b": "non, les piétons doivent céder à tous les véhicules",
-    "c": "oui, mais seulement s'il tourne à gauche"
-  },
-  "35": {
-    "q": "Dans une rue à double sens, vous entendez une sirène. Que dit la loi ?",
-    "a": "se ranger à droite et s'arrêter",
-    "b": "accélérer pour dégager",
-    "c": "continuer à grande vitesse"
-  },
-  "36": {
-    "q": "Deux véhicules se croisent en montée et aucun ne peut passer. Qui cède ?",
-    "a": "celui qui fait face à la descente",
-    "b": "celui qui fait face à la montée",
-    "c": "celui qui klaxonne le premier"
-  },
-  "37": {
-    "q": "Avant de changer de voie, signalez, vérifiez le rétroviseur et",
-    "a": "tournez la tête pour voir les véhicules à côté",
-    "b": "klaxonnez",
-    "c": "faites un appel de phares"
-  },
-  "38": {
-    "q": "Ne changez de voie qu'après avoir",
-    "a": "signalé votre intention et vérifié la circulation",
-    "b": "signalé votre intention",
-    "c": "vérifié la circulation"
-  },
-  "39": {
-    "q": "Après un dépassement, vous pouvez revenir si",
-    "a": "le conducteur dépassé klaxonne",
-    "b": "vous voyez dans le rétroviseur la voiture dépassée",
-    "c": "vous la voyez dans le rétroviseur latéral"
-  },
-  "40": {
-    "q": "Vous pouvez dépasser par la droite une voiture dans votre sens",
-    "a": "si la route a clairement deux voies ou plus dans le même sens",
-    "b": "sur une route à une voie en sens inverse",
-    "c": "en quittant la chaussée"
-  },
-  "41": {
-    "q": "Si vous êtes sur la mauvaise voie, que faire pour tourner en entrant dans le carrefour ?",
-    "a": "tourner le plus vite possible",
-    "b": "freiner ou débrayer pendant le virage",
-    "c": "regarder derrière des deux côtés et changer de voie seulement si c'est sûr"
-  },
-  "42": {
-    "q": "Commencez à signaler un virage à droite ou à gauche au moins",
-    "a": "30 mètres avant",
-    "b": "60 mètres avant",
-    "c": "15 mètres avant"
-  },
-  "43": {
-    "q": "Vous commencez normalement un virage à droite depuis",
-    "a": "la voie la plus proche du centre",
-    "b": "la voie la plus proche du trottoir droit",
-    "c": "la même voie que pour tourner à gauche"
-  },
-  "44": {
-    "q": "La voiture derrière veut vous dépasser. Vous devriez",
-    "a": "klaxonner pour la laisser passer",
-    "b": "ralentir un peu et vous déporter à droite",
-    "c": "vous ranger à droite et vous arrêter pour qu'elle passe"
-  },
-  "45": {
-    "q": "La nuit sur route, utilisez les feux de croisement quand",
-    "a": "un autre conducteur baisse ses feux",
-    "b": "vous êtes ébloui par un véhicule en face",
-    "c": "tout ce qui précède"
-  },
-  "46": {
-    "q": "Si les feux stop de plusieurs voitures devant s'allument, vous devez",
-    "a": "lâcher l'accélérateur et vous préparer à freiner",
-    "b": "freiner dès que possible",
-    "c": "accélérer"
-  },
-  "47": {
-    "q": "Laquelle de ces étapes est incorrecte pour tourner à droite ?",
-    "a": "s'arrêter sur le passage piéton",
-    "b": "signaler au moins 30 mètres avant",
-    "c": "surveiller les piétons dans la rue où vous entrez"
-  },
-  "48": {
-    "q": "Il ne faut pas dépasser au pied ou à l'approche d'un pont parce que",
-    "a": "on ne voit pas les véhicules venant de l'autre côté",
-    "b": "des piétons traversent",
-    "c": "on pourrait gêner le flot"
-  },
-  "49": {
-    "q": "La meilleure pratique pour tourner sur route est",
-    "a": "de signaler au moment du virage",
-    "b": "de donner un clignotant et/ou un geste au moins 30 mètres avant",
-    "c": "de ne pas signaler s'il n'y a personne devant ni derrière"
-  },
-  "50": {
-    "q": "Dépasser par l'accotement à droite d'une voiture devant",
-    "a": "est permis si vous tournez à droite",
-    "b": "est permis si la voiture devant tourne à gauche",
-    "c": "est interdit par la loi"
-  },
-  "51": {
-    "q": "Quel endroit n'est pas sûr pour dépasser ?",
-    "a": "à l'approche d'un pont ou dans un virage",
-    "b": "à un carrefour",
-    "c": "les deux"
-  },
-  "52": {
-    "q": "Tourner à gauche est plus dangereux qu'à droite parce que",
-    "a": "les voitures de droite vont plus vite",
-    "b": "il faut surveiller les véhicules des deux côtés",
-    "c": "les rues à quatre voies sont plus larges"
-  },
-  "53": {
-    "q": "Quelle lumière utiliser si un véhicule est garé sur la route la nuit ?",
-    "a": "les phares",
-    "b": "feux de position ou feux de croisement",
-    "c": "les clignotants"
-  },
-  "54": {
-    "q": "Les feux de position peuvent servir",
-    "a": "à tout moment",
-    "b": "en stationnement et par mauvaise visibilité",
-    "c": "en roulant dans des rues bien éclairées"
-  },
-  "55": {
-    "q": "Un véhicule est considéré garé quand",
-    "a": "il est arrêté sur l'accotement et reste immobile un moment",
-    "b": "il s'arrête pour faire descendre ou monter des passagers",
-    "c": "il charge ou décharge un peu et repart sans délai"
-  },
-  "56": {
-    "q": "En stationnant en descente, tournez les roues avant",
-    "a": "vers le trottoir ou le bord de la route",
-    "b": "à l'opposé du trottoir",
-    "c": "dans n'importe quel sens"
-  },
-  "57": {
-    "q": "En stationnant en montée sans trottoir, le mieux est",
-    "a": "de se rapprocher du bord et de tourner les roues avant à l'opposé",
-    "b": "de braquer fortement à gauche",
-    "c": "de braquer fortement à droite"
-  },
-  "58": {
-    "q": "Que faire en se garant en montée le long d'un trottoir ?",
-    "a": "tourner les roues vers le trottoir",
-    "b": "tourner les roues arrière vers le trottoir",
-    "c": "braquer les roues avant fortement à gauche, à l'opposé du trottoir"
-  },
-  "59": {
-    "q": "Avant de quitter une place, vous devez",
-    "a": "vérifier la circulation, signaler et partir quand c'est sûr",
-    "b": "signaler et quitter le trottoir",
-    "c": "klaxonner et partir lentement"
-  },
-  "60": {
-    "q": "Vous ne devez jamais stationner",
-    "a": "sur un passage piéton",
-    "b": "dans une rue à sens unique",
-    "c": "à moins de 5 mètres d'une bouche d'incendie"
-  },
-  "61": {
-    "q": "Si vous voulez rouler plus vite que les autres, utilisez",
-    "a": "la voie extérieure (droite)",
-    "b": "la voie du milieu",
-    "c": "la voie intérieure (gauche)"
-  },
-  "62": {
-    "q": "Pour faire monter ou descendre des passagers, on s'arrête en général",
-    "a": "à droite, près du trottoir",
-    "b": "au milieu de la route",
-    "c": "à un carrefour"
-  },
-  "63": {
-    "q": "Quelle est la vitesse maximale sur l'autoroute ?",
-    "a": "60 km/h",
-    "b": "80 km/h",
-    "c": "100 km/h"
-  },
-  "64": {
-    "q": "Un conducteur peut faire monter et descendre des passagers",
-    "a": "seulement aux arrêts prévus",
-    "b": "dès qu'un passager demande l'arrêt",
-    "c": "avant un carrefour"
-  },
-  "65": {
-    "q": "En laissant la voiture sans surveillance, la loi dit d'arrêter le moteur et",
-    "a": "de serrer efficacement le frein à main",
-    "b": "de passer au point mort",
-    "c": "de fermer les vitres"
-  },
-  "66": {
-    "q": "Selon la règle de base de vitesse, le choix dépend",
-    "a": "de la vitesse du conducteur",
-    "b": "du carburant de la voiture",
-    "c": "de la circulation et de l'état de la route"
-  },
-  "67": {
-    "q": "Si vous voulez rouler plus lentement que les autres, utilisez",
-    "a": "la voie extérieure (droite)",
-    "b": "la voie du milieu",
-    "c": "la voie intérieure (gauche)"
-  },
-  "68": {
-    "q": "La limitation en zone scolaire les jours d'école est",
-    "a": "20 km/h",
-    "b": "25 km/h",
-    "c": "30 km/h"
-  },
-  "69": {
-    "q": "Selon la règle de base, ne roulez jamais plus vite que",
-    "a": "ce qui est sûr",
-    "b": "la limite affichée",
-    "c": "le flot de circulation"
-  },
-  "70": {
-    "q": "Rouler à la vitesse maximale est plus dangereux la nuit parce que",
-    "a": "votre réaction est plus lente la nuit",
-    "b": "la chaussée est plus souvent glissante la nuit",
-    "c": "la nuit on ne voit pas loin"
-  },
-  "71": {
-    "q": "Une vitesse sûre par mauvais temps",
-    "a": "dépend de la route et de la météo",
-    "b": "est la limite affichée",
-    "c": "dépend de l'habileté du conducteur"
-  },
-  "72": {
-    "q": "Conduire la nuit est dangereux parce que",
-    "a": "les lampadaires brouillent la vue",
-    "b": "il y a plus de véhicules la nuit",
-    "c": "on voit moins loin"
-  },
-  "73": {
-    "q": "La nuit, ne roulez pas trop vite pour vous arrêter dans",
-    "a": "ce que vos phares éclairent",
-    "b": "quatre longueurs de voiture",
-    "c": "170 pieds"
-  },
-  "74": {
-    "q": "Les limitations le long de la route doivent être vues comme",
-    "a": "la vitesse recommandée dans les meilleures conditions",
-    "b": "la vitesse recommandée dans les pires conditions",
-    "c": "la vitesse recommandée en toutes conditions"
-  },
-  "75": {
-    "q": "En suivant une voiture, une règle sûre est de laisser au moins",
-    "a": "la place d'une voiture",
-    "b": "15 pieds de distance de freinage",
-    "c": "une longueur de voiture par 10 miles de vitesse"
-  },
-  "76": {
-    "q": "Que faire si vous avez sommeil au volant ?",
-    "a": "vous arrêter et vous reposer",
-    "b": "passer à droite et continuer",
-    "c": "accélérer pour vous éloigner des autres"
-  },
-  "77": {
-    "q": "À l'approche d'un virage serré, vous devez",
-    "a": "ralentir avant d'entrer dans le virage",
-    "b": "accélérer dans le virage",
-    "c": "freiner légèrement dans le virage"
-  },
-  "78": {
-    "q": "Ignorer les feux tard la nuit pourrait",
-    "a": "faire de vous un bon conducteur",
-    "b": "vous impliquer dans un accident mortel",
-    "c": "réduire votre consommation"
-  },
-  "79": {
-    "q": "Une bonne attitude de conducteur est",
-    "a": "de rouler lentement",
-    "b": "de conduire de façon défensive",
-    "c": "de prendre des risques si possible"
-  },
-  "80": {
-    "q": "Les conducteurs recueillent le plus d'informations avec",
-    "a": "leur voiture",
-    "b": "leurs yeux",
-    "c": "leurs mains"
-  },
-  "81": {
-    "q": "Que recommande-t-on le plus contre la fatigue sur un long trajet ?",
-    "a": "s'arrêter régulièrement pour se reposer et bouger",
-    "b": "beaucoup manger et boire un peu d'alcool",
-    "c": "prendre un comprimé pour rester éveillé"
-  },
-  "82": {
-    "q": "Quelle habitude évite le regard fixe et la distraction ?",
-    "a": "regarder le sol",
-    "b": "bouger les yeux régulièrement, près et loin",
-    "c": "la vitesse d'une autre voiture"
-  },
-  "83": {
-    "q": "Que pouvez-vous ajuster pour réduire le risque de collision ?",
-    "a": "votre vitesse et votre position sur la voie",
-    "b": "le rayon d'un virage",
-    "c": "la vitesse d'une autre voiture"
-  },
-  "84": {
-    "q": "Les conducteurs doivent décider",
-    "a": "seulement dans une circulation dense",
-    "b": "seulement jusqu'à devenir expérimentés",
-    "c": "en continu pendant qu'ils conduisent"
-  },
-  "85": {
-    "q": "Avec des cyclistes, vous devez",
-    "a": "être plus attentif à l'état de la route",
-    "b": "ajuster la vitesse et augmenter votre marge",
-    "c": "utiliser une autre recherche visuelle"
-  },
-  "86": {
-    "q": "Vos coups d'œil aux rétroviseurs doivent être",
-    "a": "aussi brefs que possible",
-    "b": "aussi longs que vous voulez",
-    "c": "d'au moins une seconde chacun"
-  },
-  "87": {
-    "q": "La nuit, face à des phares éblouissants, le plus sûr est",
-    "a": "de passer en pleins phares",
-    "b": "de regarder légèrement à droite de la chaussée",
-    "c": "de regarder les phares du véhicule en face"
-  },
-  "88": {
-    "q": "Si au-delà du carrefour la voie est bloquée, vous devez",
-    "a": "coller au plus près la voiture devant",
-    "b": "entrer lentement jusqu'à ce que le trafic avance",
-    "c": "vous arrêter avant le carrefour et attendre que le trafic avance"
-  },
-  "89": {
-    "q": "Jeter bouteilles, canettes ou quoi que ce soit par la fenêtre",
-    "a": "est toujours interdit",
-    "b": "est interdit seulement en province",
-    "c": "est interdit seulement en ville"
-  },
-  "90": {
-    "q": "Le plus efficace face à quelqu'un qui colle derrière est",
-    "a": "de l'ignorer sans le laisser trop se rapprocher",
-    "b": "de ralentir et de le laisser passer",
-    "c": "d'accélérer puis de freiner brutalement"
-  },
-  "91": {
-    "q": "Sur une route à deux voies, le danger est égal des deux côtés. Vous devriez",
-    "a": "vous placer un peu à droite",
-    "b": "vous placer un peu à gauche",
-    "c": "vous centrer entre les dangers"
-  },
-  "92": {
-    "q": "Un piéton sur une route sans trottoir doit rester",
-    "a": "à gauche, face à la circulation",
-    "b": "à droite",
-    "c": "d'un côté ou de l'autre"
-  },
-  "93": {
-    "q": "En cas d'accident, le premier devoir du conducteur impliqué est de",
-    "a": "prendre le blessé et l'emmener à l'hôpital le plus proche",
-    "b": "signaler l'accident à l'hôpital",
-    "c": "signaler l'accident au poste de police le plus proche"
-  },
-  "94": {
-    "q": "S'il y a des blessés, le conducteur indemne doit",
-    "a": "appeler un médecin",
-    "b": "laisser la victime allongée",
-    "c": "essayer de déterminer qui est en faute"
-  },
-  "95": {
-    "q": "Suspendre un permis signifie",
-    "a": "le faire revalider par le LTO",
-    "b": "que le LTO le retire définitivement",
-    "c": "que le LTO le retire temporairement"
-  },
-  "96": {
-    "q": "La principale raison d'exiger le contrôle technique est",
-    "a": "de rapporter de l'argent à l'État",
-    "b": "de laisser l'inspecteur voir votre voiture",
-    "c": "de vérifier que les voitures respectent les normes de sécurité"
-  },
-  "97": {
-    "q": "Un véhicule de transport public ne peut être conduit que par le titulaire",
-    "a": "d'un permis d'élève",
-    "b": "d'un permis non professionnel",
-    "c": "d'un permis professionnel"
-  },
-  "98": {
-    "q": "Avoir un permis de conduire est",
-    "a": "un honneur",
-    "b": "un droit",
-    "c": "un privilège"
-  },
-  "99": {
-    "q": "Pour éviter suspension ou retrait, en combien de jours un conducteur dont le permis est saisi doit-il régler son dossier au LTO ?",
-    "a": "sous 15 jours",
-    "b": "sous 10 jours",
-    "c": "sous 30 jours"
-  },
-  "100": {
-    "q": "Quand pouvez-vous prêter votre permis ?",
-    "a": "en aucune circonstance",
-    "b": "à une personne qui apprend à conduire",
-    "c": "en cas d'urgence"
-  },
-  "101": {
-    "q": "Que devez-vous faire avant de quitter la place de stationnement ?",
-    "a": "partir directement",
-    "b": "klaxonner",
-    "c": "regarder autour d’abord et mettre le clignotant"
-  },
-  "102": {
-    "q": "Le stationnement est interdit",
-    "a": "dans un local commercial",
-    "b": "dans une intersection",
-    "c": "sur une route à sens unique"
-  },
-  "103": {
-    "q": "Chaque fois que vous vous garez, pensez à",
-    "a": "passer au point mort",
-    "b": "couper le moteur et serrer le frein à main",
-    "c": "fermer les vitres"
-  },
-  "104": {
-    "q": "Il est interdit de se garer",
-    "a": "à moins de 2 mètres d’une bouche d’incendie et à moins de 3 mètres de l’intersection",
-    "b": "à moins de 5 mètres d’une bouche d’incendie et à moins de 6 mètres de l’intersection",
-    "c": "à moins de 5 mètres d’une bouche d’incendie et à moins de 5 mètres de l’intersection"
-  },
-  "105": {
-    "q": "Qu’est-ce qui compte comme infraction de stationnement ?",
-    "a": "se garer dans une rue à sens unique",
-    "b": "se garer sans les feux de détresse",
-    "c": "se garer à moins de 5 mètres d’une intersection à feux"
-  },
-  "106": {
-    "q": "Si vous êtes garé au bord de la route la nuit, vous devez",
-    "a": "prévenir les autres avec les feux de détresse ou les feux de stationnement, si le véhicule en a",
-    "b": "rester éveillé et prêt à repartir",
-    "c": "prévenir les autres en allumant les phares"
-  },
-  "107": {
-    "q": "Ne vous arrêtez ni ne vous garez jamais près d’une bouche d’incendie. Vous ne pouvez vous garer qu’à une distance d’au moins",
-    "a": "3 mètres",
-    "b": "4 mètres",
-    "c": "5 mètres"
-  },
-  "108": {
-    "q": "Quand le stationnement en double file est-il permis ?",
-    "a": "jamais",
-    "b": "quand la rue ou la route est assez large",
-    "c": "quand vous n’avez pas d’autre choix"
-  },
-  "109": {
-    "q": "Un conducteur ne doit pas se garer ni s’arrêter près d’un stop ou d’un feu, car cela réduit la visibilité des autres conducteurs, surtout à moins de",
-    "a": "4 mètres",
-    "b": "5 mètres",
-    "c": "6 mètres"
-  },
-  "110": {
-    "q": "Si vous vous garez en montée sans trottoir, tournez les roues vers",
-    "a": "le bord de la rue",
-    "b": "l’autre côté de la rue",
-    "c": "le milieu de la rue"
-  },
-  "111": {
-    "q": "Un conducteur qui se gare ou s’arrête à moins de 6 mètres d’un passage piéton réduit la visibilité des piétons pour les autres conducteurs. Cela",
-    "a": "est permis",
-    "b": "est dangereux",
-    "c": "ne doit pas être fait"
-  },
-  "112": {
-    "q": "Le conducteur doit se garer le long du trottoir, en petite vitesse et avec le frein de stationnement serré, à une distance d’au moins",
-    "a": "40 cm",
-    "b": "35 cm",
-    "c": "30 cm"
-  },
-  "113": {
-    "q": "Le stationnement est une infraction lorsqu’un véhicule",
-    "a": "se gare à l’entrée et à la sortie des hôpitaux et des casernes de pompiers",
-    "b": "se gare à l’entrée et à la sortie d’un établissement industriel",
-    "c": "se gare à l’entrée et à la sortie d’un immeuble d’habitation"
-  },
-  "114": {
-    "q": "À quel endroit ne pouvez-vous pas garer votre véhicule ?",
-    "a": "sur une place de stationnement prévue",
-    "b": "là où les piétons traversent",
-    "c": "là où vous voulez aller"
-  },
-  "115": {
-    "q": "Quand un enfant peut-il être dispensé d’un dispositif de retenue ?",
-    "a": "s’il a un état médical, mental ou psychologique",
-    "b": "s’il ne veut pas être dans le dispositif",
-    "c": "si la famille va au centre commercial"
-  },
-  "116": {
-    "q": "L’immatriculation d’un véhicule peut être suspendue si",
-    "a": "le véhicule est conforme à la réglementation",
-    "b": "le véhicule est jugé d’aspect inacceptable",
-    "c": "le véhicule n’est pas immatriculé au nom du conducteur au moment du contrôle"
-  },
-  "117": {
-    "q": "Quelle est la règle de base dans une intersection ?",
-    "a": "ne pas bloquer l’intersection",
-    "b": "klaxonner si quelqu’un gêne le passage",
-    "c": "accélérer"
-  },
-  "118": {
-    "q": "Quand un conducteur peut-il dépasser sans danger par la droite dans un quartier d’affaires ou résidentiel ?",
-    "a": "si le feu est sur le point de passer au rouge",
-    "b": "si la route a deux voies ou plus dans le même sens",
-    "c": "le dépassement est permis sur une route très fréquentée"
-  },
-  "119": {
-    "q": "Dans quelle direction une lampe auxiliaire installée sur une moto doit-elle être orientée ?",
-    "a": "vers la gauche",
-    "b": "vers la droite",
-    "c": "vers le haut"
-  },
-  "120": {
-    "q": "Où pouvez-vous contester une infraction routière présumée ?",
-    "a": "au bureau d’adjudication routière compétent",
-    "b": "dans la rue, avant que l’agent parte",
-    "c": "dans n’importe quel bureau d’adjudication"
-  },
-  "121": {
-    "q": "Qui a le pouvoir de confisquer un permis lors d’une infraction routière ordinaire ?",
-    "a": "les agents du LTO ou les agents habilités par le LTO",
-    "b": "n’importe qui, tant que l’infraction est prévue par la loi",
-    "c": "n’importe qui, tant que l’agent est un fonctionnaire titulaire"
-  },
-  "122": {
-    "q": "Où devez-vous placer la plaque d’immatriculation ?",
-    "a": "une à l’avant et une à l’arrière du véhicule",
-    "b": "deux à l’avant",
-    "c": "une sur le pare-brise avant et une sur la lunette arrière"
-  },
-  "123": {
-    "q": "Pouvez-vous conduire une moto si votre permis porte le code DL B ?",
-    "a": "oui",
-    "b": "non, sauf autorisation d’un agent",
-    "c": "non"
-  },
-  "124": {
-    "q": "Ce panneau de réglementation signifie",
-    "a": "accès interdit aux véhicules dont la charge par essieu dépasse 2 tonnes",
-    "b": "accès interdit aux véhicules dont la charge par essieu est inférieure à 2 tonnes",
-    "c": "les véhicules dont la charge par essieu dépasse 2 tonnes sont autorisés"
-  },
-  "125": {
-    "q": "Où la plaque d’une moto doit-elle être placée ?",
-    "a": "sur le réservoir",
-    "b": "à l’arrière de la moto",
-    "c": "sur le cache-moteur"
-  },
-  "126": {
-    "q": "Quelle taille dispense un enfant du dispositif de retenue ?",
-    "a": "100 cm et plus",
-    "b": "150 cm et plus",
-    "c": "180 cm et plus"
-  },
-  "127": {
-    "q": "Quelle est la durée maximale du permis si le conducteur n’a pas d’infraction au moment du renouvellement ?",
-    "a": "5 ans",
-    "b": "10 ans",
-    "c": "15 ans"
-  },
-  "128": {
-    "q": "Est-il illégal d’utiliser un téléphone en conduisant ?",
-    "a": "oui, si le conducteur n’a pas déclaré le téléphone au LTO",
-    "b": "oui, si le conducteur utilise un appareil sans fil",
-    "c": "oui, si le conducteur n’utilise pas le téléphone en mode mains libres"
-  },
-  "129": {
-    "q": "À quelle hauteur maximale peut-on fixer le téléphone depuis la base du tableau de bord ?",
-    "a": "2 pouces",
-    "b": "4 pouces",
-    "c": "6 pouces"
-  },
-  "130": {
-    "q": "Un conducteur peut-il utiliser une photocopie du permis en conduisant ?",
-    "a": "non, sauf autorisation de l’agent",
-    "b": "oui, si la copie a exactement la taille et la couleur de l’original",
-    "c": "non"
-  },
-  "131": {
-    "q": "Selon la loi sur la sécurité des enfants à moto, un enfant de moins de 18 ans ne peut pas circuler sur une moto à deux roues sur la voie publique, sauf si",
-    "a": "ses pieds atteignent les repose-pieds d’origine, ses bras entourent la taille du conducteur et il porte un casque de protection réglementaire",
-    "b": "la circulation rapide est très dense ou la limite dépasse 60 km/h",
-    "c": "le conducteur peut tenir la taille de l’enfant assis devant et l’enfant porte un casque réglementaire"
-  },
-  "132": {
-    "q": "Un coffre fixé sur le côté de la moto, pas plus haut que la selle, considéré comme accessoire, est",
-    "a": "un top case",
-    "b": "un top case personnalisé",
-    "c": "une sacoche latérale"
-  },
-  "133": {
-    "q": "À quel âge peut-on demander un permis non professionnel ?",
-    "a": "16 ans",
-    "b": "17 ans",
-    "c": "20 ans"
-  },
-  "134": {
-    "q": "Où vont les sommes perçues au titre de la redevance d’usage des véhicules ?",
-    "a": "à l’amélioration ou à l’entretien des routes",
-    "b": "aux salaires des agents",
-    "c": "à la construction de digues et de barrages"
-  },
-  "135": {
-    "q": "Dans quelle zone le stationnement est-il interdit ?",
-    "a": "sur les aires de repos de la voie rapide",
-    "b": "sur le trottoir",
-    "c": "sur les parkings"
-  },
-  "136": {
-    "q": "Comment surmonter le stress ?",
-    "a": "s’arrêter, descendre, crier sur quiconque pose une question, puis se battre",
-    "b": "respirer profondément, s’asseoir confortablement, écouter une musique calme, laisser assez d’espace devant et prévoir plus de temps",
-    "c": "rouler trop vite, écouter de la musique forte, crier sur les passagers et provoquer les autres conducteurs"
-  },
-  "137": {
-    "q": "Quelle infraction s’applique si le conducteur réussit les trois tests de sobriété sur place ?",
-    "a": "non-respect d’un panneau",
-    "b": "conduite sous influence",
-    "c": "l’infraction initiale qui a motivé le contrôle"
-  },
-  "138": {
-    "q": "Laquelle de ces affirmations est exacte ?",
-    "a": "une autorisation pour boîte manuelle (MT) n’autorise pas la boîte automatique (AT)",
-    "b": "une autorisation seulement pour l’automatique (AT) permet de conduire une manuelle (MT)",
-    "c": "une autorisation pour boîte manuelle (MT) permet de conduire une automatique (AT)"
-  },
-  "139": {
-    "q": "L’immatriculation d’un véhicule peut être suspendue si",
-    "a": "le véhicule est trop léger pour les voies publiques",
-    "b": "le véhicule n’est pas une traction avant",
-    "c": "le véhicule peut endommager excessivement les voies publiques"
-  },
-  "140": {
-    "q": "Que se passe-t-il si le conducteur refuse le contrôle obligatoire en cas de suspicion d’alcool ?",
-    "a": "retrait de l’immatriculation du véhicule",
-    "b": "confiscation du permis, puis retrait automatique",
-    "c": "suspension du permis pendant 2 ans"
-  },
-  "141": {
-    "q": "Votre permis vient d’expirer. Pouvez-vous encore conduire jusqu’au LTO le plus proche pour le renouveler ?",
-    "a": "oui, tant que vous respectez le code",
-    "b": "non",
-    "c": "oui, tant que vous allez directement au bureau le plus proche sans autre arrêt"
-  },
-  "142": {
-    "q": "Selon la loi n° 11229, à partir de quel âge un enfant peut-il s’asseoir à l’avant ?",
-    "a": "plus de 12 ans",
-    "b": "16 ans et plus",
-    "c": "18 ans et plus"
-  },
-  "143": {
-    "q": "Quand un enfant peut-il être dispensé d’un dispositif de retenue ?",
-    "a": "s’il sera en retard à un rendez-vous médical",
-    "b": "s’il va à l’école",
-    "c": "s’il a besoin de soins médicaux immédiats"
-  },
-  "144": {
-    "q": "De quelle couleur doivent être les lampes auxiliaires installées à l’avant ?",
-    "a": "n’importe quelle couleur",
-    "b": "rouge",
-    "c": "blanc ou blanc jaunâtre"
-  },
-  "145": {
-    "q": "Le permis est suspendu 30 jours si",
-    "a": "l’infraction commise est grave",
-    "b": "le conducteur ne paie pas la sanction du contrôle dans les 15 jours",
-    "c": "le conducteur ne paie pas l’amende dans les 72 heures"
-  },
-  "146": {
-    "q": "Peut-on délivrer un permis valable 10 ans si le conducteur a une infraction ?",
-    "a": "non",
-    "b": "oui",
-    "c": "oui, si toutes les sanctions sont payées 15 jours avant le renouvellement"
-  },
-  "147": {
-    "q": "Quand un conducteur doit-il porter un casque à moto ?",
-    "a": "pour les trajets longs et courts",
-    "b": "pour un trajet long ou court, sur tout type de route",
-    "c": "seulement sur une route nationale"
-  },
-  "148": {
-    "q": "Quelle durée de permis peut-on obtenir s’il y a une infraction au moment du renouvellement ?",
-    "a": "10 ans",
-    "b": "5 ans",
-    "c": "3 ans"
-  },
-  "149": {
-    "q": "Quand un éthylotest (ABA) doit-il être utilisé ?",
-    "a": "quand l’agent insiste pour qu’il soit requis",
-    "b": "quand le conducteur échoue à au moins un test de sobriété sur place",
-    "c": "quand le conducteur réussit tous les tests de sobriété sur place"
-  },
-  "150": {
-    "q": "Un coffre fabriqué et fixé derrière la selle, considéré comme accessoire de moto, est",
-    "a": "un top case",
-    "b": "un top case personnalisé",
-    "c": "une sacoche latérale"
-  },
-  "151": {
-    "q": "Quelle est la catégorie initiale du permis pour un nouveau demandeur ?",
-    "a": "permis professionnel (PDL)",
-    "b": "permis non professionnel (NPDL)",
-    "c": "NPDL ou PDL"
-  },
-  "152": {
-    "q": "Peut-on conduire une moto sur la voie publique en attendant le certificat d’immatriculation ?",
-    "a": "non",
-    "b": "oui",
-    "c": "oui, si le concessionnaire délivre une autorisation de circuler"
-  },
-  "153": {
     "q": "Vous êtes à un carrefour contrôlé par des feux tricolores. Quand ne faut-il pas passer au vert ?",
     "a": "Quand tu as l'intention de tourner à droite",
     "b": "Lorsque votre sortie du carrefour est bloquée",
     "c": "Quand les piétons attendent pour traverser"
   },
-  "154": {
+  "2": {
     "q": "Une personne âgée de 60 ans dépose une demande de permis de conduire. Est-ce autorisé ?",
     "a": "Cela dépend si le candidat réussira l'examen médical, théorique et pratique.",
     "b": "Oui",
     "c": "Non"
   },
-  "155": {
+  "3": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Pour avertir des travaux routiers à venir",
     "b": "Pour vous avertir d'un pont bas",
     "c": "Pour avertir de la fin de la voie rapide"
   },
-  "156": {
+  "4": {
     "q": "Vous conduisez sur une autoroute. Vous ne pouvez arrêter que",
     "a": "Sur le parking pour intervenir ou appeler en cas d'urgence",
     "b": "Pour charger ou décharger des marchandises ou des passagers",
     "c": "Pour demander son chemin"
   },
-  "157": {
+  "5": {
     "q": "Quels conseils donner à un conducteur qui a bu quelques boissons alcoolisées lors d'une soirée ?",
     "a": "Boire une tasse de café puis rentrer chez soi",
     "b": "Rentrez chez vous prudemment et lentement",
     "c": "Reposez-vous et ne conduisez pas"
   },
-  "158": {
+  "6": {
     "q": "Que devez-vous faire si vous voyez ces signes en conduisant ?",
     "a": "Arrêtez-vous au panneau",
     "b": "Arrêtez-vous et cherchez les portes de la ferme ouvertes",
     "c": "Lentement, il y a une courbe à venir"
   },
-  "159": {
+  "7": {
     "q": "Quels sont les effets de l’alcool ou des drogues ?",
     "a": "Moins de contrôle, faux sentiment de confiance et mauvais jugement de la vitesse",
     "b": "Une plus grande conscience du danger",
     "c": "Réaction plus rapide"
   },
-  "160": {
+  "8": {
     "q": "Quelle est l'infraction si un conducteur conduit un véhicule avec un feu stop clignotant ?",
     "a": "Obstruction",
     "b": "Modification illégale",
     "c": "Conduite dangereuse"
   },
-  "161": {
+  "9": {
     "q": "Lequel des énoncés suivants est vrai à propos des ceintures de sécurité ?",
     "a": "Il est prouvé que les ceintures de sécurité sauvent des vies",
     "b": "Seuls les passagers des sièges avant doivent porter la ceinture de sécurité",
     "c": "Seul le conducteur doit porter une ceinture de sécurité"
   },
-  "162": {
+  "10": {
     "q": "Le signal manuel approprié pour tourner à droite est",
     "a": "Bras gauche maintenu vers le bas, main pointée vers le sol",
     "b": "Bras gauche tenu droit horizontalement",
     "c": "Bras gauche plié au niveau du coude, main pointée vers le haut"
   },
-  "163": {
+  "11": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Route glissante à venir",
     "b": "La route se rétrécit devant nous",
     "c": "La route s'élargit à venir"
   },
-  "164": {
+  "12": {
     "q": "Vous remarquez que votre véhicule ne cesse de rebondir lorsque vous freinez. Qu'est-ce que cela signifie?",
     "a": "Amortisseurs usés",
     "b": "Le volant n'est pas situé au centre",
     "c": "Pneus usés"
   },
-  "165": {
+  "13": {
     "q": "Quel type d'assurance est obligatoire pour les véhicules à moteur ?",
     "a": "Complet",
     "b": "Tiers",
     "c": "Tout ce qui précède"
   },
-  "166": {
+  "14": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Approche de l'intersection fusionnant le trafic",
     "b": "Approchez-vous de l'intersection de l'autoroute",
     "c": "Approche de la route secondaire à l’intersection"
   },
-  "167": {
+  "15": {
     "q": "Qui a la priorité entre 2 véhicules venant de directions opposées sur une route étroite et escarpée ?",
     "a": "Le véhicule le plus rapide",
     "b": "Le véhicule monte une côte",
     "c": "Le premier à faire clignoter ses phares"
   },
-  "168": {
+  "16": {
     "q": "Comment entretenir votre câble de frein, d’accélérateur et d’embrayage ?",
     "a": "Imbibez régulièrement le câble avec de l'essence",
     "b": "Lavez régulièrement le câble avec de l'eau et du savon",
     "c": "Trempez régulièrement le câble avec de l'huile moteur"
   },
-  "169": {
+  "17": {
     "q": "Lorsque les automobilistes vous font clignoter leurs phares, cela signifie",
     "a": "Qu'ils vous préviennent de leur présence",
     "b": "Qu'il y a un radar radar devant nous",
     "c": "Qu'ils te cèdent la place"
   },
-  "170": {
+  "18": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Pas de circulation à droite",
     "b": "Pas de virage à droite",
     "c": "Penchez-vous à droite"
   },
-  "171": {
+  "19": {
     "q": "DL est pour le permis de conduire, tandis que VIN est pour",
     "a": "Pilotes non professionnels très importants",
     "b": "Numéro d'identification du véhicule",
     "c": "Numéro d'information du véhicule"
   },
-  "172": {
+  "20": {
     "q": "Vous pouvez dépasser sur une autoroute si elle comporte 2 voies avec",
     "a": "Ligne blanche continue",
     "b": "Ligne jaune continue",
     "c": "Lignes blanches brisées"
   },
-  "173": {
+  "21": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Pas de dépassement",
     "b": "Pas de véhicules à moteur",
     "c": "Clearway (Pas d'arrêt)"
   },
-  "174": {
+  "22": {
     "q": "À une intersection avec un feu de circulation, tournez à gauche uniquement lorsque",
     "a": "Le rouge est allumé ou là où est la flèche rouge",
     "b": "Le voyant vert de la flèche gauche est allumé",
     "c": "Les véhicules allant tout droit sont passés"
   },
-  "175": {
+  "23": {
     "q": "Quand pouvez-vous klaxonner votre véhicule ?",
     "a": "Pour vous donner la priorité",
     "b": "Pour attirer l'attention d'un ami",
     "c": "Pour avertir les autres de votre présence"
   },
-  "176": {
+  "24": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Ne dépassez pas",
     "b": "Former deux voies",
     "c": "Restez sur une seule voie"
   },
-  "177": {
+  "25": {
     "q": "Ce signal avertit le conducteur d'un danger à venir",
     "a": "Lumière rouge clignotante",
     "b": "Lumière verte clignotante",
     "c": "Lumière jaune/ambre clignotante"
   },
-  "178": {
+  "26": {
     "q": "Quel panneau de signalisation signifie céder le passage ?"
   },
-  "179": {
+  "27": {
     "q": "Qu'est-ce qui peut vous faire perdre votre concentration en conduisant ?",
     "a": "Écouter de la musique forte",
     "b": "Utilisation du lavage avec essuyage",
     "c": "Jetant un coup d'œil au rétroviseur latéral"
   },
-  "180": {
+  "28": {
     "q": "Si le conducteur du véhicule qui vous précède tend le bras gauche et vous fait un signe de la main pointant vers la gauche, il",
     "a": "Tourner à droite",
     "b": "Arrêter",
     "c": "Tourner à gauche"
   },
-  "181": {
+  "29": {
     "q": "L'essence super fournit plus de puissance, mais peut entraîner",
     "a": "Embrayage coulissant",
     "b": "Surchauffe",
     "c": "Trop de consommation d'huile"
   },
-  "182": {
+  "30": {
     "q": "A une intersection sans feu de circulation, 2 voitures s'approchent à angle droit. Quel conducteur doit céder ?",
     "a": "Le conducteur du véhicule arrivé en premier sur place",
     "b": "Le conducteur du véhicule arrivé en dernier",
     "c": "Le conducteur du véhicule qui a ralenti le premier"
   },
-  "183": {
+  "31": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Double virage à droite dangereux",
     "b": "Double virage à gauche dangereux",
     "c": "Courbe dangereuse"
   },
-  "184": {
+  "32": {
     "q": "Vous laissez votre véhicule garé sur une route. Quand peut-on laisser tourner le moteur ?",
     "a": "Dans une zone de 40 km/h",
     "b": "Si vous serez garé moins de cinq minutes",
     "c": "Pas en aucune occasion"
   },
-  "185": {
+  "33": {
     "q": "Si vous approchez d'une intersection où il n'y a ni policier de service ni signal, vous devez céder le passage à",
     "a": "Circulation venant de votre droite",
     "b": "Circulation directement en sens inverse",
     "c": "Circulation venant de votre gauche"
   },
-  "186": {
+  "34": {
     "q": "Que signifie un voyant jaune orange clignotant ?",
     "a": "Arrêtez-vous, puis procédez avec prudence",
     "b": "Ralentissez et procédez avec prudence",
     "c": "Passage piéton"
   },
-  "187": {
+  "35": {
     "q": "La voie la plus à droite d'une autoroute à trois voies doit être utilisée pour",
     "a": "Conduite normale",
     "b": "Véhicules lents uniquement",
     "c": "Pannes et urgences uniquement"
   },
-  "188": {
+  "36": {
     "q": "Vous voyez un feu orange devant vous. Quelles lumières s’allumeront ensuite ?",
     "a": "Rouge au milieu",
     "b": "Rouge en haut",
     "c": "Rouge en bas"
   },
-  "189": {
+  "37": {
     "q": "Quand pouvez-vous utiliser votre téléphone portable ?",
     "a": "Quand s'arrêter du côté sûr de la route",
     "b": "Lorsque le véhicule est en mouvement",
     "c": "Au feu rouge"
   },
-  "190": {
+  "38": {
     "q": "Que ne faut-il pas faire lors du passage d'une zone hospitalière ?",
     "a": "Commuter les feux de détresse",
     "b": "Coup de klaxon",
     "c": "Allumer le phare"
   },
-  "191": {
+  "39": {
     "q": "Que devez-vous faire lorsqu’un véhicule venant en sens inverse traverse délibérément la ligne médiane pour dépasser un autre véhicule ?",
     "a": "Allumer les phares",
     "b": "Soyez vigilant et soyez prêt à ralentir ou à vous arrêter si nécessaire",
     "c": "Klaxonner et maintenir la vitesse"
   },
-  "192": {
+  "40": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Virage à droite dangereux",
     "b": "Virage à gauche dangereux",
     "c": "Pas de demi-tour"
   },
-  "193": {
+  "41": {
     "q": "Lequel des énoncés suivants constitue une infraction au non-respect des feux de circulation ?",
     "a": "Stationnement illégal",
     "b": "Battre le feu rouge",
     "c": "Chargement et déchargement"
   },
-  "194": {
+  "42": {
     "q": "Where may you overtake on a one-way street?",
     "a": "Either on the right or left",
     "b": "Only on the left-hand side",
     "c": "Overtaking is not allowed"
   },
-  "195": {
+  "43": {
     "q": "Road rage among motorists arises when",
     "a": "Aucune des parties ne connaît les règles et réglementations de la circulation.",
     "b": "Either of the party starts to provoke the other",
     "c": "Aucun des deux partis ne commence à provoquer l'autre"
   },
-  "196": {
+  "44": {
     "q": "Comment devez-vous donner un signal de bras pour tourner à droite ?"
   },
-  "197": {
+  "45": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Approche de l'intersection",
     "b": "Autoroute à venir",
     "c": "Fusionner le trafic à venir"
   },
-  "198": {
+  "46": {
     "q": "Vous ne savez pas si votre médicament contre la toux aura un effet sur vous. Que devez-vous faire ?",
     "a": "Demandez à votre médecin et vérifiez l'étiquette du médicament",
     "b": "Demandez conseil à un ami ou un parent",
     "c": "Conduis si tu te sens bien"
   },
-  "199": {
+  "47": {
     "q": "Si vous vous garez sur le bord de la route d'un véhicule stationné, alors",
     "a": "Vous êtes censé payer deux fois les frais de stationnement du véhicule garé",
     "b": "Vous êtes obligé de payer trois fois les frais de stationnement",
     "c": "Vous gênez la libre circulation"
   },
-  "200": {
+  "48": {
     "q": "Vous êtes sur une autoroute. Il y a des feux rouges clignotants au-dessus de chaque pays. Vous devez",
     "a": "Arrêtez-vous à l'aire de repos",
     "b": "Quittez la prochaine sortie",
     "c": "Arrêtez-vous et attendez"
   },
-  "201": {
+  "49": {
     "q": "Si vous vous garez en montée dans une rue sans trottoir, tournez les roues vers le",
     "a": "Bord de la rue",
     "b": "Fin de la rue",
     "c": "Centre de la rue"
   },
-  "202": {
+  "50": {
     "q": "Lorsque vous recherchez une place de parking, vous devez considérer",
     "a": "Espace suffisamment grand pour votre véhicule de l'autre côté de la route",
     "b": "Espace approprié pour votre véhicule dans une aire de stationnement désignée",
     "c": "Espace le plus proche de votre destination"
   },
-  "203": {
+  "51": {
     "q": "À une ligne d'arrêt avant un passage pour piétons, un conducteur est toujours censé",
     "a": "Arrêter",
     "b": "Allez",
     "c": "Appuyez sur le frein"
   },
-  "204": {
+  "52": {
     "q": "Dans un rond-point, lequel a la première priorité ?",
     "a": "Les véhicules approchant du rond-point",
     "b": "Les véhicules dans le rond-point",
     "c": "Les véhicules face au feu vert"
   },
-  "205": {
+  "53": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Parcours de descente",
     "b": "Des bosses devant",
     "c": "Parcours en montée"
   },
-  "206": {
+  "54": {
     "q": "Si vous voyez une balle venir de derrière un véhicule stationné dans une rue de la ville, il y a de fortes chances qu'un enfant la suive. Que ferez-vous?",
     "a": "Augmentez votre vitesse",
     "b": "Klaxonnez et maintenez votre vitesse",
     "c": "Ralentissez"
   },
-  "207": {
+  "55": {
     "q": "La façon la plus efficace de gérer un talonneur est de",
     "a": "Augmentez votre vitesse et soyez vigilant sur vos freins",
     "b": "Ralentissez et laissez-le passer",
     "c": "Ignorez-le mais ne lui permettez pas de s'enfuir"
   },
-  "208": {
+  "56": {
     "q": "Est-il vrai que les étudiants conducteurs sont exemptés des infractions au code de la route ?",
     "a": "Faux, les contraventions ne peuvent être délivrées qu'aux conducteurs professionnels",
     "b": "De fausses contraventions pourraient être émises contre un élève-conducteur",
     "c": "Certes, des contraventions seront émises contre les instructeurs"
   },
-  "209": {
+  "57": {
     "q": "Quels panneaux de signalisation signifient des réglementations et des interdictions ?"
   },
-  "210": {
+  "58": {
     "q": "Que faire pour préparer un virage ?",
     "a": "Ne pas changer de voie",
     "b": "Réduire la vitesse",
     "c": "Arrêtez-vous complètement à six mètres du coin"
   },
-  "211": {
+  "59": {
     "q": "Quelle est la couleur du marquage au sol qui sépare une autoroute à plusieurs voies ?",
     "a": "Blanc",
     "b": "Orange",
     "c": "Rouge"
   },
-  "212": {
+  "60": {
     "q": "Vous vous sentez somnolent lorsque vous conduisez. Tu devrais",
     "a": "Fermez les vitres de la voiture pour vous aider à vous concentrer",
     "b": "Allumez la climatisation pour vous garder au frais et à l'aise",
     "c": "Arrêtez-vous et reposez-vous dès que possible et assurez-vous d'avoir une bonne réserve d'air."
   },
-  "213": {
+  "61": {
     "q": "Quelle couleur de drapeau doit-on apposer sur les charges saillantes des véhicules ?",
     "a": "Rouge",
     "b": "Vert",
     "c": "Jaune"
   },
-  "214": {
+  "62": {
     "q": "Sur une autoroute, ce panneau signifie",
     "a": "Quittez la voie express à la sortie",
     "b": "Passez sur la bande d'arrêt d'urgence",
     "c": "Déplacez-vous vers la voie à votre gauche"
   },
-  "215": {
+  "63": {
     "q": "Selon la loi, quel autre facteur que les boissons alcoolisées peut sérieusement affecter votre état de conduite ?",
     "a": "Drogues illégales dangereuses",
     "b": "Écouter de la musique forte",
     "c": "Manger en conduisant"
   },
-  "216": {
+  "64": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Courbe dangereuse à venir",
     "b": "Pas de déviation",
     "c": "Changer de voie"
   },
-  "217": {
+  "65": {
     "q": "Que faire lorsqu'un autre véhicule vous suit de trop près ?",
     "a": "Ralentissez progressivement et donnez-lui le signal de dépasser",
     "b": "Appuyez sur vos freins",
     "c": "Accélérez pour démarrer une course sur route"
   },
-  "218": {
+  "66": {
     "q": "Quelle est la distance de sécurité minimale dans des conditions normales ?",
     "a": "Un minimum de 6 secondes est la distance de suivi recommandée dans la plupart des conditions.",
     "b": "Un minimum de 4 secondes est la distance de suivi recommandée dans la plupart des conditions.",
     "c": "Un minimum de 2 secondes est la distance de suivi recommandée dans la plupart des conditions."
   },
-  "219": {
+  "67": {
     "q": "Vous approchez de ce cycliste. Tu devrais",
     "a": "Faites briller votre phare vers le cycliste",
     "b": "ralentir et permettre au cycliste de tourner",
     "c": "Dépasser le cycliste par la gauche"
   },
-  "220": {
+  "68": {
     "q": "Lorsque vous stationnez en descente, vous devez",
     "a": "Tournez vos roues parallèlement au trottoir",
     "b": "Éloignez vos roues du trottoir",
     "c": "Tournez vos roues vers le trottoir"
   },
-  "221": {
+  "69": {
     "q": "Que faire si plusieurs véhicules vous dépassent sur la gauche ?",
     "a": "Maintenir ou réduire légèrement la vitesse et rester à droite",
     "b": "Réduire la vitesse et changer de voie",
     "c": "Arrêtez-vous et attendez que les véhicules passent"
   },
-  "222": {
+  "70": {
     "q": "Boire n'importe quelle quantité d'alcool est susceptible de",
     "a": "Ralentissez vos réactions face aux dangers, aggravez votre jugement de vitesse et donnez un faux sentiment de confiance",
     "b": "Améliorer votre conscience du danger",
     "c": "Augmentez la vitesse de votre réaction"
   },
-  "223": {
+  "71": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Virage à gauche dangereux",
     "b": "Courbe dangereuse",
     "c": "Courbe à droite dangereuse"
   },
-  "224": {
+  "72": {
     "q": "Quelle doit être la couleur d’un feu stop ?",
     "a": "Vert",
     "b": "Rouge",
     "c": "Jaune"
   },
-  "225": {
+  "73": {
     "q": "Dans quelle zone les dépassements sont-ils interdits ?",
     "a": "Carrefour à double sens",
     "b": "Sur un pont",
     "c": "Zone d'autoroute"
   },
-  "226": {
+  "74": {
     "q": "Une seule ligne jaune continue signifie",
     "a": "La traversée n'est pas autorisée",
     "b": "Les dépassements/dépassements sont autorisés",
     "c": "Les dépassements/dépassements ne sont pas autorisés"
   },
-  "227": {
+  "75": {
     "q": "Le dépassement sur une crête à l'approche d'un pont est interdit, sauf si",
     "a": "Le champ de vision du conducteur est clairement visible à une distance minimale de 100 mètres",
     "b": "Le champ de vision du conducteur est clairement visible à une distance minimale de 75 mètres",
     "c": "Le champ de vision du conducteur est clairement visible à une distance minimale de 150 mètres"
   },
-  "228": {
+  "76": {
     "q": "Quand peut-on emprunter la première voie d’une autoroute à trois voies ?",
     "a": "Lorsque vous conduisez au-dessus de la limite de vitesse",
     "b": "Lors d'un dépassement",
     "c": "Lorsque vous conduisez en dessous de la limite de vitesse et sans aucun autre véhicule à proximité"
   },
-  "229": {
+  "77": {
     "q": "Quel est l'effet du remplacement de l'ampoule des phares installés à l'origine par des ampoules non spécifiées par le constructeur du véhicule ? Par exemple, lumière LED, puissance plus élevée",
     "a": "Distrait les passagers",
     "b": "Meilleure vision surtout la nuit",
     "c": "Distrait les automobilistes venant de la direction opposée et c’est contraire au code de la route"
   },
-  "230": {
+  "78": {
     "q": "Avant de changer de voie sur une autoroute, vous devez idéalement donner un signal pour",
     "a": "Cinq mètres avant de tourner",
     "b": "Cinquante mètres avant de tourner",
     "c": "Trente mètres avant de tourner"
   },
-  "231": {
+  "79": {
     "q": "Où voyez-vous ce panneau de signalisation ?",
     "a": "A une intersection",
     "b": "Avant d'entrer sur l'autoroute",
     "c": "Avant de rouler dans une rue étroite"
   },
-  "232": {
+  "80": {
     "q": "Dans R.A. 8750, quel est le montant de la pénalité pour la première infraction pour avoir permis à un enfant de 6 ans et moins de s'asseoir sur le siège passager avant ?",
     "a": "1 500,00 Php",
     "b": "2 000,00 Php",
     "c": "1 000,00 Php"
   },
-  "233": {
+  "81": {
     "q": "Toute quantité de cette boisson affectera au pire votre capacité de conduire",
     "a": "Eau",
     "b": "Jus d'Ananas",
     "c": "Alcool"
   },
-  "234": {
+  "82": {
     "q": "Lorsque le véhicule que vous conduisez sort de la route ou heurte une borne électrique ou une voiture en stationnement, la raison la plus probable est",
     "a": "Tu as perdu ton frein",
     "b": "Vous roulez trop vite et vous avez perdu le contrôle de votre véhicule",
     "c": "Vous essayez de dépasser"
   },
-  "235": {
+  "83": {
     "q": "Avant de changer de voie dans la circulation, surtout la nuit et lorsqu'il pleut, à part donner un signal et vérifier vos rétroviseurs latéraux et arrière, que devez-vous faire d'autre ?",
     "a": "Clignez vos phares",
     "b": "Sonnez votre klaxon",
     "c": "Tournez légèrement la tête pour vérifier les autres véhicules à côté de vous"
   },
-  "236": {
+  "84": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Pont étroit",
     "b": "Pont cassé",
     "c": "Pont tournant"
   },
-  "237": {
+  "85": {
     "q": "La plupart des décès et des blessures liés au transport scolaire surviennent lorsque",
     "a": "Les enfants sont libérés du service scolaire sur le campus scolaire",
     "b": "Les enfants sont chargés dans le service scolaire au sein du campus scolaire",
     "c": "Des enfants traversent la rue après avoir été libérés du service scolaire"
   },
-  "238": {
+  "86": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Route droite devant",
     "b": "Entrée interdite à tous les types de véhicules",
     "c": "Route à sens unique"
   },
-  "239": {
+  "87": {
     "q": "Qui a le droit de passage prioritaire ?",
     "a": "Gros bus",
     "b": "Camions articulés",
     "c": "Camion de pompiers avec feu clignotant et sirène répondant à une urgence"
   },
-  "240": {
+  "88": {
     "q": "Aux barrières de péage, un feu ou un panneau X rouge signifie que",
     "a": "Vous devez quitter cette voie",
     "b": "Vous pouvez conduire dans cette voie",
     "c": "Vous ne pouvez pas conduire sur cette voie"
   },
-  "241": {
+  "89": {
     "q": "Qu'est-ce qui peut sérieusement affecter votre concentration, à part les boissons alcoolisées ?",
     "a": "Drogues, fatigue et musique forte, panneaux publicitaires, vitres teintées",
     "b": "Feux de circulation, sièges confortables, bon panneau routier",
     "c": "Musique apaisante, rue bien éclairée, marquage au sol"
   },
-  "242": {
+  "90": {
     "q": "Vous voyez un autobus scolaire garé avec ses feux de détresse clignotants de l’autre côté de l’autoroute. Êtes-vous obligé d’arrêter ?",
     "a": "Oui, vous devez vous arrêter jusqu'à ce que les feux de détresse cessent de clignoter et qu'il n'y ait plus d'enfants sur la route.",
     "b": "Oui, vous devez vous arrêter, mais vous pourrez ensuite continuer lorsque vous jugerez que cela est sécuritaire.",
     "c": "Non, mais tu dois ralentir"
   },
-  "243": {
+  "91": {
     "q": "Un feu de signalisation jaune clignotant signifie :",
     "a": "Les véhicules traverseront de l'autre côté",
     "b": "Vous avez la priorité au-dessus d'un feu rouge clignotant",
     "c": "Ralentissez et procédez avec prudence"
   },
-  "244": {
+  "92": {
     "q": "À l’approche d’une intersection, que devez-vous faire si vous constatez que la route au-delà est bloquée par la circulation ?",
     "a": "Restez le plus près possible de la voiture qui vous précède",
     "b": "Avancez lentement jusqu'à l'intersection jusqu'à ce que la circulation continue.",
     "c": "Arrêtez-vous avant l'intersection et attendez que le trafic avance"
   },
-  "245": {
+  "93": {
     "q": "Quelle est la signification de ce panneau de signalisation bleu ?",
     "a": "Circulation bidirectionnelle",
     "b": "Fin de la route à double sens",
     "c": "Donnez la priorité aux véhicules venant vers vous"
   },
-  "246": {
+  "94": {
     "q": "Il s'agit d'un accessoire de sécurité important d'un véhicule lorsque vous quittez votre véhicule",
     "a": "Frein de stationnement",
     "b": "Interrupteur de phare",
     "c": "Corne"
   },
-  "247": {
+  "95": {
     "q": "Pour circuler sur la route, il faut avoir ces documents à portée de main",
     "a": "DL valide et politique d'enregistrement et d'assurance mise à jour",
     "b": "DL et inscription et politique d'assurance",
     "c": "CPC et matrice tarifaire"
   },
-  "248": {
+  "96": {
     "q": "Lorsque vous voyez un feu de circulation passer du jaune, à quelle couleur de feu devez-vous vous attendre ensuite ?",
     "a": "Bleu",
     "b": "Rouge",
     "c": "Ambre"
   },
-  "249": {
+  "97": {
     "q": "Quel panneau signifie entrée interdite ?"
   },
-  "250": {
+  "98": {
     "q": "Quel endroit ne devriez-vous pas dépasser sans une vision claire d’au moins deux cents pieds devant vous ?",
     "a": "Tout ce qui précède",
     "b": "Dans une intersection",
     "c": "Au pied du pont"
   },
-  "251": {
+  "99": {
     "q": "Vous êtes sur la voie d'une autoroute et vous voyez des panneaux indiquant une fermeture devant vous. Tu devrais",
     "a": "Déplacez-vous vers la droite avec précaution",
     "b": "Restez sur votre voie",
     "c": "Attendez de voir quelle voie avance le plus rapidement"
   },
-  "252": {
+  "100": {
     "q": "Lequel des accessoires suivants est obligatoire pour rester en bon état ?",
     "a": "Tout ce qui précède",
     "b": "Phares",
     "c": "Ceintures de sécurité"
   },
-  "253": {
+  "101": {
     "q": "Parmi la liste, qui sont exemptés des limitations de vitesse ?",
     "a": "Chauffeurs des hauts fonctionnaires du gouvernement",
     "b": "Des conducteurs échappent à leur arrestation",
     "c": "Médecins et leurs chauffeurs se rendent à une urgence"
   },
-  "254": {
+  "102": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Route glissante",
     "b": "Route courbe",
     "c": "Route sinueuse"
   },
-  "255": {
+  "103": {
     "q": "Êtes-vous autorisé à tourner à droite au signal rouge ?",
     "a": "Oui, il s'agit d'un virage protégé, vous aurez donc la priorité",
     "b": "Oui, vous pouvez le faire, mais seulement après vous être arrêté et avoir cédé à la circulation.",
     "c": "Oui, vous pouvez le faire, mais seulement si un panneau vous y autorise."
   },
-  "256": {
+  "104": {
     "q": "Lequel de ces éléments, s’il est négligé, pourrait provoquer un accident de la route ?",
     "a": "Niveau d'eau du radiateur",
     "b": "Niveau de liquide de frein",
     "c": "Niveau de fréon de la climatisation"
   },
-  "257": {
+  "105": {
     "q": "Est-il vrai qu’on peut se garer à côté d’une bouche d’incendie à tout moment ?",
     "a": "Faux, seuls les véhicules d'urgence sont autorisés à stationner à côté de la bouche d'incendie",
     "b": "Faux, une bouche d'incendie est une installation d'urgence, personne n'est autorisé à se garer à côté",
     "c": "Faux, une bouche d'incendie est réservée aux ambulances"
   },
-  "258": {
+  "106": {
     "q": "Quelle est l’utilité de ces bandes rugueuses pour chaussées ?",
     "a": "Pour secouer le véhicule et s'assurer de son état de marche",
     "b": "Pour rappeler au conducteur de réduire sa vitesse",
     "c": "Pour garder le conducteur éveillé"
   },
-  "259": {
+  "107": {
     "q": "En vertu de la RA 4136, laquelle des options suivantes constitue la vitesse maximale autorisée sur la route nationale ouverte ?",
     "a": "100 km/h",
     "b": "60 km/h",
     "c": "80 km/h"
   },
-  "260": {
+  "108": {
     "q": "Vous vous êtes garé face au bas d'une colline escarpée. Si vous conduisez en automatique, vous devez laisser votre voiture au parking. Quel matériel utiliser avec un manuel ?",
     "a": "Laisser la voiture en marche arrière",
     "b": "Laisser la voiture en première vitesse",
     "c": "Laisser la voiture au point mort"
   },
-  "261": {
+  "109": {
     "q": "Que faire si vous êtes à une intersection et que vous entendez une sirène derrière vous ?",
     "a": "Arrêtez-vous et ne bougez pas jusqu'au passage du véhicule d'urgence",
     "b": "Reculez et garez-vous sur le côté droit de la route et arrêtez-vous",
     "c": "Continuez jusqu'à l'intersection, puis arrêtez-vous et laissez passer le véhicule d'urgence."
   },
-  "262": {
+  "110": {
     "q": "Lequel des énoncés suivants constitue une infraction au non-respect du marquage sur la chaussée ?",
     "a": "Coup de klaxon",
     "b": "Arrêt et déchargement des passagers sur voie piétonne",
     "c": "Ralentissement brutal au feu vert"
   },
-  "263": {
+  "111": {
     "q": "Que signifie ce signe ?",
     "a": "Éteignez à la prochaine intersection disponible",
     "b": "Céder le passage au véhicule venant en sens inverse",
     "c": "Passez de chaque côté dans la même direction"
   },
-  "264": {
+  "112": {
     "q": "Maintiendriez-vous votre vitesse si un véhicule d'urgence approche par derrière avec une sirène et des feux clignotants, même s'il y a une autre voie ouverte ?",
     "a": "Oui, pour vous éviter des désagréments",
     "b": "Non, tu dois ralentir",
     "c": "En fonction des capacités du conducteur"
   },
-  "265": {
+  "113": {
     "q": "Lequel des éléments suivants améliorera la consommation de carburant ?",
     "a": "Conduire à des vitesses inférieures",
     "b": "Courts trajets avec un moteur froid",
     "c": "Réduire votre vitesse, freiner correctement et planifier à l'avance"
   },
-  "266": {
+  "114": {
     "q": "Dès que vous entrez sur une autoroute, vous devriez normalement",
     "a": "Réajustez vos rétroviseurs",
     "b": "Restez sur la voie de droite",
     "c": "Placez votre véhicule sur la voie centrale"
   },
-  "267": {
+  "115": {
     "q": "Que faire en passant devant une zone scolaire ?",
     "a": "Coup de klaxon",
     "b": "Allumer le phare",
     "c": "Ralentissez"
   },
-  "268": {
+  "116": {
     "q": "Cette image montre",
     "a": "La zone est dangereuse et vous ne devez pas dépasser",
     "b": "La zone est une zone nationale de limitation de vitesse",
     "c": "Les dépassements à gauche ou à droite sont autorisés à condition que la voie soit libre"
   },
-  "269": {
+  "117": {
     "q": "En conduisant, comment devez-vous regarder vos rétroviseurs latéraux et arrière ?",
     "a": "Regarde plus longtemps tes miroirs",
     "b": "Un coup d'oeil rapide",
     "c": "Pas moins d'une fois par minute"
   },
-  "270": {
+  "118": {
     "q": "Quel signe constituera une infraction s’il est ignoré ?",
     "a": "Panneau d'avertissement",
     "b": "Panneau informatif",
     "c": "Panneau réglementaire"
   },
-  "271": {
+  "119": {
     "q": "Un voyant vert clignotant signifie",
     "a": "Procédez avec prudence",
     "b": "Ralentissez et soyez prêt à vous arrêter là où un piéton traverse la rue.",
     "c": "Point final"
   },
-  "272": {
+  "120": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Passage piéton",
     "b": "Point de départ de la traversée",
     "c": "Les feux de circulation signalent devant"
   },
-  "273": {
+  "121": {
     "q": "Un piéton traverse la rue en courant alors que vous êtes sur le point de quitter un feu rouge. Que devez-vous faire ?",
     "a": "Klaxonnez une fois et laissez le piéton traverser.",
     "b": "Attendez que le piéton traverse",
     "c": "Attendez-vous à ce que le piéton revienne"
   },
-  "274": {
+  "122": {
     "q": "Un conducteur sur une autoroute doit céder le passage à",
     "a": "Passage pour piétons à une intersection où la circulation est réglementée par un agent de la circulation",
     "b": "Véhicules sur le point d'entrer sur l'autoroute",
     "c": "Passage pour piétons dans un passage pour piétons"
   },
-  "275": {
+  "123": {
     "q": "Quand faut-il allumer son clignotant ?",
     "a": "Avant de tourner",
     "b": "En tournant",
     "c": "Après avoir tourné"
   },
-  "276": {
+  "124": {
     "q": "Quelle est la peine maximale en cas de conduite sous l’influence d’alcool ou de drogues interdites ?",
     "a": "6 mois de suspension",
     "b": "1 an de suspension",
     "c": "Révocation perpétuelle de licence"
   },
-  "277": {
+  "125": {
     "q": "Si le feu stop du véhicule qui vous précède s'allume, vous devez",
     "a": "Préparez-vous à freiner",
     "b": "Appuyez sur le klaxon",
     "c": "Tourner à droite ou à gauche"
   },
-  "278": {
+  "126": {
     "q": "L’objectif principal de regarder vers l’avenir en conduisant est",
     "a": "Pour vérifier la présence des agents de la circulation",
     "b": "Pour vérifier le trafic à venir et les changements de l'état de la route",
     "c": "Pour vérifier un accident de la route"
   },
-  "279": {
+  "127": {
     "q": "Quelle est la signification de ce feu tricolore ?",
     "a": "Arrêtez si nécessaire",
     "b": "Arrêtez-vous si le feu rouge arrive",
     "c": "Préparez-vous à arrêter"
   },
-  "280": {
+  "128": {
     "q": "Vous prévoyez un long voyage. Avez-vous besoin de prévoir des aires de repos ?",
     "a": "Oui, des arrêts réguliers permettent d'éviter la fatigue mentale et physique",
     "b": "Non, vous arriverez plus rapidement à destination",
     "c": "Non, seuls les arrêts de carburant seront nécessaires"
   },
-  "281": {
+  "129": {
     "q": "Pendant une période de maladie, votre capacité à conduire peut être altérée. Vous devez",
     "a": "Soyez en bonne forme physique et mentale et ne conduisez pas après avoir pris des médicaments",
     "b": "Ne prenez que de plus petites doses de tout médicament à tout moment pour garantir la sécurité",
     "c": "Consultez votre médecin à chaque fois avant de conduire, surtout pour les longs trajets"
   },
-  "282": {
+  "130": {
     "q": "En vertu de la RA106666, également connue sous le nom de loi sur la sécurité des enfants à moto, l'enfant doit saisir la taille du conducteur, pouvoir marcher et reposer ses pieds confortablement sur le repose-pied, et",
     "a": "Il / elle doit mesurer au moins cinq (5) pieds",
     "b": "Il/elle doit porter un casque de protection standard",
     "c": "Il doit avoir l'accord des parents"
   },
-  "283": {
+  "131": {
     "q": "Un feu jaune clignotant signifie ?",
     "a": "Ralentissez et continuez s'il n'y a pas de danger",
     "b": "Arrêtez-vous et attendez que le feu change",
     "c": "Attendez le feu vert"
   },
-  "284": {
+  "132": {
     "q": "Quand faut-il vérifier le niveau d'huile moteur ?",
     "a": "Quand le moteur est froid",
     "b": "Quand le moteur tourne",
     "c": "Quand le moteur est chaud"
   },
-  "285": {
+  "133": {
     "q": "Un marquage jaune sur la chaussée est peint aux intersections où aucun véhicule n'est autorisé à circuler.",
     "a": "Arrêter",
     "b": "Passer",
     "c": "Sonner du klaxon"
   },
-  "286": {
+  "134": {
     "q": "Que doit faire le conducteur s’il se trouve déjà à l’intersection lorsque le feu jaune arrive ?",
     "a": "Ralentissez pour permettre aux autres véhicules de traverser",
     "b": "Le conducteur peut continuer à conduire avec prudence",
     "c": "Arrêtez-vous automatiquement sur la route"
   },
-  "287": {
+  "135": {
     "q": "Pourquoi des bandes antibruit sont-elles installées en travers de la route ?",
     "a": "Pour vous rendre alerte et conscient de votre vitesse",
     "b": "Pour vous aider à choisir la bonne voie",
     "c": "Pour vous aider à maintenir la bonne distance de séparation"
   },
-  "288": {
+  "136": {
     "q": "Lequel est un mandat de LTO ?",
     "a": "Immatriculer les véhicules à moteur en bon état de marche et conformes aux normes d'émissions",
     "b": "Délivrer un certificat d'utilité publique",
     "c": "Délivrer le certificat d’émission et de conformité"
   },
-  "289": {
+  "137": {
     "q": "Lorsqu'un conducteur voit le signal lumineux jaune passer au rouge, un véhicule est déjà dans l'intersection pour tourner à gauche ou à droite.",
     "a": "Continuez à traverser l'intersection même si le feu du signal à gauche/droite est rouge",
     "b": "Arrêtez-vous automatiquement sur la route",
     "c": "Ralentissez pour permettre aux autres véhicules de continuer"
   },
-  "290": {
+  "138": {
     "q": "Les motocyclistes doivent faire preuve de sécurité et de prudence à tout moment. Pour ce faire, ils doivent porter",
     "a": "Une casquette ou des gants de policier",
     "b": "Casques protégés standards",
     "c": "Casques destinés aux travaux de construction"
   },
-  "291": {
+  "139": {
     "q": "Où verriez-vous ce panneau ?",
     "a": "Passage piéton scolaire",
     "b": "Au bord de la route",
     "c": "Sur les aires de jeux"
   },
-  "292": {
+  "140": {
     "q": "Comment éviter le gaspillage de carburant ?",
     "a": "En faisant entretenir et entretenir correctement votre véhicule",
     "b": "En entretenant moins régulièrement vos véhicules",
     "c": "En remplissant la selle et le top case"
   },
-  "293": {
+  "141": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Entrée interdite à tous les types de véhicules",
     "b": "Arrêter",
     "c": "N'entrez pas"
   },
-  "294": {
+  "142": {
     "q": "En cas d'accident de la route entraînant des blessures corporelles, le premier devoir du conducteur impliqué est",
     "a": "Signalez l'incident au commissariat le plus proche",
     "b": "Signaler l'incident à l'hôpital",
     "c": "Secourir la personne blessée et appeler à l'aide"
   },
-  "295": {
+  "143": {
     "q": "Vous entretenez votre propre véhicule. Comment se débarrasser de l’ancienne huile moteur ?",
     "a": "Mettez-le dans votre poubelle",
     "b": "Inclinez-le dans un trou dans le sol",
     "c": "Jetez-le correctement"
   },
-  "296": {
+  "144": {
     "q": "Quelle est la largeur maximale et autorisée du coffre ou de la sacoche ?",
     "a": "18 pouces des deux côtés",
     "b": "16 pouces des deux côtés",
     "c": "14 pouces des deux côtés"
   },
-  "297": {
+  "145": {
     "q": "Lorsque plusieurs conducteurs arrivent à un arrêt à quatre voies, qui a la priorité ?",
     "a": "Le chauffeur arrivé en premier doit être le premier à partir",
     "b": "Le conducteur du plus gros véhicule devrait être le premier à partir",
     "c": "Le dernier conducteur arrivé doit être le premier à partir"
   },
-  "298": {
+  "146": {
     "q": "Quel est le montant de l'amende et de la pénalité imposée pour la première infraction si vous enfreignez la RA1066 sur la sécurité des enfants à bord d'une moto ?",
     "a": "5 000,00 Php",
     "b": "1 500,00 Php",
     "c": "3 000,00 Php"
   },
-  "299": {
+  "147": {
     "q": "Comment l’alcool vous affecte-t-il ?",
     "a": "Cela réduit votre concentration",
     "b": "Cela accélère votre réaction",
     "c": "Cela améliore votre coordination"
   },
-  "300": {
+  "148": {
     "q": "Quelle est la signification d’éteindre le feu rouge ?",
     "a": "Conduire plus vite en voyant un feu jaune/orange",
     "b": "S'arrêter brusquement",
     "c": "S'arrêter au feu vert"
   },
-  "301": {
+  "149": {
     "q": "En vertu du RA10666, lequel des éléments suivants interdit au passager de transporter un enfant ?",
     "a": "Là où la limitation de vitesse à plus de 50 km/h est imposée",
     "b": "Là où la limitation de vitesse à plus de 40 km/h est imposée",
     "c": "Là où la limitation de vitesse à plus de 60 km/h est imposée"
   },
-  "302": {
+  "150": {
     "q": "Que devez-vous faire lorsque vous conduisez sur une autoroute avec de nombreux nids-de-poule ?",
     "a": "Changez toujours de lance",
     "b": "Augmenter la vitesse",
     "c": "Diminuer la vitesse"
   },
-  "303": {
+  "151": {
     "q": "Si vous utilisez une moto dorsale, quelle béquille devez-vous utiliser pour stationner la nuit ?",
     "a": "Béquille latérale",
     "b": "Béquille centrale",
     "c": "Support croisé"
   },
-  "304": {
+  "152": {
     "q": "Devant vous se trouve un véhicule avec un feu jaune clignotant. Cela signifie que c'est",
     "a": "Véhicule en panne",
     "b": "Mouvement lent",
     "c": "La voiture d'un médecin"
   },
-  "305": {
+  "153": {
     "q": "Que faire si la route est mouillée ?",
     "a": "Augmentez votre vitesse",
     "b": "Continuez à faire un écart",
     "c": "Ralentissez"
   },
-  "306": {
+  "154": {
     "q": "Que se passe-t-il après ce feu tricolore ?",
     "a": "Vert",
     "b": "Bleu",
     "c": "Rouge"
   },
-  "307": {
+  "155": {
     "q": "Lequel des feux de circulation vous oblige à vous préparer à un arrêt ?",
     "a": "Rouge",
     "b": "Vert",
     "c": "Jaune/Ambre"
   },
-  "308": {
+  "156": {
     "q": "Un feu bleu, ça veut dire ?",
     "a": "Arrêter",
     "b": "Allez",
     "c": "Aucun, il n'y a pas de feux bleus"
   },
-  "309": {
+  "157": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Pas de voitures",
     "b": "Voitures uniquement",
     "c": "Pas de motos"
   },
-  "310": {
+  "158": {
     "q": "Vous entrez dans une zone de travaux routiers où il y a un panneau temporaire d'interdiction de dépassement. Vous devez",
     "a": "Respectez le panneau uniquement aux heures de pointe",
     "b": "Suivez le panneau comme indiqué",
     "c": "Obéissez uniquement lorsqu'un agent de la circulation est en service"
   },
-  "311": {
+  "159": {
     "q": "Quel est le montant de la pénalité pour les deuxièmes infractions à la loi RA10666 sur la sécurité des enfants sur les motos de 2015 ?",
     "a": "5 000,00 Php",
     "b": "7 000,00 Php",
     "c": "1 000,00 Php"
   },
-  "312": {
+  "160": {
     "q": "Que faire lorsque vous approchez d'un chantier routier avec un panneau temporaire de limitation de vitesse maximale ?",
     "a": "Respecter le panneau lorsque la voie est étroite",
     "b": "Respecter le panneau pendant la journée",
     "c": "Respectez le panneau à tout moment"
   },
-  "313": {
+  "161": {
     "q": "Un panneau d'interdiction de stationnement signifie",
     "a": "Un automobiliste peut effectuer un arrêt temporaire, dans un délai raisonnable, pour charger ou décharger mais ne doit pas gêner les autres véhicules.",
     "b": "Un automobiliste peut se garer à condition qu'il conduise un véhicule privé",
     "c": "Un automobiliste ne peut pas effectuer un arrêt temporaire, sinon il sera appréhendé pour non-respect des panneaux de signalisation."
   },
-  "314": {
+  "162": {
     "q": "Vous approchez d’une intersection avec des feux de signalisation défectueux. Que devez-vous faire ?",
     "a": "Ralentissez et attendez un agent de la circulation",
     "b": "Traitez l'intersection comme s'il y avait des panneaux d'arrêt dans toutes les directions",
     "c": "Augmentez votre vitesse car l'intersection est dégagée"
   },
-  "315": {
+  "163": {
     "q": "Si vous rencontrez sur la route des véhicules d’urgence tels qu’une ambulance, un camion de pompiers et des voitures de police avec des sirènes activées, que devez-vous faire ?",
     "a": "Obstruer leur passage et ne jamais les laisser passer",
     "b": "Ignorez-les puisque vous n'avez rien à faire pour interférer avec leur travail",
     "c": "Cédez le passage en vous garant du côté gauche ou droit de la route selon les circonstances"
   },
-  "316": {
+  "164": {
     "q": "C'est le tour de la voiture et les signaux de freinage ont échoué, le conducteur utilise donc des gestes de la main pour signaler à la place. Quelle est l’intention du conducteur ?",
     "a": "Tourner à gauche",
     "b": "Tourner à droite",
     "c": "Augmenter la vitesse"
   },
-  "317": {
+  "165": {
     "q": "Quelle est l'autorisation accordée par LTO à une personne qui désire apprendre à conduire un véhicule automobile valable pour une durée d'un an ?",
     "a": "Permis d'étudiant-conducteur",
     "b": "Permis de conduire professionnel",
     "c": "Permis de conduire non professionnel"
   },
-  "318": {
+  "166": {
     "q": "Les panneaux ronds, triangle inversé ou octogonaux et avec une bordure de couleur rouge sont appelés",
     "a": "Panneau réglementaire",
     "b": "Panneau d'avertissement",
     "c": "Panneau informatif"
   },
-  "319": {
+  "167": {
     "q": "Vous arrivez à un carrefour. Vous voulez tourner à gauche et vous avez une flèche verte. Pouvez-vous continuer ?",
     "a": "Non, vous ne pouvez pas tourner à gauche à moins d'avoir la flèche verte pointant vers la gauche.",
     "b": "Oui, vous pouvez tourner à gauche, mais vous devrez peut-être céder le passage aux piétons et à la circulation entrante.",
     "c": "Oui, vous pouvez tourner à gauche, car il s'agit d'un virage protégé où aucune autre voiture n'est autorisée à entrer dans l'intersection."
   },
-  "320": {
+  "168": {
     "q": "Que faut-il faire en premier avant de changer de voie ?",
     "a": "Faire le signal",
     "b": "Vérifiez le trafic à venir",
     "c": "Vérifiez les rétroviseurs pour détecter la circulation derrière"
   },
-  "321": {
+  "169": {
     "q": "Quand est-il légal d’utiliser l’accotement d’une route pour dépasser un autre véhicule ?",
     "a": "Lorsque le véhicule qui vous précède tourne à droite",
     "b": "Lorsque le véhicule qui vous précède signale visiblement de tourner à gauche",
     "c": "Dans des circonstances normales, vous n'êtes pas légalement autorisé à dépasser en utilisant l'accotement d'une route."
   },
-  "322": {
+  "170": {
     "q": "Cette action peut vous faire déraper et perdre le contrôle lorsque vous effectuez un mouvement brusque, notamment sur une route mouillée et éventuellement glissante.",
     "a": "Accélération trop lente",
     "b": "Tourner trop lentement",
     "c": "Mauvais freinage"
   },
-  "323": {
+  "171": {
     "q": "Pour contribuer à réduire la pollution de l’air en utilisant vos freins, que devez-vous faire ?",
     "a": "Freinez fréquemment",
     "b": "Freiner brusquement",
     "c": "Freiner correctement"
   },
-  "324": {
+  "172": {
     "q": "Vous ne devez pas utiliser de téléphone portable lorsque vous conduisez une moto car",
     "a": "C'est interdit par la loi et cela détourne votre attention en conduisant",
     "b": "La réception est mauvaise lorsque le moteur tourne",
     "c": "Cela affectera le système électronique de votre véhicule"
   },
-  "325": {
+  "173": {
     "q": "Après avoir tourné à droite depuis une intersection dans une rue à sens unique, quelle voie devez-vous choisir ?",
     "a": "Restez sur la voie la plus à droite",
     "b": "Restez au centre de la route",
     "c": "Restez sur la voie la plus intérieure"
   },
-  "326": {
+  "174": {
     "q": "Une personne handicapée peut posséder un permis de conduire si",
     "a": "Les conditions de roulage sont indiquées sur le DL",
     "b": "C’est expressément écrit sur le permis étudiant",
     "c": "Il est accompagné d'un moniteur diplômé"
   },
-  "327": {
+  "175": {
     "q": "Quelle est la signification de ce panneau de signalisation ?",
     "a": "La limite de vitesse sur cette zone ne doit pas être inférieure à 60 km/h",
     "b": "Cette zone est longue de 60 km",
     "c": "La limite de vitesse sur cette zone est de 60 km/h"
   },
-  "328": {
+  "176": {
     "q": "Le mandat du LTO est d'enregistrer les véhicules à moteur en bon état de marche et conformes aux émissions. Mettre de l'ordre sur les routes et",
     "a": "Observer la propreté sur la route",
     "b": "Pilotes de qualité de permis",
     "c": "Formuler des directives de franchise pour les PUV"
   },
-  "329": {
+  "177": {
     "q": "Quelle est la sanction maximale pour un contrevenant habituel à la RA10666, également connue sous le nom de loi sur la sécurité des enfants à moto ?",
     "a": "Révocation du permis de conduire",
     "b": "Emprisonnement de six ans",
     "c": "Amende de 50 000 Php"
   },
-  "330": {
+  "178": {
     "q": "Que signifie ce signe ?",
     "a": "Aucune entrée",
     "b": "Pas de stationnement",
     "c": "Pas de route de transit"
   },
-  "331": {
+  "179": {
     "q": "Changer de voie à une intersection est",
     "a": "Très sûr",
     "b": "Dangereux",
     "c": "Coffre-fort"
   },
-  "332": {
+  "180": {
     "q": "Le stationnement est autorisé si le véhicule est",
     "a": "Au-delà de 4 mètres d'une bouche d'incendie",
     "b": "À moins de 3 mètres des lignes de courbe d’intersection",
     "c": "Dans une intersection"
   },
-  "333": {
+  "181": {
     "q": "Dans quelles circonstances est-il permis d’utiliser un téléphone portable en conduisant un véhicule à moteur ?",
     "a": "Si le trafic est léger",
     "b": "Si c'est un appel important",
     "c": "Aucune de ces réponses"
   },
-  "334": {
+  "182": {
     "q": "Que devez-vous faire si un agent de la police de la circulation vous ordonne de franchir un feu rouge ou un panneau d'arrêt ?",
     "a": "Tu dois obéir",
     "b": "Vous devez ignorer la police et attendre le feu vert. Ceci est conforme aux règles d’application et à la réglementation de l’autorité de la route.",
     "c": "Vous ne devez pas obéir ou vous serez appréhendé"
   },
-  "335": {
+  "183": {
     "q": "Quelle est la signification de ce feu tricolore ?",
     "a": "Continuez à conduire s’il n’y a aucun obstacle",
     "b": "Arrêtez-vous avant la ligne d'arrêt",
     "c": "Arrêtez-vous selon les instructions du contrôleur de la circulation"
   },
-  "336": {
+  "184": {
     "q": "Il est plus dangereux de tourner à gauche que de tourner à droite car",
     "a": "Il y a plus de vendeurs sur le côté droit de la route",
     "b": "La route a des voies",
     "c": "Les véhicules venant de la direction opposée sont plus rapides"
   },
-  "337": {
+  "185": {
     "q": "Un conducteur ne doit pas stationner ou s'arrêter au bord de la route d'un panneau d'arrêt lorsque celui-ci se trouve à l'intérieur",
     "a": "3 mètres",
     "b": "6 mètres",
     "c": "5 mètres"
   },
-  "338": {
+  "186": {
     "q": "Que signifie ce signe ?",
     "a": "Pas de stationnement du lundi au vendredi",
     "b": "Pas de stationnement à tout moment",
     "c": "Vous pouvez vous garer les jours indiqués"
   },
-  "339": {
+  "187": {
     "q": "Les doubles lignes blanches brisées sur la route signifient",
     "a": "Il est interdit de dépasser par la droite",
     "b": "Il est interdit de dépasser par la gauche",
     "c": "Vous êtes autorisé à dépasser à gauche ou à droite s'il n'y a pas de danger"
   },
-  "340": {
+  "188": {
     "q": "Qui est responsable de ne pas surcharger le véhicule ?",
     "a": "La personne qui a chargé le véhicule",
     "b": "Le propriétaire du véhicule",
     "c": "Le conducteur ou le passager du véhicule"
   },
-  "341": {
+  "189": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Approchez-vous de l'intersection de l'autoroute",
     "b": "Approche de la route secondaire à l’intersection",
     "c": "Approche de l'intersection fusionnant le trafic"
   },
-  "342": {
+  "190": {
     "q": "Quelle est l’action appropriée si vous avez sommeil en conduisant ?",
     "a": "Conduisez plus vite",
     "b": "Allumez la radio très fort",
     "c": "Garez-vous à une aire de repos et reposez-vous"
   },
-  "343": {
+  "191": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Vitesse minimale 30 km/h",
     "b": "Fin de la vitesse minimale",
     "c": "Fin de la vitesse maximale"
   },
-  "344": {
+  "192": {
     "q": "Le permis temporaire de conduite autorise le conducteur appréhendé à conduire un véhicule automobile pour une période n'excédant pas",
     "a": "1 semaine",
     "b": "72 heures",
     "c": "15 jours"
   },
-  "345": {
+  "193": {
     "q": "La rage au volant est une colère violente provoquée par le stress et la frustration liés à la conduite d'un véhicule automobile dans des conditions difficiles, en particulier lorsque le conducteur éprouve des difficultés.",
     "a": "Un trafic intense et des embouteillages",
     "b": "Circulation légère sur une route très fréquentée",
     "c": "Bonheur et bien-être"
   },
-  "346": {
+  "194": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Des bosses devant",
     "b": "Parcours de descente",
     "c": "Parcours en montée"
   },
-  "347": {
+  "195": {
     "q": "Vous pouvez conduire sur un chemin",
     "a": "Pour entrer dans une propriété",
     "b": "Pour dépasser la circulation lente",
     "c": "Si aucun piéton n'est à proximité"
   },
-  "348": {
+  "196": {
     "q": "Que vous oblige la loi à faire à l’approche d’une intersection avec un panneau d’arrêt ?",
     "a": "Cédez le passage si nécessaire aux véhicules approchant de gauche à droite",
     "b": "Ralentissez et continuez lorsque vous pouvez le faire en toute sécurité",
     "c": "Arrêtez-vous et continuez lorsque vous pouvez le faire en toute sécurité"
   },
-  "349": {
+  "197": {
     "q": "Un panneau de signalisation bleu indique 60 km/h. Que devez-vous faire ?",
     "a": "Conduisez à une vitesse maximale de 60 km/h",
     "b": "Conduisez à 60 minutes par kilomètre",
     "c": "Roulez à une vitesse minimale de 60 km/h"
   },
-  "350": {
+  "198": {
     "q": "Que faire lorsque les feux stop du véhicule qui vous précède s'allument ?",
     "a": "Préparez-vous à freiner",
     "b": "Appuyez sur le klaxon",
     "c": "Tourner à droite ou à gauche"
   },
-  "351": {
+  "199": {
     "q": "Où positionner votre véhicule lorsque vous envisagez de tourner à gauche sur une route secondaire ?",
     "a": "Sur la partie la plus à droite de la route",
     "b": "Sur la partie la plus à gauche de la route",
     "c": "Au milieu de la route"
   },
-  "352": {
+  "200": {
     "q": "Qu'entendez-vous par double ligne blanche ?",
     "a": "Pour dépasser un véhicule qui tracte une remorque",
     "b": "Séparer les voies de circulation venant de directions opposées",
     "c": "Pour dépasser, la circulation fait la queue au carrefour"
   },
-  "353": {
+  "201": {
     "q": "Où installer votre sacoche ou votre coffre ?",
     "a": "Plus haut que le set du cavalier",
     "b": "Pas plus de 10 cm plus haut que l’ensemble du cavalier",
     "c": "Pas plus haut que le set du cavalier"
   },
-  "354": {
+  "202": {
     "q": "Le véhicule est garé si",
     "a": "Il ne bouge pas pendant le chargement des passagers",
     "b": "Il est au stand et le moteur est éteint",
     "c": "Il ne bouge pas lors du déchargement des passagers"
   },
-  "355": {
+  "203": {
     "q": "Le signal manuel approprié pour un virage à gauche est",
     "a": "Bras gauche tendu en position horizontale",
     "b": "Bras gauche au niveau du coude, main pointée vers le haut",
     "c": "Main gauche baissée et suspendue en pointant vers le sol"
   },
-  "356": {
+  "204": {
     "q": "Une seule ligne blanche brisée sur une route à deux voies signifie",
     "a": "Absolument aucun dépassement",
     "b": "Les dépassements ou dépassements peuvent être effectués à tout moment",
     "c": "Il sépare le trafic circulant dans des directions opposées"
   },
-  "357": {
+  "205": {
     "q": "Quelle est la signification de ce panneau de signalisation ?",
     "a": "Entrée interdite aux véhicules âgés de 30 ans",
     "b": "Limite de vitesse minimale",
     "c": "Fin de la limitation de vitesse maximale"
   },
-  "358": {
+  "206": {
     "q": "Que faut-il faire en premier avant de changer de voie ?",
     "a": "Klaxonnez puis changez prudemment de voie",
     "b": "Effectuer un changement rapide de voie",
     "c": "Vérifiez le trafic devant vous et faites un signal"
   },
-  "359": {
+  "207": {
     "q": "Un panneau d'arrêt interdit signifie que vous",
     "a": "Impossible de s'arrêter sans recevoir un appel",
     "b": "Peut s'arrêter rapidement si vous chargez ou déchargez des passagers",
     "c": "Ne peut pas s'arrêter sauf indication contraire d'un agent de la circulation"
   },
-  "360": {
+  "208": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Des signaux lumineux inégaux devant",
     "b": "Route glissante",
     "c": "Travaux routiers"
   },
-  "361": {
+  "209": {
     "q": "Ce panneau de signalisation signifie céder le passage",
     "a": "Triangle vertical",
     "b": "Triangle inversé",
     "c": "Triangle horizontal"
   },
-  "362": {
+  "210": {
     "q": "Le choix de la vitesse peut dépendre du",
     "a": "Contrôle technique du véhicule automobile conduit",
     "b": "Tout ce qui précède",
     "c": "Compétences du conducteur"
   },
-  "363": {
+  "211": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Courbe dangereuse",
     "b": "Double virage à gauche dangereux",
     "c": "Double courbe dangereuse à droite"
   },
-  "364": {
+  "212": {
     "q": "Quel est le but principal de l'utilisation du klaxon du véhicule ?",
     "a": "Pour émettre de beaux sons que tous les automobilistes peuvent entendre",
     "b": "Pour créer du bruit et éviter les distractions",
     "c": "Donner un avertissement pour éviter un accident de la route"
   },
-  "365": {
+  "213": {
     "q": "Vous avez été invité à un dîner. Vous savez que vous devrez conduire ensuite. Quelle est votre meilleure ligne de conduite ?",
     "a": "Évitez de mélanger vos boissons alcoolisées",
     "b": "Ne pas boire d'alcool du tout",
     "c": "Mangez un repas chaud avec votre boisson alcoolisée"
   },
-  "366": {
+  "214": {
     "q": "Vous approchez d'un carrefour. Les feux de circulation ne fonctionnent pas. Un agent de la circulation donne ce signal. Tu devrais",
     "a": "Arrêtez-vous au niveau du bras de l’agent",
     "b": "Arrêtez-vous à la ligne",
     "c": "Tourner à gauche seulement"
   },
-  "367": {
+  "215": {
     "q": "En roulant dans une direction à sens unique, vous avez l'intention de tourner à gauche sur une route secondaire. A l'approche, vous devriez",
     "a": "Restez bien à gauche de la route",
     "b": "Écartez-vous largement juste avant de tourner",
     "c": "Reste au milieu de la route"
   },
-  "368": {
+  "216": {
     "q": "Que faire si un passage à niveau n'est pas équipé de dispositifs d'avertissement ?",
     "a": "Augmentez votre vitesse et traversez les voies rapidement mais n'oubliez pas de porter un casque",
     "b": "Ralentissez, vérifiez à gauche et à droite de la voie ferrée, puis procédez avec prudence si elle est dégagée.",
     "c": "Arrêtez-vous à moins de 15 pieds du passage à niveau, sortez du véhicule, traversez la voie ferrée et vérifiez si elle est dégagée."
   },
-  "369": {
+  "217": {
     "q": "Que signifie ce panneau de signalisation ?",
     "a": "Droit dangereux",
     "b": "Courbe raide à gauche",
     "c": "Pas de virage à gauche"
   },
-  "370": {
+  "218": {
     "q": "Un véhicule qui entre sur une route depuis une allée, une ruelle ou un chemin privé",
     "a": "A la priorité à la circulation, surtout du côté gauche de la rue",
     "b": "A la priorité pour la circulation dans toutes les directions",
     "c": "Doit s'arrêter et céder le passage à la circulation sur la chaussée et aux piétons"
   },
-  "371": {
+  "219": {
     "q": "Lorsque vous êtes dépassé par une voiture, que faire ?",
     "a": "Augmentez la vitesse pour éviter d'être dépassé",
     "b": "Restez avec la vitesse actuelle",
     "c": "Appuyer sur le frein et laisser passer le véhicule qui dépasse"
   },
-  "372": {
+  "220": {
     "q": "Que devez-vous faire lorsque vous voyez ce feu tricolore ?",
     "a": "Allez-y s'il n'y a pas d'obstacle de l'autre côté",
     "b": "Attendez le signal rouge",
     "c": "Allez-y"
   },
-  "373": {
+  "221": {
     "q": "Un feu de circulation passe du vert au jaune à l'approche d'une intersection. Que devez-vous faire ?",
     "a": "Arrêtez-vous avant l’intersection ou la ligne d’arrêt",
     "b": "Continuez à votre vitesse actuelle",
     "c": "Arrêtez-vous, même si vous êtes à l'intersection"
   },
-  "374": {
+  "222": {
     "q": "Que devez-vous faire à un feu de circulation jaune clignotant ?",
     "a": "Ce signal vous indique que vous ne pouvez pas tourner à cette intersection, continuez donc tout droit.",
     "b": "Arrêtez-vous, cédez et continuez en toute sécurité",
     "c": "Conduisez prudemment, considérez-le comme un panneau Cédez le passage"
   },
-  "375": {
+  "223": {
     "q": "Considérez-le comme un panneau de passage. Que signifie ce panneau de signalisation ?",
     "a": "La route est large devant nous",
     "b": "Une voie à suivre",
     "c": "Pont étroit devant"
   },
-  "376": {
+  "224": {
     "q": "La consommation d'alcool avant de conduire est l'une des principales causes d'accidents de la route, car lorsqu'un conducteur est ivre, il est",
     "a": "Arrogant, bavard, avec un mauvais jugement et des réflexes pour accomplir les choses en toute sécurité",
     "b": "Calme, détendu et exécutez les choses en conséquence",
     "c": "Capable de parler intelligemment et de manière cohérente et de donner toute apparence de sobriété"
   },
-  "377": {
+  "225": {
     "q": "Vous ne devez pas klaxonner votre véhicule à moins que",
     "a": "Vous souhaitez signaler votre arrivée",
     "b": "Vous souhaitez attirer l'attention d'un agent de la circulation",
     "c": "Un véhicule en mouvement peut vous présenter un danger"
   },
-  "378": {
+  "226": {
     "q": "Quelqu'un attend pour traverser au passage piéton. Ils sont debout sur le trottoir. Vous devriez normalement",
     "a": "Arrête-toi, laisse-les traverser, attends patiemment",
     "b": "Continuez vite avant qu'ils ne franchissent le passage à niveau",
     "c": "Ignorez-les car ils sont toujours sur les trottoirs"
   },
-  "379": {
+  "227": {
     "q": "Quelle est la signification de ce panneau de signalisation ?",
     "a": "La limite de vitesse locale s'applique",
     "b": "Une limitation de vitesse s'applique / Une restriction de vitesse",
     "c": "Pas d'attente"
+  },
+  "228": {
+    "q": "Les trois couleurs du feu sont :",
+    "a": "rouge, vert et jaune",
+    "b": "rouge, vert et bleu",
+    "c": "jaune, vert et bleu"
+  },
+  "229": {
+    "q": "Quelle information donnent les panneaux triangulaires jaunes ?",
+    "a": "avertissement",
+    "b": "hôpital en face",
+    "c": "limitation de vitesse"
+  },
+  "230": {
+    "q": "Lesquels de ces panneaux sont bleus ?",
+    "a": "panneaux de réglementation",
+    "b": "panneaux d'information",
+    "c": "panneaux de danger"
+  },
+  "231": {
+    "q": "Un feu vert fixe signifie",
+    "a": "vous devez céder aux piétons et conducteurs déjà dans le carrefour",
+    "b": "avancez, c'est sûr",
+    "c": "traversez prudemment avant le rouge"
+  },
+  "232": {
+    "q": "Un feu jaune clignotant à un passage signifie",
+    "a": "prudence : ralentissez et avancez avec précaution",
+    "b": "arrêtez-vous jusqu'à la fin du clignotement",
+    "c": "attendez le vert"
+  },
+  "233": {
+    "q": "Une ligne blanche continue au bord droit se rapproche vers la gauche. Cela montre que",
+    "a": "il y a un carrefour devant",
+    "b": "la route va se rétrécir",
+    "c": "vous approchez d'un chantier"
+  },
+  "234": {
+    "q": "Vous êtes en zone d'interdiction de dépasser si le centre est marqué par",
+    "a": "une ligne jaune discontinue",
+    "b": "une ligne blanche discontinue",
+    "c": "deux lignes jaunes continues"
+  },
+  "235": {
+    "q": "Quand des flèches sont peintes au sol, les conducteurs doivent :",
+    "a": "aller dans le sens des flèches",
+    "b": "ralentir et se préparer à céder le passage",
+    "c": "ne pas changer de voie"
+  },
+  "236": {
+    "q": "Vous ne pouvez franchir des lignes jaunes continues que pour :",
+    "a": "changer de voie",
+    "b": "tourner à gauche",
+    "c": "tourner à droite"
+  },
+  "237": {
+    "q": "Les doubles lignes jaunes continues",
+    "a": "ne doivent pas être franchies sauf grande prudence",
+    "b": "ne doivent jamais être franchies",
+    "c": "interdisent le changement de voie"
+  },
+  "238": {
+    "q": "Vous ne pouvez pas franchir une seule ligne discontinue blanche ou jaune",
+    "a": "en tournant à gauche vers une allée",
+    "b": "en dépassant par la droite dans une rue à sens unique",
+    "c": "si cela gênerait la circulation"
+  },
+  "239": {
+    "q": "Vous pouvez franchir une double ligne pour dépasser si la ligne de votre côté est",
+    "a": "blanche continue",
+    "b": "discontinue",
+    "c": "jaune continue"
+  },
+  "240": {
+    "q": "À un feu rouge clignotant, vous devez",
+    "a": "attendre le vert avant de repartir",
+    "b": "ralentir et avancer avec prudence",
+    "c": "vous arrêter complètement et repartir quand c'est sûr"
+  },
+  "241": {
+    "q": "Quel geste doit faire un conducteur pour ralentir et s'arrêter ?",
+    "a": "le gauche plié au coude, main vers le haut",
+    "b": "bras gauche tendu à l'horizontale",
+    "c": "bras gauche vers le bas, main vers le sol"
+  },
+  "242": {
+    "q": "Le geste correct pour tourner à droite est :",
+    "a": "bras gauche plié au coude, main vers le haut",
+    "b": "bras gauche tendu à l'horizontale",
+    "c": "bras gauche vers le bas, main vers le sol"
+  },
+  "243": {
+    "q": "Si le conducteur devant tend le bras gauche tout droit, il va probablement",
+    "a": "tourner à gauche au prochain carrefour",
+    "b": "se ranger et s'arrêter",
+    "c": "tourner à droite au prochain carrefour"
+  },
+  "244": {
+    "q": "À un passage à niveau signalant un train, vous devez",
+    "a": "vous arrêter à au moins 1,5 mètre du rail le plus proche",
+    "b": "ralentir et avancer avec prudence",
+    "c": "vous ranger et vous arrêter"
+  },
+  "245": {
+    "q": "Dans quelles circonstances klaxonner ?",
+    "a": "comme avertissement de sécurité",
+    "b": "dans les zones scolaires",
+    "c": "dans les zones d'hôpital"
+  },
+  "246": {
+    "q": "Que vous impose la voie à un carrefour avec un stop ?",
+    "a": "ralentir et passer quand c'est sûr",
+    "b": "s'arrêter et passer quand c'est sûr",
+    "c": "céder si nécessaire aux véhicules de gauche ou de droite"
+  },
+  "247": {
+    "q": "À un carrefour avec un cédez-le-passage, vous devez",
+    "a": "vous arrêter avant d'entrer",
+    "b": "entrer immédiatement",
+    "c": "ralentir puis entrer quand la voie est libre"
+  },
+  "248": {
+    "q": "Le panneau « Entrée interdite » est",
+    "a": "un panneau de réglementation",
+    "b": "un panneau de guidage",
+    "c": "un panneau d'avertissement"
+  },
+  "249": {
+    "q": "La loi de priorité nous donne",
+    "a": "des droits de base comme conducteurs",
+    "b": "des règles sur quand céder le passage",
+    "c": "des règles pour tourner à droite"
+  },
+  "250": {
+    "q": "Une bonne règle quand vous êtes sûr d'avoir la priorité :",
+    "a": "ne jamais vous y fier",
+    "b": "klaxonner pour alerter les autres",
+    "c": "l'exiger toujours"
+  },
+  "251": {
+    "q": "Sur un rond-point, qui a la priorité ?",
+    "a": "les véhicules qui vont entrer",
+    "b": "les véhicules déjà dans le rond-point",
+    "c": "les véhicules face au feu vert"
+  },
+  "252": {
+    "q": "À un carrefour sans signal, deux voitures arrivent à angle droit. Qui doit céder ?",
+    "a": "celui qui arrive le premier",
+    "b": "celui qui ralentit le premier",
+    "c": "celui qui arrive le dernier"
+  },
+  "253": {
+    "q": "Sans signal, deux voitures arrivent en face en même temps : l'une tourne à gauche, l'autre à droite. Qui cède ?",
+    "a": "celui qui tourne à droite",
+    "b": "celui qui tourne à gauche",
+    "c": "celui qui arrive le premier"
+  },
+  "254": {
+    "q": "Sans signal, deux voitures arrivent de directions opposées. Quel conducteur doit céder ?",
+    "a": "celui qui va tout droit",
+    "b": "celui qui tourne à gauche",
+    "c": "celui qui tourne à droite"
+  },
+  "255": {
+    "q": "Sans stop ni cédez-le-passage, deux voitures arrivent en même temps. Qui a la priorité ?",
+    "a": "la voiture de droite",
+    "b": "la voiture de gauche",
+    "c": "celle qui ralentit la première"
+  },
+  "256": {
+    "q": "Une voiture attend dans le carrefour pour tourner à gauche et le feu passe au rouge. Qui passe en premier ?",
+    "a": "le conducteur bloqué dans le carrefour",
+    "b": "celui qui tourne à droite",
+    "c": "celui qui a le feu vert"
+  },
+  "257": {
+    "q": "Sans stop ni cédez-le-passage, deux voitures arrivent de rues différentes. Qui a la priorité ?",
+    "a": "celle déjà dans le carrefour",
+    "b": "celle de gauche",
+    "c": "celle qui ralentit la première"
+  },
+  "258": {
+    "q": "Le conducteur sur une route doit céder le passage",
+    "a": "à toute voiture sortant d'une allée",
+    "b": "à un piéton",
+    "c": "aux voitures arrivant d'un carrefour par la gauche"
+  },
+  "259": {
+    "q": "Avant de tourner à gauche, cédez aux voitures d'en face",
+    "a": "jusqu'à ce qu'au moins deux soient passées",
+    "b": "assez proches pour être dangereuses",
+    "c": "jusqu'à ce que cinq soient passées"
+  },
+  "260": {
+    "q": "S'il y a des piétons sur un passage scolaire, vous devez",
+    "a": "vous arrêter seulement pour ceux qui viennent de votre droite",
+    "b": "vous arrêter seulement pour les enfants",
+    "c": "vous arrêter et ne pas repartir tant que tous n'ont pas quitté le passage"
+  },
+  "261": {
+    "q": "Un conducteur qui tourne doit-il céder aux piétons ?",
+    "a": "oui, en tournant à droite ou à gauche il doit céder aux piétons",
+    "b": "non, les piétons doivent céder à tous les véhicules",
+    "c": "oui, mais seulement s'il tourne à gauche"
+  },
+  "262": {
+    "q": "Dans une rue à double sens, vous entendez une sirène. Que dit la loi ?",
+    "a": "se ranger à droite et s'arrêter",
+    "b": "accélérer pour dégager",
+    "c": "continuer à grande vitesse"
+  },
+  "263": {
+    "q": "Deux véhicules se croisent en montée et aucun ne peut passer. Qui cède ?",
+    "a": "celui qui fait face à la descente",
+    "b": "celui qui fait face à la montée",
+    "c": "celui qui klaxonne le premier"
+  },
+  "264": {
+    "q": "Avant de changer de voie, signalez, vérifiez le rétroviseur et",
+    "a": "tournez la tête pour voir les véhicules à côté",
+    "b": "klaxonnez",
+    "c": "faites un appel de phares"
+  },
+  "265": {
+    "q": "Ne changez de voie qu'après avoir",
+    "a": "signalé votre intention et vérifié la circulation",
+    "b": "signalé votre intention",
+    "c": "vérifié la circulation"
+  },
+  "266": {
+    "q": "Après un dépassement, vous pouvez revenir si",
+    "a": "le conducteur dépassé klaxonne",
+    "b": "vous voyez dans le rétroviseur la voiture dépassée",
+    "c": "vous la voyez dans le rétroviseur latéral"
+  },
+  "267": {
+    "q": "Vous pouvez dépasser par la droite une voiture dans votre sens",
+    "a": "si la route a clairement deux voies ou plus dans le même sens",
+    "b": "sur une route à une voie en sens inverse",
+    "c": "en quittant la chaussée"
+  },
+  "268": {
+    "q": "Si vous êtes sur la mauvaise voie, que faire pour tourner en entrant dans le carrefour ?",
+    "a": "tourner le plus vite possible",
+    "b": "freiner ou débrayer pendant le virage",
+    "c": "regarder derrière des deux côtés et changer de voie seulement si c'est sûr"
+  },
+  "269": {
+    "q": "Commencez à signaler un virage à droite ou à gauche au moins",
+    "a": "30 mètres avant",
+    "b": "60 mètres avant",
+    "c": "15 mètres avant"
+  },
+  "270": {
+    "q": "Vous commencez normalement un virage à droite depuis",
+    "a": "la voie la plus proche du centre",
+    "b": "la voie la plus proche du trottoir droit",
+    "c": "la même voie que pour tourner à gauche"
+  },
+  "271": {
+    "q": "La voiture derrière veut vous dépasser. Vous devriez",
+    "a": "klaxonner pour la laisser passer",
+    "b": "ralentir un peu et vous déporter à droite",
+    "c": "vous ranger à droite et vous arrêter pour qu'elle passe"
+  },
+  "272": {
+    "q": "La nuit sur route, utilisez les feux de croisement quand",
+    "a": "un autre conducteur baisse ses feux",
+    "b": "vous êtes ébloui par un véhicule en face",
+    "c": "tout ce qui précède"
+  },
+  "273": {
+    "q": "Si les feux stop de plusieurs voitures devant s'allument, vous devez",
+    "a": "lâcher l'accélérateur et vous préparer à freiner",
+    "b": "freiner dès que possible",
+    "c": "accélérer"
+  },
+  "274": {
+    "q": "Laquelle de ces étapes est incorrecte pour tourner à droite ?",
+    "a": "s'arrêter sur le passage piéton",
+    "b": "signaler au moins 30 mètres avant",
+    "c": "surveiller les piétons dans la rue où vous entrez"
+  },
+  "275": {
+    "q": "Il ne faut pas dépasser au pied ou à l'approche d'un pont parce que",
+    "a": "on ne voit pas les véhicules venant de l'autre côté",
+    "b": "des piétons traversent",
+    "c": "on pourrait gêner le flot"
+  },
+  "276": {
+    "q": "La meilleure pratique pour tourner sur route est",
+    "a": "de signaler au moment du virage",
+    "b": "de donner un clignotant et/ou un geste au moins 30 mètres avant",
+    "c": "de ne pas signaler s'il n'y a personne devant ni derrière"
+  },
+  "277": {
+    "q": "Dépasser par l'accotement à droite d'une voiture devant",
+    "a": "est permis si vous tournez à droite",
+    "b": "est permis si la voiture devant tourne à gauche",
+    "c": "est interdit par la loi"
+  },
+  "278": {
+    "q": "Quel endroit n'est pas sûr pour dépasser ?",
+    "a": "à l'approche d'un pont ou dans un virage",
+    "b": "à un carrefour",
+    "c": "les deux"
+  },
+  "279": {
+    "q": "Tourner à gauche est plus dangereux qu'à droite parce que",
+    "a": "les voitures de droite vont plus vite",
+    "b": "il faut surveiller les véhicules des deux côtés",
+    "c": "les rues à quatre voies sont plus larges"
+  },
+  "280": {
+    "q": "Quelle lumière utiliser si un véhicule est garé sur la route la nuit ?",
+    "a": "les phares",
+    "b": "feux de position ou feux de croisement",
+    "c": "les clignotants"
+  },
+  "281": {
+    "q": "Les feux de position peuvent servir",
+    "a": "à tout moment",
+    "b": "en stationnement et par mauvaise visibilité",
+    "c": "en roulant dans des rues bien éclairées"
+  },
+  "282": {
+    "q": "Un véhicule est considéré garé quand",
+    "a": "il est arrêté sur l'accotement et reste immobile un moment",
+    "b": "il s'arrête pour faire descendre ou monter des passagers",
+    "c": "il charge ou décharge un peu et repart sans délai"
+  },
+  "283": {
+    "q": "En stationnant en descente, tournez les roues avant",
+    "a": "vers le trottoir ou le bord de la route",
+    "b": "à l'opposé du trottoir",
+    "c": "dans n'importe quel sens"
+  },
+  "284": {
+    "q": "En stationnant en montée sans trottoir, le mieux est",
+    "a": "de se rapprocher du bord et de tourner les roues avant à l'opposé",
+    "b": "de braquer fortement à gauche",
+    "c": "de braquer fortement à droite"
+  },
+  "285": {
+    "q": "Que faire en se garant en montée le long d'un trottoir ?",
+    "a": "tourner les roues vers le trottoir",
+    "b": "tourner les roues arrière vers le trottoir",
+    "c": "braquer les roues avant fortement à gauche, à l'opposé du trottoir"
+  },
+  "286": {
+    "q": "Avant de quitter une place, vous devez",
+    "a": "vérifier la circulation, signaler et partir quand c'est sûr",
+    "b": "signaler et quitter le trottoir",
+    "c": "klaxonner et partir lentement"
+  },
+  "287": {
+    "q": "Vous ne devez jamais stationner",
+    "a": "sur un passage piéton",
+    "b": "dans une rue à sens unique",
+    "c": "à moins de 5 mètres d'une bouche d'incendie"
+  },
+  "288": {
+    "q": "Si vous voulez rouler plus vite que les autres, utilisez",
+    "a": "la voie extérieure (droite)",
+    "b": "la voie du milieu",
+    "c": "la voie intérieure (gauche)"
+  },
+  "289": {
+    "q": "Pour faire monter ou descendre des passagers, on s'arrête en général",
+    "a": "à droite, près du trottoir",
+    "b": "au milieu de la route",
+    "c": "à un carrefour"
+  },
+  "290": {
+    "q": "Quelle est la vitesse maximale sur l'autoroute ?",
+    "a": "60 km/h",
+    "b": "80 km/h",
+    "c": "100 km/h"
+  },
+  "291": {
+    "q": "Un conducteur peut faire monter et descendre des passagers",
+    "a": "seulement aux arrêts prévus",
+    "b": "dès qu'un passager demande l'arrêt",
+    "c": "avant un carrefour"
+  },
+  "292": {
+    "q": "En laissant la voiture sans surveillance, la loi dit d'arrêter le moteur et",
+    "a": "de serrer efficacement le frein à main",
+    "b": "de passer au point mort",
+    "c": "de fermer les vitres"
+  },
+  "293": {
+    "q": "Selon la règle de base de vitesse, le choix dépend",
+    "a": "de la vitesse du conducteur",
+    "b": "du carburant de la voiture",
+    "c": "de la circulation et de l'état de la route"
+  },
+  "294": {
+    "q": "Si vous voulez rouler plus lentement que les autres, utilisez",
+    "a": "la voie extérieure (droite)",
+    "b": "la voie du milieu",
+    "c": "la voie intérieure (gauche)"
+  },
+  "295": {
+    "q": "La limitation en zone scolaire les jours d'école est",
+    "a": "20 km/h",
+    "b": "25 km/h",
+    "c": "30 km/h"
+  },
+  "296": {
+    "q": "Selon la règle de base, ne roulez jamais plus vite que",
+    "a": "ce qui est sûr",
+    "b": "la limite affichée",
+    "c": "le flot de circulation"
+  },
+  "297": {
+    "q": "Rouler à la vitesse maximale est plus dangereux la nuit parce que",
+    "a": "votre réaction est plus lente la nuit",
+    "b": "la chaussée est plus souvent glissante la nuit",
+    "c": "la nuit on ne voit pas loin"
+  },
+  "298": {
+    "q": "Une vitesse sûre par mauvais temps",
+    "a": "dépend de la route et de la météo",
+    "b": "est la limite affichée",
+    "c": "dépend de l'habileté du conducteur"
+  },
+  "299": {
+    "q": "Conduire la nuit est dangereux parce que",
+    "a": "les lampadaires brouillent la vue",
+    "b": "il y a plus de véhicules la nuit",
+    "c": "on voit moins loin"
+  },
+  "300": {
+    "q": "La nuit, ne roulez pas trop vite pour vous arrêter dans",
+    "a": "ce que vos phares éclairent",
+    "b": "quatre longueurs de voiture",
+    "c": "170 pieds"
+  },
+  "301": {
+    "q": "Les limitations le long de la route doivent être vues comme",
+    "a": "la vitesse recommandée dans les meilleures conditions",
+    "b": "la vitesse recommandée dans les pires conditions",
+    "c": "la vitesse recommandée en toutes conditions"
+  },
+  "302": {
+    "q": "En suivant une voiture, une règle sûre est de laisser au moins",
+    "a": "la place d'une voiture",
+    "b": "15 pieds de distance de freinage",
+    "c": "une longueur de voiture par 10 miles de vitesse"
+  },
+  "303": {
+    "q": "Que faire si vous avez sommeil au volant ?",
+    "a": "vous arrêter et vous reposer",
+    "b": "passer à droite et continuer",
+    "c": "accélérer pour vous éloigner des autres"
+  },
+  "304": {
+    "q": "À l'approche d'un virage serré, vous devez",
+    "a": "ralentir avant d'entrer dans le virage",
+    "b": "accélérer dans le virage",
+    "c": "freiner légèrement dans le virage"
+  },
+  "305": {
+    "q": "Ignorer les feux tard la nuit pourrait",
+    "a": "faire de vous un bon conducteur",
+    "b": "vous impliquer dans un accident mortel",
+    "c": "réduire votre consommation"
+  },
+  "306": {
+    "q": "Une bonne attitude de conducteur est",
+    "a": "de rouler lentement",
+    "b": "de conduire de façon défensive",
+    "c": "de prendre des risques si possible"
+  },
+  "307": {
+    "q": "Les conducteurs recueillent le plus d'informations avec",
+    "a": "leur voiture",
+    "b": "leurs yeux",
+    "c": "leurs mains"
+  },
+  "308": {
+    "q": "Que recommande-t-on le plus contre la fatigue sur un long trajet ?",
+    "a": "s'arrêter régulièrement pour se reposer et bouger",
+    "b": "beaucoup manger et boire un peu d'alcool",
+    "c": "prendre un comprimé pour rester éveillé"
+  },
+  "309": {
+    "q": "Quelle habitude évite le regard fixe et la distraction ?",
+    "a": "regarder le sol",
+    "b": "bouger les yeux régulièrement, près et loin",
+    "c": "la vitesse d'une autre voiture"
+  },
+  "310": {
+    "q": "Que pouvez-vous ajuster pour réduire le risque de collision ?",
+    "a": "votre vitesse et votre position sur la voie",
+    "b": "le rayon d'un virage",
+    "c": "la vitesse d'une autre voiture"
+  },
+  "311": {
+    "q": "Les conducteurs doivent décider",
+    "a": "seulement dans une circulation dense",
+    "b": "seulement jusqu'à devenir expérimentés",
+    "c": "en continu pendant qu'ils conduisent"
+  },
+  "312": {
+    "q": "Avec des cyclistes, vous devez",
+    "a": "être plus attentif à l'état de la route",
+    "b": "ajuster la vitesse et augmenter votre marge",
+    "c": "utiliser une autre recherche visuelle"
+  },
+  "313": {
+    "q": "Vos coups d'œil aux rétroviseurs doivent être",
+    "a": "aussi brefs que possible",
+    "b": "aussi longs que vous voulez",
+    "c": "d'au moins une seconde chacun"
+  },
+  "314": {
+    "q": "La nuit, face à des phares éblouissants, le plus sûr est",
+    "a": "de passer en pleins phares",
+    "b": "de regarder légèrement à droite de la chaussée",
+    "c": "de regarder les phares du véhicule en face"
+  },
+  "315": {
+    "q": "Si au-delà du carrefour la voie est bloquée, vous devez",
+    "a": "coller au plus près la voiture devant",
+    "b": "entrer lentement jusqu'à ce que le trafic avance",
+    "c": "vous arrêter avant le carrefour et attendre que le trafic avance"
+  },
+  "316": {
+    "q": "Jeter bouteilles, canettes ou quoi que ce soit par la fenêtre",
+    "a": "est toujours interdit",
+    "b": "est interdit seulement en province",
+    "c": "est interdit seulement en ville"
+  },
+  "317": {
+    "q": "Le plus efficace face à quelqu'un qui colle derrière est",
+    "a": "de l'ignorer sans le laisser trop se rapprocher",
+    "b": "de ralentir et de le laisser passer",
+    "c": "d'accélérer puis de freiner brutalement"
+  },
+  "318": {
+    "q": "Sur une route à deux voies, le danger est égal des deux côtés. Vous devriez",
+    "a": "vous placer un peu à droite",
+    "b": "vous placer un peu à gauche",
+    "c": "vous centrer entre les dangers"
+  },
+  "319": {
+    "q": "Un piéton sur une route sans trottoir doit rester",
+    "a": "à gauche, face à la circulation",
+    "b": "à droite",
+    "c": "d'un côté ou de l'autre"
+  },
+  "320": {
+    "q": "En cas d'accident, le premier devoir du conducteur impliqué est de",
+    "a": "prendre le blessé et l'emmener à l'hôpital le plus proche",
+    "b": "signaler l'accident à l'hôpital",
+    "c": "signaler l'accident au poste de police le plus proche"
+  },
+  "321": {
+    "q": "S'il y a des blessés, le conducteur indemne doit",
+    "a": "appeler un médecin",
+    "b": "laisser la victime allongée",
+    "c": "essayer de déterminer qui est en faute"
+  },
+  "322": {
+    "q": "Suspendre un permis signifie",
+    "a": "le faire revalider par le LTO",
+    "b": "que le LTO le retire définitivement",
+    "c": "que le LTO le retire temporairement"
+  },
+  "323": {
+    "q": "La principale raison d'exiger le contrôle technique est",
+    "a": "de rapporter de l'argent à l'État",
+    "b": "de laisser l'inspecteur voir votre voiture",
+    "c": "de vérifier que les voitures respectent les normes de sécurité"
+  },
+  "324": {
+    "q": "Un véhicule de transport public ne peut être conduit que par le titulaire",
+    "a": "d'un permis d'élève",
+    "b": "d'un permis non professionnel",
+    "c": "d'un permis professionnel"
+  },
+  "325": {
+    "q": "Avoir un permis de conduire est",
+    "a": "un honneur",
+    "b": "un droit",
+    "c": "un privilège"
+  },
+  "326": {
+    "q": "Pour éviter suspension ou retrait, en combien de jours un conducteur dont le permis est saisi doit-il régler son dossier au LTO ?",
+    "a": "sous 15 jours",
+    "b": "sous 10 jours",
+    "c": "sous 30 jours"
+  },
+  "327": {
+    "q": "Quand pouvez-vous prêter votre permis ?",
+    "a": "en aucune circonstance",
+    "b": "à une personne qui apprend à conduire",
+    "c": "en cas d'urgence"
+  },
+  "328": {
+    "q": "Que devez-vous faire avant de quitter la place de stationnement ?",
+    "a": "partir directement",
+    "b": "klaxonner",
+    "c": "regarder autour d’abord et mettre le clignotant"
+  },
+  "329": {
+    "q": "Le stationnement est interdit",
+    "a": "dans un local commercial",
+    "b": "dans une intersection",
+    "c": "sur une route à sens unique"
+  },
+  "330": {
+    "q": "Chaque fois que vous vous garez, pensez à",
+    "a": "passer au point mort",
+    "b": "couper le moteur et serrer le frein à main",
+    "c": "fermer les vitres"
+  },
+  "331": {
+    "q": "Il est interdit de se garer",
+    "a": "à moins de 2 mètres d’une bouche d’incendie et à moins de 3 mètres de l’intersection",
+    "b": "à moins de 5 mètres d’une bouche d’incendie et à moins de 6 mètres de l’intersection",
+    "c": "à moins de 5 mètres d’une bouche d’incendie et à moins de 5 mètres de l’intersection"
+  },
+  "332": {
+    "q": "Qu’est-ce qui compte comme infraction de stationnement ?",
+    "a": "se garer dans une rue à sens unique",
+    "b": "se garer sans les feux de détresse",
+    "c": "se garer à moins de 5 mètres d’une intersection à feux"
+  },
+  "333": {
+    "q": "Si vous êtes garé au bord de la route la nuit, vous devez",
+    "a": "prévenir les autres avec les feux de détresse ou les feux de stationnement, si le véhicule en a",
+    "b": "rester éveillé et prêt à repartir",
+    "c": "prévenir les autres en allumant les phares"
+  },
+  "334": {
+    "q": "Ne vous arrêtez ni ne vous garez jamais près d’une bouche d’incendie. Vous ne pouvez vous garer qu’à une distance d’au moins",
+    "a": "3 mètres",
+    "b": "4 mètres",
+    "c": "5 mètres"
+  },
+  "335": {
+    "q": "Quand le stationnement en double file est-il permis ?",
+    "a": "jamais",
+    "b": "quand la rue ou la route est assez large",
+    "c": "quand vous n’avez pas d’autre choix"
+  },
+  "336": {
+    "q": "Un conducteur ne doit pas se garer ni s’arrêter près d’un stop ou d’un feu, car cela réduit la visibilité des autres conducteurs, surtout à moins de",
+    "a": "4 mètres",
+    "b": "5 mètres",
+    "c": "6 mètres"
+  },
+  "337": {
+    "q": "Si vous vous garez en montée sans trottoir, tournez les roues vers",
+    "a": "le bord de la rue",
+    "b": "l’autre côté de la rue",
+    "c": "le milieu de la rue"
+  },
+  "338": {
+    "q": "Un conducteur qui se gare ou s’arrête à moins de 6 mètres d’un passage piéton réduit la visibilité des piétons pour les autres conducteurs. Cela",
+    "a": "est permis",
+    "b": "est dangereux",
+    "c": "ne doit pas être fait"
+  },
+  "339": {
+    "q": "Le conducteur doit se garer le long du trottoir, en petite vitesse et avec le frein de stationnement serré, à une distance d’au moins",
+    "a": "40 cm",
+    "b": "35 cm",
+    "c": "30 cm"
+  },
+  "340": {
+    "q": "Le stationnement est une infraction lorsqu’un véhicule",
+    "a": "se gare à l’entrée et à la sortie des hôpitaux et des casernes de pompiers",
+    "b": "se gare à l’entrée et à la sortie d’un établissement industriel",
+    "c": "se gare à l’entrée et à la sortie d’un immeuble d’habitation"
+  },
+  "341": {
+    "q": "À quel endroit ne pouvez-vous pas garer votre véhicule ?",
+    "a": "sur une place de stationnement prévue",
+    "b": "là où les piétons traversent",
+    "c": "là où vous voulez aller"
+  },
+  "342": {
+    "q": "Quand un enfant peut-il être dispensé d’un dispositif de retenue ?",
+    "a": "s’il a un état médical, mental ou psychologique",
+    "b": "s’il ne veut pas être dans le dispositif",
+    "c": "si la famille va au centre commercial"
+  },
+  "343": {
+    "q": "L’immatriculation d’un véhicule peut être suspendue si",
+    "a": "le véhicule est conforme à la réglementation",
+    "b": "le véhicule est jugé d’aspect inacceptable",
+    "c": "le véhicule n’est pas immatriculé au nom du conducteur au moment du contrôle"
+  },
+  "344": {
+    "q": "Quelle est la règle de base dans une intersection ?",
+    "a": "ne pas bloquer l’intersection",
+    "b": "klaxonner si quelqu’un gêne le passage",
+    "c": "accélérer"
+  },
+  "345": {
+    "q": "Quand un conducteur peut-il dépasser sans danger par la droite dans un quartier d’affaires ou résidentiel ?",
+    "a": "si le feu est sur le point de passer au rouge",
+    "b": "si la route a deux voies ou plus dans le même sens",
+    "c": "le dépassement est permis sur une route très fréquentée"
+  },
+  "346": {
+    "q": "Dans quelle direction une lampe auxiliaire installée sur une moto doit-elle être orientée ?",
+    "a": "vers la gauche",
+    "b": "vers la droite",
+    "c": "vers le haut"
+  },
+  "347": {
+    "q": "Où pouvez-vous contester une infraction routière présumée ?",
+    "a": "au bureau d’adjudication routière compétent",
+    "b": "dans la rue, avant que l’agent parte",
+    "c": "dans n’importe quel bureau d’adjudication"
+  },
+  "348": {
+    "q": "Qui a le pouvoir de confisquer un permis lors d’une infraction routière ordinaire ?",
+    "a": "les agents du LTO ou les agents habilités par le LTO",
+    "b": "n’importe qui, tant que l’infraction est prévue par la loi",
+    "c": "n’importe qui, tant que l’agent est un fonctionnaire titulaire"
+  },
+  "349": {
+    "q": "Où devez-vous placer la plaque d’immatriculation ?",
+    "a": "une à l’avant et une à l’arrière du véhicule",
+    "b": "deux à l’avant",
+    "c": "une sur le pare-brise avant et une sur la lunette arrière"
+  },
+  "350": {
+    "q": "Pouvez-vous conduire une moto si votre permis porte le code DL B ?",
+    "a": "oui",
+    "b": "non, sauf autorisation d’un agent",
+    "c": "non"
+  },
+  "351": {
+    "q": "Ce panneau de réglementation signifie",
+    "a": "accès interdit aux véhicules dont la charge par essieu dépasse 2 tonnes",
+    "b": "accès interdit aux véhicules dont la charge par essieu est inférieure à 2 tonnes",
+    "c": "les véhicules dont la charge par essieu dépasse 2 tonnes sont autorisés"
+  },
+  "352": {
+    "q": "Où la plaque d’une moto doit-elle être placée ?",
+    "a": "sur le réservoir",
+    "b": "à l’arrière de la moto",
+    "c": "sur le cache-moteur"
+  },
+  "353": {
+    "q": "Quelle taille dispense un enfant du dispositif de retenue ?",
+    "a": "100 cm et plus",
+    "b": "150 cm et plus",
+    "c": "180 cm et plus"
+  },
+  "354": {
+    "q": "Quelle est la durée maximale du permis si le conducteur n’a pas d’infraction au moment du renouvellement ?",
+    "a": "5 ans",
+    "b": "10 ans",
+    "c": "15 ans"
+  },
+  "355": {
+    "q": "Est-il illégal d’utiliser un téléphone en conduisant ?",
+    "a": "oui, si le conducteur n’a pas déclaré le téléphone au LTO",
+    "b": "oui, si le conducteur utilise un appareil sans fil",
+    "c": "oui, si le conducteur n’utilise pas le téléphone en mode mains libres"
+  },
+  "356": {
+    "q": "À quelle hauteur maximale peut-on fixer le téléphone depuis la base du tableau de bord ?",
+    "a": "2 pouces",
+    "b": "4 pouces",
+    "c": "6 pouces"
+  },
+  "357": {
+    "q": "Un conducteur peut-il utiliser une photocopie du permis en conduisant ?",
+    "a": "non, sauf autorisation de l’agent",
+    "b": "oui, si la copie a exactement la taille et la couleur de l’original",
+    "c": "non"
+  },
+  "358": {
+    "q": "Selon la loi sur la sécurité des enfants à moto, un enfant de moins de 18 ans ne peut pas circuler sur une moto à deux roues sur la voie publique, sauf si",
+    "a": "ses pieds atteignent les repose-pieds d’origine, ses bras entourent la taille du conducteur et il porte un casque de protection réglementaire",
+    "b": "la circulation rapide est très dense ou la limite dépasse 60 km/h",
+    "c": "le conducteur peut tenir la taille de l’enfant assis devant et l’enfant porte un casque réglementaire"
+  },
+  "359": {
+    "q": "Un coffre fixé sur le côté de la moto, pas plus haut que la selle, considéré comme accessoire, est",
+    "a": "un top case",
+    "b": "un top case personnalisé",
+    "c": "une sacoche latérale"
+  },
+  "360": {
+    "q": "À quel âge peut-on demander un permis non professionnel ?",
+    "a": "16 ans",
+    "b": "17 ans",
+    "c": "20 ans"
+  },
+  "361": {
+    "q": "Où vont les sommes perçues au titre de la redevance d’usage des véhicules ?",
+    "a": "à l’amélioration ou à l’entretien des routes",
+    "b": "aux salaires des agents",
+    "c": "à la construction de digues et de barrages"
+  },
+  "362": {
+    "q": "Dans quelle zone le stationnement est-il interdit ?",
+    "a": "sur les aires de repos de la voie rapide",
+    "b": "sur le trottoir",
+    "c": "sur les parkings"
+  },
+  "363": {
+    "q": "Comment surmonter le stress ?",
+    "a": "s’arrêter, descendre, crier sur quiconque pose une question, puis se battre",
+    "b": "respirer profondément, s’asseoir confortablement, écouter une musique calme, laisser assez d’espace devant et prévoir plus de temps",
+    "c": "rouler trop vite, écouter de la musique forte, crier sur les passagers et provoquer les autres conducteurs"
+  },
+  "364": {
+    "q": "Quelle infraction s’applique si le conducteur réussit les trois tests de sobriété sur place ?",
+    "a": "non-respect d’un panneau",
+    "b": "conduite sous influence",
+    "c": "l’infraction initiale qui a motivé le contrôle"
+  },
+  "365": {
+    "q": "Laquelle de ces affirmations est exacte ?",
+    "a": "une autorisation pour boîte manuelle (MT) n’autorise pas la boîte automatique (AT)",
+    "b": "une autorisation seulement pour l’automatique (AT) permet de conduire une manuelle (MT)",
+    "c": "une autorisation pour boîte manuelle (MT) permet de conduire une automatique (AT)"
+  },
+  "366": {
+    "q": "L’immatriculation d’un véhicule peut être suspendue si",
+    "a": "le véhicule est trop léger pour les voies publiques",
+    "b": "le véhicule n’est pas une traction avant",
+    "c": "le véhicule peut endommager excessivement les voies publiques"
+  },
+  "367": {
+    "q": "Que se passe-t-il si le conducteur refuse le contrôle obligatoire en cas de suspicion d’alcool ?",
+    "a": "retrait de l’immatriculation du véhicule",
+    "b": "confiscation du permis, puis retrait automatique",
+    "c": "suspension du permis pendant 2 ans"
+  },
+  "368": {
+    "q": "Votre permis vient d’expirer. Pouvez-vous encore conduire jusqu’au LTO le plus proche pour le renouveler ?",
+    "a": "oui, tant que vous respectez le code",
+    "b": "non",
+    "c": "oui, tant que vous allez directement au bureau le plus proche sans autre arrêt"
+  },
+  "369": {
+    "q": "Selon la loi n° 11229, à partir de quel âge un enfant peut-il s’asseoir à l’avant ?",
+    "a": "plus de 12 ans",
+    "b": "16 ans et plus",
+    "c": "18 ans et plus"
+  },
+  "370": {
+    "q": "Quand un enfant peut-il être dispensé d’un dispositif de retenue ?",
+    "a": "s’il sera en retard à un rendez-vous médical",
+    "b": "s’il va à l’école",
+    "c": "s’il a besoin de soins médicaux immédiats"
+  },
+  "371": {
+    "q": "De quelle couleur doivent être les lampes auxiliaires installées à l’avant ?",
+    "a": "n’importe quelle couleur",
+    "b": "rouge",
+    "c": "blanc ou blanc jaunâtre"
+  },
+  "372": {
+    "q": "Le permis est suspendu 30 jours si",
+    "a": "l’infraction commise est grave",
+    "b": "le conducteur ne paie pas la sanction du contrôle dans les 15 jours",
+    "c": "le conducteur ne paie pas l’amende dans les 72 heures"
+  },
+  "373": {
+    "q": "Peut-on délivrer un permis valable 10 ans si le conducteur a une infraction ?",
+    "a": "non",
+    "b": "oui",
+    "c": "oui, si toutes les sanctions sont payées 15 jours avant le renouvellement"
+  },
+  "374": {
+    "q": "Quand un conducteur doit-il porter un casque à moto ?",
+    "a": "pour les trajets longs et courts",
+    "b": "pour un trajet long ou court, sur tout type de route",
+    "c": "seulement sur une route nationale"
+  },
+  "375": {
+    "q": "Quelle durée de permis peut-on obtenir s’il y a une infraction au moment du renouvellement ?",
+    "a": "10 ans",
+    "b": "5 ans",
+    "c": "3 ans"
+  },
+  "376": {
+    "q": "Quand un éthylotest (ABA) doit-il être utilisé ?",
+    "a": "quand l’agent insiste pour qu’il soit requis",
+    "b": "quand le conducteur échoue à au moins un test de sobriété sur place",
+    "c": "quand le conducteur réussit tous les tests de sobriété sur place"
+  },
+  "377": {
+    "q": "Un coffre fabriqué et fixé derrière la selle, considéré comme accessoire de moto, est",
+    "a": "un top case",
+    "b": "un top case personnalisé",
+    "c": "une sacoche latérale"
+  },
+  "378": {
+    "q": "Quelle est la catégorie initiale du permis pour un nouveau demandeur ?",
+    "a": "permis professionnel (PDL)",
+    "b": "permis non professionnel (NPDL)",
+    "c": "NPDL ou PDL"
+  },
+  "379": {
+    "q": "Peut-on conduire une moto sur la voie publique en attendant le certificat d’immatriculation ?",
+    "a": "non",
+    "b": "oui",
+    "c": "oui, si le concessionnaire délivre une autorisation de circuler"
   }
 }

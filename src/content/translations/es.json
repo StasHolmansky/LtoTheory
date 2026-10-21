@@ -1,2264 +1,2264 @@
 {
   "1": {
-    "q": "Los tres colores del semáforo son:",
-    "a": "rojo, verde y amarillo",
-    "b": "rojo, verde y azul",
-    "c": "amarillo, verde y azul"
-  },
-  "2": {
-    "q": "¿Qué información dan las señales triangulares amarillas?",
-    "a": "advertencia",
-    "b": "hospital enfrente",
-    "c": "límite de velocidad"
-  },
-  "3": {
-    "q": "¿Cuáles de estas señales son azules?",
-    "a": "señales reglamentarias",
-    "b": "señales de información",
-    "c": "señales de peligro"
-  },
-  "4": {
-    "q": "Una luz verde fija significa",
-    "a": "debes ceder a peatones y conductores que ya usan el cruce",
-    "b": "avanza, es seguro hacerlo",
-    "c": "cruza con precaución antes de que cambie a rojo"
-  },
-  "5": {
-    "q": "Una luz amarilla intermitente en un cruce significa",
-    "a": "precaución: reduzca y avance con cuidado",
-    "b": "pare y espere hasta que deje de parpadear",
-    "c": "espere la luz verde"
-  },
-  "6": {
-    "q": "Una línea blanca continua en el borde derecho se inclina hacia tu izquierda. Esto indica que",
-    "a": "hay un empalme de cruce adelante",
-    "b": "la vía se estrechará",
-    "c": "te acercas a una zona de obras"
-  },
-  "7": {
-    "q": "Estás en zona de no adelantar cuando el centro de la vía está marcado por",
-    "a": "una línea amarilla discontinua",
-    "b": "una línea blanca discontinua",
-    "c": "dos líneas amarillas continuas"
-  },
-  "8": {
-    "q": "Cuando hay flechas pintadas en el pavimento, los conductores deben:",
-    "a": "ir en la dirección de las flechas",
-    "b": "reducir y prepararse para ceder el paso",
-    "c": "no cambiar de carril"
-  },
-  "9": {
-    "q": "No puedes cruzar líneas amarillas continuas excepto para:",
-    "a": "cambiar de carril",
-    "b": "girar a la izquierda",
-    "c": "girar a la derecha"
-  },
-  "10": {
-    "q": "Las líneas dobles amarillas continuas",
-    "a": "no deben cruzarse salvo con mucho cuidado",
-    "b": "no deben cruzarse nunca",
-    "c": "no permiten cambiar de carril"
-  },
-  "11": {
-    "q": "No puedes cruzar una sola línea discontinua blanca o amarilla",
-    "a": "al girar a la izquierda hacia una entrada",
-    "b": "al adelantar por la derecha en una calle de un solo sentido",
-    "c": "cuando eso interferiría con el tráfico"
-  },
-  "12": {
-    "q": "Puedes cruzar una doble línea para adelantar si la línea de tu lado es",
-    "a": "blanca continua",
-    "b": "discontinua",
-    "c": "amarilla continua"
-  },
-  "13": {
-    "q": "Al acercarte a una luz roja intermitente debes",
-    "a": "esperar el verde antes de seguir",
-    "b": "reducir y avanzar con precaución",
-    "c": "detenerte por completo y seguir cuando sea seguro"
-  },
-  "14": {
-    "q": "¿Qué señal manual debe dar un conductor para reducir y parar?",
-    "a": "el izquierdo doblado en el codo, mano hacia arriba",
-    "b": "brazo izquierdo extendido en horizontal",
-    "c": "brazo izquierdo hacia abajo y mano hacia el suelo"
-  },
-  "15": {
-    "q": "La señal manual correcta para girar a la derecha es:",
-    "a": "brazo izquierdo doblado en el codo, mano hacia arriba",
-    "b": "brazo izquierdo extendido en horizontal",
-    "c": "brazo izquierdo hacia abajo y mano hacia el suelo"
-  },
-  "16": {
-    "q": "Si el conductor de adelante extiende el brazo izquierdo recto, probablemente va a",
-    "a": "girar a la izquierda en el próximo cruce",
-    "b": "orillarse y detenerse",
-    "c": "girar a la derecha en el próximo cruce"
-  },
-  "17": {
-    "q": "Al acercarte a un paso a nivel con aviso de tren, debes",
-    "a": "parar a no menos de 1,5 metros del riel más cercano",
-    "b": "reducir y seguir con precaución",
-    "c": "orillarte y detenerte"
-  },
-  "18": {
-    "q": "¿En qué circunstancias debes usar la bocina?",
-    "a": "como advertencia de seguridad",
-    "b": "en zonas escolares",
-    "c": "en zonas de hospital"
-  },
-  "19": {
-    "q": "¿Qué exige el carril al acercarte a un cruce con señal de alto?",
-    "a": "reducir y seguir cuando sea seguro",
-    "b": "detenerte y seguir cuando sea seguro",
-    "c": "ceder el paso si hace falta a vehículos de izquierda o derecha"
-  },
-  "20": {
-    "q": "Al acercarte a un cruce con señal de ceda el paso debes",
-    "a": "detenerte antes de entrar",
-    "b": "entrar de inmediato",
-    "c": "reducir y entrar cuando el camino esté libre"
-  },
-  "21": {
-    "q": "La señal «No entrar» es",
-    "a": "una señal reglamentaria",
-    "b": "una señal de orientación",
-    "c": "una señal de advertencia"
-  },
-  "22": {
-    "q": "La ley de prioridad nos da",
-    "a": "derechos básicos como conductores",
-    "b": "reglas sobre cuándo ceder a otros",
-    "c": "reglas para girar a la derecha"
-  },
-  "23": {
-    "q": "Una buena regla cuando estás seguro de tener la prioridad es",
-    "a": "nunca confiar en ella",
-    "b": "tocar la bocina para avisar a otros",
-    "c": "exigirla siempre"
-  },
-  "24": {
-    "q": "En las rotondas, ¿quién tiene prioridad?",
-    "a": "los vehículos que están por entrar",
-    "b": "los vehículos que ya están dentro",
-    "c": "los vehículos frente a la luz verde"
-  },
-  "25": {
-    "q": "En un cruce sin control, dos autos llegan en ángulo recto. ¿Quién debe ceder?",
-    "a": "el que llega primero",
-    "b": "el que reduce primero",
-    "c": "el que llega último"
-  },
-  "26": {
-    "q": "En un cruce sin control, dos autos vienen de frente a la vez: uno gira a la izquierda y el otro a la derecha. ¿Quién cede?",
-    "a": "el que gira a la derecha",
-    "b": "el que gira a la izquierda",
-    "c": "el que llega primero"
-  },
-  "27": {
-    "q": "En un cruce sin control, dos autos vienen de direcciones opuestas. ¿Qué conductor debe ceder?",
-    "a": "el que sigue de frente",
-    "b": "el que gira a la izquierda",
-    "c": "el que gira a la derecha"
-  },
-  "28": {
-    "q": "En un cruce sin alto ni ceda el paso, dos autos llegan a la vez. ¿Quién tiene prioridad?",
-    "a": "el auto de la derecha",
-    "b": "el auto de la izquierda",
-    "c": "el que reduce primero"
-  },
-  "29": {
-    "q": "Un auto espera en el cruce para girar a la izquierda y el semáforo pasa a rojo. ¿Quién va primero?",
-    "a": "el conductor atrapado en el cruce esperando girar a la izquierda",
-    "b": "el que gira a la derecha",
-    "c": "el que tiene luz verde"
-  },
-  "30": {
-    "q": "En un cruce sin alto ni ceda el paso, dos autos llegan por calles distintas. ¿Quién tiene prioridad?",
-    "a": "el que ya está en el cruce",
-    "b": "el de la izquierda",
-    "c": "el que reduce primero"
-  },
-  "31": {
-    "q": "El conductor en una autopista debe ceder el paso a",
-    "a": "cualquier auto que sale de una entrada",
-    "b": "un peatón",
-    "c": "autos que se acercan a un cruce desde la izquierda"
-  },
-  "32": {
-    "q": "Al ir a girar a la izquierda, cede el paso a los que vienen de frente",
-    "a": "hasta que pasen al menos dos autos",
-    "b": "que estén lo bastante cerca para ser peligrosos",
-    "c": "hasta que pasen cinco autos"
-  },
-  "33": {
-    "q": "Si hay peatones en un cruce escolar, debes",
-    "a": "parar y ceder solo a quienes cruzan desde tu derecha",
-    "b": "parar solo por los niños y cederles el paso",
-    "c": "parar y no seguir hasta que todos hayan salido del cruce"
-  },
-  "34": {
-    "q": "¿Debe ceder el paso a los peatones un conductor que gira?",
-    "a": "sí, al girar a la derecha o a la izquierda debe ceder a los peatones",
-    "b": "no, los peatones deben ceder a todos los vehículos",
-    "c": "sí, pero solo si gira a la izquierda"
-  },
-  "35": {
-    "q": "En una calle de doble sentido oyes la sirena de un vehículo de emergencia. ¿Qué exige la ley?",
-    "a": "orillarte a la derecha y detenerte",
-    "b": "acelerar para quitarte del camino",
-    "c": "seguir a alta velocidad"
-  },
-  "36": {
-    "q": "Dos vehículos se encuentran en una subida donde ninguno puede pasar. ¿Quién cede?",
-    "a": "el que mira cuesta abajo",
-    "b": "el que mira cuesta arriba",
-    "c": "el que toca primero la bocina"
-  },
-  "37": {
-    "q": "Antes de cambiar de carril, señaliza, mira el retrovisor y",
-    "a": "gira la cabeza para ver los vehículos a tu lado",
-    "b": "toca la bocina",
-    "c": "haz un destello con las luces"
-  },
-  "38": {
-    "q": "Cambia de carril solo después de",
-    "a": "señalizar tu intención y revisar el tráfico",
-    "b": "señalizar tu intención",
-    "c": "revisar el tráfico"
-  },
-  "39": {
-    "q": "Tras adelantar puedes volver a tu carril si",
-    "a": "el conductor adelantado toca la bocina",
-    "b": "ves en el retrovisor el auto que adelantaste",
-    "c": "ves en el espejo lateral el auto que adelantaste"
-  },
-  "40": {
-    "q": "Puedes adelantar por la derecha a un auto que va en tu dirección",
-    "a": "si la vía está marcada con dos o más carriles en el mismo sentido",
-    "b": "en una vía con un carril en sentido contrario",
-    "c": "saliéndote del pavimento"
-  },
-  "41": {
-    "q": "Si vas en el carril equivocado, ¿qué debes hacer para girar al entrar al cruce?",
-    "a": "girar lo más rápido posible",
-    "b": "frenar o pisar el embrague mientras giras",
-    "c": "mirar atrás a ambos lados y ver si es seguro cambiar de carril"
-  },
-  "42": {
-    "q": "Debes empezar a señalizar un giro a la derecha o a la izquierda al menos",
-    "a": "30 metros antes",
-    "b": "60 metros antes",
-    "c": "15 metros antes"
-  },
-  "43": {
-    "q": "Normalmente empiezas un giro a la derecha desde",
-    "a": "el carril más cercano al centro",
-    "b": "el carril más cercano al bordillo derecho",
-    "c": "el mismo carril que para girar a la izquierda"
-  },
-  "44": {
-    "q": "El auto de atrás quiere adelantarte. Debes",
-    "a": "tocar la bocina para dejarlo pasar",
-    "b": "reducir un poco y orillarte a la derecha",
-    "c": "orillarte a la derecha y parar para que pase"
-  },
-  "45": {
-    "q": "De noche en carretera usa las luces bajas cuando",
-    "a": "otro conductor baja sus luces",
-    "b": "te deslumbran los faros de un vehículo que se acerca",
-    "c": "todo lo anterior"
-  },
-  "46": {
-    "q": "Si se encienden las luces de freno de varios autos adelante, debes",
-    "a": "soltar el acelerador y prepararte para frenar",
-    "b": "frenar lo antes posible",
-    "c": "aumentar la velocidad"
-  },
-  "47": {
-    "q": "¿Cuál de estos pasos no es correcto al girar a la derecha?",
-    "a": "detenerse en el paso de peatones",
-    "b": "señalizar al menos 30 metros antes",
-    "c": "vigilar a los peatones en la calle a la que vas a entrar"
-  },
-  "48": {
-    "q": "No debes adelantar al pie o a la entrada de un puente porque",
-    "a": "no ves los vehículos que vienen del otro lado",
-    "b": "hay peatones cruzando",
-    "c": "podrías obstruir el tráfico"
-  },
-  "49": {
-    "q": "La mejor práctica al girar en carretera es",
-    "a": "señalizar justo al girar",
-    "b": "dar señal eléctrica y/o manual al menos 30 metros antes",
-    "c": "no señalizar si no hay tráfico delante ni detrás"
-  },
-  "50": {
-    "q": "Usar el arcén para pasar por la derecha a un auto adelante",
-    "a": "está permitido si vas a girar a la derecha",
-    "b": "está permitido si el auto de adelante gira a la izquierda",
-    "c": "va contra la ley"
-  },
-  "51": {
-    "q": "¿Cuál no es un lugar seguro para adelantar?",
-    "a": "al acercarte a un puente o en una curva",
-    "b": "en un cruce",
-    "c": "ambas"
-  },
-  "52": {
-    "q": "Un giro a la izquierda es más peligroso que a la derecha porque",
-    "a": "los autos de la derecha van más rápido",
-    "b": "debes estar atento a vehículos de izquierda y derecha",
-    "c": "las calles de cuatro carriles son más anchas"
-  },
-  "53": {
-    "q": "¿Qué luz se usa si un vehículo está estacionado en la carretera de noche?",
-    "a": "los faros",
-    "b": "luces de estacionamiento o luz baja",
-    "c": "las intermitentes"
-  },
-  "54": {
-    "q": "Las luces de estacionamiento pueden usarse",
-    "a": "en cualquier momento",
-    "b": "al estacionar y cuando hay poca visibilidad",
-    "c": "al conducir por calles bien iluminadas"
-  },
-  "55": {
-    "q": "Consideramos un vehículo estacionado cuando",
-    "a": "se detuvo en el arcén y permanece inactivo un tiempo",
-    "b": "se detiene para bajar o recoger pasajeros",
-    "c": "carga o descarga poco y se va sin demora"
-  },
-  "56": {
-    "q": "Al estacionar cuesta abajo, gira las ruedas delanteras",
-    "a": "hacia el bordillo o el borde de la vía",
-    "b": "lejos del bordillo",
-    "c": "en cualquier dirección"
-  },
-  "57": {
-    "q": "Al estacionar cuesta arriba sin bordillo, lo mejor es",
-    "a": "acercarte al borde y girar las ruedas delanteras lejos del bordillo",
-    "b": "girar las ruedas fuerte a la izquierda",
-    "c": "girar las ruedas fuerte a la derecha"
-  },
-  "58": {
-    "q": "¿Qué debes hacer al estacionar cuesta arriba junto a un bordillo?",
-    "a": "girar las ruedas hacia el bordillo",
-    "b": "girar las ruedas traseras hacia el bordillo",
-    "c": "girar las ruedas delanteras fuerte a la izquierda, lejos del bordillo"
-  },
-  "59": {
-    "q": "Antes de salir de un estacionamiento debes",
-    "a": "revisar el tráfico, señalizar y salir cuando sea seguro",
-    "b": "señalizar y salir del bordillo",
-    "c": "tocar la bocina y salir despacio"
-  },
-  "60": {
-    "q": "Nunca puedes estacionar",
-    "a": "en un paso de peatones",
-    "b": "en una calle de un solo sentido",
-    "c": "a menos de 5 metros de un hidrante"
-  },
-  "61": {
-    "q": "Si quieres ir más rápido que los demás, usa",
-    "a": "el carril exterior (derecho)",
-    "b": "el carril central",
-    "c": "el carril interior (izquierdo)"
-  },
-  "62": {
-    "q": "Al subir o bajar pasajeros, normalmente paramos",
-    "a": "en el lado derecho, junto a la acera",
-    "b": "en el medio de la vía",
-    "c": "en un cruce"
-  },
-  "63": {
-    "q": "¿Cuál es el límite máximo de velocidad en la autopista?",
-    "a": "60 km/h",
-    "b": "80 km/h",
-    "c": "100 km/h"
-  },
-  "64": {
-    "q": "Un conductor puede subir y bajar pasajeros",
-    "a": "solo en paradas designadas",
-    "b": "cuando un pasajero pide parar",
-    "c": "antes de un cruce"
-  },
-  "65": {
-    "q": "Al dejar el auto sin vigilancia, la ley dice que apagues el motor y",
-    "a": "pongas bien el freno de mano",
-    "b": "pases a neutral",
-    "c": "cierres las ventanas"
-  },
-  "66": {
-    "q": "Según la ley básica de velocidad, la velocidad se elige según",
-    "a": "la velocidad del conductor",
-    "b": "el combustible del auto",
-    "c": "el tráfico y el estado de la vía"
-  },
-  "67": {
-    "q": "Si quieres ir más lento que los demás, usa",
-    "a": "el carril exterior (derecho)",
-    "b": "el carril central",
-    "c": "el carril interior (izquierdo)"
-  },
-  "68": {
-    "q": "El límite de velocidad en una zona escolar en días de clase es",
-    "a": "20 km/h",
-    "b": "25 km/h",
-    "c": "30 km/h"
-  },
-  "69": {
-    "q": "Según la ley básica de velocidad, nunca conduzcas más rápido que",
-    "a": "lo que sea seguro",
-    "b": "el límite publicado",
-    "c": "el flujo del tráfico"
-  },
-  "70": {
-    "q": "Es más peligroso ir al límite máximo de noche que de día porque",
-    "a": "tu reacción es más lenta de noche",
-    "b": "la vía suele estar más resbaladiza de noche",
-    "c": "de noche no ves lejos"
-  },
-  "71": {
-    "q": "Una velocidad segura en condiciones adversas",
-    "a": "depende de la vía y del clima",
-    "b": "es el límite publicado",
-    "c": "depende de la habilidad del conductor"
-  },
-  "72": {
-    "q": "Conducir de noche es peligroso porque",
-    "a": "las luces de la calle nublan la vista",
-    "b": "hay más vehículos de noche",
-    "c": "se ve a menor distancia"
-  },
-  "73": {
-    "q": "De noche no conduzcas a una velocidad que te impida parar dentro de",
-    "a": "lo que alcanzas a ver con los faros",
-    "b": "cuatro largos de auto",
-    "c": "170 pies"
-  },
-  "74": {
-    "q": "Las señales de límite en la vía deben verse como",
-    "a": "la velocidad recomendada en las mejores condiciones",
-    "b": "la velocidad recomendada en las peores condiciones",
-    "c": "la velocidad recomendada en cualquier condición"
-  },
-  "75": {
-    "q": "Al seguir a otro auto, una regla segura es dejar al menos",
-    "a": "espacio para un auto",
-    "b": "15 pies de distancia de frenado",
-    "c": "un largo de auto por cada 10 millas de velocidad"
-  },
-  "76": {
-    "q": "¿Qué debes hacer si te da sueño al conducir?",
-    "a": "salir de la vía y descansar",
-    "b": "pasarte al carril derecho y seguir",
-    "c": "acelerar para alejarte de otros vehículos"
-  },
-  "77": {
-    "q": "Al acercarte a una curva cerrada debes",
-    "a": "reducir antes de entrar en la curva",
-    "b": "acelerar mientras tomas la curva",
-    "c": "frenar suave mientras tomas la curva"
-  },
-  "78": {
-    "q": "Ignorar los semáforos tarde en la noche podría",
-    "a": "hacerte un buen conductor",
-    "b": "involucrarte en un accidente mortal",
-    "c": "reducir tu consumo de combustible"
-  },
-  "79": {
-    "q": "Una buena actitud de conductor es",
-    "a": "conducir despacio",
-    "b": "conducir a la defensiva",
-    "c": "arriesgarse si es posible"
-  },
-  "80": {
-    "q": "Los conductores recogen la mayor parte de la información con",
-    "a": "el auto",
-    "b": "los ojos",
-    "c": "las manos"
-  },
-  "81": {
-    "q": "¿Qué se recomienda más contra la fatiga en un viaje largo?",
-    "a": "parar de vez en cuando para descansar y moverse",
-    "b": "comer mucho y beber un poco de alcohol",
-    "c": "tomar una pastilla para no dormir"
-  },
-  "82": {
-    "q": "¿Qué hábito evita la mirada fija y las distracciones?",
-    "a": "mirar al suelo",
-    "b": "mover los ojos con regularidad, de cerca y de lejos",
-    "c": "la velocidad de otro auto"
-  },
-  "83": {
-    "q": "¿Qué puedes ajustar para reducir la posibilidad de un choque?",
-    "a": "tu velocidad y tu posición en el carril",
-    "b": "lo cerrado de una curva",
-    "c": "la velocidad de otro auto"
-  },
-  "84": {
-    "q": "Los conductores tienen que decidir",
-    "a": "solo con tráfico denso",
-    "b": "solo hasta que ganan experiencia",
-    "c": "de forma continua mientras conducen"
-  },
-  "85": {
-    "q": "Al interactuar con ciclistas debes",
-    "a": "estar más atento al estado de la vía",
-    "b": "ajustar la velocidad y aumentar el margen de espacio",
-    "c": "usar otra búsqueda visual"
-  },
-  "86": {
-    "q": "Tus miradas a los espejos laterales y al retrovisor deben ser",
-    "a": "lo más breves posible",
-    "b": "tan largas como quieras",
-    "c": "de al menos un segundo cada una"
-  },
-  "87": {
-    "q": "De noche, si otro vehículo te deslumbra, lo más seguro es",
-    "a": "poner las luces altas",
-    "b": "mirar un poco hacia el lado derecho de la vía",
-    "c": "mirar los faros del vehículo que se acerca"
-  },
-  "88": {
-    "q": "Si más allá del cruce la vía está bloqueada, debes",
-    "a": "pegarte lo más posible al auto de adelante",
-    "b": "entrar despacio hasta que el tráfico avance",
-    "c": "parar antes del cruce y esperar a que el tráfico avance"
-  },
-  "89": {
-    "q": "Tirar botellas, latas o cualquier cosa por la ventana",
-    "a": "está prohibido siempre",
-    "b": "está prohibido solo en provincia",
-    "c": "está prohibido solo en las ciudades"
-  },
-  "90": {
-    "q": "La forma más eficaz de lidiar con quien te sigue muy de cerca es",
-    "a": "ignorarlo pero no dejar que se pegue",
-    "b": "reducir y dejarlo pasar",
-    "c": "acelerar y frenar de golpe"
-  },
-  "91": {
-    "q": "En una vía de dos carriles el peligro es igual a ambos lados. Debes",
-    "a": "colocarte un poco a la derecha",
-    "b": "colocarte un poco a la izquierda",
-    "c": "centrarte entre los peligros"
-  },
-  "92": {
-    "q": "Si un peatón camina por una vía sin acera, debe ir",
-    "a": "por el lado izquierdo, de frente al tráfico",
-    "b": "por el lado derecho",
-    "c": "por cualquiera de los dos"
-  },
-  "93": {
-    "q": "En un accidente, el primer deber del conductor implicado es",
-    "a": "recoger al herido y llevarlo al hospital más cercano",
-    "b": "avisar del accidente al hospital",
-    "c": "avisar del accidente a la comisaría más cercana"
-  },
-  "94": {
-    "q": "Si hay heridos en un accidente, el conductor ileso debe",
-    "a": "llamar a un médico",
-    "b": "dejar a la víctima acostada",
-    "c": "intentar determinar quién tuvo la culpa"
-  },
-  "95": {
-    "q": "Suspender una licencia de conducir significa",
-    "a": "revalidarla ante el LTO",
-    "b": "que el LTO la quite para siempre",
-    "c": "que el LTO la retire temporalmente"
-  },
-  "96": {
-    "q": "La razón principal de exigir la inspección del vehículo es",
-    "a": "obtener ingresos para el gobierno",
-    "b": "dar al inspector la chance de ver tu auto",
-    "c": "procurar que los autos cumplan normas de seguridad"
-  },
-  "97": {
-    "q": "Un vehículo de transporte público solo puede conducirlo quien tenga",
-    "a": "un permiso de estudiante",
-    "b": "una licencia no profesional",
-    "c": "una licencia profesional"
-  },
-  "98": {
-    "q": "Tener licencia de conducir es",
-    "a": "un honor",
-    "b": "un derecho",
-    "c": "un privilegio"
-  },
-  "99": {
-    "q": "Para evitar suspensión o revocación, ¿en cuántos días debe resolver su caso ante el LTO quien tiene la licencia aprehendida?",
-    "a": "en 15 días",
-    "b": "en 10 días",
-    "c": "en 30 días"
-  },
-  "100": {
-    "q": "¿Cuándo puedes prestar tu licencia de conducir?",
-    "a": "bajo ninguna circunstancia",
-    "b": "a otra persona que está aprendiendo a conducir",
-    "c": "en emergencias"
-  },
-  "101": {
-    "q": "¿Qué debes hacer antes de salir del lugar de estacionamiento?",
-    "a": "irte sin más",
-    "b": "tocar el claxon",
-    "c": "mirar alrededor primero y usar las luces direccionales"
-  },
-  "102": {
-    "q": "Está prohibido estacionar",
-    "a": "dentro de un local comercial",
-    "b": "dentro de una intersección",
-    "c": "en una vía de un solo sentido"
-  },
-  "103": {
-    "q": "Siempre que estaciones, recuerda",
-    "a": "poner el cambio en neutro",
-    "b": "apagar el motor y poner el freno de mano",
-    "c": "cerrar las ventanillas"
-  },
-  "104": {
-    "q": "Es ilegal estacionar",
-    "a": "a menos de 2 metros de un hidrante y a menos de 3 metros de la intersección",
-    "b": "a menos de 5 metros de un hidrante y a menos de 6 metros de la intersección",
-    "c": "a menos de 5 metros de un hidrante y a menos de 5 metros de la intersección"
-  },
-  "105": {
-    "q": "¿Qué se considera una infracción de estacionamiento?",
-    "a": "estacionar en una calle de un solo sentido",
-    "b": "estacionar sin las luces de emergencia",
-    "c": "estacionar a menos de 5 metros de una intersección con semáforo"
-  },
-  "106": {
-    "q": "Si estás estacionado al lado de la vía de noche, debes",
-    "a": "avisar a los demás encendiendo las luces de emergencia o las de estacionamiento, si el vehículo las tiene",
-    "b": "mantenerte despierto y listo para moverte",
-    "c": "avisar a los demás encendiendo los faros"
-  },
-  "107": {
-    "q": "Nunca estaciones ni te detengas junto a un hidrante. Solo puedes estacionar a una distancia de al menos",
-    "a": "3 metros",
-    "b": "4 metros",
-    "c": "5 metros"
-  },
-  "108": {
-    "q": "¿Cuándo se permite estacionar en doble fila?",
-    "a": "nunca",
-    "b": "cuando la calle o la vía es bastante ancha",
-    "c": "cuando no tienes otra opción"
-  },
-  "109": {
-    "q": "Un conductor no debe estacionar ni detenerse junto a una señal de alto o un semáforo, porque reduce la visibilidad de otros conductores, sobre todo a menos de",
-    "a": "4 metros",
-    "b": "5 metros",
-    "c": "6 metros"
-  },
-  "110": {
-    "q": "Si estacionas cuesta arriba sin bordillo, gira las ruedas hacia",
-    "a": "el borde de la calle",
-    "b": "el otro lado de la calle",
-    "c": "el centro de la calle"
-  },
-  "111": {
-    "q": "Un conductor que estaciona o se detiene a menos de 6 metros de un paso de peatones reduce la visibilidad de los peatones para otros conductores. Esto",
-    "a": "está permitido",
-    "b": "es inseguro",
-    "c": "no debe hacerse"
-  },
-  "112": {
-    "q": "El conductor debe estacionar junto al bordillo, en marcha baja y con el freno de estacionamiento puesto, a una distancia de al menos",
-    "a": "40 cm",
-    "b": "35 cm",
-    "c": "30 cm"
-  },
-  "113": {
-    "q": "El estacionamiento se considera una infracción cuando un vehículo",
-    "a": "se estaciona en la entrada y salida de hospitales y estaciones de bomberos",
-    "b": "se estaciona en la entrada y salida de un establecimiento industrial",
-    "c": "se estaciona en la entrada y salida de un edificio residencial"
-  },
-  "114": {
-    "q": "¿En qué lugar no puedes estacionar tu vehículo?",
-    "a": "en un espacio de estacionamiento asignado",
-    "b": "en un lugar donde cruzan los peatones",
-    "c": "en un lugar al que quieres ir"
-  },
-  "115": {
-    "q": "¿Cuándo puede un niño quedar exento de ir en un sistema de retención infantil?",
-    "a": "si el niño tiene una condición médica, mental o psicológica",
-    "b": "si el niño no quiere ir en el sistema de retención",
-    "c": "si la familia va a un centro comercial"
-  },
-  "116": {
-    "q": "El registro de un vehículo puede suspenderse si",
-    "a": "el vehículo cumple la normativa",
-    "b": "el vehículo se considera antiestético",
-    "c": "el vehículo no está registrado a nombre del conductor en el momento de la detención"
-  },
-  "117": {
-    "q": "¿Cuál es la regla básica dentro de la intersección?",
-    "a": "no bloquear la intersección",
-    "b": "tocar el claxon si alguien obstruye el paso",
-    "c": "acelerar"
-  },
-  "118": {
-    "q": "¿Cuándo puede un conductor adelantar con seguridad por la derecha dentro de una zona comercial o residencial?",
-    "a": "si el semáforo está a punto de ponerse en rojo",
-    "b": "si la vía tiene dos o más carriles en el mismo sentido",
-    "c": "el adelantamiento está permitido en una vía con mucho tráfico"
-  },
-  "119": {
-    "q": "¿Hacia dónde debe apuntar una lámpara auxiliar instalada en una motocicleta?",
-    "a": "hacia la izquierda",
-    "b": "hacia la derecha",
-    "c": "hacia arriba"
-  },
-  "120": {
-    "q": "¿Dónde puedes impugnar una supuesta infracción de tráfico?",
-    "a": "en la oficina de adjudicación de tráfico correspondiente",
-    "b": "en la calle, antes de que el agente se vaya",
-    "c": "en cualquier oficina de adjudicación"
-  },
-  "121": {
-    "q": "¿Quién tiene autoridad para confiscar una licencia durante una infracción de tráfico ordinaria?",
-    "a": "los agentes del LTO o los agentes acreditados por el LTO",
-    "b": "cualquiera, siempre que la infracción esté prevista en la ley",
-    "c": "cualquiera, siempre que el agente sea empleado permanente del gobierno"
-  },
-  "122": {
-    "q": "¿Dónde debes colocar la placa?",
-    "a": "una delante y una detrás del vehículo",
-    "b": "dos delante",
-    "c": "una en el parabrisas delantero y una en el trasero"
-  },
-  "123": {
-    "q": "¿Puedes conducir una motocicleta si tu licencia tiene el código DL B?",
-    "a": "sí",
-    "b": "no, salvo autorización de un agente de tráfico",
-    "c": "no"
-  },
-  "124": {
-    "q": "Esta señal reglamentaria significa",
-    "a": "prohibido el paso a vehículos con carga por eje superior a 2 toneladas",
-    "b": "prohibido el paso a vehículos con carga por eje inferior a 2 toneladas",
-    "c": "se permiten vehículos con carga por eje superior a 2 toneladas"
-  },
-  "125": {
-    "q": "¿Dónde debe colocarse la placa de una motocicleta?",
-    "a": "en el depósito de combustible",
-    "b": "en la parte trasera de la motocicleta",
-    "c": "en la tapa del motor"
-  },
-  "126": {
-    "q": "¿Qué estatura exime a un niño de usar un sistema de retención infantil?",
-    "a": "100 cm o más",
-    "b": "150 cm o más",
-    "c": "180 cm o más"
-  },
-  "127": {
-    "q": "¿Cuál es la vigencia máxima de una licencia si el conductor no tiene infracciones al renovarla?",
-    "a": "5 años",
-    "b": "10 años",
-    "c": "15 años"
-  },
-  "128": {
-    "q": "¿Es ilegal usar un teléfono móvil mientras se conduce?",
-    "a": "sí, si el conductor no registró el teléfono en el LTO",
-    "b": "sí, si el conductor usa un dispositivo inalámbrico",
-    "c": "sí, si el conductor no usa el teléfono en modo manos libres"
-  },
-  "129": {
-    "q": "¿Cuál es la altura máxima para instalar el teléfono desde la base del tablero?",
-    "a": "2 pulgadas",
-    "b": "4 pulgadas",
-    "c": "6 pulgadas"
-  },
-  "130": {
-    "q": "¿Puede un conductor usar una fotocopia de la licencia mientras conduce?",
-    "a": "no, salvo autorización del agente",
-    "b": "sí, si la fotocopia tiene el tamaño y el color exactos del original",
-    "c": "no"
-  },
-  "131": {
-    "q": "Según la ley de seguridad infantil en motocicletas, un menor de 18 años no puede ir en una moto de dos ruedas por vías públicas, salvo que",
-    "a": "llegue con los pies a los reposapiés de serie, pueda abrazar la cintura del conductor y lleve un casco protector de serie",
-    "b": "haya mucha densidad de vehículos rápidos o un límite superior a 60 km/h",
-    "c": "el conductor pueda sujetar la cintura del niño sentado delante y el niño lleve un casco protector de serie"
-  },
-  "132": {
-    "q": "Un compartimento de carga fijado al lado de la motocicleta, no más alto que el asiento, considerado accesorio, es",
-    "a": "un baúl superior",
-    "b": "un baúl superior personalizado",
-    "c": "una alforja"
-  },
-  "133": {
-    "q": "¿A qué edad se puede solicitar una licencia no profesional?",
-    "a": "16 años",
-    "b": "17 años",
-    "c": "20 años"
-  },
-  "134": {
-    "q": "¿A dónde van los pagos recaudados del cargo al usuario de vehículos?",
-    "a": "a mejorar o mantener las carreteras",
-    "b": "a los salarios de los agentes",
-    "c": "a la construcción de diques y presas"
-  },
-  "135": {
-    "q": "¿En qué zona no está permitido estacionar?",
-    "a": "en áreas de descanso de la autopista",
-    "b": "en la acera",
-    "c": "en estacionamientos"
-  },
-  "136": {
-    "q": "¿Cómo puedes superar el estrés?",
-    "a": "parar, bajarte, gritar a quien pregunte y luego pelear",
-    "b": "respirar hondo, sentarte cómodo, escuchar música suave, dejar espacio delante y darte más tiempo de viaje",
-    "c": "conducir más rápido de lo permitido, poner música alta, gritar a los pasajeros y provocar a otros conductores"
-  },
-  "137": {
-    "q": "¿Qué infracción se aplica si el conductor supera las tres pruebas de sobriedad en campo?",
-    "a": "desobedecer una señal de tráfico",
-    "b": "conducir bajo influencia",
-    "c": "la infracción de tráfico inicial"
-  },
-  "138": {
-    "q": "¿Cuál de estas afirmaciones es verdadera?",
-    "a": "quien está autorizado para transmisión manual (MT) no puede conducir un automático (AT)",
-    "b": "quien está autorizado solo para automático (AT) puede conducir un manual (MT)",
-    "c": "quien está autorizado para transmisión manual (MT) puede conducir un automático (AT)"
-  },
-  "139": {
-    "q": "El registro de un vehículo puede suspenderse si",
-    "a": "el vehículo es demasiado ligero para las vías públicas",
-    "b": "el vehículo no es de tracción delantera",
-    "c": "el vehículo puede causar un daño excesivo a las vías públicas"
-  },
-  "140": {
-    "q": "¿Qué ocurre si el conductor se niega a la prueba obligatoria cuando se sospecha que conduce bajo los efectos del alcohol?",
-    "a": "revocación del registro del vehículo",
-    "b": "confiscación de la licencia y su revocación automática",
-    "c": "suspensión de la licencia por 2 años"
-  },
-  "141": {
-    "q": "Tu licencia acaba de vencer. ¿Aún puedes conducir hasta el LTO más cercano para renovarla?",
-    "a": "sí, siempre que respetes las normas",
-    "b": "no",
-    "c": "sí, siempre que vayas directo a la oficina más cercana y no hagas otras paradas"
-  },
-  "142": {
-    "q": "Según la Ley de la República n.º 11229, ¿a qué edad puede un niño sentarse en el asiento delantero?",
-    "a": "más de 12 años",
-    "b": "16 años o más",
-    "c": "18 años o más"
-  },
-  "143": {
-    "q": "¿Cuándo puede un niño quedar exento de ir en un sistema de retención infantil?",
-    "a": "si llegará tarde a una cita médica",
-    "b": "si va a la escuela",
-    "c": "si necesita atención médica inmediata"
-  },
-  "144": {
-    "q": "¿De qué color deben ser las lámparas auxiliares instaladas delante del vehículo?",
-    "a": "cualquier color sirve",
-    "b": "rojo",
-    "c": "blanco o blanco amarillento"
-  },
-  "145": {
-    "q": "Se impone una suspensión de 30 días de la licencia si",
-    "a": "la infracción cometida es grave",
-    "b": "el conductor no paga la sanción de la detención en 15 días",
-    "c": "el conductor no paga la multa en 72 horas"
-  },
-  "146": {
-    "q": "¿Se puede dar una licencia de 10 años si el conductor tiene una infracción?",
-    "a": "no",
-    "b": "sí",
-    "c": "sí, si todas las sanciones se pagan 15 días antes de la renovación"
-  },
-  "147": {
-    "q": "¿Cuándo debe el conductor usar casco en motocicleta?",
-    "a": "en viajes largos y cortos",
-    "b": "en viajes largos o cortos y en cualquier tipo de vía",
-    "c": "solo en una carretera nacional"
-  },
-  "148": {
-    "q": "¿Qué vigencia puede tener la licencia si hay una infracción al renovarla?",
-    "a": "10 años",
-    "b": "5 años",
-    "c": "3 años"
-  },
-  "149": {
-    "q": "¿Cuándo se debe usar un alcoholímetro (ABA)?",
-    "a": "cuando el agente insiste en que es necesario",
-    "b": "cuando el conductor no supera al menos una prueba de sobriedad en campo",
-    "c": "cuando el conductor supera todas las pruebas de sobriedad en campo"
-  },
-  "150": {
-    "q": "Un compartimento fabricado e instalado detrás del asiento de la motocicleta, considerado accesorio, es",
-    "a": "un baúl superior",
-    "b": "un baúl superior personalizado",
-    "c": "una alforja"
-  },
-  "151": {
-    "q": "¿Cuál es la clasificación inicial de la licencia para quien la solicita por primera vez?",
-    "a": "licencia profesional (PDL)",
-    "b": "licencia no profesional (NPDL)",
-    "c": "NPDL o PDL"
-  },
-  "152": {
-    "q": "¿Se puede conducir una motocicleta en vía pública mientras no se ha emitido el certificado de registro?",
-    "a": "no",
-    "b": "sí",
-    "c": "sí, si el concesionario da una autorización de viaje"
-  },
-  "153": {
     "q": "Estás en un cruce controlado por semáforos. ¿Cuándo no deberías proceder en verde?",
     "a": "Cuando tienes la intención de girar a la derecha",
     "b": "Cuando su salida del cruce está bloqueada",
     "c": "Cuando los peatones esperan para cruzar"
   },
-  "154": {
+  "2": {
     "q": "Una persona mayor de 60 años presenta una solicitud para obtener una licencia de conducir. ¿Está esto permitido?",
     "a": "Depende si el solicitante aprobará el examen médico, teórico y práctico.",
     "b": "si",
     "c": "No"
   },
-  "155": {
+  "3": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Para avisar de obras viales próximas",
     "b": "Para advertirte de un puente bajo",
     "c": "Para avisar del final de la autopista"
   },
-  "156": {
+  "4": {
     "q": "Estás conduciendo por una autopista. Puedes parar sólo",
     "a": "En el apartadero para atender o llamar por una emergencia",
     "b": "Para cargar o descargar mercancías o pasajeros.",
     "c": "Para pedir direcciones"
   },
-  "157": {
+  "5": {
     "q": "¿Qué consejo darle a un conductor que ha tomado unas copas alcohólicas en una fiesta?",
     "a": "Bebe una taza de café y luego conduce a casa.",
     "b": "Conduzca a casa con cuidado y despacio.",
     "c": "Descansa y no conduzcas."
   },
-  "158": {
+  "6": {
     "q": "¿Qué debe hacer si ve estas señales mientras conduce?",
     "a": "Detente en la señal",
     "b": "Deténgase y busque puertas de granja abiertas",
     "c": "Lento, hay una curva por delante."
   },
-  "159": {
+  "7": {
     "q": "¿Cuáles son los efectos del alcohol o las drogas?",
     "a": "Menos control, falsa sensación de confianza y mala valoración de la velocidad.",
     "b": "Mayor conciencia del peligro",
     "c": "Reacción más rápida"
   },
-  "160": {
+  "8": {
     "q": "¿Cuál es la infracción si un conductor conduce un vehículo con una luz de freno parpadeante?",
     "a": "Obstrucción",
     "b": "Modificación ilegal",
     "c": "Conducción insegura"
   },
-  "161": {
+  "9": {
     "q": "¿Cuál de las siguientes afirmaciones es cierta sobre los cinturones de seguridad?",
     "a": "Se ha demostrado que los cinturones de seguridad salvan vidas",
     "b": "Sólo los pasajeros de los asientos delanteros deben usar cinturones de seguridad.",
     "c": "Sólo el conductor debe usar el cinturón de seguridad."
   },
-  "162": {
+  "10": {
     "q": "La señal manual adecuada para girar a la derecha es",
     "a": "Brazo izquierdo presionado, mano apuntando al suelo.",
     "b": "Brazo izquierdo mantenido recto horizontalmente.",
     "c": "Brazo izquierdo doblado a la altura del codo, mano apuntando hacia arriba."
   },
-  "163": {
+  "11": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Camino resbaladizo por delante",
     "b": "El camino se estrecha más adelante",
     "c": "El camino se ensancha más adelante"
   },
-  "164": {
+  "12": {
     "q": "Notas que tu vehículo sigue rebotando cuando pisas el freno. ¿Qué quiere decir esto?",
     "a": "Amortiguadores desgastados",
     "b": "El volante no está ubicado en el centro.",
     "c": "neumáticos gastados"
   },
-  "165": {
+  "13": {
     "q": "¿Qué tipo de seguro es obligatorio para los vehículos de motor?",
     "a": "integral",
     "b": "Tercero",
     "c": "Todo lo anterior"
   },
-  "166": {
+  "14": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Acceso a la intersección que incorpora el tráfico",
     "b": "Acercarse a la intersección de la carretera",
     "c": "Acceso a la carretera lateral de la intersección"
   },
-  "167": {
+  "15": {
     "q": "¿Quién tiene el derecho de paso entre dos vehículos que vienen en direcciones opuestas en una carretera estrecha y empinada?",
     "a": "El vehículo más rápido",
     "b": "El vehículo va cuesta arriba",
     "c": "El primero en parpadear"
   },
-  "168": {
+  "16": {
     "q": "¿Cómo se realiza el mantenimiento del cable de freno, acelerador y embrague?",
     "a": "Remojar el cable con gasolina regularmente.",
     "b": "Lave el cable con agua y jabón regularmente",
     "c": "Remoje el cable con aceite de motor regularmente"
   },
-  "169": {
+  "17": {
     "q": "Cuando los automovilistas le señalan con las luces delanteras, significa",
     "a": "Que te están avisando de su presencia",
     "b": "Que hay un radar de velocidad más adelante",
     "c": "Que te están dando paso"
   },
-  "170": {
+  "18": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "No hay tráfico por la derecha.",
     "b": "Sin giro a la derecha",
     "c": "Doblar a la derecha"
   },
-  "171": {
+  "19": {
     "q": "DL es para licencia de conducir, mientras que VIN es para",
     "a": "Controladores no profesionales muy importantes",
     "b": "Número de identificación del vehículo",
     "c": "Número de información del vehículo"
   },
-  "172": {
+  "20": {
     "q": "Puedes adelantar en una autopista si tiene 2 carriles con",
     "a": "Línea blanca continua",
     "b": "Línea amarilla continua",
     "c": "Líneas blancas discontinuas"
   },
-  "173": {
+  "21": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Prohibido adelantar",
     "b": "Sin vehículos de motor",
     "c": "Clearway (sin paradas)"
   },
-  "174": {
+  "22": {
     "q": "En una intersección con un semáforo, gire a la izquierda sólo cuando",
     "a": "El rojo está encendido o donde está la flecha roja",
     "b": "La luz verde de la flecha izquierda está encendida.",
     "c": "Los vehículos que van recto han pasado"
   },
-  "175": {
+  "23": {
     "q": "¿Cuándo puedes hacer sonar la bocina de tu vehículo?",
     "a": "Para darte el derecho de paso",
     "b": "Para atraer la atención de un amigo",
     "c": "Para advertir a otros de tu presencia"
   },
-  "176": {
+  "24": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "no adelantar",
     "b": "Forma dos carriles",
     "c": "Manténgase en un carril"
   },
-  "177": {
+  "25": {
     "q": "Esta señal advierte al conductor del peligro que hay delante.",
     "a": "Luz roja parpadeante",
     "b": "Luz verde parpadeante",
     "c": "Luz amarilla/ámbar parpadeante"
   },
-  "178": {
+  "26": {
     "q": "¿Qué señal de tráfico significa ceder el paso?"
   },
-  "179": {
+  "27": {
     "q": "¿Qué puede hacerte perder la concentración mientras conduces?",
     "a": "Escuchar música alta",
     "b": "Usando el limpiador",
     "c": "Mirando al espejo lateral"
   },
-  "180": {
+  "28": {
     "q": "Si el conductor del vehículo que va delante de usted estira el brazo izquierdo y le hace una señal con la mano señalando hacia la izquierda, lo hará.",
     "a": "Gira a la derecha",
     "b": "Detener",
     "c": "Gira a la izquierda"
   },
-  "181": {
+  "29": {
     "q": "La gasolina premium proporciona más potencia, pero puede resultar en",
     "a": "Embrague deslizante",
     "b": "sobrecalentamiento",
     "c": "Demasiado consumo de aceite"
   },
-  "182": {
+  "30": {
     "q": "En una intersección sin semáforo, 2 autos se acercan formando ángulos rectos entre sí. ¿Qué conductor debe ceder el paso?",
     "a": "El conductor del vehículo que llegó primero",
     "b": "El conductor del vehículo que llegó allí por última vez.",
     "c": "El conductor del vehículo que frenó primero."
   },
-  "183": {
+  "31": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Peligrosa doble curva a la derecha",
     "b": "Peligrosa doble curva a la izquierda",
     "c": "Curva peligrosa"
   },
-  "184": {
+  "32": {
     "q": "Estás dejando tu vehículo estacionado en una carretera. ¿Cuándo se puede dejar el motor en marcha?",
     "a": "Cuando se encuentre en una zona de 40 km/h",
     "b": "Si estará estacionado por menos de cinco minutos",
     "c": "No en ninguna ocasión"
   },
-  "185": {
+  "33": {
     "q": "Si se acerca a una intersección donde no hay policía de servicio ni señales, debe ceder el paso a",
     "a": "Tráfico que viene por tu derecha",
     "b": "Tráfico en dirección opuesta",
     "c": "Tráfico que viene por tu izquierda"
   },
-  "186": {
+  "34": {
     "q": "¿Qué significa una luz ámbar amarilla intermitente?",
     "a": "Deténgase y luego proceda con precaución.",
     "b": "Reduce la velocidad y procede con precaución.",
     "c": "Paso de peatones"
   },
-  "187": {
+  "35": {
     "q": "El carril más a la derecha de una autopista de tres carriles debe usarse para",
     "a": "Conducción normal",
     "b": "Sólo vehículos lentos",
     "c": "Sólo averías y emergencias."
   },
-  "188": {
+  "36": {
     "q": "Verá un semáforo en ámbar más adelante. ¿Qué luces se encenderán a continuación?",
     "a": "rojo en el medio",
     "b": "rojo en la cima",
     "c": "rojo en la parte inferior"
   },
-  "189": {
+  "37": {
     "q": "¿Cuándo puedes utilizar tu teléfono móvil?",
     "a": "Al detenerse en el lado seguro de la carretera",
     "b": "Cuando el vehículo está en movimiento",
     "c": "En el semáforo en rojo"
   },
-  "190": {
+  "38": {
     "q": "¿Qué no debes hacer al pasar por una zona hospitalaria?",
     "a": "Cambiar luz de advertencia de peligro",
     "b": "soplar la bocina",
     "c": "Encender los faros"
   },
-  "191": {
+  "39": {
     "q": "¿Qué debe hacer cuando un vehículo que viene en sentido contrario cruza deliberadamente la línea central para rebasar a otro vehículo?",
     "a": "Enciende los faros",
     "b": "Esté alerta y prepárese para reducir la velocidad o detenerse si es necesario.",
     "c": "Toca la bocina y mantén la velocidad."
   },
-  "192": {
+  "40": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Curva a la derecha peligrosa",
     "b": "Curva a la izquierda peligrosa",
     "c": "Sin cambio de sentido"
   },
-  "193": {
+  "41": {
     "q": "¿Cuál de las siguientes es una infracción por ignorar las señales de tráfico?",
     "a": "Estacionamiento ilegal",
     "b": "Superando la luz roja",
     "c": "Carga y descarga"
   },
-  "194": {
+  "42": {
     "q": "¿Dónde se puede adelantar en una calle de sentido único?",
     "a": "Ya sea de derecha o de izquierda",
     "b": "Sólo en el lado izquierdo",
     "c": "No se permite adelantar"
   },
-  "195": {
+  "43": {
     "q": "La furia al volante entre los automovilistas surge cuando",
     "a": "Ninguno de los dos conoce las normas y reglamentos de tráfico.",
     "b": "Cualquiera de las partes comienza a provocar al otro.",
     "c": "Ninguno de los dos comienza a provocar al otro."
   },
-  "196": {
+  "44": {
     "q": "¿Cómo se debe dar una señal con el brazo para girar a la derecha?"
   },
-  "197": {
+  "45": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Aproximación a la intersección",
     "b": "Carretera adelante",
     "c": "Incorporándose al tráfico más adelante"
   },
-  "198": {
+  "46": {
     "q": "No está seguro de si su medicamento para la tos le afectará. ¿Qué deberías hacer?",
     "a": "Consulta con tu médico y revisa la etiqueta del medicamento.",
     "b": "Pídele consejo a un amigo o familiar",
     "c": "Conduce si te sientes bien"
   },
-  "199": {
+  "47": {
     "q": "Si estaciona al lado de la carretera de un vehículo estacionado, entonces",
     "a": "Se supone que debes pagar el doble de la tarifa de estacionamiento del vehículo estacionado.",
     "b": "Estás obligado a pagar tres veces la tarifa del estacionamiento.",
     "c": "Estás obstruyendo el libre flujo de tráfico."
   },
-  "200": {
+  "48": {
     "q": "Estás en una autopista. Hay luces rojas intermitentes arriba en todos los países. debes",
     "a": "Pasa al área de descanso",
     "b": "Deja la siguiente salida",
     "c": "Detente y espera"
   },
-  "201": {
+  "49": {
     "q": "Si está estacionando cuesta arriba en una calle sin acera, gire las ruedas hacia la",
     "a": "Borde de la calle",
     "b": "final de la calle",
     "c": "centro de la calle"
   },
-  "202": {
+  "50": {
     "q": "A la hora de buscar una plaza de aparcamiento hay que tener en cuenta",
     "a": "Espacio lo suficientemente grande para su vehículo al otro lado de la carretera.",
     "b": "Espacio apropiado para su vehículo en un área de estacionamiento designada",
     "c": "Espacio más cercano a tu destino"
   },
-  "203": {
+  "51": {
     "q": "En una línea de alto antes de un cruce de peatones, siempre se espera que el conductor",
     "a": "Detener",
     "b": "ir",
     "c": "Pisa el freno"
   },
-  "204": {
+  "52": {
     "q": "En una rotonda, ¿cuál tiene la primera prioridad?",
     "a": "Los vehículos que se acercan a la rotonda",
     "b": "Los vehículos dentro de la rotonda.",
     "c": "Los vehículos que se enfrentan a la luz verde."
   },
-  "205": {
+  "53": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Curso de descenso",
     "b": "Jorobas por delante",
     "c": "Curso cuesta arriba"
   },
-  "206": {
+  "54": {
     "q": "Si ve una pelota que viene detrás de un vehículo estacionado en una calle de la ciudad, es probable que un niño la esté siguiendo. ¿Qué vas a hacer?",
     "a": "Aumenta tu velocidad",
     "b": "Toca la bocina y mantén tu velocidad.",
     "c": "Más despacio"
   },
-  "207": {
+  "55": {
     "q": "La manera más eficaz de lidiar con alguien que sigue muy de cerca es",
     "a": "Aumenta tu velocidad y mantente atento a tus frenos",
     "b": "Baja la velocidad y déjalo pasar.",
     "c": "Ignóralo pero no permitas que se escape."
   },
-  "208": {
+  "56": {
     "q": "¿Es cierto que los estudiantes conductores están exentos de infracciones de tránsito?",
     "a": "Falsas multas por infracción solo se pueden emitir a conductores profesionales",
     "b": "Falsas multas por infracción pueden emitirse contra el estudiante-conductor",
     "c": "Es cierto que se emitirán multas por infracciones a los instructores."
   },
-  "209": {
+  "57": {
     "q": "¿Qué señales de tráfico indican regulaciones y prohibiciones?"
   },
-  "210": {
+  "58": {
     "q": "¿Qué debes hacer cuando te preparas para un turno?",
     "a": "No cambiar de carril",
     "b": "Reducir la velocidad",
     "c": "Deténgase completamente a seis metros de la esquina."
   },
-  "211": {
+  "59": {
     "q": "¿Cuál es el color de la marca en el pavimento que separa una carretera de varios carriles?",
     "a": "blanco",
     "b": "naranja",
     "c": "rojo"
   },
-  "212": {
+  "60": {
     "q": "Se siente somnoliento al conducir. Debería",
     "a": "Cierra las ventanillas del coche para ayudarte a concentrarte.",
     "b": "Enciende el aire acondicionado para mantenerte fresco y cómodo.",
     "c": "Deténgase y descanse lo antes posible y asegúrese de tener un buen suministro de aire."
   },
-  "213": {
+  "61": {
     "q": "¿Qué color de bandera se debe colocar en las cargas salientes de los vehículos?",
     "a": "rojo",
     "b": "Verde",
     "c": "amarillo"
   },
-  "214": {
+  "62": {
     "q": "En una autopista, esta señal significa",
     "a": "Deja la vía rápida en la salida.",
     "b": "Pasar al arcén",
     "c": "Muévete al carril de tu izquierda."
   },
-  "215": {
+  "63": {
     "q": "Según la ley, ¿qué otro factor puede afectar seriamente su condición de conducción además de las bebidas alcohólicas?",
     "a": "Drogas ilegales peligrosas",
     "b": "Escuchar música alta",
     "c": "Comer mientras conduce"
   },
-  "216": {
+  "64": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Curva peligrosa por delante",
     "b": "Sin desviarse",
     "c": "Cambiar de carril"
   },
-  "217": {
+  "65": {
     "q": "¿Qué debe hacer cuando otro vehículo lo sigue demasiado cerca?",
     "a": "Reduce la velocidad gradualmente y dale la señal para adelantar.",
     "b": "Aprieta los frenos",
     "c": "Acelera para comenzar una carrera en ruta"
   },
-  "218": {
+  "66": {
     "q": "¿Cuál es la distancia mínima de seguridad en condiciones normales?",
     "a": "Un mínimo de 6 segundos es la distancia de seguimiento recomendada en la mayoría de las condiciones.",
     "b": "Un mínimo de 4 segundos es la distancia de seguimiento recomendada en la mayoría de las condiciones.",
     "c": "Un mínimo de 2 segundos es la distancia de seguimiento recomendada en la mayoría de las condiciones."
   },
-  "219": {
+  "67": {
     "q": "Te estás acercando a este ciclista. deberías",
     "a": "Enciende tu faro hacia el ciclista.",
     "b": "Reduzca la velocidad y permita que el ciclista gire.",
     "c": "Adelantar al ciclista por la izquierda."
   },
-  "220": {
+  "68": {
     "q": "Al estacionar cuesta abajo, debe",
     "a": "Gire las ruedas paralelas a la acera.",
     "b": "Aleja las ruedas de la acera",
     "c": "Gira las ruedas hacia la acera"
   },
-  "221": {
+  "69": {
     "q": "¿Qué debes hacer si te adelantan varios vehículos por la izquierda?",
     "a": "Mantenga o reduzca ligeramente la velocidad y manténgase a la derecha.",
     "b": "Reducir la velocidad y cambiar de carril.",
     "c": "Detente y espera a que pasen los vehículos."
   },
-  "222": {
+  "70": {
     "q": "Es probable que beber cualquier cantidad de alcohol",
     "a": "Ralentiza tus reacciones ante los peligros, empeora tu criterio sobre la velocidad y da una falsa sensación de confianza.",
     "b": "Mejora tu conciencia del peligro",
     "c": "Aumenta la velocidad de tu reacción."
   },
-  "223": {
+  "71": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Curva izquierda peligrosa",
     "b": "Curva peligrosa",
     "c": "Curva a la derecha peligrosa"
   },
-  "224": {
+  "72": {
     "q": "¿Cuál debería ser el color de una luz de freno?",
     "a": "Verde",
     "b": "rojo",
     "c": "amarillo"
   },
-  "225": {
+  "73": {
     "q": "¿En qué zona está prohibido adelantar?",
     "a": "Intersección de dos vías",
     "b": "en un puente",
     "c": "zona de la autopista"
   },
-  "226": {
+  "74": {
     "q": "Una sola línea amarilla sólida significa",
     "a": "No se permite cruzar",
     "b": "Está permitido adelantar/adelantar",
     "c": "No se permite rebasar/adelantar"
   },
-  "227": {
+  "75": {
     "q": "Está prohibido adelantar en una cresta que se acerque a un puente, a menos que",
     "a": "La vista del conductor se puede ver claramente a una distancia mínima de 100 metros.",
     "b": "La vista del conductor se puede ver claramente a una distancia mínima de 75 metros.",
     "c": "La vista del conductor se puede ver claramente a una distancia mínima de 150 metros."
   },
-  "228": {
+  "76": {
     "q": "¿Cuándo se puede utilizar el primer carril de una autopista de tres carriles?",
     "a": "Al conducir por encima del límite de velocidad",
     "b": "Al adelantar",
     "c": "Al conducir por debajo del límite de velocidad y sin otros vehículos alrededor"
   },
-  "229": {
+  "77": {
     "q": "¿Cuál es el efecto de reemplazar la bombilla de los faros instalados originalmente por bombillas no especificadas por el fabricante del vehículo? Por ejemplo, luz LED, mayor potencia.",
     "a": "Distrae a los pasajeros",
     "b": "Mejor visión especialmente de noche.",
     "c": "Distrae a los conductores que vienen en dirección opuesta y va en contra de las leyes de tránsito."
   },
-  "230": {
+  "78": {
     "q": "Antes de cambiar de carril en una autopista, lo ideal es dar una señal para",
     "a": "Cinco metros antes de girar",
     "b": "Cincuenta metros antes de girar.",
     "c": "Treinta metros antes de girar."
   },
-  "231": {
+  "79": {
     "q": "¿Dónde ves esta señal de tráfico?",
     "a": "en una intersección",
     "b": "Antes de entrar a la autopista",
     "c": "Antes de conducir por una calle estrecha"
   },
-  "232": {
+  "80": {
     "q": "En R.A. 8750, ¿cuánto es la multa por la primera infracción por permitir que un niño de 6 años o menos se siente en el asiento del pasajero delantero?",
     "a": "1.500,00 pesos filipinos",
     "b": "2.000,00 pesos filipinos",
     "c": "1.000,00 pesos filipinos"
   },
-  "233": {
+  "81": {
     "q": "Cualquier cantidad de esta bebida afectará peor tu capacidad de conducción.",
     "a": "agua",
     "b": "Jugo de piña",
     "c": "alcohol"
   },
-  "234": {
+  "82": {
     "q": "Cuando el vehículo que conduce se sale de la carretera o choca contra un poste eléctrico o un automóvil estacionado, la razón más probable es",
     "a": "Perdiste el freno",
     "b": "Estás conduciendo demasiado rápido y perdiste el control de tu vehículo.",
     "c": "Estás tratando de adelantar"
   },
-  "235": {
+  "83": {
     "q": "Antes de cambiar de carril en el tráfico, especialmente de noche y cuando llueve, además de dar una señal y comprobar los espejos laterales y retrovisores, ¿qué más hay que hacer?",
     "a": "Parpadea tus faros",
     "b": "Suena tu bocina",
     "c": "Gire ligeramente la cabeza para comprobar los demás vehículos que se encuentran a su lado."
   },
-  "236": {
+  "84": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "puente estrecho",
     "b": "Puente roto",
     "c": "Puente giratorio"
   },
-  "237": {
+  "85": {
     "q": "La mayoría de las muertes y lesiones relacionadas con el transporte del servicio escolar ocurren cuando",
     "a": "Los niños están siendo dados de baja del servicio escolar dentro del plantel escolar.",
     "b": "Los niños están siendo incorporados al servicio escolar dentro del campus escolar.",
     "c": "Niños cruzan la calle tras ser dados de baja del servicio escolar"
   },
-  "238": {
+  "86": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Camino recto por delante",
     "b": "Prohibida la entrada a todo tipo de vehículos.",
     "c": "Camino de un solo sentido"
   },
-  "239": {
+  "87": {
     "q": "¿Quién tiene el derecho de vía prioritario?",
     "a": "Autobuses grandes",
     "b": "Camiones articulados",
     "c": "Camión de bomberos con luz intermitente y sirena respondiendo a una emergencia"
   },
-  "240": {
+  "88": {
     "q": "En las puertas de peaje, una luz o señal con una X roja significa que",
     "a": "Debes salir de este carril.",
     "b": "Puedes conducir en este carril.",
     "c": "No puedes conducir en este carril."
   },
-  "241": {
+  "89": {
     "q": "¿Qué más puede afectar seriamente tu concentración además de las bebidas alcohólicas?",
     "a": "Drogas, cansancio y música alta, vallas publicitarias, cristales tintados",
     "b": "Semáforos, asientos cómodos, buena señalización vial.",
     "c": "Música relajante, calles adecuadamente iluminadas, marcas en el pavimento."
   },
-  "242": {
+  "90": {
     "q": "Ve un autobús escolar estacionado con las luces de advertencia de peligro encendidas al otro lado de la carretera. ¿Está usted obligado a detenerse?",
     "a": "Sí, debes detenerte hasta que la luz de emergencia deje de parpadear y no haya niños en la carretera.",
     "b": "Sí, debes detenerte, pero luego podrás continuar cuando lo consideres seguro.",
     "c": "No, pero necesitas reducir la velocidad."
   },
-  "243": {
+  "91": {
     "q": "El semáforo amarillo intermitente significa,",
     "a": "Los vehículos cruzarán desde el otro lado.",
     "b": "Tienes el derecho de paso sobre una luz roja intermitente.",
     "c": "Reduce la velocidad y procede con precaución."
   },
-  "244": {
+  "92": {
     "q": "Al acercarse a una intersección, ¿qué debe hacer si descubre que la carretera más allá está bloqueada por el tráfico?",
     "a": "Manténgase lo más cerca posible del vehículo de delante.",
     "b": "Continúe lentamente hasta la intersección hasta que el tráfico avance.",
     "c": "Deténgase antes de la intersección y espere hasta que el tráfico avance."
   },
-  "245": {
+  "93": {
     "q": "¿Cuál es el significado de esta señal de tráfico azul?",
     "a": "Tráfico bidireccional",
     "b": "Fin del camino de doble sentido",
     "c": "Da prioridad a los vehículos que vienen hacia ti"
   },
-  "246": {
+  "94": {
     "q": "Este es un importante accesorio de seguridad de un vehículo cuando sale de su vehículo.",
     "a": "Freno de estacionamiento",
     "b": "interruptor de faros",
     "c": "Cuerno"
   },
-  "247": {
+  "95": {
     "q": "Para circular por carretera es necesario tener estos documentos a mano.",
     "a": "Licencia de manejar válida y póliza de seguro y registro actualizada",
     "b": "Licencia de manejar y registro y póliza de seguro",
     "c": "CPC y matriz de tarifas"
   },
-  "248": {
+  "96": {
     "q": "Cuando ve que un semáforo cambia de amarillo, ¿qué color de luz debe esperar a continuación?",
     "a": "azul",
     "b": "rojo",
     "c": "ámbar"
   },
-  "249": {
+  "97": {
     "q": "¿Qué señal significa que no hay entrada?"
   },
-  "250": {
+  "98": {
     "q": "¿Qué lugar no deberías adelantar sin tener una visión clara de al menos doscientos pies por delante?",
     "a": "Todo lo anterior",
     "b": "en una intersección",
     "c": "Al pie del puente"
   },
-  "251": {
+  "99": {
     "q": "Estás en el carril de una autopista y ves señales de que está cerrado más adelante. deberías",
     "a": "Muévete hacia la derecha con cuidado.",
     "b": "Mantente en tu carril",
     "c": "Espere y vea qué carril se mueve más rápido"
   },
-  "252": {
+  "100": {
     "q": "¿Cuál de los siguientes accesorios es obligatorio mantener en buen estado?",
     "a": "Todo lo anterior",
     "b": "faros",
     "c": "Cinturones de seguridad"
   },
-  "253": {
+  "101": {
     "q": "Entre la lista, ¿quiénes están exentos de los límites de velocidad?",
     "a": "Conductores de los altos funcionarios del gobierno",
     "b": "Conductores que evaden la detención",
     "c": "Médicos y sus conductores acudiendo a una emergencia."
   },
-  "254": {
+  "102": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Camino resbaladizo",
     "b": "Carretera curva",
     "c": "Camino sinuoso"
   },
-  "255": {
+  "103": {
     "q": "¿Se le permite girar a la derecha en el semáforo en rojo?",
     "a": "Sí, este es un giro protegido, por lo que tendrás el derecho de paso.",
     "b": "Sí, puedes, pero solo después de detenerte y ceder el paso al tráfico.",
     "c": "Sí, puedes, pero sólo si un cartel te lo permite."
   },
-  "256": {
+  "104": {
     "q": "¿Cuál de estos, si se descuida, podría provocar un accidente de tráfico?",
     "a": "Nivel de agua del radiador",
     "b": "Nivel de líquido de frenos",
     "c": "Nivel de freón del aire acondicionado"
   },
-  "257": {
+  "105": {
     "q": "¿Es cierto que se puede aparcar junto a una boca de incendios en cualquier momento?",
     "a": "Falso, sólo los vehículos de emergencia pueden aparcar junto a la boca de incendios",
     "b": "Falso, una boca de incendio es una instalación de emergencia, nadie puede estacionar junto a ella.",
     "c": "Falso, una boca de incendio es sólo para ambulancia"
   },
-  "258": {
+  "106": {
     "q": "¿Para qué sirven estas bandas sonoras en el pavimento?",
     "a": "Para sacudir el vehículo y garantizar su aptitud para la circulación.",
     "b": "Para recordar al conductor que reduzca la velocidad.",
     "c": "Para mantener al conductor despierto"
   },
-  "259": {
+  "107": {
     "q": "Según RA 4136, ¿cuál de las siguientes es la velocidad máxima permitida en la Carretera Nacional Abierta?",
     "a": "100 kilómetros por hora",
     "b": "60 kilómetros por hora",
     "c": "80 kilómetros por hora"
   },
-  "260": {
+  "108": {
     "q": "Ha aparcado frente a una colina empinada. Si conduces en automático, deberás dejar tu coche aparcado. ¿Qué equipo deberías usar con un manual?",
     "a": "Deja el auto en reversa",
     "b": "Deja el coche en primera marcha.",
     "c": "Deja el auto en punto muerto"
   },
-  "261": {
+  "109": {
     "q": "¿Qué debes hacer si estás en una intersección y escuchas una sirena detrás de ti?",
     "a": "Detente y no te muevas hasta que haya pasado el vehículo de emergencia.",
     "b": "Retroceda, deténgase al lado derecho de la carretera y deténgase.",
     "c": "Continúe por la intersección, luego deténgase y permita que pase el vehículo de emergencia."
   },
-  "262": {
+  "110": {
     "q": "¿Cuál de las siguientes infringe el incumplimiento de las marcas en el pavimento?",
     "a": "soplo de cuerno",
     "b": "Detener y descargar pasajeros en el carril peatonal",
     "c": "Desaceleración abrupta en luz verde"
   },
-  "263": {
+  "111": {
     "q": "¿Qué significa este signo?",
     "a": "Desvíese en el siguiente cruce disponible.",
     "b": "Ceda el paso al vehículo que viene en sentido contrario",
     "c": "Pase a ambos lados yendo en la misma dirección."
   },
-  "264": {
+  "112": {
     "q": "¿Mantendría su velocidad si un vehículo de emergencia se acerca por detrás con una sirena y luces intermitentes incluso si hay otro carril abierto?",
     "a": "Sí, para evitarte molestias.",
     "b": "No, debes reducir la velocidad",
     "c": "Dependiendo de la habilidad del conductor."
   },
-  "265": {
+  "113": {
     "q": "¿Cuál de los siguientes mejorará el consumo de combustible?",
     "a": "Conducir en marchas más bajas",
     "b": "Viajes cortos con el motor frío",
     "c": "Reducir la velocidad, frenar adecuadamente y planificar con antelación"
   },
-  "266": {
+  "114": {
     "q": "Inmediatamente después de entrar a una autopista, normalmente debería",
     "a": "Reajusta tus espejos",
     "b": "Manténgase en el carril derecho",
     "c": "Coloque su vehículo en el carril central."
   },
-  "267": {
+  "115": {
     "q": "¿Qué debes hacer al pasar por una zona escolar?",
     "a": "soplar la bocina",
     "b": "Encender los faros",
     "c": "Más despacio"
   },
-  "268": {
+  "116": {
     "q": "Esta imagen muestra",
     "a": "La zona es peligrosa y no se debe adelantar.",
     "b": "El área es zona de límite de velocidad nacional.",
     "c": "Se permite pasar a la izquierda o a la derecha siempre que el camino esté despejado."
   },
-  "269": {
+  "117": {
     "q": "Mientras conduce, ¿cómo debe mirar los espejos retrovisores y laterales?",
     "a": "Mirar más tiempo a tus espejos",
     "b": "Un vistazo rápido",
     "c": "No menos de una vez por minuto"
   },
-  "270": {
+  "118": {
     "q": "¿Qué signo constituirá una infracción si no se tiene en cuenta?",
     "a": "señal de advertencia",
     "b": "cartel informativo",
     "c": "señal regulatoria"
   },
-  "271": {
+  "119": {
     "q": "Una luz verde intermitente significa",
     "a": "Proceder con precaución",
     "b": "Reduzca la velocidad y esté preparado para detenerse cuando un peatón cruce la calle.",
     "c": "Punto final"
   },
-  "272": {
+  "120": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Paso de peatones",
     "b": "Punto de partida para cruzar",
     "c": "Los semáforos señalan más adelante"
   },
-  "273": {
+  "121": {
     "q": "Un peatón cruza la calle corriendo cuando estás a punto de salirte de un semáforo en rojo. ¿Qué deberías hacer?",
     "a": "Toque la bocina una vez y permita que el peatón cruce",
     "b": "Espere hasta que el peatón cruce",
     "c": "Espere que el peatón regrese"
   },
-  "274": {
+  "122": {
     "q": "Un conductor que se encuentre en una carretera deberá ceder el paso a",
     "a": "Paso de peatones en una intersección donde el movimiento del tráfico está regulado por un oficial de tránsito",
     "b": "Vehículos a punto de ingresar a la autopista.",
     "c": "Paso de peatones dentro de un paso de peatones"
   },
-  "275": {
+  "123": {
     "q": "¿Cuándo necesitas encender la señal de giro?",
     "a": "antes de girar",
     "b": "mientras gira",
     "c": "Después de girar"
   },
-  "276": {
+  "124": {
     "q": "¿Cuál es la pena máxima por conducir bajo los efectos de bebidas alcohólicas o drogas prohibidas?",
     "a": "6 meses de suspensión",
     "b": "suspensión de 1 año",
     "c": "Revocación perpetua de licencia"
   },
-  "277": {
+  "125": {
     "q": "Si se enciende la luz de freno del vehículo que le precede, debe",
     "a": "Prepárate para frenar",
     "b": "Presiona la bocina",
     "c": "Girar a la derecha o a la izquierda"
   },
-  "278": {
+  "126": {
     "q": "El objetivo principal de mirar hacia adelante mientras se conduce es",
     "a": "Para verificar la presencia de agentes de tránsito.",
     "b": "Para comprobar el tráfico por delante y los cambios en el estado de la carretera.",
     "c": "Para comprobar si hay un accidente de tráfico"
   },
-  "279": {
+  "127": {
     "q": "¿Cuál es el significado de este semáforo?",
     "a": "Detener si es necesario",
     "b": "Deténgase si llega la luz roja.",
     "c": "Prepárate para parar"
   },
-  "280": {
+  "128": {
     "q": "Estás planeando un viaje largo. ¿Necesita planificar paradas de descanso?",
     "a": "Sí, las paradas periódicas ayudan a evitar la fatiga física y mental.",
     "b": "No, llegarás más rápido a tu destino.",
     "c": "No, sólo serán necesarias paradas para repostar"
   },
-  "281": {
+  "129": {
     "q": "Durante el período de enfermedad, su capacidad para conducir puede verse afectada. debes",
     "a": "Estar en buena forma física y mental y no conducir después de tomar medicamentos.",
     "b": "Tome únicamente dosis más pequeñas de cualquier medicamento en todo momento para garantizar la seguridad.",
     "c": "Consulte a su médico siempre antes de conducir, especialmente para viajes largos."
   },
-  "282": {
+  "130": {
     "q": "Según RA106666, también conocida como Ley de seguridad infantil en motocicletas, el niño debe agarrar la cintura del conductor, puede pisar y descansar los pies cómodamente en el reposapiés y",
     "a": "Debe tener al menos cinco (5) pies de altura.",
     "b": "Debe usar casco protector estándar.",
     "c": "Él/ella debe tener el consentimiento de los padres."
   },
-  "283": {
+  "131": {
     "q": "¿Significa un semáforo amarillo parpadeante?",
     "a": "Reduzca la velocidad y continúe si no hay peligro.",
     "b": "Deténgase y espere a que cambie el semáforo.",
     "c": "Espera la luz verde"
   },
-  "284": {
+  "132": {
     "q": "¿Cuándo necesita verificar el nivel de aceite de su motor?",
     "a": "Cuando el motor está frío",
     "b": "Cuando el motor está en marcha",
     "c": "Cuando el motor está caliente"
   },
-  "285": {
+  "133": {
     "q": "La marca amarilla en el pavimento está pintada dentro de las intersecciones donde no se permite el paso de ningún vehículo.",
     "a": "Detener",
     "b": "Pase",
     "c": "soplar cuerno"
   },
-  "286": {
+  "134": {
     "q": "¿Qué debe hacer el conductor si ya se encuentra dentro de la intersección cuando llega el semáforo en amarillo?",
     "a": "Reduzca la velocidad para permitir que otros vehículos crucen.",
     "b": "El conductor podrá seguir conduciendo con precaución.",
     "c": "Detenerse automáticamente en la carretera"
   },
-  "287": {
+  "135": {
     "q": "¿Por qué se instalan bandas sonoras al otro lado de la carretera?",
     "a": "Para que estés alerta y consciente de tu velocidad.",
     "b": "Para ayudarle a elegir el carril correcto",
     "c": "Para ayudarle a mantener la distancia de separación correcta"
   },
-  "288": {
+  "136": {
     "q": "¿Cuál es un mandato de LTO?",
     "a": "Registre vehículos de motor aptos para circular y que cumplan con las emisiones",
     "b": "Expedir certificado de conveniencia pública.",
     "c": "Emitir certificado de emisión y cumplimiento."
   },
-  "289": {
+  "137": {
     "q": "Cuando un conductor ve que la señal de luz amarilla cambia a roja, un vehículo ya está en la intersección para girar a la izquierda o a la derecha.",
     "a": "Continúe a través de la intersección incluso si la luz del semáforo a la izquierda/derecha está en rojo.",
     "b": "Detenerse automáticamente en la carretera",
     "c": "Reduzca la velocidad para permitir que otros vehículos avancen."
   },
-  "290": {
+  "138": {
     "q": "Los motociclistas deben actuar con seguridad y cuidado en todo momento. Para ello, están obligados a llevar",
     "a": "Una gorra o guantes de policía.",
     "b": "Cascos protegidos estándar",
     "c": "Cascos destinados a trabajos de construcción."
   },
-  "291": {
+  "139": {
     "q": "¿Dónde verías este letrero?",
     "a": "Paso de peatones escolar",
     "b": "Al costado del camino",
     "c": "En áreas de juegos infantiles"
   },
-  "292": {
+  "140": {
     "q": "¿Cómo se puede evitar el desperdicio de combustible?",
     "a": "Al hacer que su vehículo reciba el servicio y el mantenimiento adecuados",
     "b": "Al dar servicio a sus vehículos con menos regularidad",
     "c": "Llenando el sillín y el baúl"
   },
-  "293": {
+  "141": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Prohibida la entrada a todo tipo de vehículos.",
     "b": "Detener",
     "c": "no entrar"
   },
-  "294": {
+  "142": {
     "q": "En caso de un accidente de tráfico que implique lesiones físicas, el primer deber del conductor implicado es",
     "a": "Informar del incidente a la comisaría de policía más cercana.",
     "b": "Informar del incidente al hospital.",
     "c": "Atender al herido y pedir ayuda"
   },
-  "295": {
+  "143": {
     "q": "Realizas el mantenimiento de tu propio vehículo. ¿Cómo deshacerse del aceite de motor viejo?",
     "a": "Ponlo en tu contenedor de basura",
     "b": "Inclínelo en un agujero en el suelo.",
     "c": "Deséchelo adecuadamente"
   },
-  "296": {
+  "144": {
     "q": "¿Cuál es el ancho máximo y permitido de la alforja o bolsa?",
     "a": "18 pulgadas de ambos lados",
     "b": "16 pulgadas de ambos lados",
     "c": "14 pulgadas de ambos lados"
   },
-  "297": {
+  "145": {
     "q": "Cuando más de un conductor llegó a una parada de cuatro vías, ¿quién tiene el derecho de paso?",
     "a": "El conductor que llegó primero debe ser el primero en irse.",
     "b": "El conductor del vehículo más grande debe ser el primero en salir.",
     "c": "El último conductor en llegar debe ser el primero en salir."
   },
-  "298": {
+  "146": {
     "q": "¿A cuánto asciende la multa y sanción impuesta por la primera infracción si se infringe la RA1066 sobre seguridad de niños a bordo de motocicleta?",
     "a": "Php5.000,00",
     "b": "1.500,00 pesos filipinos",
     "c": "Php 3.000,00"
   },
-  "299": {
+  "147": {
     "q": "¿Cómo te afecta el alcohol?",
     "a": "Reduce tu concentración.",
     "b": "Acelera tu reacción",
     "c": "Mejora tu coordinación"
   },
-  "300": {
+  "148": {
     "q": "¿Cuál es el significado de pasarse la luz roja?",
     "a": "Conducir más rápido al ver una luz amarilla/ámbar",
     "b": "Detenerse repentinamente",
     "c": "Detenerse en la luz verde"
   },
-  "301": {
+  "149": {
     "q": "Según RA10666, ¿cuál de las siguientes prohíbe al pasajero transportar a un niño?",
     "a": "Donde se impone el límite de velocidad de más de 50 km/h",
     "b": "Donde se impone el límite de velocidad de más de 40 km/h",
     "c": "Donde se impone el límite de velocidad de más de 60 km/h"
   },
-  "302": {
+  "150": {
     "q": "¿Qué debes hacer siempre que conduces por una carretera con muchos baches?",
     "a": "Cambiar siempre la lanza",
     "b": "aumentar la velocidad",
     "c": "disminuir la velocidad"
   },
-  "303": {
+  "151": {
     "q": "Si utiliza una motocicleta Backbone, ¿qué soporte debe utilizar cuando estacione durante la noche?",
     "a": "Caballete lateral",
     "b": "Caballete central",
     "c": "soporte cruzado"
   },
-  "304": {
+  "152": {
     "q": "Delante de usted hay un vehículo con una luz amarilla intermitente. Esto significa que es",
     "a": "Vehículo averiado",
     "b": "movimiento lento",
     "c": "El coche de un médico."
   },
-  "305": {
+  "153": {
     "q": "¿Qué debes hacer si el camino está mojado?",
     "a": "Aumenta tu velocidad",
     "b": "Sigue desviándote",
     "c": "Más despacio"
   },
-  "306": {
+  "154": {
     "q": "¿Qué sigue después de este semáforo?",
     "a": "Verde",
     "b": "azul",
     "c": "rojo"
   },
-  "307": {
+  "155": {
     "q": "¿Cuál de los semáforos requiere que te prepares para detenerte?",
     "a": "rojo",
     "b": "Verde",
     "c": "Amarillo/Ámbar"
   },
-  "308": {
+  "156": {
     "q": "¿Un semáforo en azul significa?",
     "a": "Detener",
     "b": "ir",
     "c": "Ninguno, no hay semáforos en azul."
   },
-  "309": {
+  "157": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Sin autos",
     "b": "Solo autos",
     "c": "Sin motocicletas"
   },
-  "310": {
+  "158": {
     "q": "Está entrando en una zona de obras donde hay una señal temporal de prohibido adelantar. debes",
     "a": "Obedezca la señal sólo durante las horas pico.",
     "b": "Siga la señal como se recomienda.",
     "c": "Obedecer sólo cuando un agente de tránsito esté de servicio."
   },
-  "311": {
+  "159": {
     "q": "¿A cuánto asciende la sanción por la segunda infracción de la Ley RA10666 sobre seguridad infantil en motocicletas de 2015?",
     "a": "Php5.000,00",
     "b": "7.000,00 pesos filipinos",
     "c": "1.000,00 pesos filipinos"
   },
-  "312": {
+  "160": {
     "q": "¿Qué debe hacer cuando se acerca a una obra en la vía con una señal temporal de límite de velocidad máxima?",
     "a": "Cumplir con la señal cuando el carril sea estrecho.",
     "b": "Cumplir con la señal durante el día.",
     "c": "Cumplir con la señal en todo momento"
   },
-  "313": {
+  "161": {
     "q": "Una señal de prohibido estacionar significa",
     "a": "Un automovilista puede hacer una parada temporal, dentro de un tiempo razonable para cargar o descargar pero no debe obstruir a otro vehículo.",
     "b": "Un automovilista puede aparcar siempre que conduzca un vehículo privado.",
     "c": "Un automovilista no puede hacer una parada temporal, de lo contrario será detenido por ignorar las señales de tráfico."
   },
-  "314": {
+  "162": {
     "q": "Te acercas a una intersección con semáforos que no funcionan correctamente. ¿Qué deberías hacer?",
     "a": "Reduzca la velocidad y espere a que llegue un agente de tránsito.",
     "b": "Trate la intersección como si hubiera señales de alto en todas las direcciones.",
     "c": "Aumente su velocidad porque la intersección está despejada."
   },
-  "315": {
+  "163": {
     "q": "Si encuentra vehículos de emergencia como una ambulancia, un camión de bomberos y coches de policía en la carretera con las sirenas encendidas, ¿qué debe hacer?",
     "a": "Obstruir su paso y nunca permitirles el paso.",
     "b": "Ignóralos ya que no tienes por qué interferir con sus trabajos.",
     "c": "Ceda el paso deteniéndose hacia el lado izquierdo o derecho de la carretera según las circunstancias."
   },
-  "316": {
+  "164": {
     "q": "Es el turno del coche y las señales de freno han fallado, por lo que el conductor utiliza gestos con las manos para señalar. ¿Cuál es la intención del conductor?",
     "a": "Gira a la izquierda",
     "b": "Gira a la derecha",
     "c": "aumentar la velocidad"
   },
-  "317": {
+  "165": {
     "q": "¿Cuál es la autoridad que otorga la LTO a una persona que desea aprender a operar un vehículo de motor válida por un período de un año?",
     "a": "Permiso de conducir para estudiantes",
     "b": "Licencia de conducir profesional",
     "c": "Licencia de conducir no profesional"
   },
-  "318": {
+  "166": {
     "q": "Los signos que son redondos, triangulares invertidos u octogonales y con borde de color rojo se llaman",
     "a": "señal regulatoria",
     "b": "señal de advertencia",
     "c": "cartel informativo"
   },
-  "319": {
+  "167": {
     "q": "Llegas a un cruce. Quieres girar a la izquierda y tienes una luz de flecha verde. ¿Puedes continuar?",
     "a": "No, no puedes girar a la izquierda a menos que tengas la flecha verde que apunta hacia la izquierda.",
     "b": "Sí, puedes girar a la izquierda; sin embargo, es posible que aún tengas que ceder el paso a los peatones y al tráfico entrante.",
     "c": "Sí, puedes girar a la izquierda, ya que es un giro protegido donde no se permite el paso de otros vehículos a la intersección."
   },
-  "320": {
+  "168": {
     "q": "¿Qué se debe hacer primero antes de cambiar de carril?",
     "a": "hacer señal",
     "b": "Compruebe el tráfico por delante",
     "c": "Revise los espejos para ver si hay tráfico detrás"
   },
-  "321": {
+  "169": {
     "q": "¿Cuándo es legal utilizar el arcén de una vía para adelantar a otro vehículo?",
     "a": "Cuando el vehículo que va delante de usted gira a la derecha",
     "b": "Cuando el vehículo que va delante de usted está indicando visiblemente que debe girar a la izquierda",
     "c": "En circunstancias normales, no está permitido legalmente rebasar por el arcén de una carretera."
   },
-  "322": {
+  "170": {
     "q": "Esta acción puede hacer que patines y pierdas el control cuando haces un movimiento brusco, especialmente en una carretera mojada y posiblemente resbaladiza.",
     "a": "Acelerando demasiado lento",
     "b": "Girando demasiado lento",
     "c": "Frenado inadecuado"
   },
-  "323": {
+  "171": {
     "q": "Para ayudar a reducir la contaminación del aire al usar el freno, ¿qué debes hacer?",
     "a": "Frenar frecuentemente",
     "b": "Frenar de repente",
     "c": "Frenar correctamente"
   },
-  "324": {
+  "172": {
     "q": "No debes utilizar el teléfono móvil mientras conduces una motocicleta porque",
     "a": "Está prohibido por ley y distrae la atención mientras conduce.",
     "b": "La recepción es mala cuando el motor está en marcha.",
     "c": "Afectará el sistema electrónico de su vehículo."
   },
-  "325": {
+  "173": {
     "q": "Después de girar a la derecha desde una intersección hacia una calle de sentido único, ¿qué carril debe elegir?",
     "a": "Manténgase en el carril más a la derecha",
     "b": "Manténgase en el centro de la carretera.",
     "c": "Manténgase en el carril más interior"
   },
-  "326": {
+  "174": {
     "q": "Una persona con discapacidad puede poseer una licencia de conducir si",
     "a": "Las condiciones de conducción están indicadas en el DL.",
     "b": "Está expresamente escrito en el permiso de estudiante.",
     "c": "Está acompañado por un instructor titulado."
   },
-  "327": {
+  "175": {
     "q": "¿Cuál es el significado de esta señal de tráfico?",
     "a": "El límite de velocidad en esta zona no debe ser inferior a 60 km/h.",
     "b": "Esta zona tiene 60 km de largo.",
     "c": "El límite de velocidad en esta zona es de 60 km/h."
   },
-  "328": {
+  "176": {
     "q": "El mandato de LTO es registrar vehículos de motor aptos para circular y que cumplan con las normas de emisiones. Poner orden en las carreteras y",
     "a": "Observar la limpieza en la carretera.",
     "b": "Licencia de conductores de calidad",
     "c": "Formular pautas de franquicia de PUV."
   },
-  "329": {
+  "177": {
     "q": "¿Cuál es la pena máxima para un infractor habitual de la RA10666, también conocida como Ley de seguridad infantil en motocicletas?",
     "a": "Revocación de la licencia de conducir",
     "b": "Prisión de seis años",
     "c": "Multa de 50.000 pesos filipinos."
   },
-  "330": {
+  "178": {
     "q": "¿Qué significa este signo?",
     "a": "Sin entrada",
     "b": "Sin estacionamiento",
     "c": "Sin camino"
   },
-  "331": {
+  "179": {
     "q": "Cambiar de carril en una intersección es",
     "a": "muy seguro",
     "b": "Inseguro",
     "c": "Seguro"
   },
-  "332": {
+  "180": {
     "q": "Se permite aparcar si el vehículo está",
     "a": "Más allá de 4 metros de una boca de incendio",
     "b": "A menos de 3 metros de las líneas curvas de intersección.",
     "c": "Dentro de una intersección"
   },
-  "333": {
+  "181": {
     "q": "¿En cuál de estas circunstancias está permitido utilizar un teléfono móvil mientras se conduce un vehículo de motor?",
     "a": "Si el tráfico es ligero",
     "b": "Si es una llamada importante",
     "c": "Ninguno de los anteriores"
   },
-  "334": {
+  "182": {
     "q": "¿Qué debe hacer si un oficial de la policía de tránsito le indica que pase un semáforo en rojo o una señal de alto?",
     "a": "debes obedecer",
     "b": "Debes ignorar a la policía y esperar la luz verde. Esto está de acuerdo con las normas y reglamentos de implementación del agente de tránsito.",
     "c": "No debes obedecer o serás detenido."
   },
-  "335": {
+  "183": {
     "q": "¿Cuál es el significado de este semáforo?",
     "a": "Continúe conduciendo si no hay ningún obstáculo.",
     "b": "Deténgase antes de la línea de parada",
     "c": "Deténgase según las indicaciones del agente de tránsito."
   },
-  "336": {
+  "184": {
     "q": "Es más peligroso girar a la izquierda que a la derecha porque",
     "a": "Hay más vendedores en el lado derecho de la carretera.",
     "b": "El camino tiene carriles.",
     "c": "Los vehículos que vienen en dirección opuesta son más rápidos."
   },
-  "337": {
+  "185": {
     "q": "Un conductor no debe estacionarse ni detenerse al costado de la carretera donde hay una señal de alto cuando ésta se encuentre dentro de",
     "a": "3 metros",
     "b": "6 metros",
     "c": "5 metros"
   },
-  "338": {
+  "186": {
     "q": "¿Qué significa este signo?",
     "a": "No hay aparcamiento de lunes a viernes.",
     "b": "No hay estacionamiento en ningún momento.",
     "c": "Puedes aparcar en los días mostrados."
   },
-  "339": {
+  "187": {
     "q": "Las líneas blancas discontinuas dobles en la carretera significan",
     "a": "Está prohibido adelantar por el lado derecho.",
     "b": "Está prohibido adelantar por el lado izquierdo.",
     "c": "Está permitido adelantar por la izquierda o por la derecha si no hay peligro."
   },
-  "340": {
+  "188": {
     "q": "¿Quién es responsable de no sobrecargar el vehículo?",
     "a": "La persona que cargó el vehículo.",
     "b": "El dueño del vehículo",
     "c": "El conductor o pasajero del vehículo."
   },
-  "341": {
+  "189": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Acercarse a la intersección de la carretera",
     "b": "Acceso a la carretera lateral de la intersección",
     "c": "Acceso a la intersección que incorpora el tráfico"
   },
-  "342": {
+  "190": {
     "q": "¿Cuál es la acción adecuada si siente sueño mientras conduce?",
     "a": "Conduce más rápido",
     "b": "Enciende la radio muy fuerte",
     "c": "Estacione en una parada de descanso y descanse."
   },
-  "343": {
+  "191": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Velocidad mínima 30 km/h",
     "b": "Fin de la velocidad mínima",
     "c": "Fin de la velocidad máxima"
   },
-  "344": {
+  "192": {
     "q": "El permiso de operador temporal autoriza al conductor aprehendido a operar un vehículo de motor por un período que no exceda",
     "a": "1 semana",
     "b": "72 horas",
     "c": "15 dias"
   },
-  "345": {
+  "193": {
     "q": "La ira al volante es una ira violenta causada por el estrés y la frustración que implica conducir un vehículo de motor en condiciones difíciles, especialmente cuando el conductor está experimentando",
     "a": "Tráfico pesado de atasco",
     "b": "Tráfico ligero en una carretera muy transitada",
     "c": "Felicidad y bienestar"
   },
-  "346": {
+  "194": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Jorobas por delante",
     "b": "Curso de descenso",
     "c": "Curso cuesta arriba"
   },
-  "347": {
+  "195": {
     "q": "Puedes conducir por un camino.",
     "a": "Para entrar a una propiedad",
     "b": "Para adelantar al tráfico lento",
     "c": "Si no hay ningún peatón cerca"
   },
-  "348": {
+  "196": {
     "q": "¿Qué exige la ley que usted haga al acercarse a una intersección con una señal de alto?",
     "a": "Ceda el paso si es necesario a los vehículos que se acercan de izquierda a derecha.",
     "b": "Reduzca la velocidad y continúe cuando sea seguro hacerlo.",
     "c": "Deténgase y continúe cuando sea seguro hacerlo."
   },
-  "349": {
+  "197": {
     "q": "Una señal de tráfico azul dice 60 km/h. ¿Qué deberías hacer?",
     "a": "Conducir a un máximo de 60 km/h.",
     "b": "Conduce a 60 minutos por kilómetro.",
     "c": "Conducir a un mínimo de 60 km/h."
   },
-  "350": {
+  "198": {
     "q": "¿Qué debes hacer cuando se activan las luces de freno del vehículo que tienes delante?",
     "a": "Prepárate para frenar",
     "b": "Presiona la bocina",
     "c": "Girar a la derecha o a la izquierda"
   },
-  "351": {
+  "199": {
     "q": "¿Dónde debe colocar su vehículo cuando planea girar a la izquierda en una carretera secundaria?",
     "a": "En el extremo derecho de la carretera",
     "b": "En el extremo izquierdo de la carretera",
     "c": "En medio del camino"
   },
-  "352": {
+  "200": {
     "q": "¿Qué quieres decir con doble línea blanca?",
     "a": "Rebasar a un vehículo que arrastra un remolque",
     "b": "Separar carriles de tráfico que circula en dirección opuesta",
     "c": "Para pasar el tráfico hay que hacer cola en el cruce."
   },
-  "353": {
+  "201": {
     "q": "¿Dónde deberías instalar tu alforja o caja?",
     "a": "Más alto que el conjunto del ciclista.",
     "b": "No más de 10 cm por encima del conjunto del ciclista.",
     "c": "No superior al conjunto del ciclista."
   },
-  "354": {
+  "202": {
     "q": "El vehículo está estacionado si",
     "a": "No se mueve mientras carga pasajeros.",
     "b": "Está parado y el motor apagado.",
     "c": "No se mueve mientras descarga pasajeros."
   },
-  "355": {
+  "203": {
     "q": "La señal manual adecuada para girar a la izquierda es",
     "a": "Brazo izquierdo recto en posición horizontal.",
     "b": "Brazo izquierdo a la altura del codo, mano apuntando hacia arriba.",
     "c": "Mano izquierda abajo y colgando apuntando al suelo."
   },
-  "356": {
+  "204": {
     "q": "Una sola línea blanca discontinua en una carretera de dos carriles significa",
     "a": "Absolutamente ningún adelantamiento",
     "b": "Se puede adelantar o adelantar en cualquier momento.",
     "c": "Separa el tráfico que circula en direcciones opuestas."
   },
-  "357": {
+  "205": {
     "q": "¿Cuál es el significado de esta señal de tráfico?",
     "a": "Prohibida la entrada a vehículos con 30 años de antigüedad.",
     "b": "Límite mínimo de velocidad",
     "c": "Fin del límite máximo de velocidad"
   },
-  "358": {
+  "206": {
     "q": "¿Qué se debe hacer primero antes de cambiar de carril?",
     "a": "Toca la bocina y luego cambia de carril con cuidado.",
     "b": "Haz un cambio rápido de carril",
     "c": "Verifique el tráfico adelante y haga la señal."
   },
-  "359": {
+  "207": {
     "q": "Una señal de no parar significa que",
     "a": "No puedo parar a menos que reciba una llamada",
     "b": "Puede detenerse rápidamente si está cargando o descargando pasajeros.",
     "c": "No puede detenerse a menos que se lo indique un oficial de tránsito."
   },
-  "360": {
+  "208": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Señales luminosas desiguales adelante",
     "b": "Camino resbaladizo",
     "c": "obras viales"
   },
-  "361": {
+  "209": {
     "q": "Esta señal de tráfico significa ceder el paso.",
     "a": "triangulo vertical",
     "b": "triangulo invertido",
     "c": "triangulo horizontal"
   },
-  "362": {
+  "210": {
     "q": "La elección de la velocidad puede depender de la",
     "a": "Estado de circulación del vehículo de motor que se conduce",
     "b": "Todo lo anterior",
     "c": "Habilidades del conductor"
   },
-  "363": {
+  "211": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Curva peligrosa",
     "b": "Peligrosa doble curva a la izquierda",
     "c": "Peligrosa doble curva a la derecha"
   },
-  "364": {
+  "212": {
     "q": "¿Cuál es el propósito principal de usar la bocina del vehículo?",
     "a": "Para hacer hermosos sonidos para que todos los conductores los escuchen.",
     "b": "Para crear ruido y evitar distracciones.",
     "c": "Para dar advertencia para evitar un accidente de tráfico."
   },
-  "365": {
+  "213": {
     "q": "Te invitaron a una cena. Sabes que tendrás que conducir después. ¿Cuál es tu mejor curso de acción?",
     "a": "Evite mezclar sus bebidas alcohólicas",
     "b": "No beber alcohol en absoluto",
     "c": "Coma una comida caliente con su bebida alcohólica."
   },
-  "366": {
+  "214": {
     "q": "Te acercas a un cruce. Los semáforos no funcionan. Un agente de tránsito da esta señal. deberías",
     "a": "Deténgase al nivel del brazo del oficial.",
     "b": "Detente en la fila",
     "c": "Girar solo a la izquierda"
   },
-  "367": {
+  "215": {
     "q": "Mientras conduce en sentido único, tiene la intención de girar a la izquierda en una carretera secundaria. En el enfoque, debes",
     "a": "Manténgase bien a la izquierda de la carretera.",
     "b": "Gire hacia afuera justo antes de girar",
     "c": "Manténgase en medio del camino"
   },
-  "368": {
+  "216": {
     "q": "¿Qué hacer si un cruce de ferrocarril no tiene dispositivos de advertencia?",
     "a": "Aumenta tu velocidad y cruza las vías rápidamente pero no olvides usar casco.",
     "b": "Reduzca la velocidad, revise a la izquierda y a la derecha de la vía férrea y luego proceda con precaución si está claro.",
     "c": "Deténgase a 15 pies del cruce del ferrocarril, bájese del vehículo, camine a través del ferrocarril y verifique si está despejado."
   },
-  "369": {
+  "217": {
     "q": "¿Qué significa esta señal de tráfico?",
     "a": "Derecho peligroso",
     "b": "Curva pronunciada hacia la izquierda",
     "c": "Sin giro a la izquierda"
   },
-  "370": {
+  "218": {
     "q": "Un vehículo que ingresa a una carretera desde un camino de entrada, un callejón o un camino privado.",
     "a": "Tiene el derecho de paso al tráfico, especialmente desde el lado izquierdo de la calle.",
     "b": "Tiene el derecho de paso al tráfico en todas las direcciones.",
     "c": "Debe detenerse y ceder el paso al tráfico en la carretera y a los peatones."
   },
-  "371": {
+  "219": {
     "q": "Cuando te adelanta un coche, ¿qué debes hacer?",
     "a": "Aumentar la velocidad para evitar ser adelantado",
     "b": "Quédate con la velocidad actual",
     "c": "Pise el freno y deje pasar el vehículo que adelanta."
   },
-  "372": {
+  "220": {
     "q": "¿Qué debes hacer cuando veas este semáforo?",
     "a": "Ve si no hay ningún obstáculo al otro lado.",
     "b": "Espera la señal roja",
     "c": "adelante"
   },
-  "373": {
+  "221": {
     "q": "Un semáforo cambia de verde a amarillo a medida que se acerca a una intersección. ¿Qué deberías hacer?",
     "a": "Deténgase antes de la intersección o de la línea de alto.",
     "b": "Continúe a su velocidad actual",
     "c": "Deténgase, incluso si está en la intersección."
   },
-  "374": {
+  "222": {
     "q": "¿Qué debe hacer ante un semáforo en amarillo intermitente?",
     "a": "Esta señal le indica que no puede girar en esta intersección, así que continúe recto.",
     "b": "Deténgase, ceda el paso y continúe cuando sea seguro",
     "c": "Conduzca con precaución, considérelo como una señal de ceder el paso."
   },
-  "375": {
+  "223": {
     "q": "Considérelo como una señal de ceder el paso. ¿Qué significa esta señal de tráfico?",
     "a": "Camino muy por delante",
     "b": "un camino por delante",
     "c": "Puente estrecho más adelante"
   },
-  "376": {
+  "224": {
     "q": "Beber alcohol antes de conducir es una de las principales causas de accidentes vehiculares porque cuando un conductor está ebrio, está",
     "a": "Arrogante, hablador, con poco juicio y reflejos para realizar cosas con seguridad.",
     "b": "Calmarse, relajarse y realizar las cosas en consecuencia.",
     "c": "Capaz de hablar de forma inteligente y coherente y dar toda apariencia de sobriedad."
   },
-  "377": {
+  "225": {
     "q": "No debe tocar la bocina de su vehículo a menos que",
     "a": "Quieres señalar tu llegada",
     "b": "Quiere llamar la atención de un agente de tránsito.",
     "c": "Un vehículo en movimiento puede causarle peligro."
   },
-  "378": {
+  "226": {
     "q": "Alguien está esperando para cruzar en el paso de peatones. Están parados en la acera. Normalmente deberías",
     "a": "Detente, déjalos cruzar, espera pacientemente.",
     "b": "Avanza rápido antes de que pisen el cruce.",
     "c": "Ignóralos porque todavía están en las aceras."
   },
-  "379": {
+  "227": {
     "q": "¿Cuál es el significado de esta señal de tráfico?",
     "a": "Se aplica el límite de velocidad local",
     "b": "Se aplica límite de velocidad / Desrestricción de velocidad",
     "c": "sin esperas"
+  },
+  "228": {
+    "q": "Los tres colores del semáforo son:",
+    "a": "rojo, verde y amarillo",
+    "b": "rojo, verde y azul",
+    "c": "amarillo, verde y azul"
+  },
+  "229": {
+    "q": "¿Qué información dan las señales triangulares amarillas?",
+    "a": "advertencia",
+    "b": "hospital enfrente",
+    "c": "límite de velocidad"
+  },
+  "230": {
+    "q": "¿Cuáles de estas señales son azules?",
+    "a": "señales reglamentarias",
+    "b": "señales de información",
+    "c": "señales de peligro"
+  },
+  "231": {
+    "q": "Una luz verde fija significa",
+    "a": "debes ceder a peatones y conductores que ya usan el cruce",
+    "b": "avanza, es seguro hacerlo",
+    "c": "cruza con precaución antes de que cambie a rojo"
+  },
+  "232": {
+    "q": "Una luz amarilla intermitente en un cruce significa",
+    "a": "precaución: reduzca y avance con cuidado",
+    "b": "pare y espere hasta que deje de parpadear",
+    "c": "espere la luz verde"
+  },
+  "233": {
+    "q": "Una línea blanca continua en el borde derecho se inclina hacia tu izquierda. Esto indica que",
+    "a": "hay un empalme de cruce adelante",
+    "b": "la vía se estrechará",
+    "c": "te acercas a una zona de obras"
+  },
+  "234": {
+    "q": "Estás en zona de no adelantar cuando el centro de la vía está marcado por",
+    "a": "una línea amarilla discontinua",
+    "b": "una línea blanca discontinua",
+    "c": "dos líneas amarillas continuas"
+  },
+  "235": {
+    "q": "Cuando hay flechas pintadas en el pavimento, los conductores deben:",
+    "a": "ir en la dirección de las flechas",
+    "b": "reducir y prepararse para ceder el paso",
+    "c": "no cambiar de carril"
+  },
+  "236": {
+    "q": "No puedes cruzar líneas amarillas continuas excepto para:",
+    "a": "cambiar de carril",
+    "b": "girar a la izquierda",
+    "c": "girar a la derecha"
+  },
+  "237": {
+    "q": "Las líneas dobles amarillas continuas",
+    "a": "no deben cruzarse salvo con mucho cuidado",
+    "b": "no deben cruzarse nunca",
+    "c": "no permiten cambiar de carril"
+  },
+  "238": {
+    "q": "No puedes cruzar una sola línea discontinua blanca o amarilla",
+    "a": "al girar a la izquierda hacia una entrada",
+    "b": "al adelantar por la derecha en una calle de un solo sentido",
+    "c": "cuando eso interferiría con el tráfico"
+  },
+  "239": {
+    "q": "Puedes cruzar una doble línea para adelantar si la línea de tu lado es",
+    "a": "blanca continua",
+    "b": "discontinua",
+    "c": "amarilla continua"
+  },
+  "240": {
+    "q": "Al acercarte a una luz roja intermitente debes",
+    "a": "esperar el verde antes de seguir",
+    "b": "reducir y avanzar con precaución",
+    "c": "detenerte por completo y seguir cuando sea seguro"
+  },
+  "241": {
+    "q": "¿Qué señal manual debe dar un conductor para reducir y parar?",
+    "a": "el izquierdo doblado en el codo, mano hacia arriba",
+    "b": "brazo izquierdo extendido en horizontal",
+    "c": "brazo izquierdo hacia abajo y mano hacia el suelo"
+  },
+  "242": {
+    "q": "La señal manual correcta para girar a la derecha es:",
+    "a": "brazo izquierdo doblado en el codo, mano hacia arriba",
+    "b": "brazo izquierdo extendido en horizontal",
+    "c": "brazo izquierdo hacia abajo y mano hacia el suelo"
+  },
+  "243": {
+    "q": "Si el conductor de adelante extiende el brazo izquierdo recto, probablemente va a",
+    "a": "girar a la izquierda en el próximo cruce",
+    "b": "orillarse y detenerse",
+    "c": "girar a la derecha en el próximo cruce"
+  },
+  "244": {
+    "q": "Al acercarte a un paso a nivel con aviso de tren, debes",
+    "a": "parar a no menos de 1,5 metros del riel más cercano",
+    "b": "reducir y seguir con precaución",
+    "c": "orillarte y detenerte"
+  },
+  "245": {
+    "q": "¿En qué circunstancias debes usar la bocina?",
+    "a": "como advertencia de seguridad",
+    "b": "en zonas escolares",
+    "c": "en zonas de hospital"
+  },
+  "246": {
+    "q": "¿Qué exige el carril al acercarte a un cruce con señal de alto?",
+    "a": "reducir y seguir cuando sea seguro",
+    "b": "detenerte y seguir cuando sea seguro",
+    "c": "ceder el paso si hace falta a vehículos de izquierda o derecha"
+  },
+  "247": {
+    "q": "Al acercarte a un cruce con señal de ceda el paso debes",
+    "a": "detenerte antes de entrar",
+    "b": "entrar de inmediato",
+    "c": "reducir y entrar cuando el camino esté libre"
+  },
+  "248": {
+    "q": "La señal «No entrar» es",
+    "a": "una señal reglamentaria",
+    "b": "una señal de orientación",
+    "c": "una señal de advertencia"
+  },
+  "249": {
+    "q": "La ley de prioridad nos da",
+    "a": "derechos básicos como conductores",
+    "b": "reglas sobre cuándo ceder a otros",
+    "c": "reglas para girar a la derecha"
+  },
+  "250": {
+    "q": "Una buena regla cuando estás seguro de tener la prioridad es",
+    "a": "nunca confiar en ella",
+    "b": "tocar la bocina para avisar a otros",
+    "c": "exigirla siempre"
+  },
+  "251": {
+    "q": "En las rotondas, ¿quién tiene prioridad?",
+    "a": "los vehículos que están por entrar",
+    "b": "los vehículos que ya están dentro",
+    "c": "los vehículos frente a la luz verde"
+  },
+  "252": {
+    "q": "En un cruce sin control, dos autos llegan en ángulo recto. ¿Quién debe ceder?",
+    "a": "el que llega primero",
+    "b": "el que reduce primero",
+    "c": "el que llega último"
+  },
+  "253": {
+    "q": "En un cruce sin control, dos autos vienen de frente a la vez: uno gira a la izquierda y el otro a la derecha. ¿Quién cede?",
+    "a": "el que gira a la derecha",
+    "b": "el que gira a la izquierda",
+    "c": "el que llega primero"
+  },
+  "254": {
+    "q": "En un cruce sin control, dos autos vienen de direcciones opuestas. ¿Qué conductor debe ceder?",
+    "a": "el que sigue de frente",
+    "b": "el que gira a la izquierda",
+    "c": "el que gira a la derecha"
+  },
+  "255": {
+    "q": "En un cruce sin alto ni ceda el paso, dos autos llegan a la vez. ¿Quién tiene prioridad?",
+    "a": "el auto de la derecha",
+    "b": "el auto de la izquierda",
+    "c": "el que reduce primero"
+  },
+  "256": {
+    "q": "Un auto espera en el cruce para girar a la izquierda y el semáforo pasa a rojo. ¿Quién va primero?",
+    "a": "el conductor atrapado en el cruce esperando girar a la izquierda",
+    "b": "el que gira a la derecha",
+    "c": "el que tiene luz verde"
+  },
+  "257": {
+    "q": "En un cruce sin alto ni ceda el paso, dos autos llegan por calles distintas. ¿Quién tiene prioridad?",
+    "a": "el que ya está en el cruce",
+    "b": "el de la izquierda",
+    "c": "el que reduce primero"
+  },
+  "258": {
+    "q": "El conductor en una autopista debe ceder el paso a",
+    "a": "cualquier auto que sale de una entrada",
+    "b": "un peatón",
+    "c": "autos que se acercan a un cruce desde la izquierda"
+  },
+  "259": {
+    "q": "Al ir a girar a la izquierda, cede el paso a los que vienen de frente",
+    "a": "hasta que pasen al menos dos autos",
+    "b": "que estén lo bastante cerca para ser peligrosos",
+    "c": "hasta que pasen cinco autos"
+  },
+  "260": {
+    "q": "Si hay peatones en un cruce escolar, debes",
+    "a": "parar y ceder solo a quienes cruzan desde tu derecha",
+    "b": "parar solo por los niños y cederles el paso",
+    "c": "parar y no seguir hasta que todos hayan salido del cruce"
+  },
+  "261": {
+    "q": "¿Debe ceder el paso a los peatones un conductor que gira?",
+    "a": "sí, al girar a la derecha o a la izquierda debe ceder a los peatones",
+    "b": "no, los peatones deben ceder a todos los vehículos",
+    "c": "sí, pero solo si gira a la izquierda"
+  },
+  "262": {
+    "q": "En una calle de doble sentido oyes la sirena de un vehículo de emergencia. ¿Qué exige la ley?",
+    "a": "orillarte a la derecha y detenerte",
+    "b": "acelerar para quitarte del camino",
+    "c": "seguir a alta velocidad"
+  },
+  "263": {
+    "q": "Dos vehículos se encuentran en una subida donde ninguno puede pasar. ¿Quién cede?",
+    "a": "el que mira cuesta abajo",
+    "b": "el que mira cuesta arriba",
+    "c": "el que toca primero la bocina"
+  },
+  "264": {
+    "q": "Antes de cambiar de carril, señaliza, mira el retrovisor y",
+    "a": "gira la cabeza para ver los vehículos a tu lado",
+    "b": "toca la bocina",
+    "c": "haz un destello con las luces"
+  },
+  "265": {
+    "q": "Cambia de carril solo después de",
+    "a": "señalizar tu intención y revisar el tráfico",
+    "b": "señalizar tu intención",
+    "c": "revisar el tráfico"
+  },
+  "266": {
+    "q": "Tras adelantar puedes volver a tu carril si",
+    "a": "el conductor adelantado toca la bocina",
+    "b": "ves en el retrovisor el auto que adelantaste",
+    "c": "ves en el espejo lateral el auto que adelantaste"
+  },
+  "267": {
+    "q": "Puedes adelantar por la derecha a un auto que va en tu dirección",
+    "a": "si la vía está marcada con dos o más carriles en el mismo sentido",
+    "b": "en una vía con un carril en sentido contrario",
+    "c": "saliéndote del pavimento"
+  },
+  "268": {
+    "q": "Si vas en el carril equivocado, ¿qué debes hacer para girar al entrar al cruce?",
+    "a": "girar lo más rápido posible",
+    "b": "frenar o pisar el embrague mientras giras",
+    "c": "mirar atrás a ambos lados y ver si es seguro cambiar de carril"
+  },
+  "269": {
+    "q": "Debes empezar a señalizar un giro a la derecha o a la izquierda al menos",
+    "a": "30 metros antes",
+    "b": "60 metros antes",
+    "c": "15 metros antes"
+  },
+  "270": {
+    "q": "Normalmente empiezas un giro a la derecha desde",
+    "a": "el carril más cercano al centro",
+    "b": "el carril más cercano al bordillo derecho",
+    "c": "el mismo carril que para girar a la izquierda"
+  },
+  "271": {
+    "q": "El auto de atrás quiere adelantarte. Debes",
+    "a": "tocar la bocina para dejarlo pasar",
+    "b": "reducir un poco y orillarte a la derecha",
+    "c": "orillarte a la derecha y parar para que pase"
+  },
+  "272": {
+    "q": "De noche en carretera usa las luces bajas cuando",
+    "a": "otro conductor baja sus luces",
+    "b": "te deslumbran los faros de un vehículo que se acerca",
+    "c": "todo lo anterior"
+  },
+  "273": {
+    "q": "Si se encienden las luces de freno de varios autos adelante, debes",
+    "a": "soltar el acelerador y prepararte para frenar",
+    "b": "frenar lo antes posible",
+    "c": "aumentar la velocidad"
+  },
+  "274": {
+    "q": "¿Cuál de estos pasos no es correcto al girar a la derecha?",
+    "a": "detenerse en el paso de peatones",
+    "b": "señalizar al menos 30 metros antes",
+    "c": "vigilar a los peatones en la calle a la que vas a entrar"
+  },
+  "275": {
+    "q": "No debes adelantar al pie o a la entrada de un puente porque",
+    "a": "no ves los vehículos que vienen del otro lado",
+    "b": "hay peatones cruzando",
+    "c": "podrías obstruir el tráfico"
+  },
+  "276": {
+    "q": "La mejor práctica al girar en carretera es",
+    "a": "señalizar justo al girar",
+    "b": "dar señal eléctrica y/o manual al menos 30 metros antes",
+    "c": "no señalizar si no hay tráfico delante ni detrás"
+  },
+  "277": {
+    "q": "Usar el arcén para pasar por la derecha a un auto adelante",
+    "a": "está permitido si vas a girar a la derecha",
+    "b": "está permitido si el auto de adelante gira a la izquierda",
+    "c": "va contra la ley"
+  },
+  "278": {
+    "q": "¿Cuál no es un lugar seguro para adelantar?",
+    "a": "al acercarte a un puente o en una curva",
+    "b": "en un cruce",
+    "c": "ambas"
+  },
+  "279": {
+    "q": "Un giro a la izquierda es más peligroso que a la derecha porque",
+    "a": "los autos de la derecha van más rápido",
+    "b": "debes estar atento a vehículos de izquierda y derecha",
+    "c": "las calles de cuatro carriles son más anchas"
+  },
+  "280": {
+    "q": "¿Qué luz se usa si un vehículo está estacionado en la carretera de noche?",
+    "a": "los faros",
+    "b": "luces de estacionamiento o luz baja",
+    "c": "las intermitentes"
+  },
+  "281": {
+    "q": "Las luces de estacionamiento pueden usarse",
+    "a": "en cualquier momento",
+    "b": "al estacionar y cuando hay poca visibilidad",
+    "c": "al conducir por calles bien iluminadas"
+  },
+  "282": {
+    "q": "Consideramos un vehículo estacionado cuando",
+    "a": "se detuvo en el arcén y permanece inactivo un tiempo",
+    "b": "se detiene para bajar o recoger pasajeros",
+    "c": "carga o descarga poco y se va sin demora"
+  },
+  "283": {
+    "q": "Al estacionar cuesta abajo, gira las ruedas delanteras",
+    "a": "hacia el bordillo o el borde de la vía",
+    "b": "lejos del bordillo",
+    "c": "en cualquier dirección"
+  },
+  "284": {
+    "q": "Al estacionar cuesta arriba sin bordillo, lo mejor es",
+    "a": "acercarte al borde y girar las ruedas delanteras lejos del bordillo",
+    "b": "girar las ruedas fuerte a la izquierda",
+    "c": "girar las ruedas fuerte a la derecha"
+  },
+  "285": {
+    "q": "¿Qué debes hacer al estacionar cuesta arriba junto a un bordillo?",
+    "a": "girar las ruedas hacia el bordillo",
+    "b": "girar las ruedas traseras hacia el bordillo",
+    "c": "girar las ruedas delanteras fuerte a la izquierda, lejos del bordillo"
+  },
+  "286": {
+    "q": "Antes de salir de un estacionamiento debes",
+    "a": "revisar el tráfico, señalizar y salir cuando sea seguro",
+    "b": "señalizar y salir del bordillo",
+    "c": "tocar la bocina y salir despacio"
+  },
+  "287": {
+    "q": "Nunca puedes estacionar",
+    "a": "en un paso de peatones",
+    "b": "en una calle de un solo sentido",
+    "c": "a menos de 5 metros de un hidrante"
+  },
+  "288": {
+    "q": "Si quieres ir más rápido que los demás, usa",
+    "a": "el carril exterior (derecho)",
+    "b": "el carril central",
+    "c": "el carril interior (izquierdo)"
+  },
+  "289": {
+    "q": "Al subir o bajar pasajeros, normalmente paramos",
+    "a": "en el lado derecho, junto a la acera",
+    "b": "en el medio de la vía",
+    "c": "en un cruce"
+  },
+  "290": {
+    "q": "¿Cuál es el límite máximo de velocidad en la autopista?",
+    "a": "60 km/h",
+    "b": "80 km/h",
+    "c": "100 km/h"
+  },
+  "291": {
+    "q": "Un conductor puede subir y bajar pasajeros",
+    "a": "solo en paradas designadas",
+    "b": "cuando un pasajero pide parar",
+    "c": "antes de un cruce"
+  },
+  "292": {
+    "q": "Al dejar el auto sin vigilancia, la ley dice que apagues el motor y",
+    "a": "pongas bien el freno de mano",
+    "b": "pases a neutral",
+    "c": "cierres las ventanas"
+  },
+  "293": {
+    "q": "Según la ley básica de velocidad, la velocidad se elige según",
+    "a": "la velocidad del conductor",
+    "b": "el combustible del auto",
+    "c": "el tráfico y el estado de la vía"
+  },
+  "294": {
+    "q": "Si quieres ir más lento que los demás, usa",
+    "a": "el carril exterior (derecho)",
+    "b": "el carril central",
+    "c": "el carril interior (izquierdo)"
+  },
+  "295": {
+    "q": "El límite de velocidad en una zona escolar en días de clase es",
+    "a": "20 km/h",
+    "b": "25 km/h",
+    "c": "30 km/h"
+  },
+  "296": {
+    "q": "Según la ley básica de velocidad, nunca conduzcas más rápido que",
+    "a": "lo que sea seguro",
+    "b": "el límite publicado",
+    "c": "el flujo del tráfico"
+  },
+  "297": {
+    "q": "Es más peligroso ir al límite máximo de noche que de día porque",
+    "a": "tu reacción es más lenta de noche",
+    "b": "la vía suele estar más resbaladiza de noche",
+    "c": "de noche no ves lejos"
+  },
+  "298": {
+    "q": "Una velocidad segura en condiciones adversas",
+    "a": "depende de la vía y del clima",
+    "b": "es el límite publicado",
+    "c": "depende de la habilidad del conductor"
+  },
+  "299": {
+    "q": "Conducir de noche es peligroso porque",
+    "a": "las luces de la calle nublan la vista",
+    "b": "hay más vehículos de noche",
+    "c": "se ve a menor distancia"
+  },
+  "300": {
+    "q": "De noche no conduzcas a una velocidad que te impida parar dentro de",
+    "a": "lo que alcanzas a ver con los faros",
+    "b": "cuatro largos de auto",
+    "c": "170 pies"
+  },
+  "301": {
+    "q": "Las señales de límite en la vía deben verse como",
+    "a": "la velocidad recomendada en las mejores condiciones",
+    "b": "la velocidad recomendada en las peores condiciones",
+    "c": "la velocidad recomendada en cualquier condición"
+  },
+  "302": {
+    "q": "Al seguir a otro auto, una regla segura es dejar al menos",
+    "a": "espacio para un auto",
+    "b": "15 pies de distancia de frenado",
+    "c": "un largo de auto por cada 10 millas de velocidad"
+  },
+  "303": {
+    "q": "¿Qué debes hacer si te da sueño al conducir?",
+    "a": "salir de la vía y descansar",
+    "b": "pasarte al carril derecho y seguir",
+    "c": "acelerar para alejarte de otros vehículos"
+  },
+  "304": {
+    "q": "Al acercarte a una curva cerrada debes",
+    "a": "reducir antes de entrar en la curva",
+    "b": "acelerar mientras tomas la curva",
+    "c": "frenar suave mientras tomas la curva"
+  },
+  "305": {
+    "q": "Ignorar los semáforos tarde en la noche podría",
+    "a": "hacerte un buen conductor",
+    "b": "involucrarte en un accidente mortal",
+    "c": "reducir tu consumo de combustible"
+  },
+  "306": {
+    "q": "Una buena actitud de conductor es",
+    "a": "conducir despacio",
+    "b": "conducir a la defensiva",
+    "c": "arriesgarse si es posible"
+  },
+  "307": {
+    "q": "Los conductores recogen la mayor parte de la información con",
+    "a": "el auto",
+    "b": "los ojos",
+    "c": "las manos"
+  },
+  "308": {
+    "q": "¿Qué se recomienda más contra la fatiga en un viaje largo?",
+    "a": "parar de vez en cuando para descansar y moverse",
+    "b": "comer mucho y beber un poco de alcohol",
+    "c": "tomar una pastilla para no dormir"
+  },
+  "309": {
+    "q": "¿Qué hábito evita la mirada fija y las distracciones?",
+    "a": "mirar al suelo",
+    "b": "mover los ojos con regularidad, de cerca y de lejos",
+    "c": "la velocidad de otro auto"
+  },
+  "310": {
+    "q": "¿Qué puedes ajustar para reducir la posibilidad de un choque?",
+    "a": "tu velocidad y tu posición en el carril",
+    "b": "lo cerrado de una curva",
+    "c": "la velocidad de otro auto"
+  },
+  "311": {
+    "q": "Los conductores tienen que decidir",
+    "a": "solo con tráfico denso",
+    "b": "solo hasta que ganan experiencia",
+    "c": "de forma continua mientras conducen"
+  },
+  "312": {
+    "q": "Al interactuar con ciclistas debes",
+    "a": "estar más atento al estado de la vía",
+    "b": "ajustar la velocidad y aumentar el margen de espacio",
+    "c": "usar otra búsqueda visual"
+  },
+  "313": {
+    "q": "Tus miradas a los espejos laterales y al retrovisor deben ser",
+    "a": "lo más breves posible",
+    "b": "tan largas como quieras",
+    "c": "de al menos un segundo cada una"
+  },
+  "314": {
+    "q": "De noche, si otro vehículo te deslumbra, lo más seguro es",
+    "a": "poner las luces altas",
+    "b": "mirar un poco hacia el lado derecho de la vía",
+    "c": "mirar los faros del vehículo que se acerca"
+  },
+  "315": {
+    "q": "Si más allá del cruce la vía está bloqueada, debes",
+    "a": "pegarte lo más posible al auto de adelante",
+    "b": "entrar despacio hasta que el tráfico avance",
+    "c": "parar antes del cruce y esperar a que el tráfico avance"
+  },
+  "316": {
+    "q": "Tirar botellas, latas o cualquier cosa por la ventana",
+    "a": "está prohibido siempre",
+    "b": "está prohibido solo en provincia",
+    "c": "está prohibido solo en las ciudades"
+  },
+  "317": {
+    "q": "La forma más eficaz de lidiar con quien te sigue muy de cerca es",
+    "a": "ignorarlo pero no dejar que se pegue",
+    "b": "reducir y dejarlo pasar",
+    "c": "acelerar y frenar de golpe"
+  },
+  "318": {
+    "q": "En una vía de dos carriles el peligro es igual a ambos lados. Debes",
+    "a": "colocarte un poco a la derecha",
+    "b": "colocarte un poco a la izquierda",
+    "c": "centrarte entre los peligros"
+  },
+  "319": {
+    "q": "Si un peatón camina por una vía sin acera, debe ir",
+    "a": "por el lado izquierdo, de frente al tráfico",
+    "b": "por el lado derecho",
+    "c": "por cualquiera de los dos"
+  },
+  "320": {
+    "q": "En un accidente, el primer deber del conductor implicado es",
+    "a": "recoger al herido y llevarlo al hospital más cercano",
+    "b": "avisar del accidente al hospital",
+    "c": "avisar del accidente a la comisaría más cercana"
+  },
+  "321": {
+    "q": "Si hay heridos en un accidente, el conductor ileso debe",
+    "a": "llamar a un médico",
+    "b": "dejar a la víctima acostada",
+    "c": "intentar determinar quién tuvo la culpa"
+  },
+  "322": {
+    "q": "Suspender una licencia de conducir significa",
+    "a": "revalidarla ante el LTO",
+    "b": "que el LTO la quite para siempre",
+    "c": "que el LTO la retire temporalmente"
+  },
+  "323": {
+    "q": "La razón principal de exigir la inspección del vehículo es",
+    "a": "obtener ingresos para el gobierno",
+    "b": "dar al inspector la chance de ver tu auto",
+    "c": "procurar que los autos cumplan normas de seguridad"
+  },
+  "324": {
+    "q": "Un vehículo de transporte público solo puede conducirlo quien tenga",
+    "a": "un permiso de estudiante",
+    "b": "una licencia no profesional",
+    "c": "una licencia profesional"
+  },
+  "325": {
+    "q": "Tener licencia de conducir es",
+    "a": "un honor",
+    "b": "un derecho",
+    "c": "un privilegio"
+  },
+  "326": {
+    "q": "Para evitar suspensión o revocación, ¿en cuántos días debe resolver su caso ante el LTO quien tiene la licencia aprehendida?",
+    "a": "en 15 días",
+    "b": "en 10 días",
+    "c": "en 30 días"
+  },
+  "327": {
+    "q": "¿Cuándo puedes prestar tu licencia de conducir?",
+    "a": "bajo ninguna circunstancia",
+    "b": "a otra persona que está aprendiendo a conducir",
+    "c": "en emergencias"
+  },
+  "328": {
+    "q": "¿Qué debes hacer antes de salir del lugar de estacionamiento?",
+    "a": "irte sin más",
+    "b": "tocar el claxon",
+    "c": "mirar alrededor primero y usar las luces direccionales"
+  },
+  "329": {
+    "q": "Está prohibido estacionar",
+    "a": "dentro de un local comercial",
+    "b": "dentro de una intersección",
+    "c": "en una vía de un solo sentido"
+  },
+  "330": {
+    "q": "Siempre que estaciones, recuerda",
+    "a": "poner el cambio en neutro",
+    "b": "apagar el motor y poner el freno de mano",
+    "c": "cerrar las ventanillas"
+  },
+  "331": {
+    "q": "Es ilegal estacionar",
+    "a": "a menos de 2 metros de un hidrante y a menos de 3 metros de la intersección",
+    "b": "a menos de 5 metros de un hidrante y a menos de 6 metros de la intersección",
+    "c": "a menos de 5 metros de un hidrante y a menos de 5 metros de la intersección"
+  },
+  "332": {
+    "q": "¿Qué se considera una infracción de estacionamiento?",
+    "a": "estacionar en una calle de un solo sentido",
+    "b": "estacionar sin las luces de emergencia",
+    "c": "estacionar a menos de 5 metros de una intersección con semáforo"
+  },
+  "333": {
+    "q": "Si estás estacionado al lado de la vía de noche, debes",
+    "a": "avisar a los demás encendiendo las luces de emergencia o las de estacionamiento, si el vehículo las tiene",
+    "b": "mantenerte despierto y listo para moverte",
+    "c": "avisar a los demás encendiendo los faros"
+  },
+  "334": {
+    "q": "Nunca estaciones ni te detengas junto a un hidrante. Solo puedes estacionar a una distancia de al menos",
+    "a": "3 metros",
+    "b": "4 metros",
+    "c": "5 metros"
+  },
+  "335": {
+    "q": "¿Cuándo se permite estacionar en doble fila?",
+    "a": "nunca",
+    "b": "cuando la calle o la vía es bastante ancha",
+    "c": "cuando no tienes otra opción"
+  },
+  "336": {
+    "q": "Un conductor no debe estacionar ni detenerse junto a una señal de alto o un semáforo, porque reduce la visibilidad de otros conductores, sobre todo a menos de",
+    "a": "4 metros",
+    "b": "5 metros",
+    "c": "6 metros"
+  },
+  "337": {
+    "q": "Si estacionas cuesta arriba sin bordillo, gira las ruedas hacia",
+    "a": "el borde de la calle",
+    "b": "el otro lado de la calle",
+    "c": "el centro de la calle"
+  },
+  "338": {
+    "q": "Un conductor que estaciona o se detiene a menos de 6 metros de un paso de peatones reduce la visibilidad de los peatones para otros conductores. Esto",
+    "a": "está permitido",
+    "b": "es inseguro",
+    "c": "no debe hacerse"
+  },
+  "339": {
+    "q": "El conductor debe estacionar junto al bordillo, en marcha baja y con el freno de estacionamiento puesto, a una distancia de al menos",
+    "a": "40 cm",
+    "b": "35 cm",
+    "c": "30 cm"
+  },
+  "340": {
+    "q": "El estacionamiento se considera una infracción cuando un vehículo",
+    "a": "se estaciona en la entrada y salida de hospitales y estaciones de bomberos",
+    "b": "se estaciona en la entrada y salida de un establecimiento industrial",
+    "c": "se estaciona en la entrada y salida de un edificio residencial"
+  },
+  "341": {
+    "q": "¿En qué lugar no puedes estacionar tu vehículo?",
+    "a": "en un espacio de estacionamiento asignado",
+    "b": "en un lugar donde cruzan los peatones",
+    "c": "en un lugar al que quieres ir"
+  },
+  "342": {
+    "q": "¿Cuándo puede un niño quedar exento de ir en un sistema de retención infantil?",
+    "a": "si el niño tiene una condición médica, mental o psicológica",
+    "b": "si el niño no quiere ir en el sistema de retención",
+    "c": "si la familia va a un centro comercial"
+  },
+  "343": {
+    "q": "El registro de un vehículo puede suspenderse si",
+    "a": "el vehículo cumple la normativa",
+    "b": "el vehículo se considera antiestético",
+    "c": "el vehículo no está registrado a nombre del conductor en el momento de la detención"
+  },
+  "344": {
+    "q": "¿Cuál es la regla básica dentro de la intersección?",
+    "a": "no bloquear la intersección",
+    "b": "tocar el claxon si alguien obstruye el paso",
+    "c": "acelerar"
+  },
+  "345": {
+    "q": "¿Cuándo puede un conductor adelantar con seguridad por la derecha dentro de una zona comercial o residencial?",
+    "a": "si el semáforo está a punto de ponerse en rojo",
+    "b": "si la vía tiene dos o más carriles en el mismo sentido",
+    "c": "el adelantamiento está permitido en una vía con mucho tráfico"
+  },
+  "346": {
+    "q": "¿Hacia dónde debe apuntar una lámpara auxiliar instalada en una motocicleta?",
+    "a": "hacia la izquierda",
+    "b": "hacia la derecha",
+    "c": "hacia arriba"
+  },
+  "347": {
+    "q": "¿Dónde puedes impugnar una supuesta infracción de tráfico?",
+    "a": "en la oficina de adjudicación de tráfico correspondiente",
+    "b": "en la calle, antes de que el agente se vaya",
+    "c": "en cualquier oficina de adjudicación"
+  },
+  "348": {
+    "q": "¿Quién tiene autoridad para confiscar una licencia durante una infracción de tráfico ordinaria?",
+    "a": "los agentes del LTO o los agentes acreditados por el LTO",
+    "b": "cualquiera, siempre que la infracción esté prevista en la ley",
+    "c": "cualquiera, siempre que el agente sea empleado permanente del gobierno"
+  },
+  "349": {
+    "q": "¿Dónde debes colocar la placa?",
+    "a": "una delante y una detrás del vehículo",
+    "b": "dos delante",
+    "c": "una en el parabrisas delantero y una en el trasero"
+  },
+  "350": {
+    "q": "¿Puedes conducir una motocicleta si tu licencia tiene el código DL B?",
+    "a": "sí",
+    "b": "no, salvo autorización de un agente de tráfico",
+    "c": "no"
+  },
+  "351": {
+    "q": "Esta señal reglamentaria significa",
+    "a": "prohibido el paso a vehículos con carga por eje superior a 2 toneladas",
+    "b": "prohibido el paso a vehículos con carga por eje inferior a 2 toneladas",
+    "c": "se permiten vehículos con carga por eje superior a 2 toneladas"
+  },
+  "352": {
+    "q": "¿Dónde debe colocarse la placa de una motocicleta?",
+    "a": "en el depósito de combustible",
+    "b": "en la parte trasera de la motocicleta",
+    "c": "en la tapa del motor"
+  },
+  "353": {
+    "q": "¿Qué estatura exime a un niño de usar un sistema de retención infantil?",
+    "a": "100 cm o más",
+    "b": "150 cm o más",
+    "c": "180 cm o más"
+  },
+  "354": {
+    "q": "¿Cuál es la vigencia máxima de una licencia si el conductor no tiene infracciones al renovarla?",
+    "a": "5 años",
+    "b": "10 años",
+    "c": "15 años"
+  },
+  "355": {
+    "q": "¿Es ilegal usar un teléfono móvil mientras se conduce?",
+    "a": "sí, si el conductor no registró el teléfono en el LTO",
+    "b": "sí, si el conductor usa un dispositivo inalámbrico",
+    "c": "sí, si el conductor no usa el teléfono en modo manos libres"
+  },
+  "356": {
+    "q": "¿Cuál es la altura máxima para instalar el teléfono desde la base del tablero?",
+    "a": "2 pulgadas",
+    "b": "4 pulgadas",
+    "c": "6 pulgadas"
+  },
+  "357": {
+    "q": "¿Puede un conductor usar una fotocopia de la licencia mientras conduce?",
+    "a": "no, salvo autorización del agente",
+    "b": "sí, si la fotocopia tiene el tamaño y el color exactos del original",
+    "c": "no"
+  },
+  "358": {
+    "q": "Según la ley de seguridad infantil en motocicletas, un menor de 18 años no puede ir en una moto de dos ruedas por vías públicas, salvo que",
+    "a": "llegue con los pies a los reposapiés de serie, pueda abrazar la cintura del conductor y lleve un casco protector de serie",
+    "b": "haya mucha densidad de vehículos rápidos o un límite superior a 60 km/h",
+    "c": "el conductor pueda sujetar la cintura del niño sentado delante y el niño lleve un casco protector de serie"
+  },
+  "359": {
+    "q": "Un compartimento de carga fijado al lado de la motocicleta, no más alto que el asiento, considerado accesorio, es",
+    "a": "un baúl superior",
+    "b": "un baúl superior personalizado",
+    "c": "una alforja"
+  },
+  "360": {
+    "q": "¿A qué edad se puede solicitar una licencia no profesional?",
+    "a": "16 años",
+    "b": "17 años",
+    "c": "20 años"
+  },
+  "361": {
+    "q": "¿A dónde van los pagos recaudados del cargo al usuario de vehículos?",
+    "a": "a mejorar o mantener las carreteras",
+    "b": "a los salarios de los agentes",
+    "c": "a la construcción de diques y presas"
+  },
+  "362": {
+    "q": "¿En qué zona no está permitido estacionar?",
+    "a": "en áreas de descanso de la autopista",
+    "b": "en la acera",
+    "c": "en estacionamientos"
+  },
+  "363": {
+    "q": "¿Cómo puedes superar el estrés?",
+    "a": "parar, bajarte, gritar a quien pregunte y luego pelear",
+    "b": "respirar hondo, sentarte cómodo, escuchar música suave, dejar espacio delante y darte más tiempo de viaje",
+    "c": "conducir más rápido de lo permitido, poner música alta, gritar a los pasajeros y provocar a otros conductores"
+  },
+  "364": {
+    "q": "¿Qué infracción se aplica si el conductor supera las tres pruebas de sobriedad en campo?",
+    "a": "desobedecer una señal de tráfico",
+    "b": "conducir bajo influencia",
+    "c": "la infracción de tráfico inicial"
+  },
+  "365": {
+    "q": "¿Cuál de estas afirmaciones es verdadera?",
+    "a": "quien está autorizado para transmisión manual (MT) no puede conducir un automático (AT)",
+    "b": "quien está autorizado solo para automático (AT) puede conducir un manual (MT)",
+    "c": "quien está autorizado para transmisión manual (MT) puede conducir un automático (AT)"
+  },
+  "366": {
+    "q": "El registro de un vehículo puede suspenderse si",
+    "a": "el vehículo es demasiado ligero para las vías públicas",
+    "b": "el vehículo no es de tracción delantera",
+    "c": "el vehículo puede causar un daño excesivo a las vías públicas"
+  },
+  "367": {
+    "q": "¿Qué ocurre si el conductor se niega a la prueba obligatoria cuando se sospecha que conduce bajo los efectos del alcohol?",
+    "a": "revocación del registro del vehículo",
+    "b": "confiscación de la licencia y su revocación automática",
+    "c": "suspensión de la licencia por 2 años"
+  },
+  "368": {
+    "q": "Tu licencia acaba de vencer. ¿Aún puedes conducir hasta el LTO más cercano para renovarla?",
+    "a": "sí, siempre que respetes las normas",
+    "b": "no",
+    "c": "sí, siempre que vayas directo a la oficina más cercana y no hagas otras paradas"
+  },
+  "369": {
+    "q": "Según la Ley de la República n.º 11229, ¿a qué edad puede un niño sentarse en el asiento delantero?",
+    "a": "más de 12 años",
+    "b": "16 años o más",
+    "c": "18 años o más"
+  },
+  "370": {
+    "q": "¿Cuándo puede un niño quedar exento de ir en un sistema de retención infantil?",
+    "a": "si llegará tarde a una cita médica",
+    "b": "si va a la escuela",
+    "c": "si necesita atención médica inmediata"
+  },
+  "371": {
+    "q": "¿De qué color deben ser las lámparas auxiliares instaladas delante del vehículo?",
+    "a": "cualquier color sirve",
+    "b": "rojo",
+    "c": "blanco o blanco amarillento"
+  },
+  "372": {
+    "q": "Se impone una suspensión de 30 días de la licencia si",
+    "a": "la infracción cometida es grave",
+    "b": "el conductor no paga la sanción de la detención en 15 días",
+    "c": "el conductor no paga la multa en 72 horas"
+  },
+  "373": {
+    "q": "¿Se puede dar una licencia de 10 años si el conductor tiene una infracción?",
+    "a": "no",
+    "b": "sí",
+    "c": "sí, si todas las sanciones se pagan 15 días antes de la renovación"
+  },
+  "374": {
+    "q": "¿Cuándo debe el conductor usar casco en motocicleta?",
+    "a": "en viajes largos y cortos",
+    "b": "en viajes largos o cortos y en cualquier tipo de vía",
+    "c": "solo en una carretera nacional"
+  },
+  "375": {
+    "q": "¿Qué vigencia puede tener la licencia si hay una infracción al renovarla?",
+    "a": "10 años",
+    "b": "5 años",
+    "c": "3 años"
+  },
+  "376": {
+    "q": "¿Cuándo se debe usar un alcoholímetro (ABA)?",
+    "a": "cuando el agente insiste en que es necesario",
+    "b": "cuando el conductor no supera al menos una prueba de sobriedad en campo",
+    "c": "cuando el conductor supera todas las pruebas de sobriedad en campo"
+  },
+  "377": {
+    "q": "Un compartimento fabricado e instalado detrás del asiento de la motocicleta, considerado accesorio, es",
+    "a": "un baúl superior",
+    "b": "un baúl superior personalizado",
+    "c": "una alforja"
+  },
+  "378": {
+    "q": "¿Cuál es la clasificación inicial de la licencia para quien la solicita por primera vez?",
+    "a": "licencia profesional (PDL)",
+    "b": "licencia no profesional (NPDL)",
+    "c": "NPDL o PDL"
+  },
+  "379": {
+    "q": "¿Se puede conducir una motocicleta en vía pública mientras no se ha emitido el certificado de registro?",
+    "a": "no",
+    "b": "sí",
+    "c": "sí, si el concesionario da una autorización de viaje"
   }
 }
