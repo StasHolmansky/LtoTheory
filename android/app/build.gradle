@@ -74,8 +74,17 @@ def jscFlavor = 'io.github.react-native-community:jsc-android:2026004.+'
 
 def keyPropertiesFile = rootProject.file("key.properties")
 def keyProperties = new Properties()
+def hasReleaseSigning = false
 if (keyPropertiesFile.exists()) {
-    keyProperties.load(new FileInputStream(keyPropertiesFile))
+    keyPropertiesFile.withInputStream { stream ->
+        keyProperties.load(stream)
+    }
+    hasReleaseSigning = [
+        "MYAPP_RELEASE_STORE_FILE",
+        "MYAPP_RELEASE_STORE_PASSWORD",
+        "MYAPP_RELEASE_KEY_ALIAS",
+        "MYAPP_RELEASE_KEY_PASSWORD",
+    ].every { key -> keyProperties.getProperty(key)?.trim() }
 }
 
 android {
@@ -98,8 +107,8 @@ android {
             keyAlias 'androiddebugkey'
             keyPassword 'android'
         }
-        release {
-            if (keyPropertiesFile.exists()) {
+        if (hasReleaseSigning) {
+            release {
                 storeFile file(keyProperties['MYAPP_RELEASE_STORE_FILE'])
                 storePassword keyProperties['MYAPP_RELEASE_STORE_PASSWORD']
                 keyAlias keyProperties['MYAPP_RELEASE_KEY_ALIAS']
@@ -112,10 +121,24 @@ android {
             signingConfig signingConfigs.debug
         }
         release {
-            signingConfig signingConfigs.release
+            if (hasReleaseSigning) {
+                signingConfig signingConfigs.release
+            }
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
         }
+    }
+}
+
+gradle.taskGraph.whenReady { taskGraph ->
+    def wantsReleaseBuild = taskGraph.allTasks.any { task ->
+        task.name.toLowerCase().contains("release")
+    }
+    if (wantsReleaseBuild && !hasReleaseSigning) {
+        throw new RuntimeException(
+            "Missing android/key.properties for a release build. " +
+            "Copy android/key.properties.example and point it to the shared upload keystore."
+        )
     }
 }
 
